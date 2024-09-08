@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #007BFF;
+    padding: 1em;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.ticker {
+    background-color: #FF4136;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.search-container {
+    margin: 20px;
+    text-align: center;
+}
+
+#playerTable {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+#playerTable th, #playerTable td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}

@@ -1,0 +1,33 @@
+<div class="ticker">
+    <h2>Player Game Logs</h2>
+    <div id="gameLogTicker">
+        <!-- JS will populate this -->
+    </div>
+</div>
+
+<div class="search-container">
+    <input type="text" id="searchPlayer" placeholder="Search players...">
+</div>
+
+<table id="playerTable">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Team</th>
+            <th>Games Played</th>
+            <th>Fantasy Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each players}}
+        <tr>
+            <td>{{this.name}}</td>
+            <td>{{this.position}}</td>
+            <td>{{this.team}}</td>
+            <td>{{this.gamesPlayed}}</td>
+            <td>{{this.fantasyPoints}}</td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
