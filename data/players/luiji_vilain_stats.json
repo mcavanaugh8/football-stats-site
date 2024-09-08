@@ -1,1 +1,688 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2022","age":"24","team":"MIN","pos":"LB","uniform_number":"43","g":"3","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"4","tackles_solo":"3","tackles_assists":"1","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"0"},{"year_id":"2023","age":"25","team":"2TM","pos":"LB","uniform_number":"","g":"2","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"},{"year_id":"","age":"","team":"MIN","pos":"LB","uniform_number":"43","g":"1","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"},{"year_id":"","age":"","team":"CAR","pos":"LB","uniform_number":"43","g":"1","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2022","age":"24","team":"MIN","pos":"LB","uniform_number":"43","g":"3","gs":"0","offense":"0","off_pct":"0%","defense":"34","def_pct":"16%","special_teams":"59","st_pct":"61%"},{"year_id":"2023","age":"25","team":"2TM","pos":"LB","uniform_number":"","g":"2","gs":"0","offense":"0","off_pct":"","defense":"0","def_pct":"","special_teams":"18","st_pct":""},{"year_id":"","age":"","team":"MIN","pos":"LB","uniform_number":"43","g":"1","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"14","st_pct":"64%"},{"year_id":"","age":"","team":"","pos":"","uniform_number":"","g":"","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"14%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"MIN","game_location":"","opp":"TAM","game_result":"L 17-20","reason":"Did Not Play"},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"","team":"MIN","game_location":"@","opp":"PHI","game_result":"L 28-34","reason":"Did Not Play"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"MIN","game_location":"","opp":"LAC","game_result":"L 24-28","reason":"Did Not Play"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"MIN","game_location":"@","opp":"CAR","game_result":"W 21-13","reason":"Did Not Play"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"","team":"MIN","game_location":"","opp":"KAN","game_result":"L 20-27","reason":"Did Not Play"},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"","team":"MIN","game_location":"@","opp":"CHI","game_result":"W 19-13","reason":"Did Not Play"},{"game_date":"2023-10-23","game_num":"7","week_num":"7","age":"25.227","team":"MIN","game_location":"","opp":"SFO","game_result":"W 22-17","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"14","st_pct":"64%","status":""},{"game_date":"2023-10-29","game_num":"7","week_num":"8","age":"","team":"CAR","game_location":"","opp":"HOU","game_result":"W 15-13","reason":"Inactive"},{"game_date":"2023-11-05","game_num":"8","week_num":"9","age":"25.240","team":"CAR","game_location":"","opp":"IND","game_result":"L 13-27","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"14%","status":""},{"game_date":"2023-11-09","game_num":"9","week_num":"10","age":"","team":"CAR","game_location":"@","opp":"CHI","game_result":"L 13-16","reason":"Did Not Play"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"CAR","game_location":"","opp":"DAL","game_result":"L 10-33","reason":"Did Not Play"},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"","team":"CAR","game_location":"@","opp":"TEN","game_result":"L 10-17","reason":"Did Not Play"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"CAR","game_location":"@","opp":"TAM","game_result":"L 18-21","reason":"Did Not Play"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"CAR","game_location":"@","opp":"NOR","game_result":"L 6-28","reason":"Did Not Play"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"","team":"CAR","game_location":"","opp":"ATL","game_result":"W 9-7","reason":"Did Not Play"},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"","team":"CAR","game_location":"","opp":"GNB","game_result":"L 30-33","reason":"Did Not Play"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"","team":"CAR","game_location":"@","opp":"JAX","game_result":"L 0-26","reason":"Did Not Play"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"","team":"CAR","game_location":"","opp":"TAM","game_result":"L 0-9","reason":"Did Not Play"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"MIN","game_location":"","opp":"TAM","game_result":"L 17-20","reason":"Did Not Play"},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"","team":"MIN","game_location":"@","opp":"PHI","game_result":"L 28-34","reason":"Did Not Play"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"MIN","game_location":"","opp":"LAC","game_result":"L 24-28","reason":"Did Not Play"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"MIN","game_location":"@","opp":"CAR","game_result":"W 21-13","reason":"Did Not Play"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"","team":"MIN","game_location":"","opp":"KAN","game_result":"L 20-27","reason":"Did Not Play"},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"","team":"MIN","game_location":"@","opp":"CHI","game_result":"W 19-13","reason":"Did Not Play"},{"game_date":"2023-10-23","game_num":"7","week_num":"7","age":"25.227","team":"MIN","game_location":"","opp":"SFO","game_result":"W 22-17","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"14","st_pct":"64%","status":""},{"game_date":"2023-10-29","game_num":"7","week_num":"8","age":"","team":"CAR","game_location":"","opp":"HOU","game_result":"W 15-13","reason":"Inactive"},{"game_date":"2023-11-05","game_num":"8","week_num":"9","age":"25.240","team":"CAR","game_location":"","opp":"IND","game_result":"L 13-27","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"14%","status":""},{"game_date":"2023-11-09","game_num":"9","week_num":"10","age":"","team":"CAR","game_location":"@","opp":"CHI","game_result":"L 13-16","reason":"Did Not Play"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"CAR","game_location":"","opp":"DAL","game_result":"L 10-33","reason":"Did Not Play"},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"","team":"CAR","game_location":"@","opp":"TEN","game_result":"L 10-17","reason":"Did Not Play"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"CAR","game_location":"@","opp":"TAM","game_result":"L 18-21","reason":"Did Not Play"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"CAR","game_location":"@","opp":"NOR","game_result":"L 6-28","reason":"Did Not Play"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"","team":"CAR","game_location":"","opp":"ATL","game_result":"W 9-7","reason":"Did Not Play"},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"","team":"CAR","game_location":"","opp":"GNB","game_result":"L 30-33","reason":"Did Not Play"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"","team":"CAR","game_location":"@","opp":"JAX","game_result":"L 0-26","reason":"Did Not Play"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"","team":"CAR","game_location":"","opp":"TAM","game_result":"L 0-9","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "24",
+        "team": "MIN",
+        "pos": "LB",
+        "uniform_number": "43",
+        "g": "3",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "4",
+        "tackles_solo": "3",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2023",
+        "age": "25",
+        "team": "2TM",
+        "pos": "LB",
+        "uniform_number": "",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "",
+        "age": "",
+        "team": "MIN",
+        "pos": "LB",
+        "uniform_number": "43",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "",
+        "age": "",
+        "team": "CAR",
+        "pos": "LB",
+        "uniform_number": "43",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "24",
+        "team": "MIN",
+        "pos": "LB",
+        "uniform_number": "43",
+        "g": "3",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "34",
+        "def_pct": "16%",
+        "special_teams": "59",
+        "st_pct": "61%"
+      },
+      {
+        "year_id": "2023",
+        "age": "25",
+        "team": "2TM",
+        "pos": "LB",
+        "uniform_number": "",
+        "g": "2",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "",
+        "defense": "0",
+        "def_pct": "",
+        "special_teams": "18",
+        "st_pct": ""
+      },
+      {
+        "year_id": "",
+        "age": "",
+        "team": "MIN",
+        "pos": "LB",
+        "uniform_number": "43",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "14",
+        "st_pct": "64%"
+      },
+      {
+        "year_id": "",
+        "age": "",
+        "team": "",
+        "pos": "",
+        "uniform_number": "",
+        "g": "",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "14%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "TAM",
+        "game_result": "L 17-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "L 28-34",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "LAC",
+        "game_result": "L 24-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CAR",
+        "game_result": "W 21-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "KAN",
+        "game_result": "L 20-27",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "W 19-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-23",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "25.227",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "SFO",
+        "game_result": "W 22-17",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "14",
+        "st_pct": "64%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "7",
+        "week_num": "8",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "HOU",
+        "game_result": "W 15-13",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "8",
+        "week_num": "9",
+        "age": "25.240",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "IND",
+        "game_result": "L 13-27",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "14%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-09",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "L 13-16",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "L 10-33",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "TEN",
+        "game_result": "L 10-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "TAM",
+        "game_result": "L 18-21",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "NOR",
+        "game_result": "L 6-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "ATL",
+        "game_result": "W 9-7",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "L 30-33",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "JAX",
+        "game_result": "L 0-26",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "TAM",
+        "game_result": "L 0-9",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "TAM",
+        "game_result": "L 17-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "L 28-34",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "LAC",
+        "game_result": "L 24-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CAR",
+        "game_result": "W 21-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "KAN",
+        "game_result": "L 20-27",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "W 19-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-23",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "25.227",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "SFO",
+        "game_result": "W 22-17",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "14",
+        "st_pct": "64%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "7",
+        "week_num": "8",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "HOU",
+        "game_result": "W 15-13",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "8",
+        "week_num": "9",
+        "age": "25.240",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "IND",
+        "game_result": "L 13-27",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "14%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-09",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "L 13-16",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "L 10-33",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "TEN",
+        "game_result": "L 10-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "TAM",
+        "game_result": "L 18-21",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "NOR",
+        "game_result": "L 6-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "ATL",
+        "game_result": "W 9-7",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "L 30-33",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "",
+        "team": "CAR",
+        "game_location": "@",
+        "opp": "JAX",
+        "game_result": "L 0-26",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "CAR",
+        "game_location": "",
+        "opp": "TAM",
+        "game_result": "L 0-9",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Luiji Vilain",
+    "age": "25",
+    "position": "LB",
+    "weight": "252",
+    "height": "6-4",
+    "college": "Michigan,Wake Forest",
+    "experience": "1"
+  },
+  {
+    "name": "Luiji Vilain",
+    "age": "25",
+    "position": "LB",
+    "weight": "252",
+    "height": "6-4",
+    "college": "Michigan,Wake Forest",
+    "experience": "1"
+  }
+]

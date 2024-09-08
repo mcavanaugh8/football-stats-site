@@ -1,1 +1,363 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2023","age":"24","team":"NOR","pos":"DT","uniform_number":"54","g":"4","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"4","tackles_solo":"1","tackles_assists":"3","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2023","age":"24","team":"NOR","pos":"DT","uniform_number":"54","g":"4","gs":"0","offense":"0","off_pct":"0%","defense":"42","def_pct":"17%","special_teams":"1","st_pct":"1%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"DEN","game_location":"","opp":"LVR","game_result":"L 16-17","reason":"Did Not Play"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"","team":"DEN","game_location":"","opp":"WAS","game_result":"L 33-35","reason":"Did Not Play"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"DEN","game_location":"@","opp":"MIA","game_result":"L 20-70","reason":"Did Not Play"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"DEN","game_location":"@","opp":"CHI","game_result":"W 31-28","reason":"Did Not Play"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"","team":"DEN","game_location":"","opp":"NYJ","game_result":"L 21-31","reason":"Did Not Play"},{"game_date":"2023-10-12","game_num":"6","week_num":"6","age":"","team":"DEN","game_location":"@","opp":"KAN","game_result":"L 8-19","reason":"Did Not Play"},{"game_date":"2023-10-22","game_num":"7","week_num":"7","age":"","team":"DEN","game_location":"","opp":"GNB","game_result":"W 19-17","reason":"Did Not Play"},{"game_date":"2023-10-29","game_num":"8","week_num":"8","age":"","team":"DEN","game_location":"","opp":"KAN","game_result":"W 24-9","reason":"Did Not Play"},{"game_date":"2023-11-13","game_num":"9","week_num":"10","age":"","team":"DEN","game_location":"@","opp":"BUF","game_result":"W 24-22","reason":"Did Not Play"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"DEN","game_location":"","opp":"MIN","game_result":"W 21-20","reason":"Did Not Play"},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"","team":"DEN","game_location":"","opp":"CLE","game_result":"W 29-12","reason":"Did Not Play"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"DEN","game_location":"@","opp":"HOU","game_result":"L 17-22","reason":"Did Not Play"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"NOR","game_location":"","opp":"CAR","game_result":"W 28-6","reason":"Inactive"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"24.037","team":"NOR","game_location":"","opp":"NYG","game_result":"W 24-6","gs":"","sacks":"0.0","tackles_solo":"0","tackles_assists":"0","tackles_combined":"0","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"7","def_pct":"11%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-21","game_num":"15","week_num":"16","age":"24.041","team":"NOR","game_location":"@","opp":"LAR","game_result":"L 22-30","gs":"","sacks":"0.0","tackles_solo":"0","tackles_assists":"3","tackles_combined":"3","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"18","def_pct":"26%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"24.051","team":"NOR","game_location":"@","opp":"TAM","game_result":"W 23-13","gs":"","sacks":"0.0","tackles_solo":"1","tackles_assists":"0","tackles_combined":"1","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"10","def_pct":"18%","special_teams":"1","st_pct":"4%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"24.058","team":"NOR","game_location":"","opp":"ATL","game_result":"W 48-17","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"7","def_pct":"11%","special_teams":"0","st_pct":"0%","status":""}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "NOR",
+        "pos": "DT",
+        "uniform_number": "54",
+        "g": "4",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "4",
+        "tackles_solo": "1",
+        "tackles_assists": "3",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "NOR",
+        "pos": "DT",
+        "uniform_number": "54",
+        "g": "4",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "42",
+        "def_pct": "17%",
+        "special_teams": "1",
+        "st_pct": "1%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "LVR",
+        "game_result": "L 16-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "WAS",
+        "game_result": "L 33-35",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "DEN",
+        "game_location": "@",
+        "opp": "MIA",
+        "game_result": "L 20-70",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "DEN",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "W 31-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "NYJ",
+        "game_result": "L 21-31",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-12",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "DEN",
+        "game_location": "@",
+        "opp": "KAN",
+        "game_result": "L 8-19",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "W 19-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "KAN",
+        "game_result": "W 24-9",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-13",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "",
+        "team": "DEN",
+        "game_location": "@",
+        "opp": "BUF",
+        "game_result": "W 24-22",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "MIN",
+        "game_result": "W 21-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "DEN",
+        "game_location": "",
+        "opp": "CLE",
+        "game_result": "W 29-12",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "DEN",
+        "game_location": "@",
+        "opp": "HOU",
+        "game_result": "L 17-22",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "NOR",
+        "game_location": "",
+        "opp": "CAR",
+        "game_result": "W 28-6",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "24.037",
+        "team": "NOR",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 24-6",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "0",
+        "tackles_assists": "0",
+        "tackles_combined": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "7",
+        "def_pct": "11%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-21",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "24.041",
+        "team": "NOR",
+        "game_location": "@",
+        "opp": "LAR",
+        "game_result": "L 22-30",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "0",
+        "tackles_assists": "3",
+        "tackles_combined": "3",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "18",
+        "def_pct": "26%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "24.051",
+        "team": "NOR",
+        "game_location": "@",
+        "opp": "TAM",
+        "game_result": "W 23-13",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_combined": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "10",
+        "def_pct": "18%",
+        "special_teams": "1",
+        "st_pct": "4%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "24.058",
+        "team": "NOR",
+        "game_location": "",
+        "opp": "ATL",
+        "game_result": "W 48-17",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "7",
+        "def_pct": "11%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "PJ Mustipher",
+    "age": "24",
+    "position": "DT",
+    "weight": "318",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "Rook"
+  }
+]

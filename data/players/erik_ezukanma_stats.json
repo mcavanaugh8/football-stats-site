@@ -1,1 +1,483 @@
-[{"category":"fantasy","rows":[{"year_id":"2022","age":"22","g":"1","fantasy_pos":"WR","fantasy_points":"","vbd":"","fantasy_rank_pos":"211","fantasy_rank_overall":"","games":"All 2022 Games"},{"year_id":"2023","age":"23","g":"2","fantasy_pos":"WR","fantasy_points":"2","vbd":"","fantasy_rank_pos":"188","fantasy_rank_overall":"","games":"All 2023 Games"}]},{"category":"detailed_rushing_and_receiving","rows":[{"year_id":"2022","age":"22","team":"MIA","pos":"WR","uniform_number":"18","g":"1","gs":"0","rush_att":"0","rush_yds":"0","rush_first_down":"","rush_yds_before_contact":"0","rush_yds_bc_per_rush":"","rush_yac":"0","rush_yac_per_rush":"","rush_broken_tackles":"0","rush_broken_tackles_per_rush":"","targets":"1","rec":"1","rec_yds":"3","rec_first_down":"","rec_air_yds":"-4","rec_air_yds_per_rec":"-4.0","rec_yac":"7","rec_yac_per_rec":"7.0","rec_adot":"-4.0","rec_broken_tackles":"0","rec_broken_tackles_per_rec":"","rec_drops":"0","rec_drop_pct":"0.0","rec_target_int":"0","rec_pass_rating":"79.2"},{"year_id":"2023","age":"23","team":"MIA","pos":"WR","uniform_number":"18","g":"2","gs":"0","rush_att":"5","rush_yds":"22","rush_first_down":"1","rush_yds_before_contact":"6","rush_yds_bc_per_rush":"1.2","rush_yac":"16","rush_yac_per_rush":"3.2","rush_broken_tackles":"1","rush_broken_tackles_per_rush":"5.0","targets":"1","rec":"0","rec_yds":"0","rec_first_down":"0","rec_air_yds":"0","rec_air_yds_per_rec":"","rec_yac":"0","rec_yac_per_rec":"","rec_adot":"8.0","rec_broken_tackles":"0","rec_broken_tackles_per_rec":"","rec_drops":"0","rec_drop_pct":"0.0","rec_target_int":"0","rec_pass_rating":"39.6"}]},{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[{"year_id":"2022","age":"22","team":"MIA","pos":"WR","uniform_number":"18","g":"1","gs":"0","rush_att":"","rush_yds":"","rush_td":"0","rush_first_down":"","rush_success":"","rush_long":"","rush_yds_per_att":"","rush_yds_per_g":"","rush_att_per_g":"","targets":"1","rec":"1","rec_yds":"3","rec_yds_per_rec":"3.0","rec_td":"0","rec_first_down":"","rec_success":"0.0","rec_long":"3","rec_per_g":"1.0","rec_yds_per_g":"3.0","catch_pct":"100.0%","rec_yds_per_tgt":"3.0","touches":"1","yds_per_touch":"3.0","yds_from_scrimmage":"3","rush_receive_td":"0","fumbles":"0","av":"0"},{"year_id":"2023","age":"23","team":"MIA","pos":"WR","uniform_number":"18","g":"2","gs":"0","rush_att":"5","rush_yds":"22","rush_td":"0","rush_first_down":"1","rush_success":"60.0","rush_long":"12","rush_yds_per_att":"4.4","rush_yds_per_g":"11.0","rush_att_per_g":"2.5","targets":"1","rec":"0","rec_yds":"0","rec_yds_per_rec":"","rec_td":"0","rec_first_down":"0","rec_success":"0.0","rec_long":"0","rec_per_g":"0.0","rec_yds_per_g":"0.0","catch_pct":"0.0%","rec_yds_per_tgt":"0.0","touches":"5","yds_per_touch":"4.4","yds_from_scrimmage":"22","rush_receive_td":"0","fumbles":"0","av":"0"}]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2022","age":"22","team":"MIA","pos":"WR","uniform_number":"18","g":"1","gs":"0","offense":"10","off_pct":"15%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%"},{"year_id":"2023","age":"23","team":"MIA","pos":"WR","uniform_number":"18","g":"2","gs":"0","offense":"29","off_pct":"22%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"4%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"23.228","team":"MIA","game_location":"@","opp":"LAC","game_result":"W 36-34","gs":"","rush_att":"2","rush_yds":"17","rush_yds_per_att":"8.50","rush_td":"0","offense":"19","off_pct":"28%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"23.235","team":"MIA","game_location":"@","opp":"NWE","game_result":"W 24-17","gs":"","rush_att":"3","rush_yds":"5","rush_yds_per_att":"1.67","rush_td":"0","offense":"10","off_pct":"16%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"8%","status":""},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"MIA","game_location":"","opp":"DEN","game_result":"W 70-20","reason":"Inactive"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"MIA","game_location":"@","opp":"BUF","game_result":"L 20-48","reason":"Did Not Play"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"","team":"MIA","game_location":"","opp":"NYG","game_result":"W 31-16","reason":"Did Not Play"},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"","team":"MIA","game_location":"","opp":"CAR","game_result":"W 42-21","reason":"Did Not Play"},{"game_date":"2023-10-22","game_num":"7","week_num":"7","age":"","team":"MIA","game_location":"@","opp":"PHI","game_result":"L 17-31","reason":"Did Not Play"},{"game_date":"2023-10-29","game_num":"8","week_num":"8","age":"","team":"MIA","game_location":"","opp":"NWE","game_result":"W 31-17","reason":"Did Not Play"},{"game_date":"2023-11-05","game_num":"9","week_num":"9","age":"","team":"MIA","game_location":"@","opp":"KAN","game_result":"L 14-21","reason":"Did Not Play"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"MIA","game_location":"","opp":"LVR","game_result":"W 20-13","reason":"Did Not Play"},{"game_date":"2023-11-24","game_num":"11","week_num":"12","age":"","team":"MIA","game_location":"@","opp":"NYJ","game_result":"W 34-13","reason":"Did Not Play"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"MIA","game_location":"@","opp":"WAS","game_result":"W 45-15","reason":"Did Not Play"},{"game_date":"2023-12-11","game_num":"13","week_num":"14","age":"","team":"MIA","game_location":"","opp":"TEN","game_result":"L 27-28","reason":"Did Not Play"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"","team":"MIA","game_location":"","opp":"NYJ","game_result":"W 30-0","reason":"Did Not Play"},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"","team":"MIA","game_location":"","opp":"DAL","game_result":"W 22-20","reason":"Did Not Play"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"","team":"MIA","game_location":"@","opp":"BAL","game_result":"L 19-56","reason":"Did Not Play"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"","team":"MIA","game_location":"","opp":"BUF","game_result":"L 14-21","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "22",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "211",
+        "fantasy_rank_overall": "",
+        "games": "All 2022 Games"
+      },
+      {
+        "year_id": "2023",
+        "age": "23",
+        "g": "2",
+        "fantasy_pos": "WR",
+        "fantasy_points": "2",
+        "vbd": "",
+        "fantasy_rank_pos": "188",
+        "fantasy_rank_overall": "",
+        "games": "All 2023 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "22",
+        "team": "MIA",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "3",
+        "rec_first_down": "",
+        "rec_air_yds": "-4",
+        "rec_air_yds_per_rec": "-4.0",
+        "rec_yac": "7",
+        "rec_yac_per_rec": "7.0",
+        "rec_adot": "-4.0",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "79.2"
+      },
+      {
+        "year_id": "2023",
+        "age": "23",
+        "team": "MIA",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "2",
+        "gs": "0",
+        "rush_att": "5",
+        "rush_yds": "22",
+        "rush_first_down": "1",
+        "rush_yds_before_contact": "6",
+        "rush_yds_bc_per_rush": "1.2",
+        "rush_yac": "16",
+        "rush_yac_per_rush": "3.2",
+        "rush_broken_tackles": "1",
+        "rush_broken_tackles_per_rush": "5.0",
+        "targets": "1",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "0",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "8.0",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "39.6"
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "22",
+        "team": "MIA",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "3",
+        "rec_yds_per_rec": "3.0",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "0.0",
+        "rec_long": "3",
+        "rec_per_g": "1.0",
+        "rec_yds_per_g": "3.0",
+        "catch_pct": "100.0%",
+        "rec_yds_per_tgt": "3.0",
+        "touches": "1",
+        "yds_per_touch": "3.0",
+        "yds_from_scrimmage": "3",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": "0"
+      },
+      {
+        "year_id": "2023",
+        "age": "23",
+        "team": "MIA",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "2",
+        "gs": "0",
+        "rush_att": "5",
+        "rush_yds": "22",
+        "rush_td": "0",
+        "rush_first_down": "1",
+        "rush_success": "60.0",
+        "rush_long": "12",
+        "rush_yds_per_att": "4.4",
+        "rush_yds_per_g": "11.0",
+        "rush_att_per_g": "2.5",
+        "targets": "1",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "0",
+        "rec_success": "0.0",
+        "rec_long": "0",
+        "rec_per_g": "0.0",
+        "rec_yds_per_g": "0.0",
+        "catch_pct": "0.0%",
+        "rec_yds_per_tgt": "0.0",
+        "touches": "5",
+        "yds_per_touch": "4.4",
+        "yds_from_scrimmage": "22",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "22",
+        "team": "MIA",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "1",
+        "gs": "0",
+        "offense": "10",
+        "off_pct": "15%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      },
+      {
+        "year_id": "2023",
+        "age": "23",
+        "team": "MIA",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "2",
+        "gs": "0",
+        "offense": "29",
+        "off_pct": "22%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "4%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "23.228",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "LAC",
+        "game_result": "W 36-34",
+        "gs": "",
+        "rush_att": "2",
+        "rush_yds": "17",
+        "rush_yds_per_att": "8.50",
+        "rush_td": "0",
+        "offense": "19",
+        "off_pct": "28%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "23.235",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "NWE",
+        "game_result": "W 24-17",
+        "gs": "",
+        "rush_att": "3",
+        "rush_yds": "5",
+        "rush_yds_per_att": "1.67",
+        "rush_td": "0",
+        "offense": "10",
+        "off_pct": "16%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "8%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "DEN",
+        "game_result": "W 70-20",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "BUF",
+        "game_result": "L 20-48",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 31-16",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "CAR",
+        "game_result": "W 42-21",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "L 17-31",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "NWE",
+        "game_result": "W 31-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "9",
+        "week_num": "9",
+        "age": "",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "KAN",
+        "game_result": "L 14-21",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "LVR",
+        "game_result": "W 20-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-24",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "NYJ",
+        "game_result": "W 34-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "WAS",
+        "game_result": "W 45-15",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-11",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "TEN",
+        "game_result": "L 27-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "NYJ",
+        "game_result": "W 30-0",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "W 22-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "",
+        "team": "MIA",
+        "game_location": "@",
+        "opp": "BAL",
+        "game_result": "L 19-56",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "MIA",
+        "game_location": "",
+        "opp": "BUF",
+        "game_result": "L 14-21",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Erik Ezukanma",
+    "age": "23",
+    "position": "WR",
+    "weight": "206",
+    "height": "6-2",
+    "college": "Texas Tech",
+    "experience": "1"
+  }
+]

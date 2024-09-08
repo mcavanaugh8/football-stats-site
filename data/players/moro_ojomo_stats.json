@@ -1,1 +1,415 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2023","age":"22","team":"PHI","pos":"DT","uniform_number":"72","g":"8","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"3","tackles_solo":"2","tackles_assists":"1","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2023","age":"22","team":"PHI","pos":"DT","uniform_number":"72","g":"8","gs":"0","offense":"0","off_pct":"0%","defense":"68","def_pct":"13%","special_teams":"16","st_pct":"8%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"PHI","game_location":"@","opp":"NWE","game_result":"W 25-20","reason":"Inactive"},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"","team":"PHI","game_location":"","opp":"MIN","game_result":"W 34-28","reason":"Inactive"},{"game_date":"2023-09-25","game_num":"3","week_num":"3","age":"","team":"PHI","game_location":"@","opp":"TAM","game_result":"W 25-11","reason":"Inactive"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"PHI","game_location":"","opp":"WAS","game_result":"W 34-31","reason":"Inactive"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"22.054","team":"PHI","game_location":"@","opp":"LAR","game_result":"W 23-14","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"4","def_pct":"7%","special_teams":"1","st_pct":"5%","status":""},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"22.061","team":"PHI","game_location":"@","opp":"NYJ","game_result":"L 14-20","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"5","def_pct":"8%","special_teams":"1","st_pct":"5%","status":""},{"game_date":"2023-10-22","game_num":"7","week_num":"7","age":"","team":"PHI","game_location":"","opp":"MIA","game_result":"W 31-17","reason":"Inactive"},{"game_date":"2023-10-29","game_num":"8","week_num":"8","age":"","team":"PHI","game_location":"@","opp":"WAS","game_result":"W 38-31","reason":"Inactive"},{"game_date":"2023-11-05","game_num":"9","week_num":"9","age":"","team":"PHI","game_location":"","opp":"DAL","game_result":"W 28-23","reason":"Inactive"},{"game_date":"2023-11-20","game_num":"10","week_num":"11","age":"","team":"PHI","game_location":"@","opp":"KAN","game_result":"W 21-17","reason":"Inactive"},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"22.103","team":"PHI","game_location":"","opp":"BUF","game_result":"W 37-34","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"1","def_pct":"1%","special_teams":"9","st_pct":"25%","status":""},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"22.110","team":"PHI","game_location":"","opp":"SFO","game_result":"L 19-42","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"1","def_pct":"2%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"PHI","game_location":"@","opp":"DAL","game_result":"L 13-33","reason":"Inactive"},{"game_date":"2023-12-18","game_num":"14","week_num":"15","age":"22.125","team":"PHI","game_location":"@","opp":"SEA","game_result":"L 17-20","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"6","def_pct":"10%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-25","game_num":"15","week_num":"16","age":"22.132","team":"PHI","game_location":"","opp":"NYG","game_result":"W 33-25","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"1","def_pct":"2%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"22.138","team":"PHI","game_location":"","opp":"ARI","game_result":"L 31-35","gs":"","sacks":"0.0","tackles_solo":"1","tackles_assists":"0","tackles_combined":"1","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"13","def_pct":"17%","special_teams":"5","st_pct":"20%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"22.145","team":"PHI","game_location":"@","opp":"NYG","game_result":"L 10-27","gs":"","sacks":"0.0","tackles_solo":"1","tackles_assists":"1","tackles_combined":"2","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"37","def_pct":"55%","special_teams":"0","st_pct":"0%","status":""}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "22",
+        "team": "PHI",
+        "pos": "DT",
+        "uniform_number": "72",
+        "g": "8",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "22",
+        "team": "PHI",
+        "pos": "DT",
+        "uniform_number": "72",
+        "g": "8",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "68",
+        "def_pct": "13%",
+        "special_teams": "16",
+        "st_pct": "8%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NWE",
+        "game_result": "W 25-20",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "MIN",
+        "game_result": "W 34-28",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-09-25",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "TAM",
+        "game_result": "W 25-11",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "WAS",
+        "game_result": "W 34-31",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "22.054",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "LAR",
+        "game_result": "W 23-14",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "4",
+        "def_pct": "7%",
+        "special_teams": "1",
+        "st_pct": "5%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "22.061",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NYJ",
+        "game_result": "L 14-20",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "5",
+        "def_pct": "8%",
+        "special_teams": "1",
+        "st_pct": "5%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "MIA",
+        "game_result": "W 31-17",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "WAS",
+        "game_result": "W 38-31",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "9",
+        "week_num": "9",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "W 28-23",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-20",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "KAN",
+        "game_result": "W 21-17",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "22.103",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "BUF",
+        "game_result": "W 37-34",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "1",
+        "def_pct": "1%",
+        "special_teams": "9",
+        "st_pct": "25%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "22.110",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "SFO",
+        "game_result": "L 19-42",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "1",
+        "def_pct": "2%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "DAL",
+        "game_result": "L 13-33",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-18",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "22.125",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "SEA",
+        "game_result": "L 17-20",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "6",
+        "def_pct": "10%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-25",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "22.132",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 33-25",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "1",
+        "def_pct": "2%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "22.138",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "ARI",
+        "game_result": "L 31-35",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_combined": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "13",
+        "def_pct": "17%",
+        "special_teams": "5",
+        "st_pct": "20%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "22.145",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NYG",
+        "game_result": "L 10-27",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_combined": "2",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "37",
+        "def_pct": "55%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "Moro Ojomo",
+    "age": "22",
+    "position": "DT",
+    "weight": "292",
+    "height": "",
+    "college": "Texas",
+    "experience": "Rook"
+  }
+]

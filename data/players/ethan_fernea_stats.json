@@ -1,1 +1,221 @@
-[{"category":"fantasy","rows":[{"year_id":"2022","age":"24","g":"1","fantasy_pos":"WR","fantasy_points":"","vbd":"","fantasy_rank_pos":"223","fantasy_rank_overall":"","games":"All 2022 Games"},{"year_id":"2023","age":"25","g":"3","fantasy_pos":"WR","fantasy_points":"","vbd":"","fantasy_rank_pos":"218","fantasy_rank_overall":"","games":"All 2023 Games"}]},{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2022","age":"24","team":"IND","pos":"WR","uniform_number":"84","g":"1","gs":"0","offense":"1","off_pct":"2%","defense":"0","def_pct":"0%","special_teams":"9","st_pct":"38%"},{"year_id":"2023","age":"25","team":"IND","pos":"WR","uniform_number":"3","g":"3","gs":"0","offense":"2","off_pct":"1%","defense":"0","def_pct":"0%","special_teams":"27","st_pct":"32%"}]},{"category":"stats","rows":[{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"IND","game_location":"@","opp":"TEN","game_result":"W 31-28","reason":"Did Not Play"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"IND","game_location":"@","opp":"CIN","game_result":"L 14-34","reason":"Did Not Play"},{"game_date":"2023-12-16","game_num":"14","week_num":"15","age":"25.289","team":"IND","game_location":"","opp":"PIT","game_result":"W 30-13","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"27%","status":""},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"25.297","team":"IND","game_location":"@","opp":"ATL","game_result":"L 10-29","gs":"","offense":"2","off_pct":"3%","defense":"0","def_pct":"0%","special_teams":"12","st_pct":"43%","status":""},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"25.304","team":"IND","game_location":"","opp":"LVR","game_result":"W 23-20","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"8","st_pct":"27%","status":""},{"game_date":"2024-01-06","game_num":"17","week_num":"18","age":"","team":"IND","game_location":"","opp":"HOU","game_result":"L 19-23","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "24",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "223",
+        "fantasy_rank_overall": "",
+        "games": "All 2022 Games"
+      },
+      {
+        "year_id": "2023",
+        "age": "25",
+        "g": "3",
+        "fantasy_pos": "WR",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "218",
+        "fantasy_rank_overall": "",
+        "games": "All 2023 Games"
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "24",
+        "team": "IND",
+        "pos": "WR",
+        "uniform_number": "84",
+        "g": "1",
+        "gs": "0",
+        "offense": "1",
+        "off_pct": "2%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "9",
+        "st_pct": "38%"
+      },
+      {
+        "year_id": "2023",
+        "age": "25",
+        "team": "IND",
+        "pos": "WR",
+        "uniform_number": "3",
+        "g": "3",
+        "gs": "0",
+        "offense": "2",
+        "off_pct": "1%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "27",
+        "st_pct": "32%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "IND",
+        "game_location": "@",
+        "opp": "TEN",
+        "game_result": "W 31-28",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "IND",
+        "game_location": "@",
+        "opp": "CIN",
+        "game_result": "L 14-34",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-16",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "25.289",
+        "team": "IND",
+        "game_location": "",
+        "opp": "PIT",
+        "game_result": "W 30-13",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "27%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "25.297",
+        "team": "IND",
+        "game_location": "@",
+        "opp": "ATL",
+        "game_result": "L 10-29",
+        "gs": "",
+        "offense": "2",
+        "off_pct": "3%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "12",
+        "st_pct": "43%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "25.304",
+        "team": "IND",
+        "game_location": "",
+        "opp": "LVR",
+        "game_result": "W 23-20",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "8",
+        "st_pct": "27%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-06",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "IND",
+        "game_location": "",
+        "opp": "HOU",
+        "game_result": "L 19-23",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Ethan Fernea",
+    "age": "25",
+    "position": "WR",
+    "weight": "195",
+    "height": "6-0",
+    "college": "UCLA",
+    "experience": "1"
+  }
+]

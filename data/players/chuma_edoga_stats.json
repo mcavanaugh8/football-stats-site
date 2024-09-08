@@ -1,1 +1,445 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2019","age":"22","team":"NYJ","pos":"RT","uniform_number":"75","g":"8","gs":"8","offense":"421","off_pct":"84%","defense":"0","def_pct":"0%","special_teams":"1","st_pct":"0%"},{"year_id":"2020","age":"23","team":"NYJ","pos":"T","uniform_number":"75","g":"11","gs":"4","offense":"235","off_pct":"34%","defense":"0","def_pct":"0%","special_teams":"19","st_pct":"6%"},{"year_id":"2021","age":"24","team":"NYJ","pos":"T","uniform_number":"70","g":"5","gs":"0","offense":"99","off_pct":"39%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"3%"},{"year_id":"2022","age":"25","team":"ATL","pos":"T","uniform_number":"71","g":"2","gs":"1","offense":"55","off_pct":"49%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"10%"},{"year_id":"2023","age":"26","team":"DAL","pos":"G","uniform_number":"71","g":"17","gs":"6","offense":"419","off_pct":"35%","defense":"0","def_pct":"0%","special_teams":"73","st_pct":"17%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"26.108","team":"DAL","game_location":"@","opp":"NYG","game_result":"W 40-0","gs":"*","offense":"56","off_pct":"97%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"29%"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"26.115","team":"DAL","game_location":"","opp":"NYJ","game_result":"W 30-10","gs":"*","offense":"45","off_pct":"52%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"7%"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"26.122","team":"DAL","game_location":"@","opp":"ARI","game_result":"L 16-28","gs":"*","offense":"81","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"16%"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"26.129","team":"DAL","game_location":"","opp":"NWE","game_result":"W 38-3","gs":"*","offense":"63","off_pct":"90%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"27%"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"26.136","team":"DAL","game_location":"@","opp":"SFO","game_result":"L 10-42","gs":"","offense":"10","off_pct":"20%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"7%"},{"game_date":"2023-10-16","game_num":"6","week_num":"6","age":"26.144","team":"DAL","game_location":"@","opp":"LAC","game_result":"W 20-17","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"16%"},{"game_date":"2023-10-29","game_num":"7","week_num":"8","age":"26.157","team":"DAL","game_location":"","opp":"LAR","game_result":"W 43-20","gs":"*","offense":"54","off_pct":"83%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%"},{"game_date":"2023-11-05","game_num":"8","week_num":"9","age":"26.164","team":"DAL","game_location":"@","opp":"PHI","game_result":"L 23-28","gs":"","offense":"2","off_pct":"3%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%"},{"game_date":"2023-11-12","game_num":"9","week_num":"10","age":"26.171","team":"DAL","game_location":"","opp":"NYG","game_result":"W 49-17","gs":"","offense":"19","off_pct":"24%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"23%"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"26.178","team":"DAL","game_location":"@","opp":"CAR","game_result":"W 33-10","gs":"","offense":"11","off_pct":"15%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"22%"},{"game_date":"2023-11-23","game_num":"11","week_num":"12","age":"26.182","team":"DAL","game_location":"","opp":"WAS","game_result":"W 45-10","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"24%"},{"game_date":"2023-11-30","game_num":"12","week_num":"13","age":"26.189","team":"DAL","game_location":"","opp":"SEA","game_result":"W 41-35","gs":"","offense":"2","off_pct":"2%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"25%"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"26.199","team":"DAL","game_location":"","opp":"PHI","game_result":"W 33-13","gs":"","offense":"2","off_pct":"2%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"28%"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"26.206","team":"DAL","game_location":"@","opp":"BUF","game_result":"L 10-31","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"8%"},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"26.213","team":"DAL","game_location":"@","opp":"MIA","game_result":"L 20-22","gs":"*","offense":"66","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%"},{"game_date":"2023-12-30","game_num":"16","week_num":"17","age":"26.219","team":"DAL","game_location":"","opp":"DET","game_result":"W 20-19","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"15%"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"26.227","team":"DAL","game_location":"@","opp":"WAS","game_result":"W 38-10","gs":"","offense":"8","off_pct":"11%","defense":"0","def_pct":"0%","special_teams":"8","st_pct":"36%"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2019",
+        "age": "22",
+        "team": "NYJ",
+        "pos": "RT",
+        "uniform_number": "75",
+        "g": "8",
+        "gs": "8",
+        "offense": "421",
+        "off_pct": "84%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "1",
+        "st_pct": "0%"
+      },
+      {
+        "year_id": "2020",
+        "age": "23",
+        "team": "NYJ",
+        "pos": "T",
+        "uniform_number": "75",
+        "g": "11",
+        "gs": "4",
+        "offense": "235",
+        "off_pct": "34%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "19",
+        "st_pct": "6%"
+      },
+      {
+        "year_id": "2021",
+        "age": "24",
+        "team": "NYJ",
+        "pos": "T",
+        "uniform_number": "70",
+        "g": "5",
+        "gs": "0",
+        "offense": "99",
+        "off_pct": "39%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "3%"
+      },
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "ATL",
+        "pos": "T",
+        "uniform_number": "71",
+        "g": "2",
+        "gs": "1",
+        "offense": "55",
+        "off_pct": "49%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "10%"
+      },
+      {
+        "year_id": "2023",
+        "age": "26",
+        "team": "DAL",
+        "pos": "G",
+        "uniform_number": "71",
+        "g": "17",
+        "gs": "6",
+        "offense": "419",
+        "off_pct": "35%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "73",
+        "st_pct": "17%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "26.108",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "NYG",
+        "game_result": "W 40-0",
+        "gs": "*",
+        "offense": "56",
+        "off_pct": "97%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "29%"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "26.115",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "NYJ",
+        "game_result": "W 30-10",
+        "gs": "*",
+        "offense": "45",
+        "off_pct": "52%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "7%"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "26.122",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "ARI",
+        "game_result": "L 16-28",
+        "gs": "*",
+        "offense": "81",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "16%"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "26.129",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "NWE",
+        "game_result": "W 38-3",
+        "gs": "*",
+        "offense": "63",
+        "off_pct": "90%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "27%"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "26.136",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "SFO",
+        "game_result": "L 10-42",
+        "gs": "",
+        "offense": "10",
+        "off_pct": "20%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "7%"
+      },
+      {
+        "game_date": "2023-10-16",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "26.144",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "LAC",
+        "game_result": "W 20-17",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "16%"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "7",
+        "week_num": "8",
+        "age": "26.157",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "LAR",
+        "game_result": "W 43-20",
+        "gs": "*",
+        "offense": "54",
+        "off_pct": "83%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "8",
+        "week_num": "9",
+        "age": "26.164",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "L 23-28",
+        "gs": "",
+        "offense": "2",
+        "off_pct": "3%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "26.171",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 49-17",
+        "gs": "",
+        "offense": "19",
+        "off_pct": "24%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "23%"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "26.178",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "CAR",
+        "game_result": "W 33-10",
+        "gs": "",
+        "offense": "11",
+        "off_pct": "15%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "22%"
+      },
+      {
+        "game_date": "2023-11-23",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "26.182",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "WAS",
+        "game_result": "W 45-10",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "24%"
+      },
+      {
+        "game_date": "2023-11-30",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "26.189",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "SEA",
+        "game_result": "W 41-35",
+        "gs": "",
+        "offense": "2",
+        "off_pct": "2%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "25%"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "26.199",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "PHI",
+        "game_result": "W 33-13",
+        "gs": "",
+        "offense": "2",
+        "off_pct": "2%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "28%"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "26.206",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "BUF",
+        "game_result": "L 10-31",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "8%"
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "26.213",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "MIA",
+        "game_result": "L 20-22",
+        "gs": "*",
+        "offense": "66",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      },
+      {
+        "game_date": "2023-12-30",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "26.219",
+        "team": "DAL",
+        "game_location": "",
+        "opp": "DET",
+        "game_result": "W 20-19",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "15%"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "26.227",
+        "team": "DAL",
+        "game_location": "@",
+        "opp": "WAS",
+        "game_result": "W 38-10",
+        "gs": "",
+        "offense": "8",
+        "off_pct": "11%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "8",
+        "st_pct": "36%"
+      }
+    ]
+  },
+  {
+    "name": "Chuma Edoga",
+    "age": "26",
+    "position": "G",
+    "weight": "308",
+    "height": "6-3",
+    "college": "USC",
+    "experience": "4"
+  }
+]

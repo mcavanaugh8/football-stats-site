@@ -1,1 +1,419 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2020","age":"24","team":"PHI","pos":"T","uniform_number":"","g":"8","gs":"2","offense":"170","off_pct":"30%","defense":"0","def_pct":"0%","special_teams":"22","st_pct":"10%"},{"year_id":"2021","age":"25","team":"PHI","pos":"T","uniform_number":"78","g":"10","gs":"2","offense":"163","off_pct":"24%","defense":"0","def_pct":"0%","special_teams":"40","st_pct":"15%"},{"year_id":"2022","age":"26","team":"PHI","pos":"T","uniform_number":"78","g":"7","gs":"0","offense":"92","off_pct":"18%","defense":"0","def_pct":"0%","special_teams":"33","st_pct":"19%"},{"year_id":"2023","age":"27","team":"PHI","pos":"G","uniform_number":"78","g":"13","gs":"6","offense":"527","off_pct":"59%","defense":"0","def_pct":"0%","special_teams":"63","st_pct":"19%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"27.026","team":"PHI","game_location":"@","opp":"NWE","game_result":"W 25-20","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"21%","status":""},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"27.030","team":"PHI","game_location":"","opp":"MIN","game_result":"W 34-28","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"24%","status":""},{"game_date":"2023-09-25","game_num":"3","week_num":"3","age":"27.041","team":"PHI","game_location":"@","opp":"TAM","game_result":"W 25-11","gs":"","offense":"25","off_pct":"31%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"25%","status":""},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"27.047","team":"PHI","game_location":"","opp":"WAS","game_result":"W 34-31","gs":"","offense":"43","off_pct":"61%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"19%","status":""},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"27.054","team":"PHI","game_location":"@","opp":"LAR","game_result":"W 23-14","gs":"*","offense":"79","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"25%","status":""},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"27.061","team":"PHI","game_location":"@","opp":"NYJ","game_result":"L 14-20","gs":"*","offense":"70","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"14%","status":""},{"game_date":"2023-10-22","game_num":"7","week_num":"7","age":"27.068","team":"PHI","game_location":"","opp":"MIA","game_result":"W 31-17","gs":"*","offense":"72","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"23%","status":""},{"game_date":"2023-10-29","game_num":"8","week_num":"8","age":"27.075","team":"PHI","game_location":"@","opp":"WAS","game_result":"W 38-31","gs":"*","offense":"57","off_pct":"90%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"18%","status":""},{"game_date":"2023-11-05","game_num":"9","week_num":"9","age":"27.082","team":"PHI","game_location":"","opp":"DAL","game_result":"W 28-23","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"17%","status":""},{"game_date":"2023-11-20","game_num":"10","week_num":"11","age":"","team":"PHI","game_location":"@","opp":"KAN","game_result":"W 21-17","reason":"Inactive"},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"","team":"PHI","game_location":"","opp":"BUF","game_result":"W 37-34","reason":"Did Not Play"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"PHI","game_location":"","opp":"SFO","game_result":"L 19-42","reason":"Inactive"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"PHI","game_location":"@","opp":"DAL","game_result":"L 13-33","reason":"Inactive"},{"game_date":"2023-12-18","game_num":"14","week_num":"15","age":"27.125","team":"PHI","game_location":"@","opp":"SEA","game_result":"L 17-20","gs":"*","offense":"69","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"11%","status":""},{"game_date":"2023-12-25","game_num":"15","week_num":"16","age":"27.132","team":"PHI","game_location":"","opp":"NYG","game_result":"W 33-25","gs":"*","offense":"75","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"24%","status":""},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"27.138","team":"PHI","game_location":"","opp":"ARI","game_result":"L 31-35","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"20%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"27.145","team":"PHI","game_location":"@","opp":"NYG","game_result":"L 10-27","gs":"","offense":"37","off_pct":"57%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"8%","status":""}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "24",
+        "team": "PHI",
+        "pos": "T",
+        "uniform_number": "",
+        "g": "8",
+        "gs": "2",
+        "offense": "170",
+        "off_pct": "30%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "22",
+        "st_pct": "10%"
+      },
+      {
+        "year_id": "2021",
+        "age": "25",
+        "team": "PHI",
+        "pos": "T",
+        "uniform_number": "78",
+        "g": "10",
+        "gs": "2",
+        "offense": "163",
+        "off_pct": "24%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "40",
+        "st_pct": "15%"
+      },
+      {
+        "year_id": "2022",
+        "age": "26",
+        "team": "PHI",
+        "pos": "T",
+        "uniform_number": "78",
+        "g": "7",
+        "gs": "0",
+        "offense": "92",
+        "off_pct": "18%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "33",
+        "st_pct": "19%"
+      },
+      {
+        "year_id": "2023",
+        "age": "27",
+        "team": "PHI",
+        "pos": "G",
+        "uniform_number": "78",
+        "g": "13",
+        "gs": "6",
+        "offense": "527",
+        "off_pct": "59%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "63",
+        "st_pct": "19%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "27.026",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NWE",
+        "game_result": "W 25-20",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "21%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "27.030",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "MIN",
+        "game_result": "W 34-28",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "24%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-25",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "27.041",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "TAM",
+        "game_result": "W 25-11",
+        "gs": "",
+        "offense": "25",
+        "off_pct": "31%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "25%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "27.047",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "WAS",
+        "game_result": "W 34-31",
+        "gs": "",
+        "offense": "43",
+        "off_pct": "61%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "19%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "27.054",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "LAR",
+        "game_result": "W 23-14",
+        "gs": "*",
+        "offense": "79",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "25%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "27.061",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NYJ",
+        "game_result": "L 14-20",
+        "gs": "*",
+        "offense": "70",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "14%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "27.068",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "MIA",
+        "game_result": "W 31-17",
+        "gs": "*",
+        "offense": "72",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "23%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "27.075",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "WAS",
+        "game_result": "W 38-31",
+        "gs": "*",
+        "offense": "57",
+        "off_pct": "90%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "18%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "9",
+        "week_num": "9",
+        "age": "27.082",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "W 28-23",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "17%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-20",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "KAN",
+        "game_result": "W 21-17",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "BUF",
+        "game_result": "W 37-34",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "SFO",
+        "game_result": "L 19-42",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "DAL",
+        "game_result": "L 13-33",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-18",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "27.125",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "SEA",
+        "game_result": "L 17-20",
+        "gs": "*",
+        "offense": "69",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "11%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-25",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "27.132",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 33-25",
+        "gs": "*",
+        "offense": "75",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "24%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "27.138",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "ARI",
+        "game_result": "L 31-35",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "20%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "27.145",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NYG",
+        "game_result": "L 10-27",
+        "gs": "",
+        "offense": "37",
+        "off_pct": "57%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "8%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "Sua Opeta",
+    "age": "27",
+    "position": "G",
+    "weight": "305",
+    "height": "6-4",
+    "college": "Weber St.",
+    "experience": "3"
+  }
+]

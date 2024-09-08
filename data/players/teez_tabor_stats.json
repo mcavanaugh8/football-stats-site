@@ -1,1 +1,321 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2017","age":"22","team":"DET","pos":"DB","uniform_number":"30","g":"10","gs":"1","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"","fumbles_rec":"","fumbles_rec_yds":"","fumbles_rec_td":"","sacks":"0.0","tackles_combined":"14","tackles_solo":"12","tackles_assists":"2","tackles_loss":"0","qb_hits":"1","safety_md":"","av":"1"},{"year_id":"2018","age":"23","team":"DET","pos":"DB","uniform_number":"31","g":"12","gs":"4","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"","fumbles_rec":"","fumbles_rec_yds":"","fumbles_rec_td":"","sacks":"0.0","tackles_combined":"28","tackles_solo":"24","tackles_assists":"4","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"2"},{"year_id":"2021","age":"26","team":"CHI","pos":"DB","uniform_number":"37","g":"6","gs":"1","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"8","tackles_solo":"6","tackles_assists":"2","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"1"},{"year_id":"2022","age":"27","team":"SEA","pos":"S","uniform_number":"39","g":"10","gs":"1","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"9","tackles_solo":"5","tackles_assists":"4","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"1"},{"year_id":"2023","age":"28","team":"SEA","pos":"S","uniform_number":"36","g":"1","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2017","age":"22","team":"DET","pos":"DB","uniform_number":"30","g":"10","gs":"1","offense":"0","off_pct":"0%","defense":"190","def_pct":"28%","special_teams":"75","st_pct":"26%"},{"year_id":"2018","age":"23","team":"DET","pos":"DB","uniform_number":"31","g":"12","gs":"4","offense":"0","off_pct":"0%","defense":"275","def_pct":"38%","special_teams":"163","st_pct":"50%"},{"year_id":"2021","age":"26","team":"CHI","pos":"DB","uniform_number":"37","g":"6","gs":"1","offense":"0","off_pct":"0%","defense":"112","def_pct":"28%","special_teams":"53","st_pct":"34%"},{"year_id":"2022","age":"27","team":"SEA","pos":"S","uniform_number":"39","g":"10","gs":"1","offense":"0","off_pct":"0%","defense":"102","def_pct":"16%","special_teams":"100","st_pct":"37%"},{"year_id":"2023","age":"28","team":"SEA","pos":"S","uniform_number":"36","g":"1","gs":"0","offense":"0","off_pct":"0%","defense":"12","def_pct":"15%","special_teams":"3","st_pct":"9%"}]},{"category":"stats","rows":[{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"27.267","team":"SEA","game_location":"","opp":"CAR","game_result":"W 37-27","gs":"","offense":"0","off_pct":"0%","defense":"12","def_pct":"15%","special_teams":"3","st_pct":"9%","status":""},{"game_date":"2023-10-02","game_num":"4","week_num":"4","age":"","team":"SEA","game_location":"@","opp":"NYG","game_result":"W 24-3","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2017",
+        "age": "22",
+        "team": "DET",
+        "pos": "DB",
+        "uniform_number": "30",
+        "g": "10",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "",
+        "fumbles_rec": "",
+        "fumbles_rec_yds": "",
+        "fumbles_rec_td": "",
+        "sacks": "0.0",
+        "tackles_combined": "14",
+        "tackles_solo": "12",
+        "tackles_assists": "2",
+        "tackles_loss": "0",
+        "qb_hits": "1",
+        "safety_md": "",
+        "av": "1"
+      },
+      {
+        "year_id": "2018",
+        "age": "23",
+        "team": "DET",
+        "pos": "DB",
+        "uniform_number": "31",
+        "g": "12",
+        "gs": "4",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "",
+        "fumbles_rec": "",
+        "fumbles_rec_yds": "",
+        "fumbles_rec_td": "",
+        "sacks": "0.0",
+        "tackles_combined": "28",
+        "tackles_solo": "24",
+        "tackles_assists": "4",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "2"
+      },
+      {
+        "year_id": "2021",
+        "age": "26",
+        "team": "CHI",
+        "pos": "DB",
+        "uniform_number": "37",
+        "g": "6",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "8",
+        "tackles_solo": "6",
+        "tackles_assists": "2",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "1"
+      },
+      {
+        "year_id": "2022",
+        "age": "27",
+        "team": "SEA",
+        "pos": "S",
+        "uniform_number": "39",
+        "g": "10",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "9",
+        "tackles_solo": "5",
+        "tackles_assists": "4",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "1"
+      },
+      {
+        "year_id": "2023",
+        "age": "28",
+        "team": "SEA",
+        "pos": "S",
+        "uniform_number": "36",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2017",
+        "age": "22",
+        "team": "DET",
+        "pos": "DB",
+        "uniform_number": "30",
+        "g": "10",
+        "gs": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "190",
+        "def_pct": "28%",
+        "special_teams": "75",
+        "st_pct": "26%"
+      },
+      {
+        "year_id": "2018",
+        "age": "23",
+        "team": "DET",
+        "pos": "DB",
+        "uniform_number": "31",
+        "g": "12",
+        "gs": "4",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "275",
+        "def_pct": "38%",
+        "special_teams": "163",
+        "st_pct": "50%"
+      },
+      {
+        "year_id": "2021",
+        "age": "26",
+        "team": "CHI",
+        "pos": "DB",
+        "uniform_number": "37",
+        "g": "6",
+        "gs": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "112",
+        "def_pct": "28%",
+        "special_teams": "53",
+        "st_pct": "34%"
+      },
+      {
+        "year_id": "2022",
+        "age": "27",
+        "team": "SEA",
+        "pos": "S",
+        "uniform_number": "39",
+        "g": "10",
+        "gs": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "102",
+        "def_pct": "16%",
+        "special_teams": "100",
+        "st_pct": "37%"
+      },
+      {
+        "year_id": "2023",
+        "age": "28",
+        "team": "SEA",
+        "pos": "S",
+        "uniform_number": "36",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "12",
+        "def_pct": "15%",
+        "special_teams": "3",
+        "st_pct": "9%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "27.267",
+        "team": "SEA",
+        "game_location": "",
+        "opp": "CAR",
+        "game_result": "W 37-27",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "12",
+        "def_pct": "15%",
+        "special_teams": "3",
+        "st_pct": "9%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-02",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "SEA",
+        "game_location": "@",
+        "opp": "NYG",
+        "game_result": "W 24-3",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Teez Tabor",
+    "age": "28",
+    "position": "S",
+    "weight": "201",
+    "height": "6-0",
+    "college": "Florida",
+    "experience": "6"
+  }
+]

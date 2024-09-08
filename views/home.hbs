@@ -6,7 +6,8 @@
 </div>
 
 <div class="search-container">
-    <input type="text" id="searchPlayer" placeholder="Search players...">
+    <input type="text" id="playerSearch" autocomplete="off">
+    <ul id="suggestions"></ul>
 </div>
 
 <table id="playerTable">
@@ -31,3 +32,41 @@
         {{/each}}
     </tbody>
 </table>
+
+<script>
+  const playerSearch = document.getElementById('playerSearch');
+  const suggestions = document.getElementById('suggestions');
+  let debounceTimer;
+
+  playerSearch.addEventListener('input', function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      const query = this.value;
+      if (query.length > 1) {
+        fetch(`/api/players?q=${encodeURIComponent(query)}`)
+          .then(response => response.json())
+          .then(data => {
+            suggestions.innerHTML = '';
+            data.forEach(name => {
+              const li = document.createElement('li');
+              li.textContent = name;
+              li.addEventListener('click', () => {
+                playerSearch.value = name;
+                suggestions.innerHTML = '';
+              });
+              suggestions.appendChild(li);
+            });
+          });
+      } else {
+        suggestions.innerHTML = '';
+      }
+    }, 300); // 300ms debounce
+  });
+
+  // Close suggestions when clicking outside
+  document.addEventListener('click', function(e) {
+    if (e.target !== playerSearch && e.target !== suggestions) {
+      suggestions.innerHTML = '';
+    }
+  });
+</script>

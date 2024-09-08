@@ -1,1 +1,289 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2022","age":"30","team":"PHI","pos":"P","uniform_number":"8","g":"13","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"2","tackles_solo":"2","tackles_assists":"0","tackles_loss":"0","qb_hits":"0","safety_md":""}]},{"category":"punting","rows":[{"year_id":"2021","age":"29","team":"PHI","pos":"P","uniform_number":"8","g":"17","gs":"0","punt":"55","punt_yds":"2416","punt_yds_per_punt":"43.9","punt_ret_yds_opp":"225","punt_net_yds":"2131","punt_net_yds_per_punt":"38.7","punt_long":"68","punt_tb":"3","punt_tb_pct":"5.5%","punt_in_20":"17","punt_in_20_pct":"30.9%","punt_blocked":"0","av":"1"},{"year_id":"2022","age":"30","team":"PHI","pos":"P","uniform_number":"8","g":"13","gs":"0","punt":"44","punt_yds":"2005","punt_yds_per_punt":"45.6","punt_ret_yds_opp":"208","punt_net_yds":"1737","punt_net_yds_per_punt":"38.6","punt_long":"59","punt_tb":"3","punt_tb_pct":"6.8%","punt_in_20":"16","punt_in_20_pct":"36.4%","punt_blocked":"1","av":"1"},{"year_id":"2023","age":"31","team":"PHI","pos":"P","uniform_number":"10","g":"2","gs":"0","punt":"8","punt_yds":"347","punt_yds_per_punt":"43.4","punt_ret_yds_opp":"40","punt_net_yds":"307","punt_net_yds_per_punt":"38.4","punt_long":"54","punt_tb":"0","punt_tb_pct":"0.0%","punt_in_20":"2","punt_in_20_pct":"25.0%","punt_blocked":"0","av":"0"}]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2021","age":"29","team":"PHI","pos":"P","uniform_number":"8","g":"17","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"136","st_pct":"30%"},{"year_id":"2022","age":"30","team":"PHI","pos":"P","uniform_number":"8","g":"13","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"106","st_pct":"31%"},{"year_id":"2023","age":"31","team":"PHI","pos":"P","uniform_number":"10","g":"2","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"22","st_pct":"38%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"30.289","team":"PHI","game_location":"@","opp":"NWE","game_result":"W 25-20","gs":"","punt":"4","punt_yds":"197","punt_yds_per_punt":"49.25","punt_ret_yds_opp":"21","punt_net_yds":"176","punt_net_yds_per_punt":"44.0","punt_tb":"0","punt_tb_pct":"0.0%","punt_in_20":"0","punt_in_20_pct":"0.0%","punt_blocked":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"11","st_pct":"38%","status":""},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"30.293","team":"PHI","game_location":"","opp":"MIN","game_result":"W 34-28","gs":"","punt":"4","punt_yds":"150","punt_yds_per_punt":"37.50","punt_ret_yds_opp":"19","punt_net_yds":"131","punt_net_yds_per_punt":"32.8","punt_tb":"0","punt_tb_pct":"0.0%","punt_in_20":"2","punt_in_20_pct":"50.0%","punt_blocked":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"11","st_pct":"38%","status":""},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"","team":"PHI","game_location":"","opp":"MIN","game_result":"W 34-28","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "30",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "13",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": ""
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": [
+      {
+        "year_id": "2021",
+        "age": "29",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "17",
+        "gs": "0",
+        "punt": "55",
+        "punt_yds": "2416",
+        "punt_yds_per_punt": "43.9",
+        "punt_ret_yds_opp": "225",
+        "punt_net_yds": "2131",
+        "punt_net_yds_per_punt": "38.7",
+        "punt_long": "68",
+        "punt_tb": "3",
+        "punt_tb_pct": "5.5%",
+        "punt_in_20": "17",
+        "punt_in_20_pct": "30.9%",
+        "punt_blocked": "0",
+        "av": "1"
+      },
+      {
+        "year_id": "2022",
+        "age": "30",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "13",
+        "gs": "0",
+        "punt": "44",
+        "punt_yds": "2005",
+        "punt_yds_per_punt": "45.6",
+        "punt_ret_yds_opp": "208",
+        "punt_net_yds": "1737",
+        "punt_net_yds_per_punt": "38.6",
+        "punt_long": "59",
+        "punt_tb": "3",
+        "punt_tb_pct": "6.8%",
+        "punt_in_20": "16",
+        "punt_in_20_pct": "36.4%",
+        "punt_blocked": "1",
+        "av": "1"
+      },
+      {
+        "year_id": "2023",
+        "age": "31",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "10",
+        "g": "2",
+        "gs": "0",
+        "punt": "8",
+        "punt_yds": "347",
+        "punt_yds_per_punt": "43.4",
+        "punt_ret_yds_opp": "40",
+        "punt_net_yds": "307",
+        "punt_net_yds_per_punt": "38.4",
+        "punt_long": "54",
+        "punt_tb": "0",
+        "punt_tb_pct": "0.0%",
+        "punt_in_20": "2",
+        "punt_in_20_pct": "25.0%",
+        "punt_blocked": "0",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2021",
+        "age": "29",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "17",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "136",
+        "st_pct": "30%"
+      },
+      {
+        "year_id": "2022",
+        "age": "30",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "13",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "106",
+        "st_pct": "31%"
+      },
+      {
+        "year_id": "2023",
+        "age": "31",
+        "team": "PHI",
+        "pos": "P",
+        "uniform_number": "10",
+        "g": "2",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "22",
+        "st_pct": "38%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "30.289",
+        "team": "PHI",
+        "game_location": "@",
+        "opp": "NWE",
+        "game_result": "W 25-20",
+        "gs": "",
+        "punt": "4",
+        "punt_yds": "197",
+        "punt_yds_per_punt": "49.25",
+        "punt_ret_yds_opp": "21",
+        "punt_net_yds": "176",
+        "punt_net_yds_per_punt": "44.0",
+        "punt_tb": "0",
+        "punt_tb_pct": "0.0%",
+        "punt_in_20": "0",
+        "punt_in_20_pct": "0.0%",
+        "punt_blocked": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "11",
+        "st_pct": "38%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "30.293",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "MIN",
+        "game_result": "W 34-28",
+        "gs": "",
+        "punt": "4",
+        "punt_yds": "150",
+        "punt_yds_per_punt": "37.50",
+        "punt_ret_yds_opp": "19",
+        "punt_net_yds": "131",
+        "punt_net_yds_per_punt": "32.8",
+        "punt_tb": "0",
+        "punt_tb_pct": "0.0%",
+        "punt_in_20": "2",
+        "punt_in_20_pct": "50.0%",
+        "punt_blocked": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "11",
+        "st_pct": "38%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "PHI",
+        "game_location": "",
+        "opp": "MIN",
+        "game_result": "W 34-28",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Arryn Siposs",
+    "age": "31",
+    "position": "P",
+    "weight": "212",
+    "height": "6-2",
+    "college": "Auburn",
+    "experience": "2"
+  }
+]

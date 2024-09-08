@@ -1,1 +1,384 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2020","age":"24","team":"KAN","pos":"LB","uniform_number":"47","g":"4","gs":"2","def_int":"0","def_int_yds":"0","def_int_td":"0","def_int_long":"0","pass_defended":"1","fumbles_forced":"0","fumbles":"0","fumbles_rec":"1","fumbles_rec_yds":"15","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"14","tackles_solo":"11","tackles_assists":"3","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"1"},{"year_id":"2021","age":"25","team":"KAN","pos":"LB","uniform_number":"47","g":"7","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"1","tackles_solo":"1","tackles_assists":"0","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"0"},{"year_id":"2022","age":"26","team":"KAN","pos":"LB","uniform_number":"47","g":"17","gs":"4","def_int":"0","def_int_yds":"0","def_int_td":"0","def_int_long":"0","pass_defended":"1","fumbles_forced":"0","fumbles":"0","fumbles_rec":"1","fumbles_rec_yds":"2","fumbles_rec_td":"0","sacks":"1.5","tackles_combined":"43","tackles_solo":"23","tackles_assists":"20","tackles_loss":"3","qb_hits":"2","safety_md":"","av":"3"},{"year_id":"2023","age":"27","team":"KAN","pos":"LB","uniform_number":"59","g":"5","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2020","age":"24","team":"KAN","pos":"LB","uniform_number":"47","g":"4","gs":"2","offense":"0","off_pct":"0%","defense":"126","def_pct":"45%","special_teams":"58","st_pct":"52%"},{"year_id":"2021","age":"25","team":"KAN","pos":"LB","uniform_number":"47","g":"7","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"54","st_pct":"32%"},{"year_id":"2022","age":"26","team":"KAN","pos":"LB","uniform_number":"47","g":"17","gs":"4","offense":"0","off_pct":"0%","defense":"291","def_pct":"25%","special_teams":"178","st_pct":"39%"},{"year_id":"2023","age":"27","team":"KAN","pos":"LB","uniform_number":"59","g":"5","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"71","st_pct":"58%"}]},{"category":"stats","rows":[{"game_date":"2023-10-30","game_num":"8","week_num":"8","age":"","team":"LVR","game_location":"@","opp":"DET","game_result":"L 14-26","reason":"Did Not Play"},{"game_date":"2023-11-05","game_num":"9","week_num":"9","age":"27.292","team":"KAN","game_location":"","opp":"MIA","game_result":"W 21-14","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"14","st_pct":"56%","status":""},{"game_date":"2023-11-20","game_num":"10","week_num":"11","age":"27.307","team":"KAN","game_location":"","opp":"PHI","game_result":"L 17-21","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"13","st_pct":"50%","status":""},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"27.313","team":"KAN","game_location":"@","opp":"LVR","game_result":"W 31-17","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"13","st_pct":"50%","status":""},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"27.320","team":"KAN","game_location":"@","opp":"GNB","game_result":"L 19-27","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"18","st_pct":"82%","status":""},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"27.327","team":"KAN","game_location":"","opp":"BUF","game_result":"L 17-20","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"13","st_pct":"54%","status":""},{"game_date":"2023-12-25","game_num":"15","week_num":"16","age":"","team":"KAN","game_location":"","opp":"LVR","game_result":"L 14-20","reason":"Did Not Play"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"","team":"KAN","game_location":"","opp":"CIN","game_result":"W 25-17","reason":"Did Not Play"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"","team":"KAN","game_location":"@","opp":"LAC","game_result":"W 13-12","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "24",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "47",
+        "g": "4",
+        "gs": "2",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "1",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "15",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "14",
+        "tackles_solo": "11",
+        "tackles_assists": "3",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "1"
+      },
+      {
+        "year_id": "2021",
+        "age": "25",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "47",
+        "g": "7",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2022",
+        "age": "26",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "47",
+        "g": "17",
+        "gs": "4",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "1",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "2",
+        "fumbles_rec_td": "0",
+        "sacks": "1.5",
+        "tackles_combined": "43",
+        "tackles_solo": "23",
+        "tackles_assists": "20",
+        "tackles_loss": "3",
+        "qb_hits": "2",
+        "safety_md": "",
+        "av": "3"
+      },
+      {
+        "year_id": "2023",
+        "age": "27",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "59",
+        "g": "5",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "24",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "47",
+        "g": "4",
+        "gs": "2",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "126",
+        "def_pct": "45%",
+        "special_teams": "58",
+        "st_pct": "52%"
+      },
+      {
+        "year_id": "2021",
+        "age": "25",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "47",
+        "g": "7",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "54",
+        "st_pct": "32%"
+      },
+      {
+        "year_id": "2022",
+        "age": "26",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "47",
+        "g": "17",
+        "gs": "4",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "291",
+        "def_pct": "25%",
+        "special_teams": "178",
+        "st_pct": "39%"
+      },
+      {
+        "year_id": "2023",
+        "age": "27",
+        "team": "KAN",
+        "pos": "LB",
+        "uniform_number": "59",
+        "g": "5",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "71",
+        "st_pct": "58%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-10-30",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "DET",
+        "game_result": "L 14-26",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "9",
+        "week_num": "9",
+        "age": "27.292",
+        "team": "KAN",
+        "game_location": "",
+        "opp": "MIA",
+        "game_result": "W 21-14",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "14",
+        "st_pct": "56%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-20",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "27.307",
+        "team": "KAN",
+        "game_location": "",
+        "opp": "PHI",
+        "game_result": "L 17-21",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "13",
+        "st_pct": "50%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "27.313",
+        "team": "KAN",
+        "game_location": "@",
+        "opp": "LVR",
+        "game_result": "W 31-17",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "13",
+        "st_pct": "50%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "27.320",
+        "team": "KAN",
+        "game_location": "@",
+        "opp": "GNB",
+        "game_result": "L 19-27",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "18",
+        "st_pct": "82%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "27.327",
+        "team": "KAN",
+        "game_location": "",
+        "opp": "BUF",
+        "game_result": "L 17-20",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "13",
+        "st_pct": "54%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-25",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "KAN",
+        "game_location": "",
+        "opp": "LVR",
+        "game_result": "L 14-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "",
+        "team": "KAN",
+        "game_location": "",
+        "opp": "CIN",
+        "game_result": "W 25-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "KAN",
+        "game_location": "@",
+        "opp": "LAC",
+        "game_result": "W 13-12",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Darius Harris",
+    "age": "27",
+    "position": "LB",
+    "weight": "238",
+    "height": "6-2",
+    "college": "Middle Tenn. St.",
+    "experience": "3"
+  }
+]

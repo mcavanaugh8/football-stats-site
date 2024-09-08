@@ -1,1 +1,291 @@
-[{"category":"fantasy","rows":[{"year_id":"2023","age":"23","g":"1","fantasy_pos":"WR","fantasy_points":"","vbd":"","fantasy_rank_pos":"217","fantasy_rank_overall":"","games":"All 2023 Games"}]},{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2023","age":"23","team":"DET","pos":"WR","uniform_number":"83","g":"1","gs":"0","offense":"5","off_pct":"8%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"11%"}]},{"category":"stats","rows":[{"game_date":"2023-09-07","game_num":"1","week_num":"1","age":"","team":"DET","game_location":"@","opp":"KAN","game_result":"W 21-20","reason":"Did Not Play"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"","team":"DET","game_location":"","opp":"SEA","game_result":"L 31-37","reason":"Did Not Play"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"DET","game_location":"","opp":"ATL","game_result":"W 20-6","reason":"Did Not Play"},{"game_date":"2023-09-28","game_num":"4","week_num":"4","age":"","team":"DET","game_location":"@","opp":"GNB","game_result":"W 34-20","reason":"Did Not Play"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"23.264","team":"DET","game_location":"","opp":"CAR","game_result":"W 42-24","gs":"","offense":"5","off_pct":"8%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"11%","status":""},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"","team":"DET","game_location":"@","opp":"TAM","game_result":"W 20-6","reason":"Did Not Play"},{"game_date":"2023-10-22","game_num":"7","week_num":"7","age":"","team":"DET","game_location":"@","opp":"BAL","game_result":"L 6-38","reason":"Did Not Play"},{"game_date":"2023-10-30","game_num":"8","week_num":"8","age":"","team":"DET","game_location":"","opp":"LVR","game_result":"W 26-14","reason":"Did Not Play"},{"game_date":"2023-11-12","game_num":"9","week_num":"10","age":"","team":"DET","game_location":"@","opp":"LAC","game_result":"W 41-38","reason":"Did Not Play"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"DET","game_location":"","opp":"CHI","game_result":"W 31-26","reason":"Did Not Play"},{"game_date":"2023-11-23","game_num":"11","week_num":"12","age":"","team":"DET","game_location":"","opp":"GNB","game_result":"L 22-29","reason":"Did Not Play"},{"game_date":"2023-12-11","game_num":"13","week_num":"14","age":"","team":"NYG","game_location":"","opp":"GNB","game_result":"W 24-22","reason":"Did Not Play"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"","team":"NYG","game_location":"@","opp":"NOR","game_result":"L 6-24","reason":"Did Not Play"},{"game_date":"2023-12-25","game_num":"15","week_num":"16","age":"","team":"NYG","game_location":"@","opp":"PHI","game_result":"L 25-33","reason":"Did Not Play"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"","team":"NYG","game_location":"","opp":"LAR","game_result":"L 25-26","reason":"Did Not Play"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"","team":"NYG","game_location":"","opp":"PHI","game_result":"W 27-10","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "23",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "217",
+        "fantasy_rank_overall": "",
+        "games": "All 2023 Games"
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "23",
+        "team": "DET",
+        "pos": "WR",
+        "uniform_number": "83",
+        "g": "1",
+        "gs": "0",
+        "offense": "5",
+        "off_pct": "8%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "11%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-07",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "DET",
+        "game_location": "@",
+        "opp": "KAN",
+        "game_result": "W 21-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "DET",
+        "game_location": "",
+        "opp": "SEA",
+        "game_result": "L 31-37",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "DET",
+        "game_location": "",
+        "opp": "ATL",
+        "game_result": "W 20-6",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-28",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "DET",
+        "game_location": "@",
+        "opp": "GNB",
+        "game_result": "W 34-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "23.264",
+        "team": "DET",
+        "game_location": "",
+        "opp": "CAR",
+        "game_result": "W 42-24",
+        "gs": "",
+        "offense": "5",
+        "off_pct": "8%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "11%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "DET",
+        "game_location": "@",
+        "opp": "TAM",
+        "game_result": "W 20-6",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "DET",
+        "game_location": "@",
+        "opp": "BAL",
+        "game_result": "L 6-38",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-30",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "DET",
+        "game_location": "",
+        "opp": "LVR",
+        "game_result": "W 26-14",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "",
+        "team": "DET",
+        "game_location": "@",
+        "opp": "LAC",
+        "game_result": "W 41-38",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "DET",
+        "game_location": "",
+        "opp": "CHI",
+        "game_result": "W 31-26",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-23",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "DET",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "L 22-29",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-11",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "NYG",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "W 24-22",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "",
+        "team": "NYG",
+        "game_location": "@",
+        "opp": "NOR",
+        "game_result": "L 6-24",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-25",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "NYG",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "L 25-33",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "",
+        "team": "NYG",
+        "game_location": "",
+        "opp": "LAR",
+        "game_result": "L 25-26",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "NYG",
+        "game_location": "",
+        "opp": "PHI",
+        "game_result": "W 27-10",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Dylan Drummond",
+    "age": "23",
+    "position": "WR",
+    "weight": "186",
+    "height": "6-0",
+    "college": "Eastern Michigan",
+    "experience": "Rook"
+  }
+]

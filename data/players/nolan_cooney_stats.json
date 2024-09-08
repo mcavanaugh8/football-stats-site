@@ -1,1 +1,231 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[{"year_id":"2023","age":"27","team":"ARI","pos":"P","uniform_number":"16","g":"4","gs":"0","punt":"13","punt_yds":"592","punt_yds_per_punt":"45.5","punt_ret_yds_opp":"48","punt_net_yds":"524","punt_net_yds_per_punt":"40.3","punt_long":"56","punt_tb":"1","punt_tb_pct":"7.7%","punt_in_20":"2","punt_in_20_pct":"15.4%","punt_blocked":"0","av":"0"}]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2023","age":"27","team":"ARI","pos":"P","uniform_number":"16","g":"4","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"31","st_pct":"30%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"26.357","team":"ARI","game_location":"@","opp":"WAS","game_result":"L 16-20","gs":"","punt":"5","punt_yds":"235","punt_yds_per_punt":"47.00","punt_ret_yds_opp":"10","punt_net_yds":"225","punt_net_yds_per_punt":"45.0","punt_tb":"0","punt_tb_pct":"0.0%","punt_in_20":"2","punt_in_20_pct":"40.0%","punt_blocked":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"9","st_pct":"32%"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"26.364","team":"ARI","game_location":"","opp":"NYG","game_result":"L 28-31","gs":"","punt":"3","punt_yds":"146","punt_yds_per_punt":"48.67","punt_ret_yds_opp":"14","punt_net_yds":"112","punt_net_yds_per_punt":"37.3","punt_tb":"1","punt_tb_pct":"33.3%","punt_in_20":"0","punt_in_20_pct":"0.0%","punt_blocked":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"8","st_pct":"29%"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"27.006","team":"ARI","game_location":"","opp":"DAL","game_result":"W 28-16","gs":"","punt":"2","punt_yds":"94","punt_yds_per_punt":"47.00","punt_ret_yds_opp":"0","punt_net_yds":"94","punt_net_yds_per_punt":"47.0","punt_tb":"0","punt_tb_pct":"0.0%","punt_in_20":"0","punt_in_20_pct":"0.0%","punt_blocked":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"8","st_pct":"32%"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"27.013","team":"ARI","game_location":"@","opp":"SFO","game_result":"L 16-35","gs":"","punt":"3","punt_yds":"117","punt_yds_per_punt":"39.00","punt_ret_yds_opp":"24","punt_net_yds":"93","punt_net_yds_per_punt":"31.0","punt_tb":"0","punt_tb_pct":"0.0%","punt_in_20":"0","punt_in_20_pct":"0.0%","punt_blocked":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"27%"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "27",
+        "team": "ARI",
+        "pos": "P",
+        "uniform_number": "16",
+        "g": "4",
+        "gs": "0",
+        "punt": "13",
+        "punt_yds": "592",
+        "punt_yds_per_punt": "45.5",
+        "punt_ret_yds_opp": "48",
+        "punt_net_yds": "524",
+        "punt_net_yds_per_punt": "40.3",
+        "punt_long": "56",
+        "punt_tb": "1",
+        "punt_tb_pct": "7.7%",
+        "punt_in_20": "2",
+        "punt_in_20_pct": "15.4%",
+        "punt_blocked": "0",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "27",
+        "team": "ARI",
+        "pos": "P",
+        "uniform_number": "16",
+        "g": "4",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "31",
+        "st_pct": "30%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "26.357",
+        "team": "ARI",
+        "game_location": "@",
+        "opp": "WAS",
+        "game_result": "L 16-20",
+        "gs": "",
+        "punt": "5",
+        "punt_yds": "235",
+        "punt_yds_per_punt": "47.00",
+        "punt_ret_yds_opp": "10",
+        "punt_net_yds": "225",
+        "punt_net_yds_per_punt": "45.0",
+        "punt_tb": "0",
+        "punt_tb_pct": "0.0%",
+        "punt_in_20": "2",
+        "punt_in_20_pct": "40.0%",
+        "punt_blocked": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "9",
+        "st_pct": "32%"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "26.364",
+        "team": "ARI",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "L 28-31",
+        "gs": "",
+        "punt": "3",
+        "punt_yds": "146",
+        "punt_yds_per_punt": "48.67",
+        "punt_ret_yds_opp": "14",
+        "punt_net_yds": "112",
+        "punt_net_yds_per_punt": "37.3",
+        "punt_tb": "1",
+        "punt_tb_pct": "33.3%",
+        "punt_in_20": "0",
+        "punt_in_20_pct": "0.0%",
+        "punt_blocked": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "8",
+        "st_pct": "29%"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "27.006",
+        "team": "ARI",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "W 28-16",
+        "gs": "",
+        "punt": "2",
+        "punt_yds": "94",
+        "punt_yds_per_punt": "47.00",
+        "punt_ret_yds_opp": "0",
+        "punt_net_yds": "94",
+        "punt_net_yds_per_punt": "47.0",
+        "punt_tb": "0",
+        "punt_tb_pct": "0.0%",
+        "punt_in_20": "0",
+        "punt_in_20_pct": "0.0%",
+        "punt_blocked": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "8",
+        "st_pct": "32%"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "27.013",
+        "team": "ARI",
+        "game_location": "@",
+        "opp": "SFO",
+        "game_result": "L 16-35",
+        "gs": "",
+        "punt": "3",
+        "punt_yds": "117",
+        "punt_yds_per_punt": "39.00",
+        "punt_ret_yds_opp": "24",
+        "punt_net_yds": "93",
+        "punt_net_yds_per_punt": "31.0",
+        "punt_tb": "0",
+        "punt_tb_pct": "0.0%",
+        "punt_in_20": "0",
+        "punt_in_20_pct": "0.0%",
+        "punt_blocked": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "27%"
+      }
+    ]
+  },
+  {
+    "name": "Nolan Cooney",
+    "age": "27",
+    "position": "P",
+    "weight": "202",
+    "height": "6-3",
+    "college": "Syracuse",
+    "experience": "1"
+  }
+]

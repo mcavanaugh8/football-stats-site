@@ -43,3 +43,26 @@ header a {
     padding: 10px;
     border: 1px solid #ddd;
 }
+
+.search-container {
+    position: relative;
+  }
+  
+  #suggestions {
+    position: absolute;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    max-height: 200px;
+    overflow-y: auto;
+  }
+  
+  #suggestions li {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  #suggestions li:hover {
+    background-color: #f0f0f0;
+  }

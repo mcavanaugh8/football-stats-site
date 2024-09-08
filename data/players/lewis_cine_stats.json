@@ -1,1 +1,444 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2022","age":"23","team":"MIN","pos":"S","uniform_number":"6","g":"3","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"},{"year_id":"2023","age":"24","team":"MIN","pos":"S","uniform_number":"6","g":"7","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"1","tackles_solo":"0","tackles_assists":"1","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2022","age":"23","team":"MIN","pos":"S","uniform_number":"6","g":"3","gs":"0","offense":"0","off_pct":"0%","defense":"2","def_pct":"1%","special_teams":"34","st_pct":"43%"},{"year_id":"2023","age":"24","team":"MIN","pos":"S","uniform_number":"6","g":"7","gs":"0","offense":"0","off_pct":"0%","defense":"8","def_pct":"2%","special_teams":"84","st_pct":"48%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"23.340","team":"MIN","game_location":"","opp":"TAM","game_result":"L 17-20","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"12","st_pct":"43%","status":""},{"game_date":"2023-09-14","game_num":"2","week_num":"2","age":"23.344","team":"MIN","game_location":"@","opp":"PHI","game_result":"L 28-34","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"13","st_pct":"45%","status":""},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"23.354","team":"MIN","game_location":"","opp":"LAC","game_result":"L 24-28","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"13","st_pct":"52%","status":""},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"MIN","game_location":"@","opp":"CAR","game_result":"W 21-13","reason":"Inactive"},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"","team":"MIN","game_location":"","opp":"KAN","game_result":"L 20-27","reason":"Inactive"},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"","team":"MIN","game_location":"@","opp":"CHI","game_result":"W 19-13","reason":"Inactive"},{"game_date":"2023-10-23","game_num":"7","week_num":"7","age":"","team":"MIN","game_location":"","opp":"SFO","game_result":"W 22-17","reason":"Inactive"},{"game_date":"2023-10-29","game_num":"8","week_num":"8","age":"24.024","team":"MIN","game_location":"@","opp":"GNB","game_result":"W 24-10","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"13","st_pct":"57%","status":""},{"game_date":"2023-11-05","game_num":"9","week_num":"9","age":"","team":"MIN","game_location":"@","opp":"ATL","game_result":"W 31-28","reason":"Inactive"},{"game_date":"2023-11-12","game_num":"10","week_num":"10","age":"","team":"MIN","game_location":"","opp":"NOR","game_result":"W 27-19","reason":"Inactive"},{"game_date":"2023-11-19","game_num":"11","week_num":"11","age":"","team":"MIN","game_location":"@","opp":"DEN","game_result":"L 20-21","reason":"Inactive"},{"game_date":"2023-11-27","game_num":"12","week_num":"12","age":"24.053","team":"MIN","game_location":"","opp":"CHI","game_result":"L 10-12","gs":"","sacks":"0.0","tackles_solo":"0","tackles_assists":"0","tackles_combined":"0","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"8","st_pct":"40%","status":""},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"MIN","game_location":"@","opp":"LVR","game_result":"W 3-0","reason":"Inactive"},{"game_date":"2023-12-16","game_num":"14","week_num":"15","age":"","team":"MIN","game_location":"@","opp":"CIN","game_result":"L 24-27","reason":"Inactive"},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"","team":"MIN","game_location":"","opp":"DET","game_result":"L 24-30","reason":"Inactive"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"24.087","team":"MIN","game_location":"","opp":"GNB","game_result":"L 10-33","gs":"","sacks":"0.0","tackles_solo":"0","tackles_assists":"1","tackles_combined":"1","tackles_loss":"0","qb_hits":"0","offense":"0","off_pct":"0%","defense":"8","def_pct":"11%","special_teams":"11","st_pct":"46%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"24.094","team":"MIN","game_location":"@","opp":"DET","game_result":"L 20-30","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"14","st_pct":"50%","status":""}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "MIN",
+        "pos": "S",
+        "uniform_number": "6",
+        "g": "3",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "MIN",
+        "pos": "S",
+        "uniform_number": "6",
+        "g": "7",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "0",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "MIN",
+        "pos": "S",
+        "uniform_number": "6",
+        "g": "3",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "2",
+        "def_pct": "1%",
+        "special_teams": "34",
+        "st_pct": "43%"
+      },
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "MIN",
+        "pos": "S",
+        "uniform_number": "6",
+        "g": "7",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "8",
+        "def_pct": "2%",
+        "special_teams": "84",
+        "st_pct": "48%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "23.340",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "TAM",
+        "game_result": "L 17-20",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "12",
+        "st_pct": "43%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-14",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "23.344",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "L 28-34",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "13",
+        "st_pct": "45%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "23.354",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "LAC",
+        "game_result": "L 24-28",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "13",
+        "st_pct": "52%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CAR",
+        "game_result": "W 21-13",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "KAN",
+        "game_result": "L 20-27",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "W 19-13",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-23",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "SFO",
+        "game_result": "W 22-17",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "24.024",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "GNB",
+        "game_result": "W 24-10",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "13",
+        "st_pct": "57%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "9",
+        "week_num": "9",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "ATL",
+        "game_result": "W 31-28",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "10",
+        "week_num": "10",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "NOR",
+        "game_result": "W 27-19",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "11",
+        "week_num": "11",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "DEN",
+        "game_result": "L 20-21",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-27",
+        "game_num": "12",
+        "week_num": "12",
+        "age": "24.053",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "CHI",
+        "game_result": "L 10-12",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "0",
+        "tackles_assists": "0",
+        "tackles_combined": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "8",
+        "st_pct": "40%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "LVR",
+        "game_result": "W 3-0",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-16",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "CIN",
+        "game_result": "L 24-27",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "DET",
+        "game_result": "L 24-30",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "24.087",
+        "team": "MIN",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "L 10-33",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "0",
+        "tackles_assists": "1",
+        "tackles_combined": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "8",
+        "def_pct": "11%",
+        "special_teams": "11",
+        "st_pct": "46%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "24.094",
+        "team": "MIN",
+        "game_location": "@",
+        "opp": "DET",
+        "game_result": "L 20-30",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "14",
+        "st_pct": "50%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "Lewis Cine",
+    "age": "24",
+    "position": "S",
+    "weight": "199",
+    "height": "6-2",
+    "college": "Georgia",
+    "experience": "1"
+  }
+]

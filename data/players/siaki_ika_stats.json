@@ -1,1 +1,327 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2023","age":"23","team":"CLE","pos":"DT","uniform_number":"62","g":"4","gs":"0","offense":"0","off_pct":"0%","defense":"100","def_pct":"35%","special_teams":"5","st_pct":"4%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"CLE","game_location":"","opp":"CIN","game_result":"W 24-3","reason":"Inactive"},{"game_date":"2023-09-18","game_num":"2","week_num":"2","age":"","team":"CLE","game_location":"@","opp":"PIT","game_result":"L 22-26","reason":"Inactive"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"CLE","game_location":"","opp":"TEN","game_result":"W 27-3","reason":"Inactive"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"CLE","game_location":"","opp":"BAL","game_result":"L 3-28","reason":"Inactive"},{"game_date":"2023-10-15","game_num":"5","week_num":"6","age":"","team":"CLE","game_location":"","opp":"SFO","game_result":"W 19-17","reason":"Inactive"},{"game_date":"2023-10-22","game_num":"6","week_num":"7","age":"","team":"CLE","game_location":"@","opp":"IND","game_result":"W 39-38","reason":"Inactive"},{"game_date":"2023-10-29","game_num":"7","week_num":"8","age":"","team":"CLE","game_location":"@","opp":"SEA","game_result":"L 20-24","reason":"Inactive"},{"game_date":"2023-11-05","game_num":"8","week_num":"9","age":"","team":"CLE","game_location":"","opp":"ARI","game_result":"W 27-0","reason":"Inactive"},{"game_date":"2023-11-12","game_num":"9","week_num":"10","age":"","team":"CLE","game_location":"@","opp":"BAL","game_result":"W 33-31","reason":"Inactive"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"CLE","game_location":"","opp":"PIT","game_result":"W 13-10","reason":"Inactive"},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"","team":"CLE","game_location":"@","opp":"DEN","game_result":"L 12-29","reason":"Inactive"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"CLE","game_location":"@","opp":"LAR","game_result":"L 19-36","reason":"Inactive"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"CLE","game_location":"","opp":"JAX","game_result":"W 31-27","reason":"Inactive"},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"23.040","team":"CLE","game_location":"","opp":"CHI","game_result":"W 20-17","gs":"","def_int":"","def_int_yds":"","def_int_td":"","pass_defended":"","offense":"0","off_pct":"0%","defense":"18","def_pct":"25%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"23.047","team":"CLE","game_location":"@","opp":"HOU","game_result":"W 36-22","gs":"","def_int":"0","def_int_yds":"0","def_int_td":"0","pass_defended":"1","offense":"0","off_pct":"0%","defense":"27","def_pct":"36%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-12-28","game_num":"16","week_num":"17","age":"23.051","team":"CLE","game_location":"","opp":"NYJ","game_result":"W 37-20","gs":"","def_int":"0","def_int_yds":"0","def_int_td":"0","pass_defended":"0","offense":"0","off_pct":"0%","defense":"16","def_pct":"22%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"23.061","team":"CLE","game_location":"@","opp":"CIN","game_result":"L 14-31","gs":"","def_int":"0","def_int_yds":"0","def_int_td":"0","pass_defended":"0","offense":"0","off_pct":"0%","defense":"39","def_pct":"61%","special_teams":"5","st_pct":"17%","status":""}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "23",
+        "team": "CLE",
+        "pos": "DT",
+        "uniform_number": "62",
+        "g": "4",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "100",
+        "def_pct": "35%",
+        "special_teams": "5",
+        "st_pct": "4%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "CIN",
+        "game_result": "W 24-3",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-09-18",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "PIT",
+        "game_result": "L 22-26",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "TEN",
+        "game_result": "W 27-3",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "BAL",
+        "game_result": "L 3-28",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "5",
+        "week_num": "6",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "SFO",
+        "game_result": "W 19-17",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "6",
+        "week_num": "7",
+        "age": "",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "IND",
+        "game_result": "W 39-38",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "7",
+        "week_num": "8",
+        "age": "",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "SEA",
+        "game_result": "L 20-24",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "8",
+        "week_num": "9",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "ARI",
+        "game_result": "W 27-0",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "BAL",
+        "game_result": "W 33-31",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "PIT",
+        "game_result": "W 13-10",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "DEN",
+        "game_result": "L 12-29",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "LAR",
+        "game_result": "L 19-36",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "JAX",
+        "game_result": "W 31-27",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "23.040",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "CHI",
+        "game_result": "W 20-17",
+        "gs": "",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "",
+        "pass_defended": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "18",
+        "def_pct": "25%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "23.047",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "HOU",
+        "game_result": "W 36-22",
+        "gs": "",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "pass_defended": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "27",
+        "def_pct": "36%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-28",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "23.051",
+        "team": "CLE",
+        "game_location": "",
+        "opp": "NYJ",
+        "game_result": "W 37-20",
+        "gs": "",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "pass_defended": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "16",
+        "def_pct": "22%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "23.061",
+        "team": "CLE",
+        "game_location": "@",
+        "opp": "CIN",
+        "game_result": "L 14-31",
+        "gs": "",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "pass_defended": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "39",
+        "def_pct": "61%",
+        "special_teams": "5",
+        "st_pct": "17%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "Siaki Ika",
+    "age": "23",
+    "position": "DT",
+    "weight": "335",
+    "height": "",
+    "college": "LSU,Baylor",
+    "experience": "Rook"
+  }
+]

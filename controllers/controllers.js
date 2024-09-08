@@ -16,4 +16,19 @@ async function getHomePage(req, res, draftType) {
     })
 }
 
+async function loadPlayerNames() {
+    const playerDir = path.join(__dirname, '..', 'data', 'players');
+    const files = fs.readdirSync(playerDir);
+  
+    for (const file of files) {
+      if (path.extname(file) === '.json') {
+        const filePath = path.join(playerDir, file);
+        const data = fs.readFileSync(filePath, 'utf8');
+        const player = JSON.parse(data);
+        allPlayerNames.push(player.name);
+      }
+    }
+  }
+
 module.exports.getHomePage = getHomePage;
+module.exports.loadPlayerNames = loadPlayerNames;

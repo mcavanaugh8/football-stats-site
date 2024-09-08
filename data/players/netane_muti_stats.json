@@ -1,1 +1,451 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2020","age":"21","team":"DEN","pos":"G","uniform_number":"52","g":"4","gs":"1","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"","fumbles_rec":"","fumbles_rec_yds":"","fumbles_rec_td":"","sacks":"0.0","tackles_combined":"1","tackles_solo":"1","tackles_assists":"0","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"1"},{"year_id":"2021","age":"22","team":"DEN","pos":"G","uniform_number":"52","g":"15","gs":"3","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"2"},{"year_id":"2022","age":"23","team":"DEN","pos":"G","uniform_number":"52","g":"1","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"},{"year_id":"2023","age":"24","team":"LVR","pos":"G","uniform_number":"54","g":"2","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"","tackles_solo":"","tackles_assists":"","tackles_loss":"","qb_hits":"","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2020","age":"21","team":"DEN","pos":"G","uniform_number":"52","g":"4","gs":"1","offense":"122","off_pct":"44%","defense":"0","def_pct":"0%","special_teams":"22","st_pct":"18%"},{"year_id":"2021","age":"22","team":"DEN","pos":"G","uniform_number":"52","g":"15","gs":"3","offense":"317","off_pct":"33%","defense":"0","def_pct":"0%","special_teams":"55","st_pct":"15%"},{"year_id":"2022","age":"23","team":"DEN","pos":"G","uniform_number":"52","g":"1","gs":"0","offense":"28","off_pct":"39%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%"},{"year_id":"2023","age":"24","team":"LVR","pos":"G","uniform_number":"54","g":"2","gs":"0","offense":"1","off_pct":"1%","defense":"0","def_pct":"0%","special_teams":"12","st_pct":"25%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"LVR","game_location":"@","opp":"DEN","game_result":"W 17-16","reason":"Did Not Play"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"","team":"LVR","game_location":"@","opp":"BUF","game_result":"L 10-38","reason":"Did Not Play"},{"game_date":"2023-09-24","game_num":"3","week_num":"3","age":"","team":"LVR","game_location":"","opp":"PIT","game_result":"L 18-23","reason":"Did Not Play"},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"LVR","game_location":"@","opp":"LAC","game_result":"L 17-24","reason":"Did Not Play"},{"game_date":"2023-10-09","game_num":"5","week_num":"5","age":"","team":"LVR","game_location":"","opp":"GNB","game_result":"W 17-13","reason":"Did Not Play"},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"24.202","team":"LVR","game_location":"","opp":"NWE","game_result":"W 21-17","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"24%","status":""},{"game_date":"2023-10-22","game_num":"7","week_num":"7","age":"","team":"LVR","game_location":"@","opp":"CHI","game_result":"L 12-30","reason":"Did Not Play"},{"game_date":"2023-10-30","game_num":"8","week_num":"8","age":"","team":"LVR","game_location":"@","opp":"DET","game_result":"L 14-26","reason":"Did Not Play"},{"game_date":"2023-11-05","game_num":"9","week_num":"9","age":"24.223","team":"LVR","game_location":"","opp":"NYG","game_result":"W 30-6","gs":"","offense":"1","off_pct":"2%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"25%","status":""},{"game_date":"2023-11-12","game_num":"10","week_num":"10","age":"","team":"LVR","game_location":"","opp":"NYJ","game_result":"W 16-12","reason":"Did Not Play"},{"game_date":"2023-11-19","game_num":"11","week_num":"11","age":"","team":"LVR","game_location":"@","opp":"MIA","game_result":"L 13-20","reason":"Did Not Play"},{"game_date":"2023-11-26","game_num":"12","week_num":"12","age":"","team":"LVR","game_location":"","opp":"KAN","game_result":"L 17-31","reason":"Did Not Play"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"","team":"LVR","game_location":"","opp":"MIN","game_result":"L 0-3","reason":"Did Not Play"},{"game_date":"2023-12-14","game_num":"14","week_num":"15","age":"","team":"LVR","game_location":"","opp":"LAC","game_result":"W 63-21","reason":"Did Not Play"},{"game_date":"2023-12-25","game_num":"15","week_num":"16","age":"","team":"LVR","game_location":"@","opp":"KAN","game_result":"W 20-14","reason":"Did Not Play"},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"","team":"LVR","game_location":"@","opp":"IND","game_result":"L 20-23","reason":"Did Not Play"},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"","team":"LVR","game_location":"","opp":"DEN","game_result":"W 27-14","reason":"Did Not Play"}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "21",
+        "team": "DEN",
+        "pos": "G",
+        "uniform_number": "52",
+        "g": "4",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "",
+        "fumbles_rec": "",
+        "fumbles_rec_yds": "",
+        "fumbles_rec_td": "",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "1"
+      },
+      {
+        "year_id": "2021",
+        "age": "22",
+        "team": "DEN",
+        "pos": "G",
+        "uniform_number": "52",
+        "g": "15",
+        "gs": "3",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "2"
+      },
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "DEN",
+        "pos": "G",
+        "uniform_number": "52",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "LVR",
+        "pos": "G",
+        "uniform_number": "54",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "21",
+        "team": "DEN",
+        "pos": "G",
+        "uniform_number": "52",
+        "g": "4",
+        "gs": "1",
+        "offense": "122",
+        "off_pct": "44%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "22",
+        "st_pct": "18%"
+      },
+      {
+        "year_id": "2021",
+        "age": "22",
+        "team": "DEN",
+        "pos": "G",
+        "uniform_number": "52",
+        "g": "15",
+        "gs": "3",
+        "offense": "317",
+        "off_pct": "33%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "55",
+        "st_pct": "15%"
+      },
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "DEN",
+        "pos": "G",
+        "uniform_number": "52",
+        "g": "1",
+        "gs": "0",
+        "offense": "28",
+        "off_pct": "39%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      },
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "LVR",
+        "pos": "G",
+        "uniform_number": "54",
+        "g": "2",
+        "gs": "0",
+        "offense": "1",
+        "off_pct": "1%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "12",
+        "st_pct": "25%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "DEN",
+        "game_result": "W 17-16",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "BUF",
+        "game_result": "L 10-38",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-24",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "PIT",
+        "game_result": "L 18-23",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "LAC",
+        "game_result": "L 17-24",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-09",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "GNB",
+        "game_result": "W 17-13",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "24.202",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "NWE",
+        "game_result": "W 21-17",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "24%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "CHI",
+        "game_result": "L 12-30",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-30",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "DET",
+        "game_result": "L 14-26",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "9",
+        "week_num": "9",
+        "age": "24.223",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 30-6",
+        "gs": "",
+        "offense": "1",
+        "off_pct": "2%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "25%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "10",
+        "week_num": "10",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "NYJ",
+        "game_result": "W 16-12",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "11",
+        "week_num": "11",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "MIA",
+        "game_result": "L 13-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "12",
+        "week_num": "12",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "KAN",
+        "game_result": "L 17-31",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "MIN",
+        "game_result": "L 0-3",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-14",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "LAC",
+        "game_result": "W 63-21",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-25",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "KAN",
+        "game_result": "W 20-14",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "",
+        "team": "LVR",
+        "game_location": "@",
+        "opp": "IND",
+        "game_result": "L 20-23",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "",
+        "team": "LVR",
+        "game_location": "",
+        "opp": "DEN",
+        "game_result": "W 27-14",
+        "reason": "Did Not Play"
+      }
+    ]
+  },
+  {
+    "name": "Netane Muti",
+    "age": "24",
+    "position": "G",
+    "weight": "315",
+    "height": "6-3",
+    "college": "Fresno St.",
+    "experience": "3"
+  }
+]

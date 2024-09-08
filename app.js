@@ -9,8 +9,14 @@ const morgan = require('morgan');
 const mongoose = require('mongoose');
 const MongoStore = require('connect-mongo');
 
+const playerController = require('./controllers/playerController');
+
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+const allPlayerNames = playerController.loadPlayerNames();
+console.log('Player names loaded:', playerController.getAllPlayerNames().length);
+
 app.use(express.json()); 
 app.use(express.urlencoded({ extended: true }));
 
@@ -25,6 +31,7 @@ if (process.env.NODE_ENV === 'development') {
   app.set('view engine', '.hbs');
   app.use('/public', express.static(path.join(__dirname, 'public')));
   app.use('/img', express.static(path.join(__dirname, 'public/img')));
+  app.use('/api', express.json());
   app.use('/', require('./routes/routes'));
   app.use((req, res) => {
     res.render('error', {
@@ -33,3 +40,4 @@ if (process.env.NODE_ENV === 'development') {
     });
   });
   app.listen(PORT, () => console.log(`Server running in ${process.env.NODE_ENV} mode on port ${PORT}`));
+

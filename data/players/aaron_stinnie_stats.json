@@ -1,1 +1,464 @@
-[{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"fantasy","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2018","age":"24","team":"TEN","pos":"G","uniform_number":"61","g":"1","gs":"0","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"17%"},{"year_id":"2019","age":"25","team":"2TM","pos":"G","uniform_number":"","g":"5","gs":"0","offense":"16","off_pct":"","defense":"0","def_pct":"","special_teams":"22","st_pct":""},{"year_id":"","age":"","team":"TEN","pos":"G","uniform_number":"61","g":"3","gs":"0","offense":"14","off_pct":"7%","defense":"0","def_pct":"0%","special_teams":"12","st_pct":"14%"},{"year_id":"","age":"","team":"","pos":"","uniform_number":"","g":"","gs":"","offense":"2","off_pct":"1%","defense":"0","def_pct":"0%","special_teams":"10","st_pct":"17%"},{"year_id":"2020","age":"26","team":"TAM","pos":"G","uniform_number":"64","g":"6","gs":"0","offense":"30","off_pct":"7%","defense":"0","def_pct":"0%","special_teams":"22","st_pct":"13%"},{"year_id":"2021","age":"27","team":"TAM","pos":"G","uniform_number":"64","g":"6","gs":"1","offense":"90","off_pct":"22%","defense":"0","def_pct":"0%","special_teams":"8","st_pct":"5%"},{"year_id":"2023","age":"29","team":"TAM","pos":"G","uniform_number":"64","g":"13","gs":"11","offense":"718","off_pct":"86%","defense":"0","def_pct":"0%","special_teams":"47","st_pct":"15%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"TAM","game_location":"@","opp":"MIN","game_result":"W 20-17","reason":"Did Not Play"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"","team":"TAM","game_location":"","opp":"CHI","game_result":"W 27-17","reason":"Did Not Play"},{"game_date":"2023-09-25","game_num":"3","week_num":"3","age":"29.219","team":"TAM","game_location":"","opp":"PHI","game_result":"L 11-25","gs":"","offense":"1","off_pct":"2%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"","team":"TAM","game_location":"@","opp":"NOR","game_result":"W 26-9","reason":"Did Not Play"},{"game_date":"2023-10-15","game_num":"5","week_num":"6","age":"","team":"TAM","game_location":"","opp":"DET","game_result":"L 6-20","reason":"Did Not Play"},{"game_date":"2023-10-22","game_num":"6","week_num":"7","age":"29.246","team":"TAM","game_location":"","opp":"ATL","game_result":"L 13-16","gs":"","offense":"0","off_pct":"0%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"14%","status":""},{"game_date":"2023-10-26","game_num":"7","week_num":"8","age":"29.250","team":"TAM","game_location":"@","opp":"BUF","game_result":"L 18-24","gs":"*","offense":"68","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"12%","status":""},{"game_date":"2023-11-05","game_num":"8","week_num":"9","age":"29.260","team":"TAM","game_location":"@","opp":"HOU","game_result":"L 37-39","gs":"*","offense":"66","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"7","st_pct":"21%","status":""},{"game_date":"2023-11-12","game_num":"9","week_num":"10","age":"29.267","team":"TAM","game_location":"","opp":"TEN","game_result":"W 20-6","gs":"*","offense":"65","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"17%","status":""},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"29.274","team":"TAM","game_location":"@","opp":"SFO","game_result":"L 14-27","gs":"*","offense":"71","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"2","st_pct":"9%","status":""},{"game_date":"2023-11-26","game_num":"11","week_num":"12","age":"29.281","team":"TAM","game_location":"@","opp":"IND","game_result":"L 20-27","gs":"*","offense":"60","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"4","st_pct":"15%","status":""},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"29.288","team":"TAM","game_location":"","opp":"CAR","game_result":"W 21-18","gs":"*","offense":"62","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"10%","status":""},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"29.295","team":"TAM","game_location":"@","opp":"ATL","game_result":"W 29-25","gs":"*","offense":"68","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"5","st_pct":"16%","status":""},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"29.302","team":"TAM","game_location":"@","opp":"GNB","game_result":"W 34-20","gs":"*","offense":"62","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"24%","status":""},{"game_date":"2023-12-24","game_num":"15","week_num":"16","age":"29.309","team":"TAM","game_location":"","opp":"JAX","game_result":"W 30-12","gs":"*","offense":"74","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"6","st_pct":"30%","status":""},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"29.316","team":"TAM","game_location":"","opp":"NOR","game_result":"L 13-23","gs":"*","offense":"56","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"1","st_pct":"4%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"29.323","team":"TAM","game_location":"@","opp":"CAR","game_result":"W 9-0","gs":"*","offense":"65","off_pct":"100%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"15%","status":""}]}]
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2018",
+        "age": "24",
+        "team": "TEN",
+        "pos": "G",
+        "uniform_number": "61",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "17%"
+      },
+      {
+        "year_id": "2019",
+        "age": "25",
+        "team": "2TM",
+        "pos": "G",
+        "uniform_number": "",
+        "g": "5",
+        "gs": "0",
+        "offense": "16",
+        "off_pct": "",
+        "defense": "0",
+        "def_pct": "",
+        "special_teams": "22",
+        "st_pct": ""
+      },
+      {
+        "year_id": "",
+        "age": "",
+        "team": "TEN",
+        "pos": "G",
+        "uniform_number": "61",
+        "g": "3",
+        "gs": "0",
+        "offense": "14",
+        "off_pct": "7%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "12",
+        "st_pct": "14%"
+      },
+      {
+        "year_id": "",
+        "age": "",
+        "team": "",
+        "pos": "",
+        "uniform_number": "",
+        "g": "",
+        "gs": "",
+        "offense": "2",
+        "off_pct": "1%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "10",
+        "st_pct": "17%"
+      },
+      {
+        "year_id": "2020",
+        "age": "26",
+        "team": "TAM",
+        "pos": "G",
+        "uniform_number": "64",
+        "g": "6",
+        "gs": "0",
+        "offense": "30",
+        "off_pct": "7%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "22",
+        "st_pct": "13%"
+      },
+      {
+        "year_id": "2021",
+        "age": "27",
+        "team": "TAM",
+        "pos": "G",
+        "uniform_number": "64",
+        "g": "6",
+        "gs": "1",
+        "offense": "90",
+        "off_pct": "22%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "8",
+        "st_pct": "5%"
+      },
+      {
+        "year_id": "2023",
+        "age": "29",
+        "team": "TAM",
+        "pos": "G",
+        "uniform_number": "64",
+        "g": "13",
+        "gs": "11",
+        "offense": "718",
+        "off_pct": "86%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "47",
+        "st_pct": "15%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "MIN",
+        "game_result": "W 20-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "CHI",
+        "game_result": "W 27-17",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-25",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "29.219",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "PHI",
+        "game_result": "L 11-25",
+        "gs": "",
+        "offense": "1",
+        "off_pct": "2%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "NOR",
+        "game_result": "W 26-9",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "5",
+        "week_num": "6",
+        "age": "",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "DET",
+        "game_result": "L 6-20",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-10-22",
+        "game_num": "6",
+        "week_num": "7",
+        "age": "29.246",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "ATL",
+        "game_result": "L 13-16",
+        "gs": "",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "14%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-26",
+        "game_num": "7",
+        "week_num": "8",
+        "age": "29.250",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "BUF",
+        "game_result": "L 18-24",
+        "gs": "*",
+        "offense": "68",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "12%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-05",
+        "game_num": "8",
+        "week_num": "9",
+        "age": "29.260",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "HOU",
+        "game_result": "L 37-39",
+        "gs": "*",
+        "offense": "66",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "7",
+        "st_pct": "21%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "29.267",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "TEN",
+        "game_result": "W 20-6",
+        "gs": "*",
+        "offense": "65",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "17%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "29.274",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "SFO",
+        "game_result": "L 14-27",
+        "gs": "*",
+        "offense": "71",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "9%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-11-26",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "29.281",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "IND",
+        "game_result": "L 20-27",
+        "gs": "*",
+        "offense": "60",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "15%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "29.288",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "CAR",
+        "game_result": "W 21-18",
+        "gs": "*",
+        "offense": "62",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "10%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "29.295",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "ATL",
+        "game_result": "W 29-25",
+        "gs": "*",
+        "offense": "68",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "16%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "29.302",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "GNB",
+        "game_result": "W 34-20",
+        "gs": "*",
+        "offense": "62",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "24%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-24",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "29.309",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "JAX",
+        "game_result": "W 30-12",
+        "gs": "*",
+        "offense": "74",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "30%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "29.316",
+        "team": "TAM",
+        "game_location": "",
+        "opp": "NOR",
+        "game_result": "L 13-23",
+        "gs": "*",
+        "offense": "56",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "1",
+        "st_pct": "4%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "29.323",
+        "team": "TAM",
+        "game_location": "@",
+        "opp": "CAR",
+        "game_result": "W 9-0",
+        "gs": "*",
+        "offense": "65",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "15%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "Aaron Stinnie",
+    "age": "29",
+    "position": "G",
+    "weight": "312",
+    "height": "6-3",
+    "college": "James Madison",
+    "experience": "5"
+  }
+]

@@ -1,1 +1,414 @@
-[{"category":"fantasy","rows":[{"year_id":"2023","age":"24","g":"7","fantasy_pos":"TE","fantasy_points":"","vbd":"","fantasy_rank_pos":"138","fantasy_rank_overall":"","games":"All 2023 Games"}]},{"category":"passing","rows":[]},{"category":"advanced_air_yards","rows":[]},{"category":"advanced_accuracy","rows":[]},{"category":"advanced_pressure","rows":[]},{"category":"advanced_play_tape","rows":[]},{"category":"passing_advanced","rows":[]},{"category":"detailed_receiving_and_rushing","rows":[]},{"category":"receiving_and_rushing","rows":[]},{"category":"rushing_and_receiving","rows":[]},{"category":"detailed_rushing_and_receiving","rows":[]},{"category":"defense","rows":[{"year_id":"2023","age":"24","team":"SFO","pos":"TE","uniform_number":"9","g":"7","gs":"0","def_int":"","def_int_yds":"","def_int_td":"0","def_int_long":"","pass_defended":"","fumbles_forced":"0","fumbles":"0","fumbles_rec":"0","fumbles_rec_yds":"0","fumbles_rec_td":"0","sacks":"0.0","tackles_combined":"1","tackles_solo":"1","tackles_assists":"0","tackles_loss":"0","qb_hits":"0","safety_md":"","av":"0"}]},{"category":"punting","rows":[]},{"category":"returns","rows":[]},{"category":"scoring","rows":[]},{"category":"snap_counts","rows":[{"year_id":"2023","age":"24","team":"SFO","pos":"TE","uniform_number":"9","g":"7","gs":"0","offense":"48","off_pct":"11%","defense":"0","def_pct":"0%","special_teams":"101","st_pct":"58%"}]},{"category":"stats","rows":[{"game_date":"2023-09-10","game_num":"1","week_num":"1","age":"","team":"SFO","game_location":"@","opp":"PIT","game_result":"W 30-7","reason":"Inactive"},{"game_date":"2023-09-17","game_num":"2","week_num":"2","age":"","team":"SFO","game_location":"@","opp":"LAR","game_result":"W 30-23","reason":"Did Not Play"},{"game_date":"2023-09-21","game_num":"3","week_num":"3","age":"23.314","team":"SFO","game_location":"","opp":"NYG","game_result":"W 30-12","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"5","off_pct":"6%","defense":"0","def_pct":"0%","special_teams":"0","st_pct":"0%","status":""},{"game_date":"2023-10-01","game_num":"4","week_num":"4","age":"23.324","team":"SFO","game_location":"","opp":"ARI","game_result":"W 35-16","gs":"","sacks":"0.0","tackles_solo":"1","tackles_assists":"0","tackles_combined":"1","tackles_loss":"0","qb_hits":"0","offense":"1","off_pct":"2%","defense":"0","def_pct":"0%","special_teams":"3","st_pct":"14%","status":""},{"game_date":"2023-10-08","game_num":"5","week_num":"5","age":"","team":"SFO","game_location":"","opp":"DAL","game_result":"W 42-10","reason":"Inactive"},{"game_date":"2023-10-15","game_num":"6","week_num":"6","age":"","team":"SFO","game_location":"@","opp":"CLE","game_result":"L 17-19","reason":"Inactive"},{"game_date":"2023-10-23","game_num":"7","week_num":"7","age":"","team":"SFO","game_location":"@","opp":"MIN","game_result":"L 17-22","reason":"Inactive"},{"game_date":"2023-10-29","game_num":"8","week_num":"8","age":"","team":"SFO","game_location":"","opp":"CIN","game_result":"L 17-31","reason":"Inactive"},{"game_date":"2023-11-12","game_num":"9","week_num":"10","age":"","team":"SFO","game_location":"@","opp":"JAX","game_result":"W 34-3","reason":"Inactive"},{"game_date":"2023-11-19","game_num":"10","week_num":"11","age":"","team":"SFO","game_location":"","opp":"TAM","game_result":"W 27-14","reason":"Inactive"},{"game_date":"2023-11-23","game_num":"11","week_num":"12","age":"","team":"SFO","game_location":"@","opp":"SEA","game_result":"W 31-13","reason":"Inactive"},{"game_date":"2023-12-03","game_num":"12","week_num":"13","age":"","team":"SFO","game_location":"@","opp":"PHI","game_result":"W 42-19","reason":"Inactive"},{"game_date":"2023-12-10","game_num":"13","week_num":"14","age":"24.029","team":"SFO","game_location":"","opp":"SEA","game_result":"W 28-16","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"4","off_pct":"7%","defense":"0","def_pct":"0%","special_teams":"18","st_pct":"67%","status":""},{"game_date":"2023-12-17","game_num":"14","week_num":"15","age":"24.036","team":"SFO","game_location":"@","opp":"ARI","game_result":"W 45-29","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"6","off_pct":"11%","defense":"0","def_pct":"0%","special_teams":"25","st_pct":"81%","status":""},{"game_date":"2023-12-25","game_num":"15","week_num":"16","age":"24.044","team":"SFO","game_location":"","opp":"BAL","game_result":"L 19-33","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"1","off_pct":"1%","defense":"0","def_pct":"0%","special_teams":"19","st_pct":"71%","status":""},{"game_date":"2023-12-31","game_num":"16","week_num":"17","age":"24.050","team":"SFO","game_location":"@","opp":"WAS","game_result":"W 27-10","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"6","off_pct":"9%","defense":"0","def_pct":"0%","special_teams":"19","st_pct":"90%","status":""},{"game_date":"2024-01-07","game_num":"17","week_num":"18","age":"24.057","team":"SFO","game_location":"","opp":"LAR","game_result":"L 20-21","gs":"","sacks":"","tackles_solo":"","tackles_assists":"","tackles_combined":"","tackles_loss":"","qb_hits":"","offense":"25","off_pct":"41%","defense":"0","def_pct":"0%","special_teams":"17","st_pct":"89%","status":""}]}]
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "24",
+        "g": "7",
+        "fantasy_pos": "TE",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "138",
+        "fantasy_rank_overall": "",
+        "games": "All 2023 Games"
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "SFO",
+        "pos": "TE",
+        "uniform_number": "9",
+        "g": "7",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "24",
+        "team": "SFO",
+        "pos": "TE",
+        "uniform_number": "9",
+        "g": "7",
+        "gs": "0",
+        "offense": "48",
+        "off_pct": "11%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "101",
+        "st_pct": "58%"
+      }
+    ]
+  },
+  {
+    "category": "stats",
+    "rows": [
+      {
+        "game_date": "2023-09-10",
+        "game_num": "1",
+        "week_num": "1",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "PIT",
+        "game_result": "W 30-7",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-09-17",
+        "game_num": "2",
+        "week_num": "2",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "LAR",
+        "game_result": "W 30-23",
+        "reason": "Did Not Play"
+      },
+      {
+        "game_date": "2023-09-21",
+        "game_num": "3",
+        "week_num": "3",
+        "age": "23.314",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "NYG",
+        "game_result": "W 30-12",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "5",
+        "off_pct": "6%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-01",
+        "game_num": "4",
+        "week_num": "4",
+        "age": "23.324",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "ARI",
+        "game_result": "W 35-16",
+        "gs": "",
+        "sacks": "0.0",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_combined": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "offense": "1",
+        "off_pct": "2%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "14%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-10-08",
+        "game_num": "5",
+        "week_num": "5",
+        "age": "",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "DAL",
+        "game_result": "W 42-10",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-15",
+        "game_num": "6",
+        "week_num": "6",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "CLE",
+        "game_result": "L 17-19",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-23",
+        "game_num": "7",
+        "week_num": "7",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "MIN",
+        "game_result": "L 17-22",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-10-29",
+        "game_num": "8",
+        "week_num": "8",
+        "age": "",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "CIN",
+        "game_result": "L 17-31",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-12",
+        "game_num": "9",
+        "week_num": "10",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "JAX",
+        "game_result": "W 34-3",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-19",
+        "game_num": "10",
+        "week_num": "11",
+        "age": "",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "TAM",
+        "game_result": "W 27-14",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-11-23",
+        "game_num": "11",
+        "week_num": "12",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "SEA",
+        "game_result": "W 31-13",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-03",
+        "game_num": "12",
+        "week_num": "13",
+        "age": "",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "PHI",
+        "game_result": "W 42-19",
+        "reason": "Inactive"
+      },
+      {
+        "game_date": "2023-12-10",
+        "game_num": "13",
+        "week_num": "14",
+        "age": "24.029",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "SEA",
+        "game_result": "W 28-16",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "4",
+        "off_pct": "7%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "18",
+        "st_pct": "67%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-17",
+        "game_num": "14",
+        "week_num": "15",
+        "age": "24.036",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "ARI",
+        "game_result": "W 45-29",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "6",
+        "off_pct": "11%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "25",
+        "st_pct": "81%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-25",
+        "game_num": "15",
+        "week_num": "16",
+        "age": "24.044",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "BAL",
+        "game_result": "L 19-33",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "1",
+        "off_pct": "1%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "19",
+        "st_pct": "71%",
+        "status": ""
+      },
+      {
+        "game_date": "2023-12-31",
+        "game_num": "16",
+        "week_num": "17",
+        "age": "24.050",
+        "team": "SFO",
+        "game_location": "@",
+        "opp": "WAS",
+        "game_result": "W 27-10",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "6",
+        "off_pct": "9%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "19",
+        "st_pct": "90%",
+        "status": ""
+      },
+      {
+        "game_date": "2024-01-07",
+        "game_num": "17",
+        "week_num": "18",
+        "age": "24.057",
+        "team": "SFO",
+        "game_location": "",
+        "opp": "LAR",
+        "game_result": "L 20-21",
+        "gs": "",
+        "sacks": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_combined": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "offense": "25",
+        "off_pct": "41%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "17",
+        "st_pct": "89%",
+        "status": ""
+      }
+    ]
+  },
+  {
+    "name": "Brayden Willis",
+    "age": "24",
+    "position": "TE",
+    "weight": "240",
+    "height": "",
+    "college": "Oklahoma",
+    "experience": "Rook"
+  }
+]
