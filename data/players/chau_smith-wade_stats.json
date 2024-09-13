@@ -106,5 +106,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Chau Smith-Wade",
+    "age": "22",
+    "position": "CB",
+    "weight": "176",
+    "height": "",
+    "college": "Washington St.",
+    "experience": "Rook"
   }
 ]

@@ -323,5 +323,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Noah Igbinoghene",
+    "age": "25",
+    "position": "CB",
+    "weight": "197",
+    "height": "5-11",
+    "college": "Auburn",
+    "experience": "4"
   }
 ]

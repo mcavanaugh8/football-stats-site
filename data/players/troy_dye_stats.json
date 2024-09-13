@@ -274,5 +274,14 @@
         "st_pct": "79%"
       }
     ]
+  },
+  {
+    "name": "Troy Dye",
+    "age": "28",
+    "position": "LB",
+    "weight": "231",
+    "height": "6-3",
+    "college": "Oregon",
+    "experience": "4"
   }
 ]

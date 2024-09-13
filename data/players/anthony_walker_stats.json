@@ -400,5 +400,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Anthony Walker",
+    "age": "29",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-1",
+    "college": "Northwestern",
+    "experience": "7"
   }
 ]

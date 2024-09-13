@@ -260,5 +260,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Roy Lopez",
+    "age": "27",
+    "position": "DL",
+    "weight": "318",
+    "height": "6-2",
+    "college": "New Mexico St.,Arizona",
+    "experience": "3"
   }
 ]

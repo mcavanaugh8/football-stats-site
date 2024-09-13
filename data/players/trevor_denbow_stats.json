@@ -190,5 +190,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Trevor Denbow",
+    "age": "26",
+    "position": "S",
+    "weight": "208",
+    "height": "5-10",
+    "college": "Navarro,SMU",
+    "experience": "2"
   }
 ]

@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mazi Smith",
+    "age": "23",
+    "position": "DT",
+    "weight": "337",
+    "height": "",
+    "college": "Michigan",
+    "experience": "1"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Zak Zinter",
+    "age": "23",
+    "position": "G",
+    "weight": "310",
+    "height": "",
+    "college": "Michigan",
+    "experience": "Rook"
   }
 ]

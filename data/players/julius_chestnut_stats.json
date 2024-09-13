@@ -425,5 +425,14 @@
         "st_pct": "72%"
       }
     ]
+  },
+  {
+    "name": "Julius Chestnut",
+    "age": "24",
+    "position": "RB",
+    "weight": "228",
+    "height": "5-11",
+    "college": "Sacred Heart",
+    "experience": "2"
   }
 ]

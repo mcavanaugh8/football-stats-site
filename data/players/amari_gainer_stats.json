@@ -78,5 +78,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Amari Gainer",
+    "age": "24",
+    "position": "LB",
+    "weight": "236",
+    "height": "",
+    "college": "Florida St.,North Carolina",
+    "experience": "Rook"
   }
 ]

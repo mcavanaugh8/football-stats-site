@@ -322,5 +322,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Erik McCoy",
+    "age": "27",
+    "position": "OL",
+    "weight": "303",
+    "height": "6-4",
+    "college": "Texas A&M",
+    "experience": "5"
   }
 ]

@@ -287,5 +287,14 @@
         "st_pct": "67%"
       }
     ]
+  },
+  {
+    "name": "Tony Fields",
+    "age": "25",
+    "position": "LB",
+    "weight": "222",
+    "height": "6-0",
+    "college": "Arizona,West Virginia",
+    "experience": "3"
   }
 ]

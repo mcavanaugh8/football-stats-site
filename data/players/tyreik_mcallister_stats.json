@@ -118,5 +118,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Tyreik McAllister",
+    "age": "26",
+    "position": "WR",
+    "weight": "180",
+    "height": "5-11",
+    "college": "Charleston (WV)",
+    "experience": "1"
   }
 ]

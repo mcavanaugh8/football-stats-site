@@ -78,5 +78,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Cam Hart",
+    "age": "24",
+    "position": "CB",
+    "weight": "207",
+    "height": "6-2",
+    "college": "Notre Dame",
+    "experience": "Rook"
   }
 ]

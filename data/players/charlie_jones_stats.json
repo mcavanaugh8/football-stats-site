@@ -327,5 +327,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Charlie Jones",
+    "age": "26",
+    "position": "WR",
+    "weight": "183",
+    "height": "",
+    "college": "Buffalo,Iowa,Purdue",
+    "experience": "1"
   }
 ]

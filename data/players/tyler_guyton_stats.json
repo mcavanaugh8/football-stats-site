@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Tyler Guyton",
+    "age": "23",
+    "position": "OT",
+    "weight": "322",
+    "height": "6-7",
+    "college": "TCU,Oklahoma",
+    "experience": "Rook"
   }
 ]

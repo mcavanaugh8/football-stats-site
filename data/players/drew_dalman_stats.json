@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Drew Dalman",
+    "age": "26",
+    "position": "OL",
+    "weight": "305",
+    "height": "6-3",
+    "college": "Stanford",
+    "experience": "3"
   }
 ]

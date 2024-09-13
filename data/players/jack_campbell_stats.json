@@ -150,5 +150,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Jack Campbell",
+    "age": "24",
+    "position": "LB",
+    "weight": "243",
+    "height": "",
+    "college": "Iowa",
+    "experience": "1"
   }
 ]

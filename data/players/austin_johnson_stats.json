@@ -442,5 +442,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Austin Johnson",
+    "age": "30",
+    "position": "DT",
+    "weight": "314",
+    "height": "6-4",
+    "college": "Penn St.",
+    "experience": "8"
   }
 ]

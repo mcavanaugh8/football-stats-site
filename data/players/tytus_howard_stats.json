@@ -316,5 +316,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Tytus Howard",
+    "age": "28",
+    "position": "T",
+    "weight": "322",
+    "height": "6-5",
+    "college": "Alabama St.",
+    "experience": "5"
   }
 ]

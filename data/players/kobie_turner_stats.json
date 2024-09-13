@@ -150,5 +150,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Kobie Turner",
+    "age": "25",
+    "position": "DE",
+    "weight": "297",
+    "height": "6-2",
+    "college": "Richmond,Wake Forest",
+    "experience": "1"
   }
 ]

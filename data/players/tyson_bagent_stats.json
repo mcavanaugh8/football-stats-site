@@ -325,5 +325,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyson Bagent",
+    "age": "24",
+    "position": "QB",
+    "weight": "213",
+    "height": "6-3",
+    "college": "Shepherd",
+    "experience": "1"
   }
 ]

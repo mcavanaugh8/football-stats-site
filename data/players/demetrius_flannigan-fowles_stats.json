@@ -274,5 +274,14 @@
         "st_pct": "65%"
       }
     ]
+  },
+  {
+    "name": "Demetrius Flannigan-Fowles",
+    "age": "28",
+    "position": "LB",
+    "weight": "223",
+    "height": "6-2",
+    "college": "Arizona",
+    "experience": "4"
   }
 ]

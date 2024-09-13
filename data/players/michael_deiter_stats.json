@@ -575,5 +575,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Michael Deiter",
+    "age": "28",
+    "position": "G",
+    "weight": "310",
+    "height": "6-6",
+    "college": "Wisconsin",
+    "experience": "5"
   }
 ]

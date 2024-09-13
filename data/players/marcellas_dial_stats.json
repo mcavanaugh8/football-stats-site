@@ -78,5 +78,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Marcellas Dial",
+    "age": "24",
+    "position": "DB",
+    "weight": "190",
+    "height": "",
+    "college": "Georgia Military,South Carolina",
+    "experience": "Rook"
   }
 ]

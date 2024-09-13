@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Logan Bruss",
+    "age": "25",
+    "position": "OL",
+    "weight": "317",
+    "height": "6-5",
+    "college": "Wisconsin",
+    "experience": "1"
   }
 ]

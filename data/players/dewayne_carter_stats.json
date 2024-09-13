@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "DeWayne Carter",
+    "age": "24",
+    "position": "DT",
+    "weight": "305",
+    "height": "6-3",
+    "college": "Duke",
+    "experience": "Rook"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Keidron Smith",
+    "age": "25",
+    "position": "DB",
+    "weight": "210",
+    "height": "6-2",
+    "college": "Mississippi,Kentucky",
+    "experience": "1"
   }
 ]

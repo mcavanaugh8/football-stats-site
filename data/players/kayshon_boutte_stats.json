@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kayshon Boutte",
+    "age": "22",
+    "position": "WR",
+    "weight": "197",
+    "height": "5-11",
+    "college": "LSU",
+    "experience": "1"
   }
 ]

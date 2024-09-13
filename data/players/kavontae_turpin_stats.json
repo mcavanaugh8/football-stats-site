@@ -523,5 +523,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "KaVontae Turpin",
+    "age": "28",
+    "position": "WR",
+    "weight": "153",
+    "height": "5-9",
+    "college": "TCU",
+    "experience": "2"
   }
 ]

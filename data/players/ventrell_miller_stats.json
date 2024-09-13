@@ -106,5 +106,14 @@
         "st_pct": "56%"
       }
     ]
+  },
+  {
+    "name": "Ventrell Miller",
+    "age": "25",
+    "position": "LB",
+    "weight": "232",
+    "height": "6-0",
+    "college": "Florida",
+    "experience": "1"
   }
 ]

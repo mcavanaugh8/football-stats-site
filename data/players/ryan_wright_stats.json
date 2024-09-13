@@ -396,5 +396,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Ryan Wright",
+    "age": "24",
+    "position": "P",
+    "weight": "245",
+    "height": "6-3",
+    "college": "Tulane",
+    "experience": "2"
   }
 ]

@@ -322,5 +322,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Julian Love",
+    "age": "26",
+    "position": "FS",
+    "weight": "195",
+    "height": "5-11",
+    "college": "Notre Dame",
+    "experience": "5"
   }
 ]

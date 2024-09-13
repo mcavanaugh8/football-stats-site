@@ -557,5 +557,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Kaleb McGary",
+    "age": "29",
+    "position": "T",
+    "weight": "306",
+    "height": "6-6",
+    "college": "Washington",
+    "experience": "5"
   }
 ]

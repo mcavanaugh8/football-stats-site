@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Kitan Oladapo",
+    "age": "24",
+    "position": "S",
+    "weight": "216",
+    "height": "",
+    "college": "Oregon St.",
+    "experience": "Rook"
   }
 ]

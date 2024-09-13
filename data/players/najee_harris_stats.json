@@ -894,5 +894,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Najee Harris",
+    "age": "26",
+    "position": "RB",
+    "weight": "242",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "3"
   }
 ]

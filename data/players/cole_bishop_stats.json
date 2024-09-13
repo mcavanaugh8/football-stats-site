@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Cole Bishop",
+    "age": "22",
+    "position": "S",
+    "weight": "207",
+    "height": "",
+    "college": "Utah",
+    "experience": "Rook"
   }
 ]

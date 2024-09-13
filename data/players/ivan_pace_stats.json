@@ -148,5 +148,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Ivan Pace",
+    "age": "24",
+    "position": "LB",
+    "weight": "231",
+    "height": "",
+    "college": "Miami (OH),Cincinnati",
+    "experience": "1"
   }
 ]

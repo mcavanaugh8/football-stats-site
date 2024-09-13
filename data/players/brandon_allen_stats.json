@@ -938,5 +938,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brandon Allen",
+    "age": "32",
+    "position": "QB",
+    "weight": "209",
+    "height": "6-2",
+    "college": "Arkansas",
+    "experience": "5"
   }
 ]

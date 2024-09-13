@@ -190,5 +190,14 @@
         "st_pct": "73%"
       }
     ]
+  },
+  {
+    "name": "Jake Hummel",
+    "age": "25",
+    "position": "LB",
+    "weight": "227",
+    "height": "6-1",
+    "college": "Iowa St.",
+    "experience": "2"
   }
 ]

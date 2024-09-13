@@ -78,5 +78,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Tatum Bethune",
+    "age": "23",
+    "position": "LB",
+    "weight": "230",
+    "height": "",
+    "college": "Central Florida,Florida St.",
+    "experience": "Rook"
   }
 ]

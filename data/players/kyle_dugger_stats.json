@@ -343,5 +343,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Kyle Dugger",
+    "age": "28",
+    "position": "S",
+    "weight": "216",
+    "height": "6-1",
+    "college": "Lenoir-Rhyne",
+    "experience": "4"
   }
 ]

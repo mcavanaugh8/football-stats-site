@@ -190,5 +190,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Vederian Lowe",
+    "age": "25",
+    "position": "T",
+    "weight": "315",
+    "height": "6-5",
+    "college": "Illinois",
+    "experience": "2"
   }
 ]

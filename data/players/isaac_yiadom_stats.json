@@ -442,5 +442,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Isaac Yiadom",
+    "age": "28",
+    "position": "CB",
+    "weight": "232",
+    "height": "6-1",
+    "college": "Boston Col.",
+    "experience": "6"
   }
 ]

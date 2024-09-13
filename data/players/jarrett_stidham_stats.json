@@ -964,5 +964,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jarrett Stidham",
+    "age": "28",
+    "position": "QB",
+    "weight": "215",
+    "height": "6-3",
+    "college": "Baylor,Auburn",
+    "experience": "5"
   }
 ]

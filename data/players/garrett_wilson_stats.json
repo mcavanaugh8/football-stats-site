@@ -682,5 +682,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Garrett Wilson",
+    "age": "24",
+    "position": "WR",
+    "weight": "183",
+    "height": "6-0",
+    "college": "Ohio St.",
+    "experience": "2"
   }
 ]

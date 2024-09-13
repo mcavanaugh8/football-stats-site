@@ -106,5 +106,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "LaBryan Ray",
+    "age": "27",
+    "position": "DE",
+    "weight": "290",
+    "height": "6-4",
+    "college": "Alabama",
+    "experience": "1"
   }
 ]

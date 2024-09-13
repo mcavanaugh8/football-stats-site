@@ -106,5 +106,14 @@
         "st_pct": "58%"
       }
     ]
+  },
+  {
+    "name": "Darrell Luter",
+    "age": "24",
+    "position": "CB",
+    "weight": "190",
+    "height": "",
+    "college": "Pearl River CC,South Alabama",
+    "experience": "1"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Javion Cohen",
+    "age": "22",
+    "position": "G",
+    "weight": "322",
+    "height": "",
+    "college": "Alabama,Miami (FL)",
+    "experience": "Rook"
   }
 ]

@@ -873,5 +873,14 @@
         "st_pct": "53%"
       }
     ]
+  },
+  {
+    "name": "Jordan Akins",
+    "age": "32",
+    "position": "TE",
+    "weight": "245",
+    "height": "6-4",
+    "college": "Central Florida",
+    "experience": "6"
   }
 ]

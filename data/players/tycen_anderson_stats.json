@@ -148,5 +148,14 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Tycen Anderson",
+    "age": "25",
+    "position": "S",
+    "weight": "209",
+    "height": "6-2",
+    "college": "Toledo",
+    "experience": "1"
   }
 ]

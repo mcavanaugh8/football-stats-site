@@ -274,5 +274,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Yosh Nijman",
+    "age": "28",
+    "position": "T",
+    "weight": "314",
+    "height": "6-7",
+    "college": "Virginia Tech",
+    "experience": "4"
   }
 ]

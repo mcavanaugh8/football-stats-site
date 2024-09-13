@@ -232,5 +232,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Ta'Quon Graham",
+    "age": "26",
+    "position": "DL",
+    "weight": "307",
+    "height": "6-4",
+    "college": "Texas",
+    "experience": "3"
   }
 ]

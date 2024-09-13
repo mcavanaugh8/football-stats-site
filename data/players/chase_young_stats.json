@@ -393,5 +393,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Chase Young",
+    "age": "25",
+    "position": "DE",
+    "weight": "265",
+    "height": "6-5",
+    "college": "Ohio St.",
+    "experience": "4"
   }
 ]

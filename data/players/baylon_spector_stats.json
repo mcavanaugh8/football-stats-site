@@ -190,5 +190,14 @@
         "st_pct": "78%"
       }
     ]
+  },
+  {
+    "name": "Baylon Spector",
+    "age": "26",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-0",
+    "college": "Clemson",
+    "experience": "2"
   }
 ]

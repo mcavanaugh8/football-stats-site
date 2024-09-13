@@ -619,5 +619,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Khalil Mack",
+    "age": "33",
+    "position": "OLB",
+    "weight": "269",
+    "height": "6-3",
+    "college": "Buffalo",
+    "experience": "10"
   }
 ]

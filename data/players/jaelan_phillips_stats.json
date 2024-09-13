@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jaelan Phillips",
+    "age": "25",
+    "position": "LB",
+    "weight": "263",
+    "height": "6-5",
+    "college": "UCLA,Miami (FL)",
+    "experience": "3"
   }
 ]

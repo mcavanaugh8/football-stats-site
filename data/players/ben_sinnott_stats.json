@@ -90,5 +90,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Ben Sinnott",
+    "age": "22",
+    "position": "TE",
+    "weight": "247",
+    "height": "",
+    "college": "Kansas St.",
+    "experience": "Rook"
   }
 ]

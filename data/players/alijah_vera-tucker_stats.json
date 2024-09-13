@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Alijah Vera-Tucker",
+    "age": "25",
+    "position": "G",
+    "weight": "308",
+    "height": "6-5",
+    "college": "USC",
+    "experience": "3"
   }
 ]

@@ -436,5 +436,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Penei Sewell",
+    "age": "24",
+    "position": "T",
+    "weight": "335",
+    "height": "6-5",
+    "college": "Oregon",
+    "experience": "3"
   }
 ]

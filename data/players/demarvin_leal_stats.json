@@ -190,5 +190,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "DeMarvin Leal",
+    "age": "24",
+    "position": "DE",
+    "weight": "290",
+    "height": "6-4",
+    "college": "Texas A&M",
+    "experience": "2"
   }
 ]

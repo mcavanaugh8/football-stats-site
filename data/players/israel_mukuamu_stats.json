@@ -232,5 +232,14 @@
         "st_pct": "61%"
       }
     ]
+  },
+  {
+    "name": "Israel Mukuamu",
+    "age": "25",
+    "position": "S",
+    "weight": "205",
+    "height": "6-4",
+    "college": "South Carolina",
+    "experience": "3"
   }
 ]

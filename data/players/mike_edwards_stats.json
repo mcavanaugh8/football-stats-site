@@ -419,5 +419,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Mike Edwards",
+    "age": "28",
+    "position": "S",
+    "weight": "205",
+    "height": "5-10",
+    "college": "Kentucky,Hawaii",
+    "experience": "5"
   }
 ]

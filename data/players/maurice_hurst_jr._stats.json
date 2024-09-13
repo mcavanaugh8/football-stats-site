@@ -321,5 +321,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Maurice Hurst Jr.",
+    "age": "29",
+    "position": "DT",
+    "weight": "290",
+    "height": "6-2",
+    "college": "Michigan",
+    "experience": "6"
   }
 ]

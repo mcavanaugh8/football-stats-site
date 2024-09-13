@@ -190,5 +190,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Joshua Ezeudu",
+    "age": "25",
+    "position": "OL",
+    "weight": "310",
+    "height": "6-4",
+    "college": "North Carolina",
+    "experience": "2"
   }
 ]

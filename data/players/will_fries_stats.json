@@ -232,5 +232,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Will Fries",
+    "age": "26",
+    "position": "OL",
+    "weight": "305",
+    "height": "6-6",
+    "college": "Penn St.",
+    "experience": "3"
   }
 ]

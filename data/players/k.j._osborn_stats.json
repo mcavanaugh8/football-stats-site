@@ -774,5 +774,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "K.J. Osborn",
+    "age": "27",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Buffalo,Miami (FL)",
+    "experience": "4"
   }
 ]

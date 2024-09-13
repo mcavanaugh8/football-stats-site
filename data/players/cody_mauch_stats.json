@@ -93,5 +93,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Cody Mauch",
+    "age": "25",
+    "position": "G",
+    "weight": "303",
+    "height": "6-6",
+    "college": "North Dakota St.",
+    "experience": "1"
   }
 ]

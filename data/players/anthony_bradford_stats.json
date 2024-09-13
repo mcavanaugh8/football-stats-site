@@ -93,5 +93,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Anthony Bradford",
+    "age": "23",
+    "position": "G",
+    "weight": "332",
+    "height": "",
+    "college": "LSU",
+    "experience": "1"
   }
 ]

@@ -409,5 +409,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Daniel Bellinger",
+    "age": "24",
+    "position": "TE",
+    "weight": "255",
+    "height": "6-6",
+    "college": "San Diego St.",
+    "experience": "2"
   }
 ]

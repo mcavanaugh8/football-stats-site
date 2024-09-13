@@ -1126,5 +1126,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Austin Ekeler",
+    "age": "29",
+    "position": "RB",
+    "weight": "200",
+    "height": "5-9",
+    "college": "Western St. (CO)",
+    "experience": "7"
   }
 ]

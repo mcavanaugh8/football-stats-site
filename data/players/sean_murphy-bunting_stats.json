@@ -344,5 +344,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Sean Murphy-Bunting",
+    "age": "27",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-0",
+    "college": "Central Michigan",
+    "experience": "5"
   }
 ]

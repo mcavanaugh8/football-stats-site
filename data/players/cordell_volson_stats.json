@@ -108,5 +108,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Cordell Volson",
+    "age": "26",
+    "position": "G",
+    "weight": "315",
+    "height": "6-6",
+    "college": "North Dakota St.",
+    "experience": "2"
   }
 ]

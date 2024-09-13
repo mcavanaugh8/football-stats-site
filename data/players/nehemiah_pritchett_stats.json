@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Nehemiah Pritchett",
+    "age": "23",
+    "position": "CB",
+    "weight": "188",
+    "height": "",
+    "college": "Auburn",
+    "experience": "Rook"
   }
 ]

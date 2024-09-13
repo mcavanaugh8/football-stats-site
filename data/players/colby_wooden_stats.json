@@ -148,5 +148,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Colby Wooden",
+    "age": "24",
+    "position": "DL",
+    "weight": "273",
+    "height": "6-4",
+    "college": "Auburn",
+    "experience": "1"
   }
 ]

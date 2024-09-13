@@ -232,5 +232,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Azeez Ojulari",
+    "age": "24",
+    "position": "OLB",
+    "weight": "240",
+    "height": "6-3",
+    "college": "Georgia",
+    "experience": "3"
   }
 ]

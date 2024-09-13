@@ -322,5 +322,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Dexter Lawrence",
+    "age": "27",
+    "position": "DL",
+    "weight": "340",
+    "height": "6-4",
+    "college": "Clemson",
+    "experience": "5"
   }
 ]

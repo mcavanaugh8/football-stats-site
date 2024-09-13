@@ -302,5 +302,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Raekwon McMillan",
+    "age": "28",
+    "position": "LB",
+    "weight": "250",
+    "height": "6-2",
+    "college": "Ohio St.",
+    "experience": "6"
   }
 ]

@@ -190,5 +190,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Alontae Taylor",
+    "age": "26",
+    "position": "CB",
+    "weight": "199",
+    "height": "6-1",
+    "college": "Tennessee",
+    "experience": "2"
   }
 ]

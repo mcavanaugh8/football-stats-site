@@ -313,5 +313,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Luke Schoonmaker",
+    "age": "26",
+    "position": "TE",
+    "weight": "250",
+    "height": "6-5",
+    "college": "Michigan",
+    "experience": "1"
   }
 ]

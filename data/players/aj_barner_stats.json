@@ -90,5 +90,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "AJ Barner",
+    "age": "22",
+    "position": "TE",
+    "weight": "251",
+    "height": "",
+    "college": "Indiana,Michigan",
+    "experience": "Rook"
   }
 ]

@@ -106,5 +106,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Kamren Kinchens",
+    "age": "22",
+    "position": "DB",
+    "weight": "207",
+    "height": "",
+    "college": "Miami (FL)",
+    "experience": "Rook"
   }
 ]

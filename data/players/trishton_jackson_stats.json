@@ -190,5 +190,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Trishton Jackson",
+    "age": "26",
+    "position": "WR",
+    "weight": "191",
+    "height": "6-1",
+    "college": "Michigan St.,Syracuse",
+    "experience": "1"
   }
 ]

@@ -218,5 +218,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Cobie Durant",
+    "age": "26",
+    "position": "DB",
+    "weight": "182",
+    "height": "5-11",
+    "college": "South Carolina St.",
+    "experience": "2"
   }
 ]

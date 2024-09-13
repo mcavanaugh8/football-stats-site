@@ -449,5 +449,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Romeo Doubs",
+    "age": "24",
+    "position": "WR",
+    "weight": "204",
+    "height": "6-2",
+    "college": "Nevada",
+    "experience": "2"
   }
 ]

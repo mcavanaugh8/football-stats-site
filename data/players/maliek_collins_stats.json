@@ -442,5 +442,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Maliek Collins",
+    "age": "29",
+    "position": "DL",
+    "weight": "310",
+    "height": "6-2",
+    "college": "Nebraska",
+    "experience": "8"
   }
 ]

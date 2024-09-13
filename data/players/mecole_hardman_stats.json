@@ -1227,5 +1227,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Mecole Hardman",
+    "age": "26",
+    "position": "WR",
+    "weight": "187",
+    "height": "5-10",
+    "college": "Georgia",
+    "experience": "5"
   }
 ]

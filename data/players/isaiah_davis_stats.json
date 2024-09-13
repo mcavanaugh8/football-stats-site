@@ -90,5 +90,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Davis",
+    "age": "22",
+    "position": "RB",
+    "weight": "220",
+    "height": "6-1",
+    "college": "South Dakota St.",
+    "experience": "Rook"
   }
 ]

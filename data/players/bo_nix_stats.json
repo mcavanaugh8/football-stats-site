@@ -240,5 +240,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Bo Nix",
+    "age": "24",
+    "position": "QB",
+    "weight": "217",
+    "height": "",
+    "college": "Auburn,Oregon",
+    "experience": "Rook"
   }
 ]

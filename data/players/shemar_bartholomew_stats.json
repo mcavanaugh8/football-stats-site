@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Shemar Bartholomew",
+    "age": "24",
+    "position": "CB",
+    "weight": "200",
+    "height": "6-1",
+    "college": "Georgia Southern",
+    "experience": "Rook"
   }
 ]

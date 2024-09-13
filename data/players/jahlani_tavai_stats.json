@@ -316,5 +316,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Jahlani Tavai",
+    "age": "28",
+    "position": "LB",
+    "weight": "255",
+    "height": "6-2",
+    "college": "Hawaii",
+    "experience": "5"
   }
 ]

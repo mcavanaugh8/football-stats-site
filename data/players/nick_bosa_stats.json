@@ -322,5 +322,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nick Bosa",
+    "age": "27",
+    "position": "DL",
+    "weight": "266",
+    "height": "6-4",
+    "college": "Ohio St.",
+    "experience": "5"
   }
 ]

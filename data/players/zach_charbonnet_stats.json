@@ -315,5 +315,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Zach Charbonnet",
+    "age": "23",
+    "position": "RB",
+    "weight": "214",
+    "height": "",
+    "college": "Michigan,UCLA",
+    "experience": "1"
   }
 ]

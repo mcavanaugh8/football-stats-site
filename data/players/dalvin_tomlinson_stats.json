@@ -400,5 +400,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Dalvin Tomlinson",
+    "age": "30",
+    "position": "DT",
+    "weight": "325",
+    "height": "6-3",
+    "college": "Alabama",
+    "experience": "7"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "57%"
       }
     ]
+  },
+  {
+    "name": "Rico Payton",
+    "age": "25",
+    "position": "CB",
+    "weight": "182",
+    "height": "6-0",
+    "college": "Southern Illinois,Pittsburg St.",
+    "experience": "Rook"
   }
 ]

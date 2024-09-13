@@ -421,5 +421,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Roy Robertson-Harris",
+    "age": "31",
+    "position": "DL",
+    "weight": "290",
+    "height": "6-5",
+    "college": "Texas-El Paso",
+    "experience": "7"
   }
 ]

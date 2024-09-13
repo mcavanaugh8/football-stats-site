@@ -494,5 +494,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brandon Scherff",
+    "age": "33",
+    "position": "OL",
+    "weight": "315",
+    "height": "6-5",
+    "college": "Iowa",
+    "experience": "9"
   }
 ]

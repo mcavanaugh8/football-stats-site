@@ -148,5 +148,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Caleb Murphy",
+    "age": "25",
+    "position": "OLB",
+    "weight": "254",
+    "height": "6-3",
+    "college": "Grand Valley St.,Ferris St.",
+    "experience": "1"
   }
 ]

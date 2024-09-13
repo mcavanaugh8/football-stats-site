@@ -386,5 +386,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Bilal Nichols",
+    "age": "28",
+    "position": "DL",
+    "weight": "313",
+    "height": "6-4",
+    "college": "Delaware",
+    "experience": "6"
   }
 ]

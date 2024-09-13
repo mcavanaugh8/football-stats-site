@@ -749,5 +749,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Jamie Gillan",
+    "age": "27",
+    "position": "P",
+    "weight": "207",
+    "height": "6-1",
+    "college": "Ark-Pine Bluff",
+    "experience": "5"
   }
 ]

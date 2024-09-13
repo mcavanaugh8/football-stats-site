@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Caedan Wallace",
+    "age": "24",
+    "position": "T",
+    "weight": "314",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "Rook"
   }
 ]

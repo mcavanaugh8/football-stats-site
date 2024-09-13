@@ -1281,5 +1281,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Josh Reynolds",
+    "age": "29",
+    "position": "WR",
+    "weight": "192",
+    "height": "6-3",
+    "college": "Texas A&M",
+    "experience": "7"
   }
 ]

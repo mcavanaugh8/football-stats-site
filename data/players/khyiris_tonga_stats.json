@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Khyiris Tonga",
+    "age": "28",
+    "position": "DL",
+    "weight": "338",
+    "height": "6-4",
+    "college": "BYU",
+    "experience": "3"
   }
 ]

@@ -313,5 +313,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Michael Wilson",
+    "age": "24",
+    "position": "WR",
+    "weight": "213",
+    "height": "",
+    "college": "Stanford",
+    "experience": "1"
   }
 ]

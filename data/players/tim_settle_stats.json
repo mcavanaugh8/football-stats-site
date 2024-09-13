@@ -358,5 +358,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Tim Settle",
+    "age": "27",
+    "position": "DT",
+    "weight": "313",
+    "height": "6-3",
+    "college": "Virginia Tech",
+    "experience": "6"
   }
 ]

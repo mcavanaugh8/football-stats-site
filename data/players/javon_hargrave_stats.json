@@ -479,5 +479,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Javon Hargrave",
+    "age": "31",
+    "position": "DL",
+    "weight": "305",
+    "height": "6-2",
+    "college": "South Carolina St.",
+    "experience": "8"
   }
 ]

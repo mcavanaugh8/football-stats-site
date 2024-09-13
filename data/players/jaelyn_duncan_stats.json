@@ -93,5 +93,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Jaelyn Duncan",
+    "age": "24",
+    "position": "OL",
+    "weight": "306",
+    "height": "",
+    "college": "Maryland",
+    "experience": "1"
   }
 ]

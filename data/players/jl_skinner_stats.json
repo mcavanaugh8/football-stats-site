@@ -148,5 +148,14 @@
         "st_pct": "88%"
       }
     ]
+  },
+  {
+    "name": "JL Skinner",
+    "age": "23",
+    "position": "S",
+    "weight": "220",
+    "height": "",
+    "college": "Boise St.",
+    "experience": "1"
   }
 ]

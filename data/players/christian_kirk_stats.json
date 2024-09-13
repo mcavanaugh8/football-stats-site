@@ -1663,5 +1663,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Christian Kirk",
+    "age": "28",
+    "position": "WR",
+    "weight": "200",
+    "height": "5-11",
+    "college": "Texas A&M",
+    "experience": "6"
   }
 ]

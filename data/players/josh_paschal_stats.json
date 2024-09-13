@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Josh Paschal",
+    "age": "25",
+    "position": "DL",
+    "weight": "274",
+    "height": "6-3",
+    "college": "Kentucky",
+    "experience": "2"
   }
 ]

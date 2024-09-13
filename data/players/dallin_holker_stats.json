@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Dallin Holker",
+    "age": "24",
+    "position": "TE",
+    "weight": "241",
+    "height": "",
+    "college": "BYU,Colorado St.",
+    "experience": "Rook"
   }
 ]

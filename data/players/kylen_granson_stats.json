@@ -552,5 +552,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Kylen Granson",
+    "age": "26",
+    "position": "TE",
+    "weight": "242",
+    "height": "6-3",
+    "college": "Rice,SMU",
+    "experience": "3"
   }
 ]

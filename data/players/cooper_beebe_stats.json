@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Cooper Beebe",
+    "age": "23",
+    "position": "OG",
+    "weight": "335",
+    "height": "6-4",
+    "college": "Kansas St.",
+    "experience": "Rook"
   }
 ]

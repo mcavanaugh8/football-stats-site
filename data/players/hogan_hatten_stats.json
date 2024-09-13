@@ -78,5 +78,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Hogan Hatten",
+    "age": "24",
+    "position": "LS",
+    "weight": "239",
+    "height": "6-2",
+    "college": "Idaho",
+    "experience": "Rook"
   }
 ]

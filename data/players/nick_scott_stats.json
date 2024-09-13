@@ -557,5 +557,14 @@
         "st_pct": "93%"
       }
     ]
+  },
+  {
+    "name": "Nick Scott",
+    "age": "29",
+    "position": "S",
+    "weight": "200",
+    "height": "5-11",
+    "college": "Penn St.",
+    "experience": "5"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jaylan Ford",
+    "age": "23",
+    "position": "LB",
+    "weight": "240",
+    "height": "",
+    "college": "Texas",
+    "experience": "Rook"
   }
 ]

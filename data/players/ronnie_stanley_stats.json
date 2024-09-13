@@ -451,5 +451,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Ronnie Stanley",
+    "age": "30",
+    "position": "T",
+    "weight": "310",
+    "height": "6-6",
+    "college": "Notre Dame",
+    "experience": "8"
   }
 ]

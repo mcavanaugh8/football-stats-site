@@ -1096,5 +1096,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Patrick Ricard",
+    "age": "30",
+    "position": "FB",
+    "weight": "300",
+    "height": "6-3",
+    "college": "Maine",
+    "experience": "7"
   }
 ]

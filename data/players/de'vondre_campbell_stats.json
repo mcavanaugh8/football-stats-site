@@ -479,5 +479,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "De'Vondre Campbell",
+    "age": "31",
+    "position": "LB",
+    "weight": "232",
+    "height": "6-4",
+    "college": "Minnesota",
+    "experience": "8"
   }
 ]

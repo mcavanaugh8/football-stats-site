@@ -106,5 +106,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Jalen Elliott",
+    "age": "26",
+    "position": "S",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Notre Dame",
+    "experience": "3"
   }
 ]

@@ -315,5 +315,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Myles Bryant",
+    "age": "26",
+    "position": "CB",
+    "weight": "192",
+    "height": "5-9",
+    "college": "Washington",
+    "experience": "4"
   }
 ]

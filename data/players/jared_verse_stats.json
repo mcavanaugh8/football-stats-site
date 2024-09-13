@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jared Verse",
+    "age": "24",
+    "position": "OLB",
+    "weight": "250",
+    "height": "",
+    "college": "Albany (NY),Florida St.",
+    "experience": "Rook"
   }
 ]

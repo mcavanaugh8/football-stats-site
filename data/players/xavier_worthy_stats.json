@@ -178,5 +178,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Xavier Worthy",
+    "age": "21",
+    "position": "WR",
+    "weight": "165",
+    "height": "",
+    "college": "Texas",
+    "experience": "Rook"
   }
 ]

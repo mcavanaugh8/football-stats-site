@@ -108,5 +108,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Daniel Faalele",
+    "age": "25",
+    "position": "T",
+    "weight": "380",
+    "height": "6-6",
+    "college": "Minnesota",
+    "experience": "2"
   }
 ]

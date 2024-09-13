@@ -148,5 +148,14 @@
         "st_pct": "58%"
       }
     ]
+  },
+  {
+    "name": "Nick Hampton",
+    "age": "24",
+    "position": "OLB",
+    "weight": "247",
+    "height": "",
+    "college": "Appalachian St.",
+    "experience": "1"
   }
 ]

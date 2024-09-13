@@ -78,5 +78,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Tyrice Knight",
+    "age": "24",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-0",
+    "college": "Independence (KS),Texas-El Paso",
+    "experience": "Rook"
   }
 ]

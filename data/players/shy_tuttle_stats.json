@@ -316,5 +316,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Shy Tuttle",
+    "age": "29",
+    "position": "DT",
+    "weight": "300",
+    "height": "6-3",
+    "college": "Tennessee",
+    "experience": "5"
   }
 ]

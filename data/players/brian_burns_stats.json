@@ -350,5 +350,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brian Burns",
+    "age": "26",
+    "position": "OLB",
+    "weight": "250",
+    "height": "6-5",
+    "college": "Florida St.",
+    "experience": "5"
   }
 ]

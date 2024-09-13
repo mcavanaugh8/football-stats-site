@@ -316,5 +316,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Daniel Brunskill",
+    "age": "30",
+    "position": "OL",
+    "weight": "300",
+    "height": "6-5",
+    "college": "San Diego St.",
+    "experience": "5"
   }
 ]

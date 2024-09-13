@@ -799,5 +799,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Ashton Dulin",
+    "age": "27",
+    "position": "WR",
+    "weight": "215",
+    "height": "6-2",
+    "college": "Malone",
+    "experience": "5"
   }
 ]

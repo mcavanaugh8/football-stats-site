@@ -601,5 +601,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kenny Pickett",
+    "age": "26",
+    "position": "QB",
+    "weight": "220",
+    "height": "6-3",
+    "college": "Pittsburgh",
+    "experience": "2"
   }
 ]

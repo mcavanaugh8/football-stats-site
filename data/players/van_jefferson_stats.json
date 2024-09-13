@@ -816,5 +816,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Van Jefferson",
+    "age": "28",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-1",
+    "college": "Mississippi,Florida",
+    "experience": "4"
   }
 ]

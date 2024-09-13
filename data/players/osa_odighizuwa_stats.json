@@ -232,5 +232,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Osa Odighizuwa",
+    "age": "26",
+    "position": "DT",
+    "weight": "280",
+    "height": "6-2",
+    "college": "UCLA",
+    "experience": "3"
   }
 ]

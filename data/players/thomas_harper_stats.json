@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Thomas Harper",
+    "age": "24",
+    "position": "S",
+    "weight": "195",
+    "height": "5-10",
+    "college": "Notre Dame",
+    "experience": "Rook"
   }
 ]

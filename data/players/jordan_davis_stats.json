@@ -190,5 +190,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Jordan Davis",
+    "age": "24",
+    "position": "DT",
+    "weight": "336",
+    "height": "6-6",
+    "college": "Georgia",
+    "experience": "2"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Alex Palczewski",
+    "age": "25",
+    "position": "T",
+    "weight": "314",
+    "height": "6-6",
+    "college": "Illinois",
+    "experience": "1"
   }
 ]

@@ -615,5 +615,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Adoree' Jackson",
+    "age": "29",
+    "position": "CB",
+    "weight": "185",
+    "height": "5-11",
+    "college": "USC",
+    "experience": "7"
   }
 ]

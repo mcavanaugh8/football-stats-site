@@ -567,5 +567,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tee Higgins",
+    "age": "25",
+    "position": "WR",
+    "weight": "219",
+    "height": "6-4",
+    "college": "Clemson",
+    "experience": "4"
   }
 ]

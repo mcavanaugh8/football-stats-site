@@ -106,5 +106,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Kamari Lassiter",
+    "age": "21",
+    "position": "CB",
+    "weight": "180",
+    "height": "",
+    "college": "Georgia",
+    "experience": "Rook"
   }
 ]

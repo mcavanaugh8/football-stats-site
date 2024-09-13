@@ -1428,5 +1428,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kyle Allen",
+    "age": "28",
+    "position": "QB",
+    "weight": "210",
+    "height": "6-3",
+    "college": "Texas A&M,Houston",
+    "experience": "6"
   }
 ]

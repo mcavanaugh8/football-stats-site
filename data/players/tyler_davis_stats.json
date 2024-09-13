@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyler Davis",
+    "age": "24",
+    "position": "DL",
+    "weight": "299",
+    "height": "",
+    "college": "Clemson",
+    "experience": "Rook"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "92%"
       }
     ]
+  },
+  {
+    "name": "Benton Whitley",
+    "age": "25",
+    "position": "OLB",
+    "weight": "260",
+    "height": "6-4",
+    "college": "Holy Cross",
+    "experience": "1"
   }
 ]

@@ -106,5 +106,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Ethan Bonner",
+    "age": "25",
+    "position": "CB",
+    "weight": "186",
+    "height": "6-1",
+    "college": "Stanford",
+    "experience": "1"
   }
 ]

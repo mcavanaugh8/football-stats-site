@@ -460,5 +460,14 @@
         "st_pct": "58%"
       }
     ]
+  },
+  {
+    "name": "Brandin Echols",
+    "age": "27",
+    "position": "CB",
+    "weight": "179",
+    "height": "5-10",
+    "college": "Northwest Mississippi CC,Kentucky",
+    "experience": "3"
   }
 ]

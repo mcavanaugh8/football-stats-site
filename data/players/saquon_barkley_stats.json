@@ -954,5 +954,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Saquon Barkley",
+    "age": "27",
+    "position": "RB",
+    "weight": "233",
+    "height": "6-0",
+    "college": "Penn St.",
+    "experience": "6"
   }
 ]

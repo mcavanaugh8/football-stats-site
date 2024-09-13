@@ -148,5 +148,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Cam Jones",
+    "age": "25",
+    "position": "LB",
+    "weight": "227",
+    "height": "6-2",
+    "college": "Indiana",
+    "experience": "1"
   }
 ]

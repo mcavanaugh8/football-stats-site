@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Marvin Harrison Jr.",
+    "age": "22",
+    "position": "WR",
+    "weight": "205",
+    "height": "6-4",
+    "college": "Ohio St.",
+    "experience": "Rook"
   }
 ]

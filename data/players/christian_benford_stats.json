@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Christian Benford",
+    "age": "24",
+    "position": "CB",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Villanova",
+    "experience": "2"
   }
 ]

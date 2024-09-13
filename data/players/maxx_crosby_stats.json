@@ -322,5 +322,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Maxx Crosby",
+    "age": "27",
+    "position": "DE",
+    "weight": "255",
+    "height": "6-5",
+    "college": "Eastern Michigan",
+    "experience": "5"
   }
 ]

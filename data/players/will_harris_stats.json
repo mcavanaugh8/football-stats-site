@@ -316,5 +316,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Will Harris",
+    "age": "29",
+    "position": "CB",
+    "weight": "206",
+    "height": "6-1",
+    "college": "Boston Col.",
+    "experience": "5"
   }
 ]

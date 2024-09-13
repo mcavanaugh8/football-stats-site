@@ -334,5 +334,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Andrei Iosivas",
+    "age": "25",
+    "position": "WR",
+    "weight": "205",
+    "height": "",
+    "college": "Princeton",
+    "experience": "1"
   }
 ]

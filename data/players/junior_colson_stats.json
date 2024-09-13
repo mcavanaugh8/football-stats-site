@@ -106,5 +106,14 @@
         "st_pct": "43%"
       }
     ]
+  },
+  {
+    "name": "Junior Colson",
+    "age": "22",
+    "position": "LB",
+    "weight": "247",
+    "height": "6-3",
+    "college": "Michigan",
+    "experience": "Rook"
   }
 ]

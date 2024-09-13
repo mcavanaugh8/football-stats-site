@@ -583,5 +583,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Shaq Thompson",
+    "age": "30",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-0",
+    "college": "Washington",
+    "experience": "9"
   }
 ]

@@ -528,5 +528,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Sam Howell",
+    "age": "24",
+    "position": "QB",
+    "weight": "220",
+    "height": "6-1",
+    "college": "North Carolina",
+    "experience": "2"
   }
 ]

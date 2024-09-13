@@ -78,5 +78,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Cooper Hodges",
+    "age": "24",
+    "position": "T",
+    "weight": "305",
+    "height": "6-4",
+    "college": "Appalachian St.",
+    "experience": "1"
   }
 ]

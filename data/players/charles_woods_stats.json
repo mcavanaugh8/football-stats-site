@@ -78,5 +78,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Charles Woods",
+    "age": "24",
+    "position": "DB",
+    "weight": "185",
+    "height": "5-11",
+    "college": "Illinois St.,West Virginia,SMU",
+    "experience": "Rook"
   }
 ]

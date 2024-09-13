@@ -101,5 +101,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Ryan Rehkow",
+    "age": "26",
+    "position": "P",
+    "weight": "235",
+    "height": "6-4",
+    "college": "BYU",
+    "experience": "Rook"
   }
 ]

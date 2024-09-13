@@ -302,5 +302,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Javon Kinlaw",
+    "age": "27",
+    "position": "DT",
+    "weight": "319",
+    "height": "6-5",
+    "college": "South Carolina",
+    "experience": "4"
   }
 ]

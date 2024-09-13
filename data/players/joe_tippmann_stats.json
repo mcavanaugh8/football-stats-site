@@ -93,5 +93,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Joe Tippmann",
+    "age": "23",
+    "position": "C",
+    "weight": "313",
+    "height": "",
+    "college": "Wisconsin",
+    "experience": "1"
   }
 ]

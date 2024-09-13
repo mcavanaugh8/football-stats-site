@@ -820,5 +820,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Dyami Brown",
+    "age": "25",
+    "position": "WR",
+    "weight": "195",
+    "height": "6-0",
+    "college": "North Carolina",
+    "experience": "3"
   }
 ]

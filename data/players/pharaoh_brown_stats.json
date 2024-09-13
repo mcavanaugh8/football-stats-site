@@ -964,5 +964,14 @@
         "st_pct": "46%"
       }
     ]
+  },
+  {
+    "name": "Pharaoh Brown",
+    "age": "30",
+    "position": "TE",
+    "weight": "246",
+    "height": "6-5",
+    "college": "Oregon",
+    "experience": "7"
   }
 ]

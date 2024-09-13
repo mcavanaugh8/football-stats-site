@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Javon Solomon",
+    "age": "23",
+    "position": "DE",
+    "weight": "247",
+    "height": "",
+    "college": "Troy",
+    "experience": "Rook"
   }
 ]

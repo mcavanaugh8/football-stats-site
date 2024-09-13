@@ -232,5 +232,14 @@
         "st_pct": "88%"
       }
     ]
+  },
+  {
+    "name": "Justin Strnad",
+    "age": "28",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-3",
+    "college": "Wake Forest",
+    "experience": "3"
   }
 ]

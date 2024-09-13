@@ -337,5 +337,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tommy DeVito",
+    "age": "26",
+    "position": "QB",
+    "weight": "210",
+    "height": "6-2",
+    "college": "Syracuse,Illinois",
+    "experience": "1"
   }
 ]

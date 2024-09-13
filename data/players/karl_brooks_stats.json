@@ -148,5 +148,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Karl Brooks",
+    "age": "24",
+    "position": "DL",
+    "weight": "296",
+    "height": "6-3",
+    "college": "Bowling Green",
+    "experience": "1"
   }
 ]

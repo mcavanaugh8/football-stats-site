@@ -106,5 +106,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Braden Fiske",
+    "age": "24",
+    "position": "DE",
+    "weight": "295",
+    "height": "",
+    "college": "Western Michigan,Florida St.",
+    "experience": "Rook"
   }
 ]

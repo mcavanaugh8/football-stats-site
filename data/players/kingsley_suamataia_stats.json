@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Kingsley Suamataia",
+    "age": "21",
+    "position": "T",
+    "weight": "326",
+    "height": "6-4",
+    "college": "Oregon,BYU",
+    "experience": "Rook"
   }
 ]

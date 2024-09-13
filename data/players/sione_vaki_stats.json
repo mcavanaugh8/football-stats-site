@@ -90,5 +90,14 @@
         "st_pct": "69%"
       }
     ]
+  },
+  {
+    "name": "Sione Vaki",
+    "age": "23",
+    "position": "RB",
+    "weight": "213",
+    "height": "",
+    "college": "Utah",
+    "experience": "Rook"
   }
 ]

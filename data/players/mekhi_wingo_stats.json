@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Mekhi Wingo",
+    "age": "21",
+    "position": "DL",
+    "weight": "291",
+    "height": "",
+    "college": "Missouri,LSU",
+    "experience": "Rook"
   }
 ]

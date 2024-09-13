@@ -78,5 +78,14 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Daijahn Anthony",
+    "age": "24",
+    "position": "S",
+    "weight": "195",
+    "height": "",
+    "college": "Shepherd,Liberty,Mississippi",
+    "experience": "Rook"
   }
 ]

@@ -150,5 +150,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Ja'Lynn Polk",
+    "age": "22",
+    "position": "WR",
+    "weight": "203",
+    "height": "",
+    "college": "Texas Tech,Washington",
+    "experience": "Rook"
   }
 ]

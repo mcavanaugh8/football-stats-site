@@ -190,5 +190,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Marlon Tuipulotu",
+    "age": "25",
+    "position": "DT",
+    "weight": "307",
+    "height": "6-2",
+    "college": "USC",
+    "experience": "3"
   }
 ]

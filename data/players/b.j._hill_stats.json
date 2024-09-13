@@ -358,5 +358,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "B.J. Hill",
+    "age": "29",
+    "position": "DT",
+    "weight": "311",
+    "height": "6-3",
+    "college": "North Carolina St.",
+    "experience": "6"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Grant Delpit",
+    "age": "26",
+    "position": "S",
+    "weight": "208",
+    "height": "6-3",
+    "college": "LSU",
+    "experience": "3"
   }
 ]

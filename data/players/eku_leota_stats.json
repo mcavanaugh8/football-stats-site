@@ -148,5 +148,14 @@
         "st_pct": "43%"
       }
     ]
+  },
+  {
+    "name": "Eku Leota",
+    "age": "25",
+    "position": "OLB",
+    "weight": "252",
+    "height": "6-3",
+    "college": "Northwestern,Auburn",
+    "experience": "1"
   }
 ]

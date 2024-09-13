@@ -413,5 +413,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Chuck Clark",
+    "age": "29",
+    "position": "S",
+    "weight": "209",
+    "height": "6-0",
+    "college": "Virginia Tech",
+    "experience": "7"
   }
 ]

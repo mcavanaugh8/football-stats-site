@@ -218,5 +218,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Bryan Cook",
+    "age": "25",
+    "position": "S",
+    "weight": "206",
+    "height": "6-1",
+    "college": "Howard,Cincinnati",
+    "experience": "2"
   }
 ]

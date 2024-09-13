@@ -358,5 +358,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Chris Board",
+    "age": "29",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-2",
+    "college": "North Dakota St.",
+    "experience": "6"
   }
 ]

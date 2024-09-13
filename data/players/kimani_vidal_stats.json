@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Kimani Vidal",
+    "age": "23",
+    "position": "RB",
+    "weight": "215",
+    "height": "",
+    "college": "Troy",
+    "experience": "Rook"
   }
 ]

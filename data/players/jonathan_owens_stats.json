@@ -392,5 +392,14 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Jonathan Owens",
+    "age": "29",
+    "position": "S",
+    "weight": "210",
+    "height": "5-11",
+    "college": "Missouri Western St.",
+    "experience": "5"
   }
 ]

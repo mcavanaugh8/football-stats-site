@@ -78,5 +78,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Laiatu Latu",
+    "age": "24",
+    "position": "DE",
+    "weight": "265",
+    "height": "",
+    "college": "Washington,UCLA",
+    "experience": "Rook"
   }
 ]

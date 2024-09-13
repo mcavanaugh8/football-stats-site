@@ -344,5 +344,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "E.J. Speed",
+    "age": "29",
+    "position": "LB",
+    "weight": "227",
+    "height": "6-4",
+    "college": "Tarleton St.",
+    "experience": "5"
   }
 ]

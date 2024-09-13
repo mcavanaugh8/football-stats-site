@@ -1129,5 +1129,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Gunner Olszewski",
+    "age": "28",
+    "position": "WR",
+    "weight": "190",
+    "height": "6-0",
+    "college": "Bemidji St.",
+    "experience": "5"
   }
 ]

@@ -337,5 +337,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Germaine Pratt",
+    "age": "28",
+    "position": "LB",
+    "weight": "250",
+    "height": "6-3",
+    "college": "North Carolina St.",
+    "experience": "5"
   }
 ]

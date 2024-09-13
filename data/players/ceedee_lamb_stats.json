@@ -834,5 +834,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "CeeDee Lamb",
+    "age": "25",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-2",
+    "college": "Oklahoma",
+    "experience": "4"
   }
 ]

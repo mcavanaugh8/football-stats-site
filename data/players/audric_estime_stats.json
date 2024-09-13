@@ -161,5 +161,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Audric Estime",
+    "age": "21",
+    "position": "RB",
+    "weight": "227",
+    "height": "",
+    "college": "Notre Dame",
+    "experience": "Rook"
   }
 ]

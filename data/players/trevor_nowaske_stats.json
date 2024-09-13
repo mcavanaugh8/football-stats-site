@@ -106,5 +106,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Trevor Nowaske",
+    "age": "26",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-3",
+    "college": "Saginaw Valley St.",
+    "experience": "1"
   }
 ]

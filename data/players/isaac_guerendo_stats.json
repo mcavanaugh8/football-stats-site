@@ -118,5 +118,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Isaac Guerendo",
+    "age": "24",
+    "position": "RB",
+    "weight": "221",
+    "height": "",
+    "college": "Wisconsin,Louisville",
+    "experience": "Rook"
   }
 ]

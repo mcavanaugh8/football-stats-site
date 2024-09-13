@@ -451,5 +451,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Cody Whitehair",
+    "age": "32",
+    "position": "OG",
+    "weight": "316",
+    "height": "6-3",
+    "college": "Kansas St.",
+    "experience": "8"
   }
 ]

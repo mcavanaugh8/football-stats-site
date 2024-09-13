@@ -148,5 +148,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Drake Thomas",
+    "age": "24",
+    "position": "LB",
+    "weight": "228",
+    "height": "",
+    "college": "North Carolina St.",
+    "experience": "1"
   }
 ]

@@ -316,5 +316,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Ben Powers",
+    "age": "28",
+    "position": "G",
+    "weight": "310",
+    "height": "6-4",
+    "college": "Oklahoma",
+    "experience": "5"
   }
 ]

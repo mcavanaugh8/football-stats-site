@@ -316,5 +316,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Uchenna Nwosu",
+    "age": "28",
+    "position": "LB",
+    "weight": "251",
+    "height": "6-2",
+    "college": "USC",
+    "experience": "6"
   }
 ]

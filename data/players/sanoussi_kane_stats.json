@@ -78,5 +78,14 @@
         "st_pct": "77%"
       }
     ]
+  },
+  {
+    "name": "Sanoussi Kane",
+    "age": "23",
+    "position": "S",
+    "weight": "210",
+    "height": "5-11",
+    "college": "Purdue",
+    "experience": "Rook"
   }
 ]

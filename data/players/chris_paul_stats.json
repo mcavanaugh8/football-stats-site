@@ -93,5 +93,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Chris Paul",
+    "age": "26",
+    "position": "G",
+    "weight": "324",
+    "height": "6-4",
+    "college": "Tulsa",
+    "experience": "2"
   }
 ]

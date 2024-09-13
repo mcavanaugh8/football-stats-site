@@ -106,5 +106,14 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Isaiah McGuire",
+    "age": "23",
+    "position": "DE",
+    "weight": "268",
+    "height": "",
+    "college": "Missouri",
+    "experience": "1"
   }
 ]

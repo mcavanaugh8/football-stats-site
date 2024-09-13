@@ -310,5 +310,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Dorian Thompson-Robinson",
+    "age": "25",
+    "position": "QB",
+    "weight": "203",
+    "height": "6-2",
+    "college": "UCLA",
+    "experience": "1"
   }
 ]

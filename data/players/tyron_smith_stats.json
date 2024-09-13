@@ -651,5 +651,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyron Smith",
+    "age": "34",
+    "position": "OL",
+    "weight": "320",
+    "height": "6-5",
+    "college": "USC",
+    "experience": "13"
   }
 ]

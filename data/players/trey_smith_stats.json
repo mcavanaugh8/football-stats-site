@@ -232,5 +232,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Trey Smith",
+    "age": "25",
+    "position": "G",
+    "weight": "321",
+    "height": "6-6",
+    "college": "Tennessee",
+    "experience": "3"
   }
 ]

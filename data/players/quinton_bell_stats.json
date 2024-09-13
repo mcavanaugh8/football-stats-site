@@ -205,5 +205,14 @@
         "st_pct": "80%"
       }
     ]
+  },
+  {
+    "name": "Quinton Bell",
+    "age": "28",
+    "position": "LB",
+    "weight": "255",
+    "height": "6-4",
+    "college": "Prairie View A&M",
+    "experience": "4"
   }
 ]

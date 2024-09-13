@@ -190,5 +190,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Mitchell Fraboni",
+    "age": "28",
+    "position": "LS",
+    "weight": "223",
+    "height": "6-2",
+    "college": "Arizona St.",
+    "experience": "2"
   }
 ]

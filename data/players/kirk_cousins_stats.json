@@ -2623,5 +2623,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kirk Cousins",
+    "age": "36",
+    "position": "QB",
+    "weight": "205",
+    "height": "6-3",
+    "college": "Michigan St.",
+    "experience": "12"
   }
 ]

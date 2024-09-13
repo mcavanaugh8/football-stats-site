@@ -148,5 +148,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Kei'Trel Clark",
+    "age": "23",
+    "position": "CB",
+    "weight": "181",
+    "height": "",
+    "college": "Liberty,Louisville",
+    "experience": "1"
   }
 ]

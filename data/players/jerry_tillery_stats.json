@@ -400,5 +400,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Jerry Tillery",
+    "age": "28",
+    "position": "DT",
+    "weight": "295",
+    "height": "6-6",
+    "college": "Notre Dame",
+    "experience": "5"
   }
 ]

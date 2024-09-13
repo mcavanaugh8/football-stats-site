@@ -1067,5 +1067,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Chris Manhertz",
+    "age": "32",
+    "position": "TE",
+    "weight": "235",
+    "height": "6-6",
+    "college": "Canisius",
+    "experience": "8"
   }
 ]

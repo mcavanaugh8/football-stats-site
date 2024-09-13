@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nick Thurman",
+    "age": "29",
+    "position": "DT",
+    "weight": "305",
+    "height": "6-4",
+    "college": "Houston",
+    "experience": "4"
   }
 ]

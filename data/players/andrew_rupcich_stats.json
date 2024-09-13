@@ -93,5 +93,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Andrew Rupcich",
+    "age": "25",
+    "position": "OL",
+    "weight": "318",
+    "height": "6-6",
+    "college": "Culver-Stockton",
+    "experience": "1"
   }
 ]

@@ -496,5 +496,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Khalil Shakir",
+    "age": "24",
+    "position": "WR",
+    "weight": "190",
+    "height": "6-0",
+    "college": "Boise St.",
+    "experience": "2"
   }
 ]

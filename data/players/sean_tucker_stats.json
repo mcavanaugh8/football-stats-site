@@ -304,5 +304,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Sean Tucker",
+    "age": "23",
+    "position": "RB",
+    "weight": "205",
+    "height": "",
+    "college": "Syracuse",
+    "experience": "1"
   }
 ]

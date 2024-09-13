@@ -106,5 +106,14 @@
         "st_pct": "83%"
       }
     ]
+  },
+  {
+    "name": "Jaylen Harrell",
+    "age": "22",
+    "position": "OLB",
+    "weight": "247",
+    "height": "",
+    "college": "Michigan",
+    "experience": "Rook"
   }
 ]

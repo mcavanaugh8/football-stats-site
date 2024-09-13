@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Josey Jewell",
+    "age": "30",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-1",
+    "college": "Iowa",
+    "experience": "6"
   }
 ]

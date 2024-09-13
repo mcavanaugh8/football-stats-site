@@ -316,5 +316,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Jalen Thompson",
+    "age": "26",
+    "position": "S",
+    "weight": "190",
+    "height": "5-11",
+    "college": "Washington St.",
+    "experience": "5"
   }
 ]

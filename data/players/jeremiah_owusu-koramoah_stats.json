@@ -236,5 +236,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Jeremiah Owusu-Koramoah",
+    "age": "25",
+    "position": "LB",
+    "weight": "221",
+    "height": "6-2",
+    "college": "Notre Dame",
+    "experience": "3"
   }
 ]

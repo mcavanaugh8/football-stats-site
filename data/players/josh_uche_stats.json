@@ -274,5 +274,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Josh Uche",
+    "age": "26",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-1",
+    "college": "Michigan",
+    "experience": "4"
   }
 ]

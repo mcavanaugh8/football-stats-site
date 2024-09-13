@@ -307,5 +307,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Patrick Queen",
+    "age": "25",
+    "position": "LB",
+    "weight": "232",
+    "height": "6-0",
+    "college": "LSU",
+    "experience": "4"
   }
 ]

@@ -118,5 +118,14 @@
         "st_pct": "55%"
       }
     ]
+  },
+  {
+    "name": "Will Shipley",
+    "age": "22",
+    "position": "RB",
+    "weight": "209",
+    "height": "",
+    "college": "Clemson",
+    "experience": "Rook"
   }
 ]

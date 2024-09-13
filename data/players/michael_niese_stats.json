@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Michael Niese",
+    "age": "26",
+    "position": "OL",
+    "weight": "295",
+    "height": "6-5",
+    "college": "Dayton,Temple",
+    "experience": "1"
   }
 ]

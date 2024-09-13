@@ -108,5 +108,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Bernhard Raimann",
+    "age": "27",
+    "position": "T",
+    "weight": "303",
+    "height": "6-6",
+    "college": "Central Michigan",
+    "experience": "2"
   }
 ]

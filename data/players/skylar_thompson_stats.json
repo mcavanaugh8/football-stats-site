@@ -309,5 +309,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Skylar Thompson",
+    "age": "27",
+    "position": "QB",
+    "weight": "210",
+    "height": "6-2",
+    "college": "Kansas St.",
+    "experience": "2"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Quinn Meinerz",
+    "age": "26",
+    "position": "OL",
+    "weight": "320",
+    "height": "6-3",
+    "college": "Wisconsin–Whitewater",
+    "experience": "3"
   }
 ]

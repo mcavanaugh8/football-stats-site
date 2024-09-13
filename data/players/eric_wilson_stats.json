@@ -484,5 +484,14 @@
         "st_pct": "77%"
       }
     ]
+  },
+  {
+    "name": "Eric Wilson",
+    "age": "30",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-1",
+    "college": "Cincinnati",
+    "experience": "7"
   }
 ]

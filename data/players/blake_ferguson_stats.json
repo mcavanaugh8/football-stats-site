@@ -274,5 +274,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Blake Ferguson",
+    "age": "27",
+    "position": "LS",
+    "weight": "230",
+    "height": "6-3",
+    "college": "LSU",
+    "experience": "4"
   }
 ]

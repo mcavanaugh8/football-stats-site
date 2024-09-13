@@ -487,5 +487,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Brevin Jordan",
+    "age": "24",
+    "position": "TE",
+    "weight": "245",
+    "height": "6-3",
+    "college": "Miami (FL)",
+    "experience": "3"
   }
 ]

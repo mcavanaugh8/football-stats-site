@@ -232,5 +232,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Brady Christensen",
+    "age": "28",
+    "position": "G",
+    "weight": "300",
+    "height": "6-6",
+    "college": "BYU",
+    "experience": "3"
   }
 ]

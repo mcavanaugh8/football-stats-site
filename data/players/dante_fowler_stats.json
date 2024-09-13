@@ -581,5 +581,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Dante Fowler",
+    "age": "30",
+    "position": "LB",
+    "weight": "261",
+    "height": "6-3",
+    "college": "Florida",
+    "experience": "8"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Loren Strickland",
+    "age": "24",
+    "position": "S",
+    "weight": "202",
+    "height": "5-10",
+    "college": "Ball State",
+    "experience": "Rook"
   }
 ]

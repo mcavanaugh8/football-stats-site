@@ -576,5 +576,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Eric Kendricks",
+    "age": "32",
+    "position": "MLB",
+    "weight": "232",
+    "height": "6-0",
+    "college": "UCLA",
+    "experience": "9"
   }
 ]

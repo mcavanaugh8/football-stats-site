@@ -150,5 +150,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Adonai Mitchell",
+    "age": "22",
+    "position": "WR",
+    "weight": "205",
+    "height": "",
+    "college": "Georgia,Texas",
+    "experience": "Rook"
   }
 ]

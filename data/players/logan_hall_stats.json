@@ -148,5 +148,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Logan Hall",
+    "age": "24",
+    "position": "DL",
+    "weight": "283",
+    "height": "6-6",
+    "college": "Houston",
+    "experience": "2"
   }
 ]

@@ -714,5 +714,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Blake Gillikin",
+    "age": "26",
+    "position": "P",
+    "weight": "196",
+    "height": "6-2",
+    "college": "Penn St.",
+    "experience": "3"
   }
 ]

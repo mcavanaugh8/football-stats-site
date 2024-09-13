@@ -489,5 +489,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kenneth Walker III",
+    "age": "24",
+    "position": "RB",
+    "weight": "211",
+    "height": "5-9",
+    "college": "Wake Forest,Michigan St.",
+    "experience": "2"
   }
 ]

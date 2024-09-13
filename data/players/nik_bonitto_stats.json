@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nik Bonitto",
+    "age": "25",
+    "position": "OLB",
+    "weight": "240",
+    "height": "6-3",
+    "college": "Oklahoma",
+    "experience": "2"
   }
 ]

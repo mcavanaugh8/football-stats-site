@@ -316,5 +316,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mack Wilson",
+    "age": "26",
+    "position": "LB",
+    "weight": "246",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "5"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "K.J. Britt",
+    "age": "25",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-0",
+    "college": "Auburn",
+    "experience": "3"
   }
 ]

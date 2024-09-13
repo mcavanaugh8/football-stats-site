@@ -190,5 +190,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Jordan Meredith",
+    "age": "26",
+    "position": "G",
+    "weight": "300",
+    "height": "6-2",
+    "college": "Western Kentucky",
+    "experience": "2"
   }
 ]

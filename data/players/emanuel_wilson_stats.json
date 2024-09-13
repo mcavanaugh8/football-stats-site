@@ -256,5 +256,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Emanuel Wilson",
+    "age": "25",
+    "position": "RB",
+    "weight": "226",
+    "height": "5-10",
+    "college": "Johnson C. Smith,Fort Valley St.",
+    "experience": "1"
   }
 ]

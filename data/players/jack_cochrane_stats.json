@@ -190,5 +190,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Jack Cochrane",
+    "age": "25",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-3",
+    "college": "South Dakota",
+    "experience": "2"
   }
 ]

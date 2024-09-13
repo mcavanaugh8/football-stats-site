@@ -526,5 +526,14 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Pierre Strong",
+    "age": "26",
+    "position": "RB",
+    "weight": "215",
+    "height": "5-11",
+    "college": "South Dakota St.",
+    "experience": "2"
   }
 ]

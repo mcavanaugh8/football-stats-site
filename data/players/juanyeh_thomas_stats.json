@@ -148,5 +148,14 @@
         "st_pct": "78%"
       }
     ]
+  },
+  {
+    "name": "Juanyeh Thomas",
+    "age": "24",
+    "position": "S",
+    "weight": "217",
+    "height": "",
+    "college": "Georgia Tech",
+    "experience": "1"
   }
 ]

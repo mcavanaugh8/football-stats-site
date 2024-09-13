@@ -236,5 +236,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Landon Dickerson",
+    "age": "26",
+    "position": "G",
+    "weight": "332",
+    "height": "6-6",
+    "college": "Florida St.,Alabama",
+    "experience": "3"
   }
 ]

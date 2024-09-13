@@ -700,5 +700,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Jack Fox",
+    "age": "28",
+    "position": "P",
+    "weight": "218",
+    "height": "6-2",
+    "college": "Rice",
+    "experience": "4"
   }
 ]

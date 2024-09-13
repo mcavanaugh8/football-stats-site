@@ -899,5 +899,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brett Rypien",
+    "age": "28",
+    "position": "QB",
+    "weight": "202",
+    "height": "6-2",
+    "college": "Boise St.",
+    "experience": "4"
   }
 ]

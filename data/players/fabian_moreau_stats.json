@@ -358,5 +358,14 @@
         "st_pct": "6%"
       }
     ]
+  },
+  {
+    "name": "Fabian Moreau",
+    "age": "30",
+    "position": "CB",
+    "weight": "204",
+    "height": "6-0",
+    "college": "UCLA",
+    "experience": "7"
   }
 ]

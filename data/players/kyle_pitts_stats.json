@@ -545,5 +545,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kyle Pitts",
+    "age": "24",
+    "position": "TE",
+    "weight": "246",
+    "height": "6-6",
+    "college": "Florida",
+    "experience": "3"
   }
 ]

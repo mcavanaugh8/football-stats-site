@@ -358,5 +358,14 @@
         "st_pct": "69%"
       }
     ]
+  },
+  {
+    "name": "Ben Niemann",
+    "age": "29",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-2",
+    "college": "Iowa",
+    "experience": "6"
   }
 ]

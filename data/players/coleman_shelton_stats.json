@@ -316,5 +316,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Coleman Shelton",
+    "age": "29",
+    "position": "OL",
+    "weight": "285",
+    "height": "6-5",
+    "college": "Washington",
+    "experience": "5"
   }
 ]

@@ -2249,5 +2249,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Baker Mayfield",
+    "age": "29",
+    "position": "QB",
+    "weight": "215",
+    "height": "6-1",
+    "college": "Oklahoma",
+    "experience": "6"
   }
 ]

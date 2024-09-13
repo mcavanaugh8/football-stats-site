@@ -78,5 +78,14 @@
         "st_pct": "6%"
       }
     ]
+  },
+  {
+    "name": "Blake Freeland",
+    "age": "23",
+    "position": "T",
+    "weight": "302",
+    "height": "6-6",
+    "college": "BYU",
+    "experience": "1"
   }
 ]

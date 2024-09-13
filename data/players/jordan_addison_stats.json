@@ -286,5 +286,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jordan Addison",
+    "age": "22",
+    "position": "WR",
+    "weight": "175",
+    "height": "",
+    "college": "Pittsburgh,USC",
+    "experience": "1"
   }
 ]

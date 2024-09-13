@@ -1367,5 +1367,14 @@
         "st_pct": "47%"
       }
     ]
+  },
+  {
+    "name": "Cedrick Wilson Jr.",
+    "age": "29",
+    "position": "WR",
+    "weight": "197",
+    "height": "6-2",
+    "college": "Boise St.",
+    "experience": "5"
   }
 ]

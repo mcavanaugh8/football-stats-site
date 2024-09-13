@@ -386,5 +386,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Eddie Goldman",
+    "age": "30",
+    "position": "DL",
+    "weight": "325",
+    "height": "6-3",
+    "college": "Florida St.",
+    "experience": "9"
   }
 ]

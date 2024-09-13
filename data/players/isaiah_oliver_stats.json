@@ -358,5 +358,14 @@
         "st_pct": "65%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Oliver",
+    "age": "28",
+    "position": "CB",
+    "weight": "202",
+    "height": "6-0",
+    "college": "Colorado",
+    "experience": "6"
   }
 ]

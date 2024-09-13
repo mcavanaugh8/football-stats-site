@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Connor Williams",
+    "age": "27",
+    "position": "C",
+    "weight": "310",
+    "height": "6-5",
+    "college": "Texas",
+    "experience": "6"
   }
 ]

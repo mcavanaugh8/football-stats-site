@@ -1393,5 +1393,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "MyCole Pruitt",
+    "age": "32",
+    "position": "TE",
+    "weight": "258",
+    "height": "6-2",
+    "college": "Southern Illinois",
+    "experience": "9"
   }
 ]

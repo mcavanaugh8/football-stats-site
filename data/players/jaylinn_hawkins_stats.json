@@ -386,5 +386,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Jaylinn Hawkins",
+    "age": "27",
+    "position": "S",
+    "weight": "208",
+    "height": "6-1",
+    "college": "California",
+    "experience": "4"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Gregory Rousseau",
+    "age": "24",
+    "position": "DE",
+    "weight": "266",
+    "height": "6-6",
+    "college": "Miami (FL)",
+    "experience": "3"
   }
 ]

@@ -1742,5 +1742,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Alvin Kamara",
+    "age": "29",
+    "position": "RB",
+    "weight": "215",
+    "height": "5-10",
+    "college": "Alabama,Hutchinson (KS),Tennessee",
+    "experience": "7"
   }
 ]

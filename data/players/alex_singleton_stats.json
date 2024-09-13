@@ -371,5 +371,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Alex Singleton",
+    "age": "31",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-2",
+    "college": "Montana St.",
+    "experience": "5"
   }
 ]

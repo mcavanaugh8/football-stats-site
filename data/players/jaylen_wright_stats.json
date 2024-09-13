@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jaylen Wright",
+    "age": "21",
+    "position": "RB",
+    "weight": "210",
+    "height": "5-10",
+    "college": "Tennessee",
+    "experience": "Rook"
   }
 ]

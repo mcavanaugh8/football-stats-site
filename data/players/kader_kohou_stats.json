@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kader Kohou",
+    "age": "26",
+    "position": "CB",
+    "weight": "197",
+    "height": "5-10",
+    "college": "Texas A&M-Commerce",
+    "experience": "2"
   }
 ]

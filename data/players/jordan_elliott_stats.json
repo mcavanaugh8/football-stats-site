@@ -705,5 +705,14 @@
     "height": "6-4",
     "college": "Texas,Missouri",
     "experience": "3"
+  },
+  {
+    "name": "Jordan Elliott",
+    "age": "27",
+    "position": "DL",
+    "weight": "303",
+    "height": "6-4",
+    "college": "Texas,Missouri",
+    "experience": "4"
   }
 ]

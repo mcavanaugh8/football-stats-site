@@ -1190,5 +1190,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Chris Boswell",
+    "age": "33",
+    "position": "K",
+    "weight": "185",
+    "height": "6-2",
+    "college": "Rice",
+    "experience": "9"
   }
 ]

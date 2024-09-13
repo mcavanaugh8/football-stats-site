@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Tanner McLachlan",
+    "age": "25",
+    "position": "TE",
+    "weight": "244",
+    "height": "",
+    "college": "Southern Utah,Arizona",
+    "experience": "Rook"
   }
 ]

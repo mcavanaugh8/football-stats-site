@@ -106,5 +106,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Storm Duck",
+    "age": "24",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-0",
+    "college": "North Carolina,Louisville",
+    "experience": "Rook"
   }
 ]

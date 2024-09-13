@@ -106,5 +106,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Cam Little",
+    "age": "21",
+    "position": "K",
+    "weight": "180",
+    "height": "6-1",
+    "college": "Arkansas",
+    "experience": "Rook"
   }
 ]

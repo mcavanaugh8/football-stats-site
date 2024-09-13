@@ -491,5 +491,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Kendall Fuller",
+    "age": "29",
+    "position": "CB",
+    "weight": "198",
+    "height": "5-11",
+    "college": "Virginia Tech",
+    "experience": "8"
   }
 ]

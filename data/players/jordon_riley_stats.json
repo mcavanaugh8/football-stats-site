@@ -148,5 +148,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Jordon Riley",
+    "age": "26",
+    "position": "DL",
+    "weight": "315",
+    "height": "6-5",
+    "college": "North Carolina,Garden City (KS),Nebraska,Oregon",
+    "experience": "1"
   }
 ]

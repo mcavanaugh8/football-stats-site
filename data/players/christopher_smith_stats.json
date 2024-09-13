@@ -148,5 +148,14 @@
         "st_pct": "82%"
       }
     ]
+  },
+  {
+    "name": "Christopher Smith",
+    "age": "24",
+    "position": "S",
+    "weight": "195",
+    "height": "",
+    "college": "Georgia",
+    "experience": "1"
   }
 ]

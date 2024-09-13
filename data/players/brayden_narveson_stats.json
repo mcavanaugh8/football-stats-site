@@ -106,5 +106,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Brayden Narveson",
+    "age": "25",
+    "position": "K",
+    "weight": "215",
+    "height": "6-0",
+    "college": "Iowa St.,Western Kentucky,North Carolina St.",
+    "experience": "Rook"
   }
 ]

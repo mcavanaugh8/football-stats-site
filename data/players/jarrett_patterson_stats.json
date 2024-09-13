@@ -93,5 +93,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Jarrett Patterson",
+    "age": "25",
+    "position": "OL",
+    "weight": "310",
+    "height": "",
+    "college": "Notre Dame",
+    "experience": "1"
   }
 ]

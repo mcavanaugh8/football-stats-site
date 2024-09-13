@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Myles Harden",
+    "age": "23",
+    "position": "CB",
+    "weight": "195",
+    "height": "5-11",
+    "college": "South Dakota",
+    "experience": "Rook"
   }
 ]

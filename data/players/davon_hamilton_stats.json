@@ -274,5 +274,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "DaVon Hamilton",
+    "age": "27",
+    "position": "DT",
+    "weight": "335",
+    "height": "6-4",
+    "college": "Ohio St.",
+    "experience": "4"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "38%"
       }
     ]
+  },
+  {
+    "name": "Josh Newton",
+    "age": "24",
+    "position": "CB",
+    "weight": "190",
+    "height": "",
+    "college": "La-Monroe,TCU",
+    "experience": "Rook"
   }
 ]

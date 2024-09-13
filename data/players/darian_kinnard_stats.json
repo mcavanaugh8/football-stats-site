@@ -78,5 +78,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Darian Kinnard",
+    "age": "25",
+    "position": "G",
+    "weight": "322",
+    "height": "6-5",
+    "college": "Kentucky",
+    "experience": "2"
   }
 ]

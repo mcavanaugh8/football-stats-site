@@ -572,5 +572,14 @@
         "st_pct": "65%"
       }
     ]
+  },
+  {
+    "name": "M.J. Stewart",
+    "age": "29",
+    "position": "S",
+    "weight": "205",
+    "height": "5-11",
+    "college": "North Carolina",
+    "experience": "6"
   }
 ]

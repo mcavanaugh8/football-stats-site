@@ -148,5 +148,14 @@
         "st_pct": "75%"
       }
     ]
+  },
+  {
+    "name": "Amari Burney",
+    "age": "24",
+    "position": "LB",
+    "weight": "228",
+    "height": "",
+    "college": "Florida",
+    "experience": "1"
   }
 ]

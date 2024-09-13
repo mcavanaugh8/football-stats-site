@@ -358,5 +358,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Dawuane Smoot",
+    "age": "29",
+    "position": "DE",
+    "weight": "264",
+    "height": "6-3",
+    "college": "Illinois",
+    "experience": "7"
   }
 ]

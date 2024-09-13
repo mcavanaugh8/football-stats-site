@@ -232,5 +232,14 @@
         "st_pct": "46%"
       }
     ]
+  },
+  {
+    "name": "Derrick Barnes",
+    "age": "25",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-0",
+    "college": "Purdue",
+    "experience": "3"
   }
 ]

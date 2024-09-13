@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Cedric Johnson",
+    "age": "22",
+    "position": "DE",
+    "weight": "260",
+    "height": "",
+    "college": "Mississippi",
+    "experience": "Rook"
   }
 ]

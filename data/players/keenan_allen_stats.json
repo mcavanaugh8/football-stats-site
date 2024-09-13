@@ -2155,5 +2155,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Keenan Allen",
+    "age": "32",
+    "position": "WR",
+    "weight": "211",
+    "height": "6-2",
+    "college": "California",
+    "experience": "11"
   }
 ]

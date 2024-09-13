@@ -1237,5 +1237,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Justin Herbert",
+    "age": "26",
+    "position": "QB",
+    "weight": "236",
+    "height": "6-6",
+    "college": "Oregon",
+    "experience": "4"
   }
 ]

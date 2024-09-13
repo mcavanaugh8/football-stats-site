@@ -358,5 +358,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Will Hernandez",
+    "age": "29",
+    "position": "OL",
+    "weight": "332",
+    "height": "6-2",
+    "college": "Texas-El Paso",
+    "experience": "6"
   }
 ]

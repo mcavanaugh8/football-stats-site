@@ -190,5 +190,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Jamaree Salyer",
+    "age": "24",
+    "position": "OL",
+    "weight": "325",
+    "height": "6-4",
+    "college": "Georgia",
+    "experience": "2"
   }
 ]

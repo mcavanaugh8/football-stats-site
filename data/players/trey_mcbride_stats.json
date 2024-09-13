@@ -428,5 +428,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trey McBride",
+    "age": "25",
+    "position": "TE",
+    "weight": "246",
+    "height": "6-4",
+    "college": "Colorado St.",
+    "experience": "2"
   }
 ]

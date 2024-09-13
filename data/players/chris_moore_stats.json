@@ -1308,5 +1308,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Chris Moore",
+    "age": "31",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-1",
+    "college": "Cincinnati",
+    "experience": "8"
   }
 ]

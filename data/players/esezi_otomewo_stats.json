@@ -106,5 +106,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Esezi Otomewo",
+    "age": "26",
+    "position": "DL",
+    "weight": "282",
+    "height": "6-5",
+    "college": "Minnesota",
+    "experience": "2"
   }
 ]

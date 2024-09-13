@@ -211,5 +211,14 @@
         "st_pct": "73%"
       }
     ]
+  },
+  {
+    "name": "Russ Yeast",
+    "age": "25",
+    "position": "DB",
+    "weight": "191",
+    "height": "5-10",
+    "college": "Louisville,Kansas St.",
+    "experience": "2"
   }
 ]

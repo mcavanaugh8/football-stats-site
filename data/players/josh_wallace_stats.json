@@ -78,5 +78,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Josh Wallace",
+    "age": "24",
+    "position": "DB",
+    "weight": "189",
+    "height": "6-0",
+    "college": "Massachusetts,Michigan",
+    "experience": "Rook"
   }
 ]

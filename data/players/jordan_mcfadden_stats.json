@@ -78,5 +78,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Jordan McFadden",
+    "age": "25",
+    "position": "OL",
+    "weight": "303",
+    "height": "",
+    "college": "Clemson",
+    "experience": "1"
   }
 ]

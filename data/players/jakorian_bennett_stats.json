@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jakorian Bennett",
+    "age": "24",
+    "position": "CB",
+    "weight": "195",
+    "height": "",
+    "college": "Hutchinson (KS),Maryland",
+    "experience": "1"
   }
 ]

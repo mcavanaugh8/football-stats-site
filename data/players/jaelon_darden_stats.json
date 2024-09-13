@@ -636,5 +636,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Jaelon Darden",
+    "age": "25",
+    "position": "WR",
+    "weight": "175",
+    "height": "5-8",
+    "college": "North Texas",
+    "experience": "3"
   }
 ]

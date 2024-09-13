@@ -484,5 +484,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Shelby Harris",
+    "age": "33",
+    "position": "DT",
+    "weight": "288",
+    "height": "6-2",
+    "college": "Illinois St.",
+    "experience": "10"
   }
 ]

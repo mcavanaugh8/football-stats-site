@@ -190,5 +190,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Ja'Quan McMillian",
+    "age": "24",
+    "position": "CB",
+    "weight": "183",
+    "height": "",
+    "college": "East Carolina",
+    "experience": "2"
   }
 ]

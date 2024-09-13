@@ -148,5 +148,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Lukas Van Ness",
+    "age": "23",
+    "position": "DL",
+    "weight": "272",
+    "height": "6-5",
+    "college": "Iowa",
+    "experience": "1"
   }
 ]

@@ -1903,5 +1903,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Christian McCaffrey",
+    "age": "28",
+    "position": "RB",
+    "weight": "210",
+    "height": "5-11",
+    "college": "Stanford",
+    "experience": "7"
   }
 ]

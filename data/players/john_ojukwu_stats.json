@@ -78,5 +78,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "John Ojukwu",
+    "age": "25",
+    "position": "OL",
+    "weight": "309",
+    "height": "6-5",
+    "college": "Boise St.",
+    "experience": "1"
   }
 ]

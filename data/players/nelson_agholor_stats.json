@@ -1767,5 +1767,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nelson Agholor",
+    "age": "31",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-0",
+    "college": "USC",
+    "experience": "9"
   }
 ]

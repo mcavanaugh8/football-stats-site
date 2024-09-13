@@ -316,5 +316,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Cody Barton",
+    "age": "28",
+    "position": "LB",
+    "weight": "237",
+    "height": "6-2",
+    "college": "Utah",
+    "experience": "5"
   }
 ]

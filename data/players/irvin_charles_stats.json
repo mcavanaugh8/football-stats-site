@@ -276,5 +276,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Irvin Charles",
+    "age": "27",
+    "position": "WR",
+    "weight": "219",
+    "height": "6-4",
+    "college": "Penn St.,Indiana (PA)",
+    "experience": "1"
   }
 ]

@@ -302,5 +302,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Xavier McKinney",
+    "age": "26",
+    "position": "S",
+    "weight": "201",
+    "height": "6-0",
+    "college": "Alabama",
+    "experience": "4"
   }
 ]

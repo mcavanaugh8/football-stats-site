@@ -148,5 +148,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Tyler Steen",
+    "age": "24",
+    "position": "OL",
+    "weight": "321",
+    "height": "6-6",
+    "college": "Vanderbilt,Alabama",
+    "experience": "1"
   }
 ]

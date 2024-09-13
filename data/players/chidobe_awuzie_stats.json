@@ -400,5 +400,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Chidobe Awuzie",
+    "age": "29",
+    "position": "CB",
+    "weight": "202",
+    "height": "6-0",
+    "college": "Colorado",
+    "experience": "7"
   }
 ]

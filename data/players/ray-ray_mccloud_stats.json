@@ -1064,5 +1064,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Ray-Ray McCloud",
+    "age": "28",
+    "position": "WR",
+    "weight": "190",
+    "height": "5-9",
+    "college": "Clemson",
+    "experience": "6"
   }
 ]

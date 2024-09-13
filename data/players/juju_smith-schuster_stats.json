@@ -1150,5 +1150,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "JuJu Smith-Schuster",
+    "age": "28",
+    "position": "WR",
+    "weight": "215",
+    "height": "6-1",
+    "college": "USC",
+    "experience": "7"
   }
 ]

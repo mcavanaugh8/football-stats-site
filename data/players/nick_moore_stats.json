@@ -236,5 +236,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Nick Moore",
+    "age": "32",
+    "position": "LS",
+    "weight": "260",
+    "height": "6-2",
+    "college": "Georgia",
+    "experience": "4"
   }
 ]

@@ -512,5 +512,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Tyler Ott",
+    "age": "32",
+    "position": "LS",
+    "weight": "252",
+    "height": "6-3",
+    "college": "Harvard",
+    "experience": "9"
   }
 ]

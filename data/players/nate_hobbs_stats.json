@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nate Hobbs",
+    "age": "25",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-0",
+    "college": "Illinois",
+    "experience": "3"
   }
 ]

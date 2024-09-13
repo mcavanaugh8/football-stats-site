@@ -232,5 +232,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Deommodore Lenoir",
+    "age": "25",
+    "position": "DB",
+    "weight": "200",
+    "height": "5-10",
+    "college": "Oregon",
+    "experience": "3"
   }
 ]

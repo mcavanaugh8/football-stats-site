@@ -149,5 +149,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Bucky Irving",
+    "age": "22",
+    "position": "RB",
+    "weight": "195",
+    "height": "5-10",
+    "college": "Minnesota,Oregon",
+    "experience": "Rook"
   }
 ]

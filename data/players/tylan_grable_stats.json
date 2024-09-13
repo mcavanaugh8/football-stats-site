@@ -78,5 +78,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Tylan Grable",
+    "age": "25",
+    "position": "OT",
+    "weight": "309",
+    "height": "6-5",
+    "college": "Jacksonville St.,Central Florida",
+    "experience": "Rook"
   }
 ]

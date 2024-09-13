@@ -232,5 +232,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Brandon Stephens",
+    "age": "27",
+    "position": "DB",
+    "weight": "215",
+    "height": "6-1",
+    "college": "UCLA,SMU",
+    "experience": "3"
   }
 ]

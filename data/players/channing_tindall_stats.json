@@ -148,5 +148,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Channing Tindall",
+    "age": "24",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-2",
+    "college": "Georgia",
+    "experience": "2"
   }
 ]

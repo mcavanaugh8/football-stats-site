@@ -1232,5 +1232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Samaje Perine",
+    "age": "29",
+    "position": "RB",
+    "weight": "236",
+    "height": "5-10",
+    "college": "Oklahoma",
+    "experience": "7"
   }
 ]

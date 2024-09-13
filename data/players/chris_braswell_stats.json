@@ -106,5 +106,14 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Chris Braswell",
+    "age": "23",
+    "position": "OLB",
+    "weight": "255",
+    "height": "",
+    "college": "Alabama",
+    "experience": "Rook"
   }
 ]

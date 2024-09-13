@@ -108,5 +108,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyler Linderbaum",
+    "age": "24",
+    "position": "C",
+    "weight": "314",
+    "height": "6-2",
+    "college": "Iowa",
+    "experience": "2"
   }
 ]

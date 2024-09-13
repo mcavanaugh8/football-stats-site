@@ -301,5 +301,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Cameron Dicker",
+    "age": "24",
+    "position": "K",
+    "weight": "216",
+    "height": "",
+    "college": "Texas",
+    "experience": "2"
   }
 ]

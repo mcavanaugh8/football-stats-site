@@ -193,5 +193,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "David Ojabo",
+    "age": "24",
+    "position": "OLB",
+    "weight": "252",
+    "height": "6-4",
+    "college": "Michigan",
+    "experience": "2"
   }
 ]

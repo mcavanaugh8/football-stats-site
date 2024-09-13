@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Eric Stokes",
+    "age": "25",
+    "position": "CB",
+    "weight": "194",
+    "height": "6-1",
+    "college": "Georgia",
+    "experience": "3"
   }
 ]

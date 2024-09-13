@@ -285,5 +285,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Jalen Brooks",
+    "age": "24",
+    "position": "WR",
+    "weight": "205",
+    "height": "",
+    "college": "South Carolina",
+    "experience": "1"
   }
 ]

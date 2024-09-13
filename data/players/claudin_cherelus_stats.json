@@ -148,5 +148,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Claudin Cherelus",
+    "age": "26",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-2",
+    "college": "Massachusetts,Alcorn St.",
+    "experience": "1"
   }
 ]

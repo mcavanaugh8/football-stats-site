@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Takkarist McKinley",
+    "age": "29",
+    "position": "DL",
+    "weight": "250",
+    "height": "6-2",
+    "college": "UCLA",
+    "experience": "7"
   }
 ]

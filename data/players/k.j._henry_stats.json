@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "K.J. Henry",
+    "age": "25",
+    "position": "DE",
+    "weight": "255",
+    "height": "",
+    "college": "Clemson",
+    "experience": "1"
   }
 ]

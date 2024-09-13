@@ -420,5 +420,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jessie Bates III",
+    "age": "27",
+    "position": "S",
+    "weight": "200",
+    "height": "6-1",
+    "college": "Wake Forest",
+    "experience": "6"
   }
 ]

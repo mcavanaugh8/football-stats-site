@@ -168,5 +168,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Jake Brendel",
+    "age": "32",
+    "position": "OL",
+    "weight": "299",
+    "height": "6-4",
+    "college": "UCLA",
+    "experience": "8"
   }
 ]

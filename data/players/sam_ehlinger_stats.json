@@ -523,5 +523,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Sam Ehlinger",
+    "age": "26",
+    "position": "QB",
+    "weight": "225",
+    "height": "6-2",
+    "college": "Texas",
+    "experience": "3"
   }
 ]

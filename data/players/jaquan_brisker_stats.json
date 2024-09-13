@@ -190,5 +190,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Jaquan Brisker",
+    "age": "25",
+    "position": "DB",
+    "weight": "200",
+    "height": "6-1",
+    "college": "Lackawanna,Penn St.",
+    "experience": "2"
   }
 ]

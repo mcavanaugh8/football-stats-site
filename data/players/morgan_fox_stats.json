@@ -428,5 +428,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Morgan Fox",
+    "age": "30",
+    "position": "DL",
+    "weight": "275",
+    "height": "6-3",
+    "college": "Colorado State-Pueblo",
+    "experience": "8"
   }
 ]

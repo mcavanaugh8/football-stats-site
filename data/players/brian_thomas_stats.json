@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brian Thomas",
+    "age": "22",
+    "position": "WR",
+    "weight": "209",
+    "height": "",
+    "college": "LSU",
+    "experience": "Rook"
   }
 ]

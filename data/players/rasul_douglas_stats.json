@@ -566,5 +566,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rasul Douglas",
+    "age": "29",
+    "position": "CB",
+    "weight": "209",
+    "height": "6-2",
+    "college": "West Virginia",
+    "experience": "7"
   }
 ]

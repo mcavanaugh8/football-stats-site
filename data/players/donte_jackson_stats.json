@@ -413,5 +413,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Donte Jackson",
+    "age": "29",
+    "position": "CB",
+    "weight": "180",
+    "height": "5-10",
+    "college": "LSU",
+    "experience": "6"
   }
 ]

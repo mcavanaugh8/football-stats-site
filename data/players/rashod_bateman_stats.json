@@ -540,5 +540,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rashod Bateman",
+    "age": "25",
+    "position": "WR",
+    "weight": "195",
+    "height": "6-1",
+    "college": "Minnesota",
+    "experience": "3"
   }
 ]

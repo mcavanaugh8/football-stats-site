@@ -78,5 +78,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Dalton Tucker",
+    "age": "24",
+    "position": "G",
+    "weight": "307",
+    "height": "6-6",
+    "college": "Marshall",
+    "experience": "Rook"
   }
 ]

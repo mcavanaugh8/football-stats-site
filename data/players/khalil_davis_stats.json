@@ -232,5 +232,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Khalil Davis",
+    "age": "28",
+    "position": "DT",
+    "weight": "315",
+    "height": "6-2",
+    "college": "Nebraska",
+    "experience": "4"
   }
 ]

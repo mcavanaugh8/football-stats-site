@@ -93,5 +93,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Doug Kramer",
+    "age": "26",
+    "position": "OL",
+    "weight": "300",
+    "height": "6-2",
+    "college": "Illinois",
+    "experience": "1"
   }
 ]

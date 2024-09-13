@@ -190,5 +190,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Alex Wright",
+    "age": "24",
+    "position": "DE",
+    "weight": "267",
+    "height": "6-5",
+    "college": "Ala-Birmingham",
+    "experience": "2"
   }
 ]

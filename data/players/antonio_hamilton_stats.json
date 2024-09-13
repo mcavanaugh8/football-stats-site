@@ -421,5 +421,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Antonio Hamilton",
+    "age": "31",
+    "position": "CB",
+    "weight": "188",
+    "height": "6-0",
+    "college": "South Carolina St.",
+    "experience": "8"
   }
 ]

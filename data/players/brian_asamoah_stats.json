@@ -190,5 +190,14 @@
         "st_pct": "67%"
       }
     ]
+  },
+  {
+    "name": "Brian Asamoah",
+    "age": "24",
+    "position": "LB",
+    "weight": "226",
+    "height": "6-0",
+    "college": "Oklahoma",
+    "experience": "2"
   }
 ]

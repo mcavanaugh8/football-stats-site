@@ -274,5 +274,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Khaleke Hudson",
+    "age": "27",
+    "position": "LB",
+    "weight": "220",
+    "height": "6-0",
+    "college": "Michigan",
+    "experience": "4"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "67%"
       }
     ]
+  },
+  {
+    "name": "Nathaniel Watson",
+    "age": "24",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-0",
+    "college": "Mississippi St.",
+    "experience": "Rook"
   }
 ]

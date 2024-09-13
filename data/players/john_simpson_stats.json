@@ -274,5 +274,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "John Simpson",
+    "age": "27",
+    "position": "OL",
+    "weight": "330",
+    "height": "6-4",
+    "college": "Clemson",
+    "experience": "4"
   }
 ]

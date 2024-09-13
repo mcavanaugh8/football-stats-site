@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Amarius Mims",
+    "age": "22",
+    "position": "OT",
+    "weight": "340",
+    "height": "",
+    "college": "Georgia",
+    "experience": "Rook"
   }
 ]

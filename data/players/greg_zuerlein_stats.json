@@ -767,5 +767,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Greg Zuerlein",
+    "age": "37",
+    "position": "K",
+    "weight": "195",
+    "height": "6-0",
+    "college": "Nebraska-Omaha,Missouri Western St.",
+    "experience": "12"
   }
 ]

@@ -260,5 +260,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Jonathon Cooper",
+    "age": "26",
+    "position": "OLB",
+    "weight": "257",
+    "height": "6-4",
+    "college": "Ohio St.",
+    "experience": "3"
   }
 ]

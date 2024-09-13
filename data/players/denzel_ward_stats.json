@@ -447,5 +447,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Denzel Ward",
+    "age": "27",
+    "position": "CB",
+    "weight": "190",
+    "height": "5-11",
+    "college": "Ohio St.",
+    "experience": "6"
   }
 ]

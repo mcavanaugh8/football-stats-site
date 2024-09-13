@@ -93,5 +93,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Juice Scruggs",
+    "age": "24",
+    "position": "OL",
+    "weight": "310",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "1"
   }
 ]

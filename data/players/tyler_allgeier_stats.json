@@ -402,5 +402,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Tyler Allgeier",
+    "age": "24",
+    "position": "RB",
+    "weight": "220",
+    "height": "5-11",
+    "college": "BYU",
+    "experience": "2"
   }
 ]

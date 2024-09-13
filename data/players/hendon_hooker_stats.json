@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Hendon Hooker",
+    "age": "26",
+    "position": "QB",
+    "weight": "220",
+    "height": "6-3",
+    "college": "Virginia Tech,Tennessee",
+    "experience": "Rook"
   }
 ]

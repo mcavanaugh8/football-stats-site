@@ -436,5 +436,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Tre'Davious White",
+    "age": "29",
+    "position": "DB",
+    "weight": "196",
+    "height": "5-9",
+    "college": "LSU",
+    "experience": "7"
   }
 ]

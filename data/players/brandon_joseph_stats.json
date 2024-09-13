@@ -93,5 +93,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Brandon Joseph",
+    "age": "23",
+    "position": "S",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Northwestern,Notre Dame",
+    "experience": "1"
   }
 ]

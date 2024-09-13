@@ -148,5 +148,14 @@
         "st_pct": "76%"
       }
     ]
+  },
+  {
+    "name": "Nick Herbig",
+    "age": "23",
+    "position": "LB",
+    "weight": "240",
+    "height": "",
+    "college": "Wisconsin",
+    "experience": "1"
   }
 ]

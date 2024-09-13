@@ -889,5 +889,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Diontae Johnson",
+    "age": "28",
+    "position": "WR",
+    "weight": "183",
+    "height": "5-10",
+    "college": "Toledo",
+    "experience": "5"
   }
 ]

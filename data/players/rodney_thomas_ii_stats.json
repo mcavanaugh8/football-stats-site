@@ -190,5 +190,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Rodney Thomas II",
+    "age": "26",
+    "position": "S",
+    "weight": "196",
+    "height": "6-1",
+    "college": "Yale",
+    "experience": "2"
   }
 ]

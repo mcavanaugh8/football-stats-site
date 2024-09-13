@@ -2296,5 +2296,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Cordarrelle Patterson",
+    "age": "33",
+    "position": "RB",
+    "weight": "220",
+    "height": "6-2",
+    "college": "Tennessee",
+    "experience": "11"
   }
 ]

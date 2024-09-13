@@ -328,5 +328,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trevon Diggs",
+    "age": "26",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-2",
+    "college": "Alabama",
+    "experience": "4"
   }
 ]

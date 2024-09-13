@@ -446,5 +446,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rachaad White",
+    "age": "25",
+    "position": "RB",
+    "weight": "214",
+    "height": "6-0",
+    "college": "Nebraska-Kearney,Mount San Antonio JC,Arizona St.",
+    "experience": "2"
   }
 ]

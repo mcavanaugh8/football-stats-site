@@ -148,5 +148,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Eric Johnson",
+    "age": "26",
+    "position": "DT",
+    "weight": "299",
+    "height": "6-4",
+    "college": "Missouri State",
+    "experience": "2"
   }
 ]

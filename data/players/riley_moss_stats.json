@@ -148,5 +148,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Riley Moss",
+    "age": "24",
+    "position": "CB",
+    "weight": "193",
+    "height": "6-0",
+    "college": "Iowa",
+    "experience": "1"
   }
 ]

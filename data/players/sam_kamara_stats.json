@@ -190,5 +190,14 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Sam Kamara",
+    "age": "27",
+    "position": "DE",
+    "weight": "272",
+    "height": "6-0",
+    "college": "Stony Brook",
+    "experience": "3"
   }
 ]

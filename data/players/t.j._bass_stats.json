@@ -93,5 +93,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "T.J. Bass",
+    "age": "25",
+    "position": "G",
+    "weight": "325",
+    "height": "6-4",
+    "college": "Butte JC (CA),Oregon",
+    "experience": "1"
   }
 ]

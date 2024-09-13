@@ -1215,5 +1215,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "David Moore",
+    "age": "29",
+    "position": "WR",
+    "weight": "220",
+    "height": "6-0",
+    "college": "East Central (OK)",
+    "experience": "7"
   }
 ]

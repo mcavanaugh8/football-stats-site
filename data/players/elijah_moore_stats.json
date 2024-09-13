@@ -652,5 +652,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Elijah Moore",
+    "age": "24",
+    "position": "WR",
+    "weight": "180",
+    "height": "5-10",
+    "college": "Mississippi",
+    "experience": "3"
   }
 ]

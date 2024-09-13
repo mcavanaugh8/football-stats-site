@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Christian Gonzalez",
+    "age": "22",
+    "position": "CB",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Colorado,Oregon",
+    "experience": "1"
   }
 ]

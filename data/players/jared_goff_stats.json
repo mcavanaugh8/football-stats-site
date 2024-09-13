@@ -2061,5 +2061,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jared Goff",
+    "age": "30",
+    "position": "QB",
+    "weight": "217",
+    "height": "6-4",
+    "college": "California",
+    "experience": "8"
   }
 ]

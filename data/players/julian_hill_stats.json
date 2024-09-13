@@ -258,5 +258,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Julian Hill",
+    "age": "24",
+    "position": "TE",
+    "weight": "251",
+    "height": "6-4",
+    "college": "Campbell",
+    "experience": "1"
   }
 ]

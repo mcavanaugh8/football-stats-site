@@ -123,5 +123,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "James Hudson",
+    "age": "25",
+    "position": "T",
+    "weight": "313",
+    "height": "6-5",
+    "college": "Michigan,Cincinnati",
+    "experience": "3"
   }
 ]

@@ -505,5 +505,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "C.J. Stroud",
+    "age": "23",
+    "position": "QB",
+    "weight": "218",
+    "height": "",
+    "college": "Ohio St.",
+    "experience": "1"
   }
 ]

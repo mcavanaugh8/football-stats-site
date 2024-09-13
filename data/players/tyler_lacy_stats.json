@@ -148,5 +148,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Tyler Lacy",
+    "age": "25",
+    "position": "DT",
+    "weight": "279",
+    "height": "",
+    "college": "Oklahoma St.",
+    "experience": "1"
   }
 ]

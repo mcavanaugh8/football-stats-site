@@ -302,5 +302,14 @@
         "st_pct": "59%"
       }
     ]
+  },
+  {
+    "name": "Mykal Walker",
+    "age": "27",
+    "position": "OLB",
+    "weight": "230",
+    "height": "6-3",
+    "college": "Azusa Pacific,Fresno St.",
+    "experience": "4"
   }
 ]

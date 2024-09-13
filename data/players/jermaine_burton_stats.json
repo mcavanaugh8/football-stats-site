@@ -90,5 +90,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jermaine Burton",
+    "age": "23",
+    "position": "WR",
+    "weight": "200",
+    "height": "",
+    "college": "Georgia,Alabama",
+    "experience": "Rook"
   }
 ]

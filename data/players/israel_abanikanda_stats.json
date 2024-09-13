@@ -182,5 +182,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Israel Abanikanda",
+    "age": "22",
+    "position": "RB",
+    "weight": "216",
+    "height": "5-10",
+    "college": "Pittsburgh",
+    "experience": "1"
   }
 ]

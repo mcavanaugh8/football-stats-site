@@ -78,5 +78,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Blake Fisher",
+    "age": "21",
+    "position": "T",
+    "weight": "312",
+    "height": "",
+    "college": "Notre Dame",
+    "experience": "Rook"
   }
 ]

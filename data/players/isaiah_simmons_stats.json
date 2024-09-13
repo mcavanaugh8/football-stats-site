@@ -329,5 +329,14 @@
         "st_pct": "75%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Simmons",
+    "age": "26",
+    "position": "S",
+    "weight": "238",
+    "height": "6-4",
+    "college": "Clemson",
+    "experience": "4"
   }
 ]

@@ -106,5 +106,14 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "Dallas Turner",
+    "age": "21",
+    "position": "OLB",
+    "weight": "247",
+    "height": "",
+    "college": "Alabama",
+    "experience": "Rook"
   }
 ]

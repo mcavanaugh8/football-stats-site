@@ -232,5 +232,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Ar'Darius Washington",
+    "age": "25",
+    "position": "S",
+    "weight": "180",
+    "height": "5-8",
+    "college": "TCU",
+    "experience": "3"
   }
 ]

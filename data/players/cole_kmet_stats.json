@@ -718,5 +718,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Cole Kmet",
+    "age": "25",
+    "position": "TE",
+    "weight": "260",
+    "height": "6-6",
+    "college": "Notre Dame",
+    "experience": "4"
   }
 ]

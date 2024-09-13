@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Otito Ogbonnia",
+    "age": "23",
+    "position": "DT",
+    "weight": "320",
+    "height": "6-4",
+    "college": "UCLA",
+    "experience": "2"
   }
 ]

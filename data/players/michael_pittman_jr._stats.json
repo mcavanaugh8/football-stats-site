@@ -678,5 +678,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Michael Pittman Jr.",
+    "age": "27",
+    "position": "WR",
+    "weight": "223",
+    "height": "6-4",
+    "college": "USC",
+    "experience": "4"
   }
 ]

@@ -148,5 +148,14 @@
         "st_pct": "89%"
       }
     ]
+  },
+  {
+    "name": "Kana'i Mauga",
+    "age": "24",
+    "position": "LB",
+    "weight": "245",
+    "height": "6-2",
+    "college": "USC",
+    "experience": "1"
   }
 ]

@@ -904,5 +904,14 @@
         "st_pct": "83%"
       }
     ]
+  },
+  {
+    "name": "Kamu Grugier-Hill",
+    "age": "30",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-2",
+    "college": "Eastern Illinois",
+    "experience": "8"
   }
 ]

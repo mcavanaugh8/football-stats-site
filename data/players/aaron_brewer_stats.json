@@ -516,5 +516,23 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Aaron Brewer",
+    "age": "34",
+    "position": "LS",
+    "weight": "232",
+    "height": "6-5",
+    "college": "San Diego St.",
+    "experience": "12"
+  },
+  {
+    "name": "Aaron Brewer",
+    "age": "27",
+    "position": "OL",
+    "weight": "295",
+    "height": "6-1",
+    "college": "Texas St.",
+    "experience": "4"
   }
 ]

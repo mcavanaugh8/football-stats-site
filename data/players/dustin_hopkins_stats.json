@@ -751,5 +751,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Dustin Hopkins",
+    "age": "34",
+    "position": "K",
+    "weight": "210",
+    "height": "6-2",
+    "college": "Florida St.",
+    "experience": "9"
   }
 ]

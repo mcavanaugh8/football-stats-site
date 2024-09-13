@@ -190,5 +190,14 @@
         "st_pct": "88%"
       }
     ]
+  },
+  {
+    "name": "Segun Olubi",
+    "age": "25",
+    "position": "LB",
+    "weight": "225",
+    "height": "6-0",
+    "college": "Col. of Idaho,Saddleback College,Harding,San Diego St.",
+    "experience": "2"
   }
 ]

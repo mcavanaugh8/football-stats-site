@@ -108,5 +108,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Ryan Neuzil",
+    "age": "27",
+    "position": "OL",
+    "weight": "301",
+    "height": "6-3",
+    "college": "Appalachian St.",
+    "experience": "2"
   }
 ]

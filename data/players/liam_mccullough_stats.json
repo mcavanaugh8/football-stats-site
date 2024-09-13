@@ -190,5 +190,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Liam McCullough",
+    "age": "27",
+    "position": "LS",
+    "weight": "247",
+    "height": "6-2",
+    "college": "Ohio St.",
+    "experience": "2"
   }
 ]

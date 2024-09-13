@@ -760,5 +760,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jerry Jeudy",
+    "age": "25",
+    "position": "WR",
+    "weight": "195",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "4"
   }
 ]

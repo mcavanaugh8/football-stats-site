@@ -108,5 +108,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Cam Jurgens",
+    "age": "25",
+    "position": "OL",
+    "weight": "303",
+    "height": "6-3",
+    "college": "Nebraska",
+    "experience": "2"
   }
 ]

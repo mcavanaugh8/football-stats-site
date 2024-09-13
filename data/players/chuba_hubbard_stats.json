@@ -603,5 +603,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Chuba Hubbard",
+    "age": "25",
+    "position": "RB",
+    "weight": "210",
+    "height": "6-1",
+    "college": "Oklahoma St.",
+    "experience": "3"
   }
 ]

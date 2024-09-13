@@ -108,5 +108,14 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Cole Van Lanen",
+    "age": "26",
+    "position": "OL",
+    "weight": "312",
+    "height": "6-5",
+    "college": "Wisconsin",
+    "experience": "3"
   }
 ]

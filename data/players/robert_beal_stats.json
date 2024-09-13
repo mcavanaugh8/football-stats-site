@@ -148,5 +148,14 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "Robert Beal",
+    "age": "25",
+    "position": "DL",
+    "weight": "250",
+    "height": "",
+    "college": "Georgia",
+    "experience": "1"
   }
 ]

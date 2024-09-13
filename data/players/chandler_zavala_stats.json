@@ -93,5 +93,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Chandler Zavala",
+    "age": "25",
+    "position": "G",
+    "weight": "322",
+    "height": "",
+    "college": "Fairmont St.,North Carolina St.",
+    "experience": "1"
   }
 ]

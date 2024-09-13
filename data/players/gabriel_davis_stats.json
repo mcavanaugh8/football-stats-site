@@ -704,5 +704,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Gabriel Davis",
+    "age": "25",
+    "position": "WR",
+    "weight": "225",
+    "height": "6-2",
+    "college": "Central Florida",
+    "experience": "4"
   }
 ]

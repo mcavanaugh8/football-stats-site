@@ -148,5 +148,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Bryan Bresee",
+    "age": "23",
+    "position": "DT",
+    "weight": "305",
+    "height": "",
+    "college": "Clemson",
+    "experience": "1"
   }
 ]

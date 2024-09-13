@@ -106,5 +106,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Jarvis Brownlee",
+    "age": "23",
+    "position": "CB",
+    "weight": "194",
+    "height": "",
+    "college": "Florida St.,Louisville",
+    "experience": "Rook"
   }
 ]

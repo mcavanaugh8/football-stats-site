@@ -150,5 +150,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Ja'Tavion Sanders",
+    "age": "21",
+    "position": "TE",
+    "weight": "252",
+    "height": "",
+    "college": "Texas",
+    "experience": "Rook"
   }
 ]

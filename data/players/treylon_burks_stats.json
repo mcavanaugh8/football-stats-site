@@ -409,5 +409,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Treylon Burks",
+    "age": "24",
+    "position": "WR",
+    "weight": "225",
+    "height": "6-2",
+    "college": "Arkansas",
+    "experience": "2"
   }
 ]

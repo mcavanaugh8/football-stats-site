@@ -183,5 +183,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Tyler Scott",
+    "age": "23",
+    "position": "WR",
+    "weight": "185",
+    "height": "",
+    "college": "Cincinnati",
+    "experience": "1"
   }
 ]

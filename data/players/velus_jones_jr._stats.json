@@ -519,5 +519,14 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Velus Jones Jr.",
+    "age": "27",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-0",
+    "college": "USC,Tennessee",
+    "experience": "2"
   }
 ]

@@ -274,5 +274,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "James Smith-Williams",
+    "age": "27",
+    "position": "DL",
+    "weight": "265",
+    "height": "6-3",
+    "college": "North Carolina St.",
+    "experience": "4"
   }
 ]

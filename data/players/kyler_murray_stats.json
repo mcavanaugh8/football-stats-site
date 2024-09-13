@@ -1543,5 +1543,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kyler Murray",
+    "age": "27",
+    "position": "QB",
+    "weight": "207",
+    "height": "5-10",
+    "college": "Texas A&M,Oklahoma",
+    "experience": "5"
   }
 ]

@@ -183,5 +183,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Aaron Stinnie",
+    "age": "30",
+    "position": "G",
+    "weight": "312",
+    "height": "6-3",
+    "college": "James Madison",
+    "experience": "6"
   }
 ]

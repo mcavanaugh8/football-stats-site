@@ -393,5 +393,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Taron Johnson",
+    "age": "28",
+    "position": "CB",
+    "weight": "192",
+    "height": "5-11",
+    "college": "Weber St.",
+    "experience": "6"
   }
 ]

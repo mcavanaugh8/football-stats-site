@@ -737,5 +737,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Noah Fant",
+    "age": "27",
+    "position": "TE",
+    "weight": "249",
+    "height": "6-4",
+    "college": "Iowa",
+    "experience": "5"
   }
 ]

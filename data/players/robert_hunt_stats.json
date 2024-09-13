@@ -476,5 +476,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Robert Hunt",
+    "age": "28",
+    "position": "G",
+    "weight": "323",
+    "height": "6-6",
+    "college": "Louisiana",
+    "experience": "4"
   }
 ]

@@ -148,5 +148,14 @@
         "st_pct": "77%"
       }
     ]
+  },
+  {
+    "name": "Ben VanSumeren",
+    "age": "24",
+    "position": "LB",
+    "weight": "231",
+    "height": "6-2",
+    "college": "Michigan,Michigan St.",
+    "experience": "1"
   }
 ]

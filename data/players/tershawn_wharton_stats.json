@@ -274,5 +274,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Tershawn Wharton",
+    "age": "26",
+    "position": "DT",
+    "weight": "280",
+    "height": "6-1",
+    "college": "Missouri S&T",
+    "experience": "4"
   }
 ]

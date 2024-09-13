@@ -232,5 +232,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Isaiah McDuffie",
+    "age": "25",
+    "position": "LB",
+    "weight": "227",
+    "height": "6-1",
+    "college": "Boston Col.",
+    "experience": "3"
   }
 ]

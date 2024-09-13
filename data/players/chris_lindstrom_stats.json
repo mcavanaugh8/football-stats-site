@@ -322,5 +322,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Chris Lindstrom",
+    "age": "27",
+    "position": "G",
+    "weight": "307",
+    "height": "6-3",
+    "college": "Boston Col.",
+    "experience": "5"
   }
 ]

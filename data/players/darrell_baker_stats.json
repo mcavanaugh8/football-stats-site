@@ -190,5 +190,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Darrell Baker",
+    "age": "26",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-1",
+    "college": "Georgia Southern",
+    "experience": "2"
   }
 ]

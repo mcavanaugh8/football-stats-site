@@ -106,5 +106,14 @@
         "st_pct": "72%"
       }
     ]
+  },
+  {
+    "name": "Kaevon Merriweather",
+    "age": "25",
+    "position": "S",
+    "weight": "212",
+    "height": "",
+    "college": "Iowa",
+    "experience": "1"
   }
 ]

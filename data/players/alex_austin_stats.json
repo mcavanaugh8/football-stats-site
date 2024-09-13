@@ -232,5 +232,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Alex Austin",
+    "age": "23",
+    "position": "CB",
+    "weight": "191",
+    "height": "",
+    "college": "Oregon St.",
+    "experience": "1"
   }
 ]

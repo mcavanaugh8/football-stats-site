@@ -316,5 +316,14 @@
         "st_pct": "73%"
       }
     ]
+  },
+  {
+    "name": "Christian Rozeboom",
+    "age": "27",
+    "position": "LB",
+    "weight": "237",
+    "height": "6-2",
+    "college": "South Dakota St.",
+    "experience": "3"
   }
 ]

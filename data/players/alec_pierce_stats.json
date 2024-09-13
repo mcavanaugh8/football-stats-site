@@ -429,5 +429,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Alec Pierce",
+    "age": "24",
+    "position": "WR",
+    "weight": "211",
+    "height": "6-3",
+    "college": "Cincinnati",
+    "experience": "2"
   }
 ]

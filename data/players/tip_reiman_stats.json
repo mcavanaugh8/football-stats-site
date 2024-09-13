@@ -90,5 +90,14 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Tip Reiman",
+    "age": "23",
+    "position": "TE",
+    "weight": "273",
+    "height": "6-4",
+    "college": "Illinois",
+    "experience": "Rook"
   }
 ]

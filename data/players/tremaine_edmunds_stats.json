@@ -420,5 +420,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Tremaine Edmunds",
+    "age": "26",
+    "position": "LB",
+    "weight": "250",
+    "height": "6-5",
+    "college": "Virginia Tech",
+    "experience": "6"
   }
 ]

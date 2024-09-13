@@ -848,5 +848,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Calvin Ridley",
+    "age": "30",
+    "position": "WR",
+    "weight": "190",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "6"
   }
 ]

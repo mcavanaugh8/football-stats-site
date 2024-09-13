@@ -451,5 +451,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Luke Rhodes",
+    "age": "32",
+    "position": "LS",
+    "weight": "238",
+    "height": "6-2",
+    "college": "William & Mary",
+    "experience": "8"
   }
 ]

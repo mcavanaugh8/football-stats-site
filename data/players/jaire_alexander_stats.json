@@ -414,5 +414,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Jaire Alexander",
+    "age": "27",
+    "position": "CB",
+    "weight": "196",
+    "height": "5-10",
+    "college": "Louisville",
+    "experience": "6"
   }
 ]

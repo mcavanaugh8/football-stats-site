@@ -494,5 +494,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Trent Brown",
+    "age": "31",
+    "position": "OT",
+    "weight": "380",
+    "height": "6-8",
+    "college": "Georgia Military,Florida",
+    "experience": "9"
   }
 ]

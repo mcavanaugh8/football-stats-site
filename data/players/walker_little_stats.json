@@ -123,5 +123,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Walker Little",
+    "age": "25",
+    "position": "OL",
+    "weight": "325",
+    "height": "6-7",
+    "college": "Stanford",
+    "experience": "3"
   }
 ]

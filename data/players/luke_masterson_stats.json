@@ -190,5 +190,14 @@
         "st_pct": "89%"
       }
     ]
+  },
+  {
+    "name": "Luke Masterson",
+    "age": "26",
+    "position": "LB",
+    "weight": "220",
+    "height": "6-1",
+    "college": "Wake Forest",
+    "experience": "2"
   }
 ]

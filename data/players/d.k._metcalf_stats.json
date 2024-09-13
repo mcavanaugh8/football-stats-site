@@ -822,5 +822,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "D.K. Metcalf",
+    "age": "27",
+    "position": "WR",
+    "weight": "235",
+    "height": "6-4",
+    "college": "Mississippi",
+    "experience": "5"
   }
 ]

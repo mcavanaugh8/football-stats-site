@@ -78,5 +78,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Jonah Laulu",
+    "age": "24",
+    "position": "DT",
+    "weight": "292",
+    "height": "6-5",
+    "college": "Hawaii,Oklahoma",
+    "experience": "Rook"
   }
 ]

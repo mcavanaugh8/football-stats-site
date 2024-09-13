@@ -358,5 +358,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Taybor Pepper",
+    "age": "30",
+    "position": "LS",
+    "weight": "245",
+    "height": "6-4",
+    "college": "Michigan St.",
+    "experience": "7"
   }
 ]

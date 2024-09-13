@@ -190,5 +190,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Ikem Ekwonu",
+    "age": "24",
+    "position": "T",
+    "weight": "320",
+    "height": "6-4",
+    "college": "North Carolina St.",
+    "experience": "2"
   }
 ]

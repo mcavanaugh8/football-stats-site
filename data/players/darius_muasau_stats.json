@@ -106,5 +106,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Darius Muasau",
+    "age": "23",
+    "position": "LB",
+    "weight": "234",
+    "height": "",
+    "college": "Hawaii,UCLA",
+    "experience": "Rook"
   }
 ]

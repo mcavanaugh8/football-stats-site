@@ -421,5 +421,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Ethan Pocic",
+    "age": "29",
+    "position": "C",
+    "weight": "320",
+    "height": "6-6",
+    "college": "LSU",
+    "experience": "7"
   }
 ]

@@ -924,5 +924,14 @@
         "st_pct": "25%"
       }
     ]
+  },
+  {
+    "name": "Brandon Powell",
+    "age": "29",
+    "position": "WR",
+    "weight": "181",
+    "height": "5-8",
+    "college": "Florida",
+    "experience": "6"
   }
 ]

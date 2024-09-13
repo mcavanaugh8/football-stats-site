@@ -732,5 +732,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Lavonte David",
+    "age": "34",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-1",
+    "college": "Fort Scott (KS),Nebraska",
+    "experience": "12"
   }
 ]

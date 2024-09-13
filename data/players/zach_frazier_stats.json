@@ -78,5 +78,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Zach Frazier",
+    "age": "23",
+    "position": "C",
+    "weight": "310",
+    "height": "",
+    "college": "West Virginia",
+    "experience": "Rook"
   }
 ]

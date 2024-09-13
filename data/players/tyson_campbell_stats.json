@@ -260,5 +260,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Tyson Campbell",
+    "age": "24",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-1",
+    "college": "Georgia",
+    "experience": "3"
   }
 ]

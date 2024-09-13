@@ -232,5 +232,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Christian Kuntz",
+    "age": "30",
+    "position": "LS",
+    "weight": "228",
+    "height": "6-1",
+    "college": "Duquesne",
+    "experience": "3"
   }
 ]

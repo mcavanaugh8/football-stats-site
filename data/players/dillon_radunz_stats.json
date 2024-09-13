@@ -232,5 +232,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Dillon Radunz",
+    "age": "26",
+    "position": "OL",
+    "weight": "301",
+    "height": "6-6",
+    "college": "North Dakota St.",
+    "experience": "3"
   }
 ]

@@ -1444,5 +1444,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Courtland Sutton",
+    "age": "29",
+    "position": "WR",
+    "weight": "216",
+    "height": "6-4",
+    "college": "SMU",
+    "experience": "6"
   }
 ]

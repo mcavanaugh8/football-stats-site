@@ -148,5 +148,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Chris Stoll",
+    "age": "26",
+    "position": "LS",
+    "weight": "255",
+    "height": "6-2",
+    "college": "Penn St.",
+    "experience": "1"
   }
 ]

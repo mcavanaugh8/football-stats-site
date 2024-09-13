@@ -265,5 +265,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Sam LaPorta",
+    "age": "23",
+    "position": "TE",
+    "weight": "245",
+    "height": "6-3",
+    "college": "Iowa",
+    "experience": "1"
   }
 ]

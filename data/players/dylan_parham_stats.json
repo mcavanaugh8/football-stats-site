@@ -190,5 +190,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Dylan Parham",
+    "age": "25",
+    "position": "G",
+    "weight": "285",
+    "height": "6-3",
+    "college": "Memphis",
+    "experience": "2"
   }
 ]

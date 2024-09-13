@@ -1567,5 +1567,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Thomas Morstead",
+    "age": "38",
+    "position": "P",
+    "weight": "225",
+    "height": "6-4",
+    "college": "SMU",
+    "experience": "15"
   }
 ]

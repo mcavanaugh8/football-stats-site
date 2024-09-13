@@ -302,5 +302,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Amik Robertson",
+    "age": "26",
+    "position": "CB",
+    "weight": "183",
+    "height": "5-9",
+    "college": "Louisiana Tech",
+    "experience": "4"
   }
 ]

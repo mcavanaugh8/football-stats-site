@@ -316,5 +316,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rashan Gary",
+    "age": "27",
+    "position": "DL",
+    "weight": "277",
+    "height": "6-5",
+    "college": "Michigan",
+    "experience": "5"
   }
 ]

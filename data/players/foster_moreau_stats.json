@@ -884,5 +884,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Foster Moreau",
+    "age": "27",
+    "position": "TE",
+    "weight": "250",
+    "height": "6-4",
+    "college": "LSU",
+    "experience": "5"
   }
 ]

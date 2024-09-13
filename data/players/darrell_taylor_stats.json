@@ -232,5 +232,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Darrell Taylor",
+    "age": "27",
+    "position": "DL",
+    "weight": "267",
+    "height": "6-4",
+    "college": "Tennessee",
+    "experience": "3"
   }
 ]

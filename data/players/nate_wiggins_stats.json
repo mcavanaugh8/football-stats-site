@@ -106,5 +106,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Nate Wiggins",
+    "age": "21",
+    "position": "CB",
+    "weight": "182",
+    "height": "",
+    "college": "Clemson",
+    "experience": "Rook"
   }
 ]

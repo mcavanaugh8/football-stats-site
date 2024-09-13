@@ -176,5 +176,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Tyrique Stevenson",
+    "age": "24",
+    "position": "DB",
+    "weight": "204",
+    "height": "",
+    "college": "Georgia,Miami (FL)",
+    "experience": "1"
   }
 ]

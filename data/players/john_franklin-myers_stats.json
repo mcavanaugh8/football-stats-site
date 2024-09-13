@@ -316,5 +316,14 @@
         "st_pct": "9%"
       }
     ]
+  },
+  {
+    "name": "John Franklin-Myers",
+    "age": "28",
+    "position": "DE",
+    "weight": "288",
+    "height": "6-4",
+    "college": "S.F. Austin",
+    "experience": "6"
   }
 ]

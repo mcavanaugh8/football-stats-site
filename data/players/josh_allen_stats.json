@@ -1823,5 +1823,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Josh Allen",
+    "age": "28",
+    "position": "QB",
+    "weight": "237",
+    "height": "6-5",
+    "college": "Reedley,Wyoming",
+    "experience": "6"
   }
 ]

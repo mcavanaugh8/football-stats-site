@@ -316,5 +316,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "T.J. Edwards",
+    "age": "28",
+    "position": "LB",
+    "weight": "242",
+    "height": "6-1",
+    "college": "Wisconsin",
+    "experience": "5"
   }
 ]

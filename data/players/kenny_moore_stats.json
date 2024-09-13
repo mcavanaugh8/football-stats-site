@@ -463,5 +463,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Kenny Moore",
+    "age": "29",
+    "position": "CB",
+    "weight": "190",
+    "height": "5-9",
+    "college": "Valdosta St.",
+    "experience": "7"
   }
 ]

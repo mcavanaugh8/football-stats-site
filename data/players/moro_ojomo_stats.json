@@ -148,5 +148,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Moro Ojomo",
+    "age": "23",
+    "position": "DT",
+    "weight": "292",
+    "height": "",
+    "college": "Texas",
+    "experience": "1"
   }
 ]

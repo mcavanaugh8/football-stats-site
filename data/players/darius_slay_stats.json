@@ -662,5 +662,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Darius Slay",
+    "age": "33",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-0",
+    "college": "Mississippi St.",
+    "experience": "11"
   }
 ]

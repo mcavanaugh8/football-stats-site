@@ -576,5 +576,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "C.J. Mosley",
+    "age": "32",
+    "position": "LB",
+    "weight": "231",
+    "height": "6-2",
+    "college": "Alabama",
+    "experience": "10"
   }
 ]

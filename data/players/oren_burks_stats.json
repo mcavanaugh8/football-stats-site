@@ -358,5 +358,14 @@
         "st_pct": "55%"
       }
     ]
+  },
+  {
+    "name": "Oren Burks",
+    "age": "29",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-3",
+    "college": "Vanderbilt",
+    "experience": "6"
   }
 ]

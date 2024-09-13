@@ -190,5 +190,14 @@
         "st_pct": "78%"
       }
     ]
+  },
+  {
+    "name": "Ja'Marcus Ingram",
+    "age": "27",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-2",
+    "college": "Utah St.,Texas Tech,Buffalo",
+    "experience": "2"
   }
 ]

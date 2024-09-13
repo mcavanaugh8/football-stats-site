@@ -281,5 +281,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Jason Pinnock",
+    "age": "25",
+    "position": "S",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Pittsburgh",
+    "experience": "3"
   }
 ]

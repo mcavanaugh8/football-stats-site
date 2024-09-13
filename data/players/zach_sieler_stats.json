@@ -470,5 +470,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Zach Sieler",
+    "age": "29",
+    "position": "DT",
+    "weight": "300",
+    "height": "6-6",
+    "college": "Ferris St.",
+    "experience": "6"
   }
 ]

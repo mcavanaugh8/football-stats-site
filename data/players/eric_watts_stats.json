@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Eric Watts",
+    "age": "",
+    "position": "DL",
+    "weight": "277",
+    "height": "6-5",
+    "college": "Connecticut",
+    "experience": "Rook"
   }
 ]

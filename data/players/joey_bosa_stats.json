@@ -451,5 +451,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Joey Bosa",
+    "age": "29",
+    "position": "OLB",
+    "weight": "280",
+    "height": "6-5",
+    "college": "Ohio St.",
+    "experience": "8"
   }
 ]

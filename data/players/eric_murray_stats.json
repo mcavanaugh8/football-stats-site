@@ -442,5 +442,14 @@
         "st_pct": "56%"
       }
     ]
+  },
+  {
+    "name": "Eric Murray",
+    "age": "30",
+    "position": "S",
+    "weight": "199",
+    "height": "5-11",
+    "college": "Minnesota",
+    "experience": "8"
   }
 ]

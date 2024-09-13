@@ -350,5 +350,14 @@
         "st_pct": "61%"
       }
     ]
+  },
+  {
+    "name": "Devin Bush Jr.",
+    "age": "26",
+    "position": "LB",
+    "weight": "235",
+    "height": "5-11",
+    "college": "Michigan",
+    "experience": "5"
   }
 ]

@@ -633,5 +633,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Quenton Nelson",
+    "age": "28",
+    "position": "G",
+    "weight": "330",
+    "height": "6-5",
+    "college": "Notre Dame",
+    "experience": "6"
   }
 ]

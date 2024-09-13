@@ -358,5 +358,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Teair Tart",
+    "age": "27",
+    "position": "DT",
+    "weight": "315",
+    "height": "6-2",
+    "college": "Florida International",
+    "experience": "4"
   }
 ]

@@ -274,5 +274,14 @@
         "st_pct": "6%"
       }
     ]
+  },
+  {
+    "name": "Trevis Gipson",
+    "age": "27",
+    "position": "LB",
+    "weight": "263",
+    "height": "6-4",
+    "college": "Tulsa",
+    "experience": "4"
   }
 ]

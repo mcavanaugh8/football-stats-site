@@ -190,5 +190,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Devin Lloyd",
+    "age": "26",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-3",
+    "college": "Utah",
+    "experience": "2"
   }
 ]

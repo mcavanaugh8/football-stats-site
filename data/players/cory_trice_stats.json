@@ -78,5 +78,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Cory Trice",
+    "age": "24",
+    "position": "DB",
+    "weight": "206",
+    "height": "",
+    "college": "Purdue",
+    "experience": "1"
   }
 ]

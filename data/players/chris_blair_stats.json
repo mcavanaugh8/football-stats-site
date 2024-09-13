@@ -116,5 +116,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Chris Blair",
+    "age": "27",
+    "position": "WR",
+    "weight": "198",
+    "height": "6-2",
+    "college": "Hinds CC,Alcorn St.",
+    "experience": "1"
   }
 ]

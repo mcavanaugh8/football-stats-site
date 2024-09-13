@@ -108,5 +108,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Trevor Penning",
+    "age": "25",
+    "position": "OT",
+    "weight": "325",
+    "height": "6-7",
+    "college": "Northern Iowa",
+    "experience": "2"
   }
 ]

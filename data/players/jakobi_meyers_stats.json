@@ -1320,5 +1320,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jakobi Meyers",
+    "age": "28",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-2",
+    "college": "North Carolina St.",
+    "experience": "5"
   }
 ]

@@ -190,5 +190,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Damone Clark",
+    "age": "24",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-3",
+    "college": "LSU",
+    "experience": "2"
   }
 ]

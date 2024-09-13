@@ -1423,5 +1423,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Riley Dixon",
+    "age": "31",
+    "position": "P",
+    "weight": "221",
+    "height": "6-4",
+    "college": "Syracuse",
+    "experience": "8"
   }
 ]

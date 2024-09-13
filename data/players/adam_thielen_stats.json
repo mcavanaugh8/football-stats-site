@@ -1491,5 +1491,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Adam Thielen",
+    "age": "34",
+    "position": "WR",
+    "weight": "195",
+    "height": "6-2",
+    "college": "Minnesota St.",
+    "experience": "10"
   }
 ]

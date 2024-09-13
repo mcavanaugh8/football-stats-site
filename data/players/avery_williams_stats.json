@@ -458,5 +458,14 @@
         "st_pct": "92%"
       }
     ]
+  },
+  {
+    "name": "Avery Williams",
+    "age": "26",
+    "position": "RB",
+    "weight": "195",
+    "height": "5-9",
+    "college": "Boise St.",
+    "experience": "3"
   }
 ]

@@ -260,5 +260,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Nick Bolton",
+    "age": "24",
+    "position": "LB",
+    "weight": "237",
+    "height": "5-11",
+    "college": "Missouri",
+    "experience": "3"
   }
 ]

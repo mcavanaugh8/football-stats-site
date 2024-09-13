@@ -93,5 +93,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Zachary Thomas",
+    "age": "26",
+    "position": "OT",
+    "weight": "305",
+    "height": "6-5",
+    "college": "San Diego St.",
+    "experience": "2"
   }
 ]

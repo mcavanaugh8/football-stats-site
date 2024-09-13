@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Ernest Jones",
+    "age": "25",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-2",
+    "college": "South Carolina",
+    "experience": "3"
   }
 ]

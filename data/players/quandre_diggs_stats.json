@@ -1113,5 +1113,14 @@
     "height": "5-9",
     "college": "Texas",
     "experience": "8"
+  },
+  {
+    "name": "Quandre Diggs",
+    "age": "31",
+    "position": "FS",
+    "weight": "197",
+    "height": "5-9",
+    "college": "Texas",
+    "experience": "9"
   }
 ]

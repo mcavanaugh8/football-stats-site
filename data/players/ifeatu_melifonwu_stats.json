@@ -190,5 +190,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Ifeatu Melifonwu",
+    "age": "25",
+    "position": "S",
+    "weight": "210",
+    "height": "6-3",
+    "college": "Syracuse",
+    "experience": "3"
   }
 ]

@@ -455,5 +455,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Travis Etienne",
+    "age": "25",
+    "position": "RB",
+    "weight": "215",
+    "height": "5-10",
+    "college": "Clemson",
+    "experience": "2"
   }
 ]

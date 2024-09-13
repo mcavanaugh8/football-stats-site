@@ -358,5 +358,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Charles Harris",
+    "age": "29",
+    "position": "DE",
+    "weight": "250",
+    "height": "6-3",
+    "college": "Missouri",
+    "experience": "7"
   }
 ]

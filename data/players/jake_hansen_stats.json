@@ -190,5 +190,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Jake Hansen",
+    "age": "26",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-1",
+    "college": "Illinois",
+    "experience": "2"
   }
 ]

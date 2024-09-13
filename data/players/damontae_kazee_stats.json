@@ -400,5 +400,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Damontae Kazee",
+    "age": "31",
+    "position": "S",
+    "weight": "174",
+    "height": "5-11",
+    "college": "San Diego St.",
+    "experience": "7"
   }
 ]

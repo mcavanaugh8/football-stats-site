@@ -344,5 +344,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Samuel Eguavoen",
+    "age": "31",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-1",
+    "college": "Texas Tech",
+    "experience": "5"
   }
 ]

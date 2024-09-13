@@ -405,5 +405,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Chris Olave",
+    "age": "24",
+    "position": "WR",
+    "weight": "187",
+    "height": "6-0",
+    "college": "Ohio St.",
+    "experience": "2"
   }
 ]

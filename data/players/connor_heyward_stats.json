@@ -654,5 +654,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Connor Heyward",
+    "age": "25",
+    "position": "TE",
+    "weight": "230",
+    "height": "6-0",
+    "college": "Michigan St.",
+    "experience": "2"
   }
 ]

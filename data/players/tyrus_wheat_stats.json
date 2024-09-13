@@ -148,5 +148,14 @@
         "st_pct": "69%"
       }
     ]
+  },
+  {
+    "name": "Tyrus Wheat",
+    "age": "25",
+    "position": "DE",
+    "weight": "260",
+    "height": "",
+    "college": "Copiah-Lincoln CC,Mississippi St.",
+    "experience": "1"
   }
 ]

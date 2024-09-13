@@ -253,5 +253,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Michael Hoecht",
+    "age": "27",
+    "position": "OLB",
+    "weight": "267",
+    "height": "6-4",
+    "college": "Brown",
+    "experience": "3"
   }
 ]

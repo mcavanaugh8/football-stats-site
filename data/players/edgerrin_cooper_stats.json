@@ -106,5 +106,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Edgerrin Cooper",
+    "age": "23",
+    "position": "LB",
+    "weight": "229",
+    "height": "",
+    "college": "Texas A&M",
+    "experience": "Rook"
   }
 ]

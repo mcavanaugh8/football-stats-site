@@ -78,5 +78,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Maason Smith",
+    "age": "22",
+    "position": "DT",
+    "weight": "306",
+    "height": "",
+    "college": "LSU",
+    "experience": "Rook"
   }
 ]

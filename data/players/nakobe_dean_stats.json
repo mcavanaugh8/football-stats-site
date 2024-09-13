@@ -190,5 +190,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Nakobe Dean",
+    "age": "24",
+    "position": "LB",
+    "weight": "231",
+    "height": "5-11",
+    "college": "Georgia",
+    "experience": "2"
   }
 ]

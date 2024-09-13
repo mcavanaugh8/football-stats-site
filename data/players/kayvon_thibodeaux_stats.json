@@ -221,5 +221,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kayvon Thibodeaux",
+    "age": "24",
+    "position": "OLB",
+    "weight": "258",
+    "height": "6-5",
+    "college": "Oregon",
+    "experience": "2"
   }
 ]

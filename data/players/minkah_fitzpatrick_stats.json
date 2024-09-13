@@ -587,5 +587,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Minkah Fitzpatrick",
+    "age": "28",
+    "position": "S",
+    "weight": "207",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "6"
   }
 ]

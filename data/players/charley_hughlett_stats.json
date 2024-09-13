@@ -484,5 +484,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Charley Hughlett",
+    "age": "34",
+    "position": "LS",
+    "weight": "248",
+    "height": "6-4",
+    "college": "Central Florida",
+    "experience": "9"
   }
 ]

@@ -774,5 +774,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Justin Tucker",
+    "age": "35",
+    "position": "K",
+    "weight": "191",
+    "height": "6-1",
+    "college": "Texas",
+    "experience": "12"
   }
 ]

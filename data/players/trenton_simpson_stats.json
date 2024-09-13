@@ -148,5 +148,14 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "Trenton Simpson",
+    "age": "23",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-2",
+    "college": "Clemson",
+    "experience": "1"
   }
 ]

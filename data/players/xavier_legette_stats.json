@@ -183,5 +183,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Xavier Legette",
+    "age": "23",
+    "position": "WR",
+    "weight": "227",
+    "height": "6-3",
+    "college": "South Carolina",
+    "experience": "Rook"
   }
 ]

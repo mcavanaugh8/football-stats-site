@@ -1056,5 +1056,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trevor Lawrence",
+    "age": "25",
+    "position": "QB",
+    "weight": "220",
+    "height": "6-6",
+    "college": "Clemson",
+    "experience": "3"
   }
 ]

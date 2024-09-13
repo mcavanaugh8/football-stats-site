@@ -148,5 +148,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Clark Phillips",
+    "age": "23",
+    "position": "CB",
+    "weight": "184",
+    "height": "5-9",
+    "college": "Utah",
+    "experience": "1"
   }
 ]

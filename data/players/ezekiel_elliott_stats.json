@@ -1783,5 +1783,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Ezekiel Elliott",
+    "age": "29",
+    "position": "RB",
+    "weight": "228",
+    "height": "6-0",
+    "college": "Ohio St.",
+    "experience": "8"
   }
 ]

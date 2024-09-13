@@ -427,5 +427,14 @@
         "st_pct": "74%"
       }
     ]
+  },
+  {
+    "name": "Tavierre Thomas",
+    "age": "28",
+    "position": "CB",
+    "weight": "205",
+    "height": "5-10",
+    "college": "Ferris St.",
+    "experience": "6"
   }
 ]

@@ -183,5 +183,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Jermaine Eluemunor",
+    "age": "30",
+    "position": "OL",
+    "weight": "338",
+    "height": "6-4",
+    "college": "Lackawanna,Texas A&M",
+    "experience": "7"
   }
 ]

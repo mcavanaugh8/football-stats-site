@@ -90,5 +90,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Grant Dubose",
+    "age": "23",
+    "position": "WR",
+    "weight": "201",
+    "height": "6-2",
+    "college": "Miles,Charlotte",
+    "experience": "1"
   }
 ]

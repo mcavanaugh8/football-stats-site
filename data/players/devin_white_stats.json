@@ -307,5 +307,14 @@
         "st_pct": "2%"
       }
     ]
+  },
+  {
+    "name": "Devin White",
+    "age": "26",
+    "position": "LB",
+    "weight": "237",
+    "height": "6-0",
+    "college": "LSU",
+    "experience": "5"
   }
 ]

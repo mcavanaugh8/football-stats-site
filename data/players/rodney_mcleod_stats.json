@@ -728,5 +728,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Rodney McLeod",
+    "age": "34",
+    "position": "S",
+    "weight": "185",
+    "height": "5-10",
+    "college": "Virginia",
+    "experience": "12"
   }
 ]

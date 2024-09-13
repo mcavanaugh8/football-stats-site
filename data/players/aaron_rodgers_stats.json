@@ -3403,5 +3403,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Aaron Rodgers",
+    "age": "41",
+    "position": "QB",
+    "weight": "223",
+    "height": "6-2",
+    "college": "Butte JC (CA),California",
+    "experience": "19"
   }
 ]

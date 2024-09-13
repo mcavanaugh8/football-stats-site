@@ -106,5 +106,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Ennis Rakestraw",
+    "age": "22",
+    "position": "CB",
+    "weight": "191",
+    "height": "",
+    "college": "Missouri",
+    "experience": "Rook"
   }
 ]

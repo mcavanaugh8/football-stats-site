@@ -526,5 +526,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Jihad Ward",
+    "age": "30",
+    "position": "OLB",
+    "weight": "285",
+    "height": "6-5",
+    "college": "Illinois",
+    "experience": "8"
   }
 ]

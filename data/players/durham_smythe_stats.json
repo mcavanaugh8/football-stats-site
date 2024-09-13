@@ -1005,5 +1005,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Durham Smythe",
+    "age": "29",
+    "position": "TE",
+    "weight": "246",
+    "height": "6-6",
+    "college": "Notre Dame",
+    "experience": "6"
   }
 ]

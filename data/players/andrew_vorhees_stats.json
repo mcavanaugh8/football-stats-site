@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Andrew Vorhees",
+    "age": "25",
+    "position": "OL",
+    "weight": "320",
+    "height": "",
+    "college": "USC",
+    "experience": "Rook"
   }
 ]

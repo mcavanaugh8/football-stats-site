@@ -593,5 +593,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Tyler Johnson",
+    "age": "26",
+    "position": "WR",
+    "weight": "208",
+    "height": "6-1",
+    "college": "Minnesota",
+    "experience": "4"
   }
 ]

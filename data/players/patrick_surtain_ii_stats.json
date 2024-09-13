@@ -264,5 +264,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Patrick Surtain II",
+    "age": "24",
+    "position": "CB",
+    "weight": "202",
+    "height": "6-2",
+    "college": "Alabama",
+    "experience": "3"
   }
 ]

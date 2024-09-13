@@ -123,5 +123,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Jaylon Moore",
+    "age": "26",
+    "position": "OL",
+    "weight": "311",
+    "height": "6-4",
+    "college": "Western Michigan",
+    "experience": "3"
   }
 ]

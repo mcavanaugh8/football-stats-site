@@ -232,5 +232,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Nick Leverett",
+    "age": "27",
+    "position": "G",
+    "weight": "310",
+    "height": "6-3",
+    "college": "Rice",
+    "experience": "3"
   }
 ]

@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kyzir White",
+    "age": "28",
+    "position": "LB",
+    "weight": "234",
+    "height": "6-2",
+    "college": "West Virginia",
+    "experience": "6"
   }
 ]

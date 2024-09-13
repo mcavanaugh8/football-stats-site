@@ -1001,5 +1001,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Allen Lazard",
+    "age": "29",
+    "position": "WR",
+    "weight": "227",
+    "height": "6-5",
+    "college": "Iowa St.",
+    "experience": "6"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Robert Hainsey",
+    "age": "26",
+    "position": "C",
+    "weight": "306",
+    "height": "6-4",
+    "college": "Notre Dame",
+    "experience": "3"
   }
 ]

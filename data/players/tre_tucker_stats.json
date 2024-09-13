@@ -334,5 +334,14 @@
         "st_pct": "25%"
       }
     ]
+  },
+  {
+    "name": "Tre Tucker",
+    "age": "23",
+    "position": "WR",
+    "weight": "185",
+    "height": "",
+    "college": "Cincinnati",
+    "experience": "1"
   }
 ]

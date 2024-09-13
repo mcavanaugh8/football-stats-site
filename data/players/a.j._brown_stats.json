@@ -1297,5 +1297,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "A.J. Brown",
+    "age": "27",
+    "position": "WR",
+    "weight": "226",
+    "height": "6-1",
+    "college": "Mississippi",
+    "experience": "5"
   }
 ]

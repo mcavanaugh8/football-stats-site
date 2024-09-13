@@ -190,5 +190,14 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Deane Leonard",
+    "age": "25",
+    "position": "DB",
+    "weight": "195",
+    "height": "6-0",
+    "college": "Calgary,Mississippi",
+    "experience": "2"
   }
 ]

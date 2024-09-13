@@ -78,5 +78,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Olumuyiwa Fashanu",
+    "age": "22",
+    "position": "OL",
+    "weight": "312",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "Rook"
   }
 ]

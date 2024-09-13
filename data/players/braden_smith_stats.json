@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Braden Smith",
+    "age": "28",
+    "position": "T",
+    "weight": "312",
+    "height": "6-6",
+    "college": "Auburn",
+    "experience": "6"
   }
 ]

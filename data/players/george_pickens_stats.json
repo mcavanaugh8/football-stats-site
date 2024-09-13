@@ -449,5 +449,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "George Pickens",
+    "age": "23",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-3",
+    "college": "Georgia",
+    "experience": "2"
   }
 ]

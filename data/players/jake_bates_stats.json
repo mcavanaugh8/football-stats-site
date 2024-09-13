@@ -106,5 +106,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Jake Bates",
+    "age": "25",
+    "position": "K",
+    "weight": "202",
+    "height": "5-10",
+    "college": "Texas St.,Arkansas",
+    "experience": "1"
   }
 ]

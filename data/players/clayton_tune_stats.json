@@ -289,5 +289,14 @@
         "st_pct": "1%"
       }
     ]
+  },
+  {
+    "name": "Clayton Tune",
+    "age": "25",
+    "position": "QB",
+    "weight": "220",
+    "height": "",
+    "college": "Houston",
+    "experience": "1"
   }
 ]

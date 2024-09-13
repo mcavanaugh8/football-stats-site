@@ -1776,5 +1776,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Zach Ertz",
+    "age": "34",
+    "position": "TE",
+    "weight": "250",
+    "height": "6-5",
+    "college": "Stanford",
+    "experience": "11"
   }
 ]

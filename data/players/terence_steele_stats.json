@@ -509,5 +509,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Terence Steele",
+    "age": "27",
+    "position": "T",
+    "weight": "310",
+    "height": "6-6",
+    "college": "Texas Tech",
+    "experience": "4"
   }
 ]

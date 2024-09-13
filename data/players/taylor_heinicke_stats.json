@@ -1426,5 +1426,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Taylor Heinicke",
+    "age": "31",
+    "position": "QB",
+    "weight": "210",
+    "height": "6-1",
+    "college": "Old Dominion",
+    "experience": "7"
   }
 ]

@@ -148,5 +148,14 @@
         "st_pct": "56%"
       }
     ]
+  },
+  {
+    "name": "SirVocea Dennis",
+    "age": "24",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-0",
+    "college": "Pittsburgh",
+    "experience": "1"
   }
 ]

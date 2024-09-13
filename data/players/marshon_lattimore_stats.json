@@ -463,5 +463,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Marshon Lattimore",
+    "age": "28",
+    "position": "CB",
+    "weight": "192",
+    "height": "6-0",
+    "college": "Ohio St.",
+    "experience": "7"
   }
 ]

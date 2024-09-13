@@ -274,5 +274,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Xavier Newman-Johnson",
+    "age": "25",
+    "position": "OL",
+    "weight": "297",
+    "height": "6-2",
+    "college": "Baylor",
+    "experience": "2"
   }
 ]

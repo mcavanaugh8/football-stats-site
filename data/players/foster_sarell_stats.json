@@ -93,5 +93,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Foster Sarell",
+    "age": "26",
+    "position": "T",
+    "weight": "322",
+    "height": "6-6",
+    "college": "Stanford",
+    "experience": "2"
   }
 ]

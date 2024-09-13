@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Malik Nabers",
+    "age": "21",
+    "position": "WR",
+    "weight": "200",
+    "height": "",
+    "college": "LSU",
+    "experience": "Rook"
   }
 ]

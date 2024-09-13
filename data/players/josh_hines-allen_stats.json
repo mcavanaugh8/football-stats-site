@@ -350,5 +350,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Josh Hines-Allen",
+    "age": "27",
+    "position": "DE",
+    "weight": "255",
+    "height": "6-5",
+    "college": "Kentucky",
+    "experience": "5"
   }
 ]

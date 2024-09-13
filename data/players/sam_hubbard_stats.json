@@ -661,5 +661,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Sam Hubbard",
+    "age": "29",
+    "position": "DE",
+    "weight": "265",
+    "height": "6-5",
+    "college": "Ohio St.",
+    "experience": "6"
   }
 ]

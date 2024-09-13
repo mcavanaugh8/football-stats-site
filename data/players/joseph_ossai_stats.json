@@ -218,5 +218,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Joseph Ossai",
+    "age": "24",
+    "position": "DE",
+    "weight": "263",
+    "height": "6-4",
+    "college": "Texas",
+    "experience": "2"
   }
 ]

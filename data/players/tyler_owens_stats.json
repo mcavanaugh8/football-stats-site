@@ -78,5 +78,14 @@
         "st_pct": "59%"
       }
     ]
+  },
+  {
+    "name": "Tyler Owens",
+    "age": "23",
+    "position": "S",
+    "weight": "213",
+    "height": "",
+    "college": "Texas,Texas Tech",
+    "experience": "Rook"
   }
 ]

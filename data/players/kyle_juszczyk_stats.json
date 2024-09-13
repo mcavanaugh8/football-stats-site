@@ -1673,5 +1673,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Kyle Juszczyk",
+    "age": "33",
+    "position": "FB",
+    "weight": "235",
+    "height": "6-2",
+    "college": "Harvard",
+    "experience": "11"
   }
 ]

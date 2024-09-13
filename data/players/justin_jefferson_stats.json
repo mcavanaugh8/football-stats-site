@@ -1206,5 +1206,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Justin Jefferson",
+    "age": "25",
+    "position": "WR",
+    "weight": "195",
+    "height": "6-1",
+    "college": "LSU",
+    "experience": "4"
   }
 ]

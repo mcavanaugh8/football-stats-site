@@ -1399,5 +1399,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Davante Adams",
+    "age": "32",
+    "position": "WR",
+    "weight": "215",
+    "height": "6-1",
+    "college": "Fresno St.",
+    "experience": "10"
   }
 ]

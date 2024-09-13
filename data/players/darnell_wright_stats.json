@@ -93,5 +93,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Darnell Wright",
+    "age": "23",
+    "position": "OL",
+    "weight": "333",
+    "height": "",
+    "college": "Tennessee",
+    "experience": "1"
   }
 ]

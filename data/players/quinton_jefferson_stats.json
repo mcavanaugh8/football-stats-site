@@ -442,5 +442,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Quinton Jefferson",
+    "age": "31",
+    "position": "DT",
+    "weight": "290",
+    "height": "6-4",
+    "college": "Maryland",
+    "experience": "8"
   }
 ]

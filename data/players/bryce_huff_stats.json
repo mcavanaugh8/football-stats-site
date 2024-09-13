@@ -274,5 +274,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Bryce Huff",
+    "age": "26",
+    "position": "DE",
+    "weight": "255",
+    "height": "6-3",
+    "college": "Memphis",
+    "experience": "4"
   }
 ]

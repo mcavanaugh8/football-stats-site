@@ -290,5 +290,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Tucker Kraft",
+    "age": "24",
+    "position": "TE",
+    "weight": "259",
+    "height": "",
+    "college": "South Dakota St.",
+    "experience": "1"
   }
 ]

@@ -953,5 +953,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Mo Alie-Cox",
+    "age": "31",
+    "position": "TE",
+    "weight": "267",
+    "height": "6-5",
+    "college": "Virginia Commonwealth",
+    "experience": "6"
   }
 ]

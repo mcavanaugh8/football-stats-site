@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Harrison Phillips",
+    "age": "28",
+    "position": "DL",
+    "weight": "307",
+    "height": "6-3",
+    "college": "Stanford",
+    "experience": "6"
   }
 ]

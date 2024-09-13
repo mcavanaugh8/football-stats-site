@@ -580,5 +580,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Terron Armstead",
+    "age": "33",
+    "position": "T",
+    "weight": "305",
+    "height": "6-5",
+    "college": "Ark-Pine Bluff",
+    "experience": "11"
   }
 ]

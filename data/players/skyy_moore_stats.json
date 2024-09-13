@@ -430,5 +430,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Skyy Moore",
+    "age": "24",
+    "position": "WR",
+    "weight": "195",
+    "height": "5-10",
+    "college": "Western Michigan",
+    "experience": "2"
   }
 ]

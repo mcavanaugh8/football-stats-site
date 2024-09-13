@@ -475,5 +475,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Harrison Butker",
+    "age": "29",
+    "position": "K",
+    "weight": "205",
+    "height": "6-4",
+    "college": "Georgia Tech",
+    "experience": "7"
   }
 ]

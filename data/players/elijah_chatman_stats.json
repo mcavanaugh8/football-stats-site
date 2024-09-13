@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Elijah Chatman",
+    "age": "24",
+    "position": "DT",
+    "weight": "278",
+    "height": "",
+    "college": "SMU",
+    "experience": "Rook"
   }
 ]

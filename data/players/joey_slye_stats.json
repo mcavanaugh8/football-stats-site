@@ -547,5 +547,14 @@
         "st_pct": "38%"
       }
     ]
+  },
+  {
+    "name": "Joey Slye",
+    "age": "28",
+    "position": "K",
+    "weight": "213",
+    "height": "5-11",
+    "college": "Virginia Tech",
+    "experience": "5"
   }
 ]

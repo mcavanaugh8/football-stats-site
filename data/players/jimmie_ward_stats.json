@@ -581,5 +581,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Jimmie Ward",
+    "age": "33",
+    "position": "S",
+    "weight": "193",
+    "height": "5-11",
+    "college": "Northern Illinois",
+    "experience": "10"
   }
 ]

@@ -949,5 +949,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Dallas Goedert",
+    "age": "29",
+    "position": "TE",
+    "weight": "256",
+    "height": "6-5",
+    "college": "South Dakota St.",
+    "experience": "6"
   }
 ]

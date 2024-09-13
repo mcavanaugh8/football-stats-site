@@ -344,5 +344,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Michael Jackson",
+    "age": "27",
+    "position": "CB",
+    "weight": "210",
+    "height": "6-1",
+    "college": "Miami (FL)",
+    "experience": "5"
   }
 ]

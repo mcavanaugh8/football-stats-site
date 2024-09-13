@@ -814,5 +814,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Khari Blasingame",
+    "age": "28",
+    "position": "FB",
+    "weight": "233",
+    "height": "6-0",
+    "college": "Vanderbilt",
+    "experience": "5"
   }
 ]

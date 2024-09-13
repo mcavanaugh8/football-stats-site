@@ -232,5 +232,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Liam Eichenberg",
+    "age": "26",
+    "position": "OL",
+    "weight": "302",
+    "height": "6-6",
+    "college": "Notre Dame",
+    "experience": "3"
   }
 ]

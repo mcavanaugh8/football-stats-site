@@ -819,5 +819,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Cam Akers",
+    "age": "25",
+    "position": "RB",
+    "weight": "217",
+    "height": "5-10",
+    "college": "Florida St.",
+    "experience": "4"
   }
 ]

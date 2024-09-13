@@ -623,5 +623,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Josh Harris",
+    "age": "35",
+    "position": "LS",
+    "weight": "224",
+    "height": "6-1",
+    "college": "Auburn",
+    "experience": "12"
   }
 ]

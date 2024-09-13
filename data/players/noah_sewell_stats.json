@@ -106,5 +106,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Noah Sewell",
+    "age": "22",
+    "position": "LB",
+    "weight": "253",
+    "height": "6-2",
+    "college": "Oregon",
+    "experience": "1"
   }
 ]

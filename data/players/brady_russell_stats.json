@@ -171,5 +171,14 @@
         "st_pct": "88%"
       }
     ]
+  },
+  {
+    "name": "Brady Russell",
+    "age": "26",
+    "position": "TE",
+    "weight": "250",
+    "height": "6-3",
+    "college": "Colorado",
+    "experience": "1"
   }
 ]

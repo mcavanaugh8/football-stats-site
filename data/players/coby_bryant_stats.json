@@ -190,5 +190,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Coby Bryant",
+    "age": "25",
+    "position": "CB",
+    "weight": "193",
+    "height": "6-1",
+    "college": "Cincinnati",
+    "experience": "2"
   }
 ]

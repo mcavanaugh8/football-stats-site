@@ -78,5 +78,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Xavier Thomas",
+    "age": "25",
+    "position": "OLB",
+    "weight": "244",
+    "height": "",
+    "college": "Clemson",
+    "experience": "Rook"
   }
 ]

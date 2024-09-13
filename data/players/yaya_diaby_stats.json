@@ -150,5 +150,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "YaYa Diaby",
+    "age": "25",
+    "position": "OLB",
+    "weight": "270",
+    "height": "6-4",
+    "college": "Georgia Military,Louisville",
+    "experience": "1"
   }
 ]

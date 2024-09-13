@@ -1618,5 +1618,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Chris Godwin",
+    "age": "28",
+    "position": "WR",
+    "weight": "209",
+    "height": "6-1",
+    "college": "Penn St.",
+    "experience": "7"
   }
 ]

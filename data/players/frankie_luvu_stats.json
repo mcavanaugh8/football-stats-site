@@ -413,5 +413,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Frankie Luvu",
+    "age": "28",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-3",
+    "college": "Washington St.",
+    "experience": "6"
   }
 ]

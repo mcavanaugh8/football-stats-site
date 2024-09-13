@@ -190,5 +190,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Ja'Sir Taylor",
+    "age": "25",
+    "position": "DB",
+    "weight": "185",
+    "height": "5-10",
+    "college": "Wake Forest",
+    "experience": "2"
   }
 ]

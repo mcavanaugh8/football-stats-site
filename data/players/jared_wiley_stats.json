@@ -90,5 +90,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jared Wiley",
+    "age": "24",
+    "position": "TE",
+    "weight": "249",
+    "height": "",
+    "college": "Texas,TCU",
+    "experience": "Rook"
   }
 ]

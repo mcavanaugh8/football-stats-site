@@ -148,5 +148,14 @@
         "st_pct": "56%"
       }
     ]
+  },
+  {
+    "name": "Cameron Mitchell",
+    "age": "23",
+    "position": "CB",
+    "weight": "191",
+    "height": "5-11",
+    "college": "Northwestern",
+    "experience": "1"
   }
 ]

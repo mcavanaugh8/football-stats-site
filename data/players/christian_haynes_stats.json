@@ -78,5 +78,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Christian Haynes",
+    "age": "24",
+    "position": "OG",
+    "weight": "318",
+    "height": "6-2",
+    "college": "Connecticut",
+    "experience": "Rook"
   }
 ]

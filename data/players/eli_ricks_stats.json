@@ -148,5 +148,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Eli Ricks",
+    "age": "23",
+    "position": "CB",
+    "weight": "188",
+    "height": "",
+    "college": "LSU,Alabama",
+    "experience": "1"
   }
 ]

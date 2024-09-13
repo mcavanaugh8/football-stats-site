@@ -400,5 +400,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Thomas Hennessy",
+    "age": "30",
+    "position": "LS",
+    "weight": "246",
+    "height": "6-2",
+    "college": "Duke",
+    "experience": "7"
   }
 ]

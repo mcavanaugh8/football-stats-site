@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Brenden Bates",
+    "age": "25",
+    "position": "TE",
+    "weight": "255",
+    "height": "6-5",
+    "college": "Kentucky",
+    "experience": "Rook"
   }
 ]

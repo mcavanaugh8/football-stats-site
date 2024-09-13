@@ -316,5 +316,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Ryan Bates",
+    "age": "27",
+    "position": "OL",
+    "weight": "302",
+    "height": "6-4",
+    "college": "Penn St.",
+    "experience": "5"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jalyx Hunt",
+    "age": "23",
+    "position": "OLB",
+    "weight": "252",
+    "height": "6-3",
+    "college": "Cornell,Houston Christian",
+    "experience": "Rook"
   }
 ]

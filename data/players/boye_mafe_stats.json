@@ -190,5 +190,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Boye Mafe",
+    "age": "26",
+    "position": "LB",
+    "weight": "261",
+    "height": "6-4",
+    "college": "Minnesota",
+    "experience": "2"
   }
 ]

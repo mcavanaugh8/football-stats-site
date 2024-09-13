@@ -400,5 +400,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "D.J. Reader",
+    "age": "30",
+    "position": "DL",
+    "weight": "335",
+    "height": "6-3",
+    "college": "Clemson",
+    "experience": "8"
   }
 ]

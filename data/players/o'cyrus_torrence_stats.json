@@ -148,5 +148,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "O'Cyrus Torrence",
+    "age": "24",
+    "position": "G",
+    "weight": "347",
+    "height": "",
+    "college": "Louisiana,Florida",
+    "experience": "1"
   }
 ]

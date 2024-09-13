@@ -358,5 +358,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Trenton Scott",
+    "age": "30",
+    "position": "T",
+    "weight": "320",
+    "height": "6-5",
+    "college": "Grambling St.",
+    "experience": "6"
   }
 ]

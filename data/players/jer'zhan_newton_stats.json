@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jer'Zhan Newton",
+    "age": "22",
+    "position": "DT",
+    "weight": "295",
+    "height": "",
+    "college": "Illinois",
+    "experience": "Rook"
   }
 ]

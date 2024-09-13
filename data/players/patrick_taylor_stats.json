@@ -553,5 +553,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Patrick Taylor",
+    "age": "26",
+    "position": "RB",
+    "weight": "217",
+    "height": "6-2",
+    "college": "Memphis",
+    "experience": "3"
   }
 ]

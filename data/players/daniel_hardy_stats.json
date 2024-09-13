@@ -148,5 +148,14 @@
         "st_pct": "83%"
       }
     ]
+  },
+  {
+    "name": "Daniel Hardy",
+    "age": "26",
+    "position": "DL",
+    "weight": "240",
+    "height": "6-3",
+    "college": "Montana State",
+    "experience": "2"
   }
 ]

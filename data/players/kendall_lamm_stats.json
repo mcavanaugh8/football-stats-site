@@ -868,5 +868,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Kendall Lamm",
+    "age": "32",
+    "position": "T",
+    "weight": "308",
+    "height": "6-5",
+    "college": "Appalachian St.",
+    "experience": "9"
   }
 ]

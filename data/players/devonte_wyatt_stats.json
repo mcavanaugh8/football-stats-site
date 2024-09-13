@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Devonte Wyatt",
+    "age": "26",
+    "position": "DL",
+    "weight": "304",
+    "height": "6-3",
+    "college": "Hutchinson (KS),Georgia",
+    "experience": "2"
   }
 ]

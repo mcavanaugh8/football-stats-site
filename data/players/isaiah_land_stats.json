@@ -148,5 +148,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Land",
+    "age": "24",
+    "position": "DE",
+    "weight": "225",
+    "height": "",
+    "college": "Florida A&M",
+    "experience": "1"
   }
 ]

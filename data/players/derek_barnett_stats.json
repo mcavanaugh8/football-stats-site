@@ -512,5 +512,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Derek Barnett",
+    "age": "28",
+    "position": "DE",
+    "weight": "259",
+    "height": "6-3",
+    "college": "Tennessee",
+    "experience": "7"
   }
 ]

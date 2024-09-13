@@ -274,5 +274,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "P.J. Locke",
+    "age": "27",
+    "position": "S",
+    "weight": "202",
+    "height": "5-10",
+    "college": "Texas",
+    "experience": "4"
   }
 ]

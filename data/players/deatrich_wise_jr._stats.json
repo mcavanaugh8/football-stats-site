@@ -428,5 +428,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Deatrich Wise Jr.",
+    "age": "30",
+    "position": "DE",
+    "weight": "280",
+    "height": "6-5",
+    "college": "Arkansas",
+    "experience": "7"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Jon Rhattigan",
+    "age": "25",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-0",
+    "college": "Army",
+    "experience": "3"
   }
 ]

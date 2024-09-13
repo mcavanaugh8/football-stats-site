@@ -375,5 +375,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Stone Smartt",
+    "age": "26",
+    "position": "TE",
+    "weight": "226",
+    "height": "6-4",
+    "college": "Northern Arizona,Riverside CC,Old Dominion",
+    "experience": "2"
   }
 ]

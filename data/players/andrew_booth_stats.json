@@ -148,5 +148,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Andrew Booth",
+    "age": "24",
+    "position": "CB",
+    "weight": "194",
+    "height": "6-0",
+    "college": "Clemson",
+    "experience": "2"
   }
 ]

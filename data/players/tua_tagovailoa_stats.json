@@ -1266,5 +1266,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tua Tagovailoa",
+    "age": "26",
+    "position": "QB",
+    "weight": "225",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "4"
   }
 ]

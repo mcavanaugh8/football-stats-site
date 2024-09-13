@@ -555,5 +555,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Bryce Young",
+    "age": "23",
+    "position": "QB",
+    "weight": "204",
+    "height": "",
+    "college": "Alabama",
+    "experience": "1"
   }
 ]

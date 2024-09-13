@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jalen Sundell",
+    "age": "",
+    "position": "C",
+    "weight": "301",
+    "height": "",
+    "college": "North Dakota St.",
+    "experience": "Rook"
   }
 ]

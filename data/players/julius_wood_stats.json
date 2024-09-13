@@ -78,5 +78,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Julius Wood",
+    "age": "23",
+    "position": "S",
+    "weight": "193",
+    "height": "6-1",
+    "college": "Blinn College (TX),East Carolina",
+    "experience": "Rook"
   }
 ]

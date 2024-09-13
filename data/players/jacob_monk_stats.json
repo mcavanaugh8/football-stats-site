@@ -78,5 +78,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Jacob Monk",
+    "age": "23",
+    "position": "OL",
+    "weight": "308",
+    "height": "",
+    "college": "Duke",
+    "experience": "Rook"
   }
 ]

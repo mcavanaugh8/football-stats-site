@@ -232,5 +232,14 @@
         "st_pct": "65%"
       }
     ]
+  },
+  {
+    "name": "Chazz Surratt",
+    "age": "27",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-2",
+    "college": "North Carolina",
+    "experience": "3"
   }
 ]

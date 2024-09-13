@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Sataoa Laumea",
+    "age": "23",
+    "position": "OG",
+    "weight": "319",
+    "height": "",
+    "college": "Utah",
+    "experience": "Rook"
   }
 ]

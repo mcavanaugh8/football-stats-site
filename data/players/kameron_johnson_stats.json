@@ -161,5 +161,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Kameron Johnson",
+    "age": "22",
+    "position": "WR",
+    "weight": "170",
+    "height": "5-10",
+    "college": "Barton",
+    "experience": "Rook"
   }
 ]

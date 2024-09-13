@@ -1501,5 +1501,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Tress Way",
+    "age": "34",
+    "position": "P",
+    "weight": "220",
+    "height": "6-1",
+    "college": "Oklahoma",
+    "experience": "10"
   }
 ]

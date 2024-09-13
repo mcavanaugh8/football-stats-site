@@ -112,5 +112,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Anthony Gould",
+    "age": "23",
+    "position": "WR",
+    "weight": "174",
+    "height": "",
+    "college": "Oregon St.",
+    "experience": "Rook"
   }
 ]

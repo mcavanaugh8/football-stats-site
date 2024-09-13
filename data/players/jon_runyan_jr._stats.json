@@ -274,5 +274,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Jon Runyan Jr.",
+    "age": "27",
+    "position": "G",
+    "weight": "307",
+    "height": "6-4",
+    "college": "Michigan",
+    "experience": "4"
   }
 ]

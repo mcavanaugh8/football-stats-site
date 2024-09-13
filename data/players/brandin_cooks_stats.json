@@ -1223,5 +1223,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brandin Cooks",
+    "age": "31",
+    "position": "WR",
+    "weight": "189",
+    "height": "5-10",
+    "college": "Oregon St.",
+    "experience": "10"
   }
 ]

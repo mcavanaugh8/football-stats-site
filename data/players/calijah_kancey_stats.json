@@ -107,5 +107,14 @@
         "st_pct": "2%"
       }
     ]
+  },
+  {
+    "name": "Calijah Kancey",
+    "age": "23",
+    "position": "DL",
+    "weight": "280",
+    "height": "6-0",
+    "college": "Pittsburgh",
+    "experience": "1"
   }
 ]

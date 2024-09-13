@@ -190,5 +190,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "George Karlaftis III",
+    "age": "23",
+    "position": "DE",
+    "weight": "263",
+    "height": "6-4",
+    "college": "Purdue",
+    "experience": "2"
   }
 ]

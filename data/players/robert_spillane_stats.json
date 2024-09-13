@@ -386,5 +386,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Robert Spillane",
+    "age": "29",
+    "position": "LB",
+    "weight": "229",
+    "height": "6-1",
+    "college": "Western Michigan",
+    "experience": "6"
   }
 ]

@@ -865,5 +865,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Zach Wilson",
+    "age": "25",
+    "position": "QB",
+    "weight": "214",
+    "height": "6-2",
+    "college": "BYU",
+    "experience": "3"
   }
 ]

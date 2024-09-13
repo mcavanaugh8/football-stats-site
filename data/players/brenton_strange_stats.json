@@ -313,5 +313,14 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Brenton Strange",
+    "age": "24",
+    "position": "TE",
+    "weight": "253",
+    "height": "6-4",
+    "college": "Penn St.",
+    "experience": "1"
   }
 ]

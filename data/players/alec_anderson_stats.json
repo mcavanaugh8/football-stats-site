@@ -78,5 +78,14 @@
         "st_pct": "44%"
       }
     ]
+  },
+  {
+    "name": "Alec Anderson",
+    "age": "25",
+    "position": "T",
+    "weight": "305",
+    "height": "",
+    "college": "UCLA",
+    "experience": "1"
   }
 ]

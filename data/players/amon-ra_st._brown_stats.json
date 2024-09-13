@@ -572,5 +572,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Amon-Ra St. Brown",
+    "age": "25",
+    "position": "WR",
+    "weight": "202",
+    "height": "6-0",
+    "college": "USC",
+    "experience": "3"
   }
 ]

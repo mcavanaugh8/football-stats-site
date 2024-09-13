@@ -425,5 +425,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Andrew Van Ginkel",
+    "age": "29",
+    "position": "OLB",
+    "weight": "242",
+    "height": "6-4",
+    "college": "Wisconsin",
+    "experience": "5"
   }
 ]

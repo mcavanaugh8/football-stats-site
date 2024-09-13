@@ -606,5 +606,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jaylen Waddle",
+    "age": "26",
+    "position": "WR",
+    "weight": "185",
+    "height": "5-10",
+    "college": "Alabama",
+    "experience": "3"
   }
 ]

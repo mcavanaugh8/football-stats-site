@@ -274,5 +274,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Lloyd Cushenberry III",
+    "age": "27",
+    "position": "C",
+    "weight": "315",
+    "height": "6-4",
+    "college": "LSU",
+    "experience": "4"
   }
 ]

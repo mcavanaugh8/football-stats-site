@@ -232,5 +232,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Michael Carter II",
+    "age": "25",
+    "position": "CB",
+    "weight": "184",
+    "height": "5-10",
+    "college": "Duke",
+    "experience": "3"
   }
 ]

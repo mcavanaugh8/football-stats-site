@@ -106,5 +106,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Javon Bullard",
+    "age": "22",
+    "position": "S",
+    "weight": "198",
+    "height": "5-10",
+    "college": "Georgia",
+    "experience": "Rook"
   }
 ]

@@ -264,5 +264,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Micah Parsons",
+    "age": "25",
+    "position": "LB",
+    "weight": "245",
+    "height": "6-3",
+    "college": "Penn St.",
+    "experience": "3"
   }
 ]

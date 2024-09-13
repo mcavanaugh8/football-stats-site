@@ -1556,5 +1556,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Gardner Minshew II",
+    "age": "28",
+    "position": "QB",
+    "weight": "225",
+    "height": "6-1",
+    "college": "Northwest Mississippi CC,East Carolina,Washington St.",
+    "experience": "5"
   }
 ]

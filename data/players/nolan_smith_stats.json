@@ -148,5 +148,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Nolan Smith",
+    "age": "23",
+    "position": "OLB",
+    "weight": "238",
+    "height": "6-2",
+    "college": "Georgia",
+    "experience": "1"
   }
 ]

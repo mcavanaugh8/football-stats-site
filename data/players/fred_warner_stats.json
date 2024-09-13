@@ -393,5 +393,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Fred Warner",
+    "age": "28",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-3",
+    "college": "BYU",
+    "experience": "6"
   }
 ]

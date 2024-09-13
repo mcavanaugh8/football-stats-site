@@ -106,5 +106,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Quinyon Mitchell",
+    "age": "23",
+    "position": "CB",
+    "weight": "193",
+    "height": "",
+    "college": "Toledo",
+    "experience": "Rook"
   }
 ]

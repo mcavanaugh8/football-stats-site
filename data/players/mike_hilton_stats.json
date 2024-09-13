@@ -428,5 +428,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mike Hilton",
+    "age": "30",
+    "position": "CB",
+    "weight": "184",
+    "height": "5-9",
+    "college": "Mississippi",
+    "experience": "7"
   }
 ]

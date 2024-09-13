@@ -277,5 +277,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Deuce Vaughn",
+    "age": "23",
+    "position": "RB",
+    "weight": "176",
+    "height": "",
+    "college": "Kansas St.",
+    "experience": "1"
   }
 ]

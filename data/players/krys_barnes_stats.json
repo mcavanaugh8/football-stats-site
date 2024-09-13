@@ -274,5 +274,14 @@
         "st_pct": "85%"
       }
     ]
+  },
+  {
+    "name": "Krys Barnes",
+    "age": "26",
+    "position": "LB",
+    "weight": "229",
+    "height": "6-2",
+    "college": "UCLA",
+    "experience": "4"
   }
 ]

@@ -537,5 +537,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Joel Bitonio",
+    "age": "33",
+    "position": "G",
+    "weight": "320",
+    "height": "6-4",
+    "college": "Nevada",
+    "experience": "10"
   }
 ]

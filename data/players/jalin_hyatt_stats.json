@@ -258,5 +258,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jalin Hyatt",
+    "age": "23",
+    "position": "WR",
+    "weight": "185",
+    "height": "",
+    "college": "Tennessee",
+    "experience": "1"
   }
 ]

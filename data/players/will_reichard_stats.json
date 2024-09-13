@@ -106,5 +106,14 @@
         "st_pct": "38%"
       }
     ]
+  },
+  {
+    "name": "Will Reichard",
+    "age": "23",
+    "position": "K",
+    "weight": "187",
+    "height": "",
+    "college": "Alabama",
+    "experience": "Rook"
   }
 ]

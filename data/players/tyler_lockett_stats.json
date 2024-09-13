@@ -1359,5 +1359,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyler Lockett",
+    "age": "32",
+    "position": "WR",
+    "weight": "182",
+    "height": "5-10",
+    "college": "Kansas St.",
+    "experience": "9"
   }
 ]

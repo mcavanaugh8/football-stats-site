@@ -292,5 +292,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rashee Rice",
+    "age": "24",
+    "position": "WR",
+    "weight": "204",
+    "height": "6-1",
+    "college": "SMU",
+    "experience": "1"
   }
 ]

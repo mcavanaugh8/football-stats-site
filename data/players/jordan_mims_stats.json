@@ -256,5 +256,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Jordan Mims",
+    "age": "25",
+    "position": "RB",
+    "weight": "205",
+    "height": "6-0",
+    "college": "Fresno St.",
+    "experience": "1"
   }
 ]

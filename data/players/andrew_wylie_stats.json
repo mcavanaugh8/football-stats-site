@@ -358,5 +358,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Andrew Wylie",
+    "age": "30",
+    "position": "OL",
+    "weight": "309",
+    "height": "6-6",
+    "college": "Eastern Michigan",
+    "experience": "6"
   }
 ]

@@ -358,5 +358,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Ezra Cleveland",
+    "age": "26",
+    "position": "OL",
+    "weight": "312",
+    "height": "6-6",
+    "college": "Boise St.",
+    "experience": "4"
   }
 ]

@@ -1085,5 +1085,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Drew Lock",
+    "age": "28",
+    "position": "QB",
+    "weight": "228",
+    "height": "6-4",
+    "college": "Missouri",
+    "experience": "5"
   }
 ]

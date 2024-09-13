@@ -365,5 +365,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "George Odum",
+    "age": "31",
+    "position": "S",
+    "weight": "202",
+    "height": "6-1",
+    "college": "Central Arkansas",
+    "experience": "6"
   }
 ]

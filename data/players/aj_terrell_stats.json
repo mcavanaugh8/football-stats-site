@@ -279,5 +279,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "AJ Terrell",
+    "age": "26",
+    "position": "CB",
+    "weight": "194",
+    "height": "6-1",
+    "college": "Clemson",
+    "experience": "4"
   }
 ]

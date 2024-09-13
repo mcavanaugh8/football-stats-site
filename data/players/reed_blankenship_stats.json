@@ -190,5 +190,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Reed Blankenship",
+    "age": "25",
+    "position": "S",
+    "weight": "203",
+    "height": "6-1",
+    "college": "Middle Tenn. St.",
+    "experience": "2"
   }
 ]

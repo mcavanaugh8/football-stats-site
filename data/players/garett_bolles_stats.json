@@ -183,5 +183,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Garett Bolles",
+    "age": "32",
+    "position": "T",
+    "weight": "300",
+    "height": "6-5",
+    "college": "Snow College (UT),Utah",
+    "experience": "7"
   }
 ]

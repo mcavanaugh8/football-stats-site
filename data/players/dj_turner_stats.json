@@ -425,5 +425,23 @@
         "st_pct": "82%"
       }
     ]
+  },
+  {
+    "name": "DJ Turner",
+    "age": "24",
+    "position": "CB",
+    "weight": "180",
+    "height": "5-11",
+    "college": "Michigan",
+    "experience": "1"
+  },
+  {
+    "name": "DJ Turner",
+    "age": "27",
+    "position": "WR",
+    "weight": "205",
+    "height": "5-9",
+    "college": "Maryland,Pittsburgh",
+    "experience": "2"
   }
 ]

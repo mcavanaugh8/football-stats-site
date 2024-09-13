@@ -408,5 +408,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trey Hendrickson",
+    "age": "30",
+    "position": "DE",
+    "weight": "270",
+    "height": "6-4",
+    "college": "Florida Atlantic",
+    "experience": "7"
   }
 ]

@@ -400,5 +400,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Kris Boyd",
+    "age": "28",
+    "position": "CB",
+    "weight": "201",
+    "height": "5-11",
+    "college": "Texas",
+    "experience": "5"
   }
 ]

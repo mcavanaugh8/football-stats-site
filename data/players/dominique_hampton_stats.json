@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Dominique Hampton",
+    "age": "24",
+    "position": "S",
+    "weight": "220",
+    "height": "6-3",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

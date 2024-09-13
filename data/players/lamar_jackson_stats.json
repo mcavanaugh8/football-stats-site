@@ -316,5 +316,14 @@
         "st_pct": "46%"
       }
     ]
+  },
+  {
+    "name": "Lamar Jackson",
+    "age": "27",
+    "position": "QB",
+    "weight": "205",
+    "height": "6-2",
+    "college": "Louisville",
+    "experience": "6"
   }
 ]

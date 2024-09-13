@@ -1641,5 +1641,14 @@
         "st_pct": "37%"
       }
     ]
+  },
+  {
+    "name": "Mack Hollins",
+    "age": "31",
+    "position": "WR",
+    "weight": "221",
+    "height": "6-4",
+    "college": "North Carolina",
+    "experience": "7"
   }
 ]

@@ -447,5 +447,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "D.J. Reed",
+    "age": "28",
+    "position": "CB",
+    "weight": "188",
+    "height": "5-9",
+    "college": "Kansas St.",
+    "experience": "6"
   }
 ]

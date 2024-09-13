@@ -365,5 +365,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Bobby Okereke",
+    "age": "28",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-2",
+    "college": "Stanford",
+    "experience": "5"
   }
 ]

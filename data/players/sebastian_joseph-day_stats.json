@@ -428,5 +428,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Sebastian Joseph-Day",
+    "age": "29",
+    "position": "DL",
+    "weight": "310",
+    "height": "6-4",
+    "college": "Rutgers",
+    "experience": "5"
   }
 ]

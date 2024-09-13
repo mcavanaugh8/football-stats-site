@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Drake Maye",
+    "age": "22",
+    "position": "QB",
+    "weight": "225",
+    "height": "",
+    "college": "North Carolina",
+    "experience": "Rook"
   }
 ]

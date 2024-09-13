@@ -123,5 +123,14 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Andre Dillard",
+    "age": "29",
+    "position": "T",
+    "weight": "315",
+    "height": "6-5",
+    "college": "Washington St.",
+    "experience": "5"
   }
 ]

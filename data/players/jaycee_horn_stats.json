@@ -232,5 +232,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Jaycee Horn",
+    "age": "25",
+    "position": "CB",
+    "weight": "200",
+    "height": "6-1",
+    "college": "South Carolina",
+    "experience": "3"
   }
 ]

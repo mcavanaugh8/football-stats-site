@@ -2220,5 +2220,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Amari Cooper",
+    "age": "30",
+    "position": "WR",
+    "weight": "211",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "9"
   }
 ]

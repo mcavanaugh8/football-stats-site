@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Terrion Arnold",
+    "age": "21",
+    "position": "CB",
+    "weight": "199",
+    "height": "",
+    "college": "Alabama",
+    "experience": "Rook"
   }
 ]

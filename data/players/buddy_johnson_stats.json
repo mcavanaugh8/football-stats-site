@@ -148,5 +148,14 @@
         "st_pct": "56%"
       }
     ]
+  },
+  {
+    "name": "Buddy Johnson",
+    "age": "25",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-2",
+    "college": "Texas A&M",
+    "experience": "3"
   }
 ]

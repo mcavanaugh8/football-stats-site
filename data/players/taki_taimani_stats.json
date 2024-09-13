@@ -78,5 +78,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Taki Taimani",
+    "age": "25",
+    "position": "DL",
+    "weight": "309",
+    "height": "6-1",
+    "college": "Washington,Oregon",
+    "experience": "Rook"
   }
 ]

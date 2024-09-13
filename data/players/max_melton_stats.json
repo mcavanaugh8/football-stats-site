@@ -106,5 +106,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Max Melton",
+    "age": "22",
+    "position": "CB",
+    "weight": "193",
+    "height": "5-11",
+    "college": "Rutgers",
+    "experience": "Rook"
   }
 ]

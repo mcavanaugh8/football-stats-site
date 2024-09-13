@@ -537,5 +537,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Easton Stick",
+    "age": "29",
+    "position": "QB",
+    "weight": "224",
+    "height": "6-1",
+    "college": "North Dakota St.",
+    "experience": "4"
   }
 ]

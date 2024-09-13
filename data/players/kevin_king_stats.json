@@ -337,5 +337,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Kevin King",
+    "age": "29",
+    "position": "CB",
+    "weight": "200",
+    "height": "6-3",
+    "college": "Washington",
+    "experience": "7"
   }
 ]

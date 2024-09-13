@@ -515,5 +515,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Za'Darius Smith",
+    "age": "32",
+    "position": "DE",
+    "weight": "270",
+    "height": "6-4",
+    "college": "East Mississippi CC,Kentucky",
+    "experience": "9"
   }
 ]

@@ -386,5 +386,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Foyesade Oluokun",
+    "age": "29",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-2",
+    "college": "Yale",
+    "experience": "6"
   }
 ]

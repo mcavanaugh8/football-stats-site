@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Arnold Ebiketie",
+    "age": "25",
+    "position": "OLB",
+    "weight": "250",
+    "height": "6-2",
+    "college": "Temple,Penn St.",
+    "experience": "2"
   }
 ]

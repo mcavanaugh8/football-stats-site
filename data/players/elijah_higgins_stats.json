@@ -286,5 +286,14 @@
         "st_pct": "37%"
       }
     ]
+  },
+  {
+    "name": "Elijah Higgins",
+    "age": "24",
+    "position": "TE",
+    "weight": "235",
+    "height": "",
+    "college": "Stanford",
+    "experience": "1"
   }
 ]

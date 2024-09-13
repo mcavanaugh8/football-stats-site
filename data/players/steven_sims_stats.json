@@ -1285,5 +1285,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Steven Sims",
+    "age": "27",
+    "position": "WR",
+    "weight": "176",
+    "height": "5-10",
+    "college": "Kansas",
+    "experience": "5"
   }
 ]

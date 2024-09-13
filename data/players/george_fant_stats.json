@@ -764,5 +764,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "George Fant",
+    "age": "32",
+    "position": "T",
+    "weight": "316",
+    "height": "6-5",
+    "college": "Western Kentucky",
+    "experience": "8"
   }
 ]

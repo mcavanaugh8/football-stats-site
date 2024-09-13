@@ -78,5 +78,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Dominick Puni",
+    "age": "24",
+    "position": "OL",
+    "weight": "313",
+    "height": "",
+    "college": "Central Missouri St.,Kansas",
+    "experience": "Rook"
   }
 ]

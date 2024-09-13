@@ -1060,5 +1060,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Joe Mixon",
+    "age": "28",
+    "position": "RB",
+    "weight": "220",
+    "height": "6-1",
+    "college": "Oklahoma",
+    "experience": "7"
   }
 ]

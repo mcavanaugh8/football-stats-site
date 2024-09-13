@@ -705,5 +705,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Amani Hooker",
+    "age": "26",
+    "position": "S",
+    "weight": "210",
+    "height": "5-11",
+    "college": "Iowa",
+    "experience": "5"
   }
 ]

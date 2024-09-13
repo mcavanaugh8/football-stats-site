@@ -449,5 +449,14 @@
         "st_pct": "44%"
       }
     ]
+  },
+  {
+    "name": "Michael Davis",
+    "age": "29",
+    "position": "CB",
+    "weight": "196",
+    "height": "6-2",
+    "college": "BYU",
+    "experience": "7"
   }
 ]

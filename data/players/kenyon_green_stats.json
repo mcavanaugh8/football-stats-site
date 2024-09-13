@@ -148,5 +148,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Kenyon Green",
+    "age": "23",
+    "position": "G",
+    "weight": "325",
+    "height": "6-4",
+    "college": "Texas A&M",
+    "experience": "2"
   }
 ]

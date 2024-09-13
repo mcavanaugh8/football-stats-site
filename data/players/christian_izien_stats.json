@@ -148,5 +148,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Christian Izien",
+    "age": "24",
+    "position": "S",
+    "weight": "200",
+    "height": "5-10",
+    "college": "Rutgers",
+    "experience": "1"
   }
 ]

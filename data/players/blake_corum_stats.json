@@ -118,5 +118,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Blake Corum",
+    "age": "24",
+    "position": "RB",
+    "weight": "210",
+    "height": "",
+    "college": "Michigan",
+    "experience": "Rook"
   }
 ]

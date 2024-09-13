@@ -78,5 +78,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Keenan Isaac",
+    "age": "24",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-3",
+    "college": "Alabama St.",
+    "experience": "1"
   }
 ]

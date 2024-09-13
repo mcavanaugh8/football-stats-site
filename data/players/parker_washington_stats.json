@@ -380,5 +380,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Parker Washington",
+    "age": "22",
+    "position": "WR",
+    "weight": "204",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "1"
   }
 ]

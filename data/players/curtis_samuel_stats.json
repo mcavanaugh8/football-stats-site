@@ -1082,5 +1082,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Curtis Samuel",
+    "age": "28",
+    "position": "WR",
+    "weight": "195",
+    "height": "5-11",
+    "college": "Ohio St.",
+    "experience": "7"
   }
 ]

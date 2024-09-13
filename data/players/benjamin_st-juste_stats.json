@@ -232,5 +232,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Benjamin St-Juste",
+    "age": "27",
+    "position": "CB",
+    "weight": "200",
+    "height": "6-3",
+    "college": "Michigan,Minnesota",
+    "experience": "3"
   }
 ]

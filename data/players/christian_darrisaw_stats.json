@@ -232,5 +232,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Christian Darrisaw",
+    "age": "25",
+    "position": "T",
+    "weight": "315",
+    "height": "6-5",
+    "college": "Virginia Tech",
+    "experience": "3"
   }
 ]

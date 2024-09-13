@@ -801,5 +801,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "C.J. Goodwin",
+    "age": "34",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-3",
+    "college": "California (PA)",
+    "experience": "8"
   }
 ]

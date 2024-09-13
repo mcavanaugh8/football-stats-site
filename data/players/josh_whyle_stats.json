@@ -313,5 +313,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Josh Whyle",
+    "age": "25",
+    "position": "TE",
+    "weight": "248",
+    "height": "6-6",
+    "college": "Cincinnati",
+    "experience": "1"
   }
 ]

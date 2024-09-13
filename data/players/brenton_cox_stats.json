@@ -78,5 +78,14 @@
         "st_pct": "9%"
       }
     ]
+  },
+  {
+    "name": "Brenton Cox",
+    "age": "24",
+    "position": "DL",
+    "weight": "250",
+    "height": "6-4",
+    "college": "Georgia,Florida",
+    "experience": "1"
   }
 ]

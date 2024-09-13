@@ -248,5 +248,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Jermaine Johnson II",
+    "age": "25",
+    "position": "LB",
+    "weight": "254",
+    "height": "6-5",
+    "college": "Independence (KS),Georgia,Florida St.",
+    "experience": "2"
   }
 ]

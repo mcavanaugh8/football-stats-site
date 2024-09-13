@@ -358,5 +358,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Trent Sieg",
+    "age": "29",
+    "position": "LS",
+    "weight": "240",
+    "height": "6-3",
+    "college": "Colorado St.",
+    "experience": "6"
   }
 ]

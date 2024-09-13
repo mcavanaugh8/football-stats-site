@@ -236,5 +236,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Damar Hamlin",
+    "age": "26",
+    "position": "S",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Pittsburgh",
+    "experience": "3"
   }
 ]

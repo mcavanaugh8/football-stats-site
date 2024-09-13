@@ -106,5 +106,14 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Arron Mosby",
+    "age": "25",
+    "position": "DL",
+    "weight": "250",
+    "height": "6-3",
+    "college": "Fresno St.",
+    "experience": "2"
   }
 ]

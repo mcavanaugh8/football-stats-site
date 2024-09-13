@@ -279,5 +279,14 @@
         "st_pct": "43%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Rodgers",
+    "age": "26",
+    "position": "CB",
+    "weight": "170",
+    "height": "5-10",
+    "college": "Massachusetts",
+    "experience": "4"
   }
 ]

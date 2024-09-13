@@ -106,5 +106,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Eyioma Uwazurike",
+    "age": "26",
+    "position": "DL",
+    "weight": "320",
+    "height": "6-6",
+    "college": "Iowa St.",
+    "experience": "2"
   }
 ]

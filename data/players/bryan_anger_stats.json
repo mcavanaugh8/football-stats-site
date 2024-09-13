@@ -1664,5 +1664,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Bryan Anger",
+    "age": "36",
+    "position": "P",
+    "weight": "202",
+    "height": "6-3",
+    "college": "California",
+    "experience": "12"
   }
 ]

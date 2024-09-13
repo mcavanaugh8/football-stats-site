@@ -138,5 +138,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Justin Skule",
+    "age": "28",
+    "position": "T",
+    "weight": "315",
+    "height": "6-6",
+    "college": "Vanderbilt",
+    "experience": "5"
   }
 ]

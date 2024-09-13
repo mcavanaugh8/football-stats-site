@@ -494,5 +494,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Shaquill Griffin",
+    "age": "29",
+    "position": "CB",
+    "weight": "198",
+    "height": "6-0",
+    "college": "Central Florida",
+    "experience": "7"
   }
 ]

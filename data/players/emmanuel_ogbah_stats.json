@@ -442,5 +442,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Emmanuel Ogbah",
+    "age": "31",
+    "position": "LB",
+    "weight": "275",
+    "height": "6-4",
+    "college": "Oklahoma St.",
+    "experience": "8"
   }
 ]

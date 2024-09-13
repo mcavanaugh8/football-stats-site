@@ -193,5 +193,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Jalen Pitre",
+    "age": "25",
+    "position": "S",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Baylor",
+    "experience": "2"
   }
 ]

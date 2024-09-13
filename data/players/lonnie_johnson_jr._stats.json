@@ -316,5 +316,14 @@
         "st_pct": "90%"
       }
     ]
+  },
+  {
+    "name": "Lonnie Johnson Jr.",
+    "age": "29",
+    "position": "CB",
+    "weight": "213",
+    "height": "6-2",
+    "college": "Garden City (KS),Kentucky",
+    "experience": "5"
   }
 ]

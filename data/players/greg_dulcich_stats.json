@@ -348,5 +348,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Greg Dulcich",
+    "age": "24",
+    "position": "TE",
+    "weight": "245",
+    "height": "6-4",
+    "college": "UCLA",
+    "experience": "2"
   }
 ]

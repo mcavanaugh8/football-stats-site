@@ -148,5 +148,14 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Brandon Aubrey",
+    "age": "29",
+    "position": "K",
+    "weight": "218",
+    "height": "6-3",
+    "college": "Notre Dame",
+    "experience": "1"
   }
 ]

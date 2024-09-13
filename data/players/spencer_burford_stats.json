@@ -190,5 +190,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Spencer Burford",
+    "age": "24",
+    "position": "OL",
+    "weight": "300",
+    "height": "6-4",
+    "college": "Texas-San Antonio",
+    "experience": "2"
   }
 ]

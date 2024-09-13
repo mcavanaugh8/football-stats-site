@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Brandon Coleman",
+    "age": "24",
+    "position": "OT",
+    "weight": "320",
+    "height": "",
+    "college": "Trinity Valley CC (TX),TCU",
+    "experience": "Rook"
   }
 ]

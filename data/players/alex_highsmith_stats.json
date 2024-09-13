@@ -302,5 +302,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Alex Highsmith",
+    "age": "27",
+    "position": "LB",
+    "weight": "242",
+    "height": "6-4",
+    "college": "Charlotte",
+    "experience": "4"
   }
 ]

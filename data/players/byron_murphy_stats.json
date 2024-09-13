@@ -106,5 +106,23 @@
         "st_pct": "6%"
       }
     ]
+  },
+  {
+    "name": "Byron Murphy",
+    "age": "26",
+    "position": "CB",
+    "weight": "190",
+    "height": "5-11",
+    "college": "Washington",
+    "experience": "5"
+  },
+  {
+    "name": "Byron Murphy",
+    "age": "22",
+    "position": "DT",
+    "weight": "306",
+    "height": "6-0",
+    "college": "Texas",
+    "experience": "Rook"
   }
 ]

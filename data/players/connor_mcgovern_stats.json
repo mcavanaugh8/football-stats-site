@@ -274,5 +274,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Connor McGovern",
+    "age": "27",
+    "position": "G",
+    "weight": "318",
+    "height": "6-5",
+    "college": "Penn St.",
+    "experience": "4"
   }
 ]

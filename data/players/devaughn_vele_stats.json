@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Devaughn Vele",
+    "age": "27",
+    "position": "WR",
+    "weight": "210",
+    "height": "",
+    "college": "Utah",
+    "experience": "Rook"
   }
 ]

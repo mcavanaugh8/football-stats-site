@@ -106,5 +106,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Anthony Johnson",
+    "age": "25",
+    "position": "S",
+    "weight": "205",
+    "height": "6-0",
+    "college": "Iowa St.",
+    "experience": "1"
   }
 ]

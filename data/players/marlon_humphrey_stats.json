@@ -463,5 +463,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Marlon Humphrey",
+    "age": "28",
+    "position": "CB",
+    "weight": "203",
+    "height": "6-0",
+    "college": "Alabama",
+    "experience": "7"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Jedrick Wills Jr.",
+    "age": "25",
+    "position": "T",
+    "weight": "307",
+    "height": "6-4",
+    "college": "Alabama",
+    "experience": "4"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Trevin Wallace",
+    "age": "21",
+    "position": "LB",
+    "weight": "244",
+    "height": "",
+    "college": "Kentucky",
+    "experience": "Rook"
   }
 ]

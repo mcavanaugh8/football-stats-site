@@ -106,5 +106,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Tykee Smith",
+    "age": "23",
+    "position": "S",
+    "weight": "202",
+    "height": "",
+    "college": "West Virginia,Georgia",
+    "experience": "Rook"
   }
 ]

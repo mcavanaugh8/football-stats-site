@@ -106,5 +106,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Jarrick Bernard-Converse",
+    "age": "24",
+    "position": "CB",
+    "weight": "205",
+    "height": "",
+    "college": "Oklahoma St.,LSU",
+    "experience": "1"
   }
 ]

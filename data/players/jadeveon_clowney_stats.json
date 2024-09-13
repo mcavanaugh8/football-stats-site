@@ -619,5 +619,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jadeveon Clowney",
+    "age": "31",
+    "position": "OLB",
+    "weight": "266",
+    "height": "6-5",
+    "college": "South Carolina",
+    "experience": "10"
   }
 ]

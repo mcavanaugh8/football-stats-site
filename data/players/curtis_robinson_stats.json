@@ -316,5 +316,14 @@
         "st_pct": "69%"
       }
     ]
+  },
+  {
+    "name": "Curtis Robinson",
+    "age": "26",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-3",
+    "college": "Stanford",
+    "experience": "3"
   }
 ]

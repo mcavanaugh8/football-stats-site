@@ -150,5 +150,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brock Bowers",
+    "age": "22",
+    "position": "TE",
+    "weight": "230",
+    "height": "6-4",
+    "college": "Georgia",
+    "experience": "Rook"
   }
 ]

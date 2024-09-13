@@ -232,5 +232,14 @@
         "st_pct": "58%"
       }
     ]
+  },
+  {
+    "name": "Zayne Anderson",
+    "age": "27",
+    "position": "S",
+    "weight": "206",
+    "height": "6-2",
+    "college": "BYU",
+    "experience": "3"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Evan Williams",
+    "age": "23",
+    "position": "S",
+    "weight": "200",
+    "height": "5-11",
+    "college": "Fresno St.,Oregon",
+    "experience": "Rook"
   }
 ]

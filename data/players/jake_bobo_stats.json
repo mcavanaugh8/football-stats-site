@@ -286,5 +286,14 @@
         "st_pct": "77%"
       }
     ]
+  },
+  {
+    "name": "Jake Bobo",
+    "age": "26",
+    "position": "WR",
+    "weight": "207",
+    "height": "",
+    "college": "Duke,UCLA",
+    "experience": "1"
   }
 ]

@@ -356,5 +356,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jack Jones",
+    "age": "27",
+    "position": "CB",
+    "weight": "175",
+    "height": "5-11",
+    "college": "USC,Moorpark College,Arizona St.",
+    "experience": "2"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Tedarrell Slaton",
+    "age": "27",
+    "position": "DL",
+    "weight": "330",
+    "height": "6-4",
+    "college": "Florida",
+    "experience": "3"
   }
 ]

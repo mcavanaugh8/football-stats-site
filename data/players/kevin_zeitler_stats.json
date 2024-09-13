@@ -659,5 +659,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Kevin Zeitler",
+    "age": "34",
+    "position": "G",
+    "weight": "340",
+    "height": "6-4",
+    "college": "Wisconsin",
+    "experience": "12"
   }
 ]

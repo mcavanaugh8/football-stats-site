@@ -365,5 +365,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Frank Ragnow",
+    "age": "28",
+    "position": "C",
+    "weight": "310",
+    "height": "6-5",
+    "college": "Arkansas",
+    "experience": "6"
   }
 ]

@@ -460,5 +460,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Danny Pinter",
+    "age": "28",
+    "position": "C",
+    "weight": "301",
+    "height": "6-4",
+    "college": "Ball St.",
+    "experience": "4"
   }
 ]

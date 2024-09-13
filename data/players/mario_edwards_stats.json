@@ -484,5 +484,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Mario Edwards",
+    "age": "30",
+    "position": "DT",
+    "weight": "280",
+    "height": "6-3",
+    "college": "Florida St.",
+    "experience": "9"
   }
 ]

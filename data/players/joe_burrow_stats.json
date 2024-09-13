@@ -1319,5 +1319,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Joe Burrow",
+    "age": "28",
+    "position": "QB",
+    "weight": "215",
+    "height": "6-4",
+    "college": "Ohio St.,LSU",
+    "experience": "4"
   }
 ]

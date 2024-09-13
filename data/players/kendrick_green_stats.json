@@ -190,5 +190,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Kendrick Green",
+    "age": "26",
+    "position": "OL",
+    "weight": "310",
+    "height": "6-3",
+    "college": "Illinois",
+    "experience": "3"
   }
 ]

@@ -421,5 +421,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Lucas Patrick",
+    "age": "31",
+    "position": "OL",
+    "weight": "313",
+    "height": "6-3",
+    "college": "Duke",
+    "experience": "7"
   }
 ]

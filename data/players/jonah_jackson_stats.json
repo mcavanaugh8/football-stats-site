@@ -279,5 +279,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Jonah Jackson",
+    "age": "27",
+    "position": "G",
+    "weight": "315",
+    "height": "6-4",
+    "college": "Rutgers,Ohio St.",
+    "experience": "4"
   }
 ]

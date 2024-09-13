@@ -148,5 +148,14 @@
         "st_pct": "75%"
       }
     ]
+  },
+  {
+    "name": "Charles Snowden",
+    "age": "26",
+    "position": "DE",
+    "weight": "245",
+    "height": "6-7",
+    "college": "Virginia",
+    "experience": "3"
   }
 ]

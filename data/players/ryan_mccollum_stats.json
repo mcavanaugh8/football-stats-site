@@ -93,5 +93,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Ryan McCollum",
+    "age": "26",
+    "position": "C",
+    "weight": "300",
+    "height": "6-5",
+    "college": "Texas A&M",
+    "experience": "3"
   }
 ]

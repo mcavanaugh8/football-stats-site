@@ -897,5 +897,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Scott Miller",
+    "age": "27",
+    "position": "WR",
+    "weight": "174",
+    "height": "5-9",
+    "college": "Bowling Green",
+    "experience": "5"
   }
 ]

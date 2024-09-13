@@ -232,5 +232,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Dan Moore",
+    "age": "26",
+    "position": "OT",
+    "weight": "315",
+    "height": "6-5",
+    "college": "Texas A&M",
+    "experience": "3"
   }
 ]

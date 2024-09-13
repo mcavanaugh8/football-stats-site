@@ -190,5 +190,14 @@
         "st_pct": "75%"
       }
     ]
+  },
+  {
+    "name": "Theo Jackson",
+    "age": "26",
+    "position": "S",
+    "weight": "198",
+    "height": "6-1",
+    "college": "Tennessee",
+    "experience": "2"
   }
 ]

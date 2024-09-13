@@ -100,5 +100,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Brandon Codrington",
+    "age": "24",
+    "position": "DB",
+    "weight": "185",
+    "height": "5-9",
+    "college": "North Carolina Central",
+    "experience": "Rook"
   }
 ]

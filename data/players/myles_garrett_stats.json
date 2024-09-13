@@ -436,5 +436,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Myles Garrett",
+    "age": "29",
+    "position": "DE",
+    "weight": "272",
+    "height": "6-4",
+    "college": "Texas A&M",
+    "experience": "7"
   }
 ]

@@ -490,5 +490,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Ben Bredeson",
+    "age": "26",
+    "position": "G",
+    "weight": "315",
+    "height": "6-5",
+    "college": "Michigan",
+    "experience": "4"
   }
 ]

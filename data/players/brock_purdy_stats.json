@@ -732,5 +732,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brock Purdy",
+    "age": "25",
+    "position": "QB",
+    "weight": "220",
+    "height": "6-1",
+    "college": "Iowa St.",
+    "experience": "2"
   }
 ]

@@ -251,5 +251,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Caleb Williams",
+    "age": "23",
+    "position": "QB",
+    "weight": "215",
+    "height": "",
+    "college": "Oklahoma,USC",
+    "experience": "Rook"
   }
 ]

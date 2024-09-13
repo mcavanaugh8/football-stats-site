@@ -1308,5 +1308,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Kalif Raymond",
+    "age": "30",
+    "position": "WR",
+    "weight": "180",
+    "height": "5-8",
+    "college": "Holy Cross",
+    "experience": "8"
   }
 ]

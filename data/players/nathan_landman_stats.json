@@ -190,5 +190,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Nathan Landman",
+    "age": "26",
+    "position": "LB",
+    "weight": "238",
+    "height": "6-3",
+    "college": "Colorado",
+    "experience": "2"
   }
 ]

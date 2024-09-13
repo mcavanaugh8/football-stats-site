@@ -260,5 +260,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Grant Stuard",
+    "age": "26",
+    "position": "LB",
+    "weight": "230",
+    "height": "5-11",
+    "college": "Houston",
+    "experience": "3"
   }
 ]

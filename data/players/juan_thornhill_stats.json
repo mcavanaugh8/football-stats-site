@@ -344,5 +344,14 @@
         "st_pct": "6%"
       }
     ]
+  },
+  {
+    "name": "Juan Thornhill",
+    "age": "29",
+    "position": "S",
+    "weight": "205",
+    "height": "6-0",
+    "college": "Virginia",
+    "experience": "5"
   }
 ]

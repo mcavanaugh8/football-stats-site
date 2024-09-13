@@ -598,5 +598,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Tylan Wallace",
+    "age": "25",
+    "position": "WR",
+    "weight": "202",
+    "height": "5-11",
+    "college": "Oklahoma St.",
+    "experience": "3"
   }
 ]

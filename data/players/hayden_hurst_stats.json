@@ -954,5 +954,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Hayden Hurst",
+    "age": "31",
+    "position": "TE",
+    "weight": "245",
+    "height": "6-4",
+    "college": "South Carolina",
+    "experience": "6"
   }
 ]

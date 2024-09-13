@@ -274,5 +274,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Alohi Gilman",
+    "age": "27",
+    "position": "S",
+    "weight": "201",
+    "height": "5-10",
+    "college": "Navy,Notre Dame",
+    "experience": "4"
   }
 ]

@@ -393,5 +393,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jamal Adams",
+    "age": "29",
+    "position": "SS",
+    "weight": "213",
+    "height": "6-1",
+    "college": "LSU",
+    "experience": "7"
   }
 ]

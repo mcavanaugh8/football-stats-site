@@ -680,5 +680,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Garrett Bradbury",
+    "age": "29",
+    "position": "C",
+    "weight": "300",
+    "height": "6-3",
+    "college": "North Carolina St.",
+    "experience": "5"
   }
 ]

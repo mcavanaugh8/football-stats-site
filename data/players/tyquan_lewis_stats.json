@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyquan Lewis",
+    "age": "29",
+    "position": "DE",
+    "weight": "267",
+    "height": "6-3",
+    "college": "Ohio St.",
+    "experience": "6"
   }
 ]

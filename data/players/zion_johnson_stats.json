@@ -108,5 +108,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Zion Johnson",
+    "age": "25",
+    "position": "G",
+    "weight": "316",
+    "height": "6-3",
+    "college": "Davidson,Boston Col.",
+    "experience": "2"
   }
 ]

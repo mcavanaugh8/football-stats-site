@@ -112,5 +112,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Jacob Cowing",
+    "age": "23",
+    "position": "WR",
+    "weight": "171",
+    "height": "5-9",
+    "college": "Texas-El Paso,Arizona",
+    "experience": "Rook"
   }
 ]

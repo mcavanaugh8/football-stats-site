@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Edefuan Ulofoshio",
+    "age": "24",
+    "position": "LB",
+    "weight": "239",
+    "height": "",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

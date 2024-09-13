@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Luke McCaffrey",
+    "age": "23",
+    "position": "WR",
+    "weight": "198",
+    "height": "",
+    "college": "Nebraska,Rice",
+    "experience": "Rook"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Adisa Isaac",
+    "age": "23",
+    "position": "OLB",
+    "weight": "253",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "Rook"
   }
 ]

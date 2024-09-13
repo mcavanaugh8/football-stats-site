@@ -515,5 +515,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Wil Lutz",
+    "age": "30",
+    "position": "K",
+    "weight": "184",
+    "height": "5-11",
+    "college": "Georgia St.",
+    "experience": "8"
   }
 ]

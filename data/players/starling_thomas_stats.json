@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Starling Thomas",
+    "age": "24",
+    "position": "CB",
+    "weight": "194",
+    "height": "",
+    "college": "Ala-Birmingham",
+    "experience": "1"
   }
 ]

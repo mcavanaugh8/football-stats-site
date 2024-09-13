@@ -526,5 +526,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Cornelius Lucas",
+    "age": "33",
+    "position": "T",
+    "weight": "327",
+    "height": "6-8",
+    "college": "Kansas St.",
+    "experience": "10"
   }
 ]

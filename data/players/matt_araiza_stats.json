@@ -101,5 +101,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Matt Araiza",
+    "age": "24",
+    "position": "P",
+    "weight": "200",
+    "height": "6-1",
+    "college": "San Diego St.",
+    "experience": "1"
   }
 ]

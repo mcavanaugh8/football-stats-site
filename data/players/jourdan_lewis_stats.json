@@ -717,5 +717,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Jourdan Lewis",
+    "age": "29",
+    "position": "CB",
+    "weight": "195",
+    "height": "5-10",
+    "college": "Michigan",
+    "experience": "7"
   }
 ]

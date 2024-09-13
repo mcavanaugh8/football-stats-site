@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Malaesala Aumavae-Laulu",
+    "age": "25",
+    "position": "G",
+    "weight": "344",
+    "height": "6-5",
+    "college": "Navarro,Oregon",
+    "experience": "Rook"
   }
 ]

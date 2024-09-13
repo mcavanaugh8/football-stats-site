@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Bradley Bozeman",
+    "age": "30",
+    "position": "C",
+    "weight": "317",
+    "height": "6-3",
+    "college": "Alabama",
+    "experience": "6"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Brennan Jackson",
+    "age": "24",
+    "position": "OLB",
+    "weight": "266",
+    "height": "",
+    "college": "Washington St.",
+    "experience": "Rook"
   }
 ]

@@ -672,5 +672,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Cameron Heyward",
+    "age": "35",
+    "position": "DT",
+    "weight": "295",
+    "height": "6-5",
+    "college": "Ohio St.",
+    "experience": "13"
   }
 ]

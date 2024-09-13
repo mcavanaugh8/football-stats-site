@@ -232,5 +232,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Alim McNeill",
+    "age": "24",
+    "position": "DL",
+    "weight": "315",
+    "height": "6-2",
+    "college": "North Carolina St.",
+    "experience": "3"
   }
 ]

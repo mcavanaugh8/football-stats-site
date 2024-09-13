@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mike Sainristil",
+    "age": "24",
+    "position": "CB",
+    "weight": "182",
+    "height": "5-10",
+    "college": "Michigan",
+    "experience": "Rook"
   }
 ]

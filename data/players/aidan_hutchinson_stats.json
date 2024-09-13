@@ -193,5 +193,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Aidan Hutchinson",
+    "age": "24",
+    "position": "DL",
+    "weight": "268",
+    "height": "6-7",
+    "college": "Michigan",
+    "experience": "2"
   }
 ]

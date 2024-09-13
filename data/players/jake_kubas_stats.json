@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jake Kubas",
+    "age": "24",
+    "position": "OG",
+    "weight": "308",
+    "height": "6-4",
+    "college": "North Dakota State",
+    "experience": "Rook"
   }
 ]

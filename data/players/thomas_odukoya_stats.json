@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Thomas Odukoya",
+    "age": "27",
+    "position": "TE",
+    "weight": "253",
+    "height": "6-6",
+    "college": "Eastern Michigan",
+    "experience": "Rook"
   }
 ]

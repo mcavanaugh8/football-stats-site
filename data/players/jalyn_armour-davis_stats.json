@@ -190,5 +190,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Jalyn Armour-Davis",
+    "age": "25",
+    "position": "CB",
+    "weight": "197",
+    "height": "6-1",
+    "college": "Alabama",
+    "experience": "2"
   }
 ]

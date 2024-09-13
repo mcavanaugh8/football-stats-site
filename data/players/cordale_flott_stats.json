@@ -190,5 +190,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Cordale Flott",
+    "age": "23",
+    "position": "CB",
+    "weight": "175",
+    "height": "6-2",
+    "college": "LSU",
+    "experience": "2"
   }
 ]

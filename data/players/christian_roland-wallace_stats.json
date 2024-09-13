@@ -78,5 +78,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Christian Roland-Wallace",
+    "age": "23",
+    "position": "CB",
+    "weight": "202",
+    "height": "5-11",
+    "college": "Arizona,USC",
+    "experience": "Rook"
   }
 ]

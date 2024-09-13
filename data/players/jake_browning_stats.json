@@ -337,5 +337,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jake Browning",
+    "age": "28",
+    "position": "QB",
+    "weight": "209",
+    "height": "6-2",
+    "college": "Washington",
+    "experience": "1"
   }
 ]

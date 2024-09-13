@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Hunter Nourzad",
+    "age": "24",
+    "position": "OL",
+    "weight": "317",
+    "height": "",
+    "college": "Cornell,Penn St.",
+    "experience": "Rook"
   }
 ]

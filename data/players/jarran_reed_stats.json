@@ -442,5 +442,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Jarran Reed",
+    "age": "32",
+    "position": "NT",
+    "weight": "306",
+    "height": "6-3",
+    "college": "East Mississippi CC,Alabama",
+    "experience": "8"
   }
 ]

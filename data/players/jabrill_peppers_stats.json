@@ -549,5 +549,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Jabrill Peppers",
+    "age": "29",
+    "position": "S",
+    "weight": "217",
+    "height": "5-11",
+    "college": "Michigan",
+    "experience": "7"
   }
 ]

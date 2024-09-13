@@ -134,5 +134,14 @@
         "st_pct": "83%"
       }
     ]
+  },
+  {
+    "name": "D'Marco Jackson",
+    "age": "26",
+    "position": "LB",
+    "weight": "233",
+    "height": "6-1",
+    "college": "Appalachian St.",
+    "experience": "1"
   }
 ]

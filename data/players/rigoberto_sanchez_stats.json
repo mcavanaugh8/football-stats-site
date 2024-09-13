@@ -400,5 +400,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Rigoberto Sanchez",
+    "age": "30",
+    "position": "P",
+    "weight": "195",
+    "height": "6-0",
+    "college": "Hawaii",
+    "experience": "7"
   }
 ]

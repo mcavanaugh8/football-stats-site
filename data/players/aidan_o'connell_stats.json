@@ -337,5 +337,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Aidan O'Connell",
+    "age": "26",
+    "position": "QB",
+    "weight": "210",
+    "height": "",
+    "college": "Purdue",
+    "experience": "1"
   }
 ]

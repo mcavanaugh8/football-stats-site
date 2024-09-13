@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jaxson Kirkland",
+    "age": "26",
+    "position": "G",
+    "weight": "328",
+    "height": "",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

@@ -190,5 +190,14 @@
         "st_pct": "38%"
       }
     ]
+  },
+  {
+    "name": "Jack Gibbens",
+    "age": "26",
+    "position": "LB",
+    "weight": "242",
+    "height": "6-3",
+    "college": "Abilene Christian,Minnesota",
+    "experience": "2"
   }
 ]

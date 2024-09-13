@@ -428,5 +428,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Dean Lowry",
+    "age": "30",
+    "position": "DT",
+    "weight": "296",
+    "height": "6-6",
+    "college": "Northwestern",
+    "experience": "8"
   }
 ]

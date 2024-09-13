@@ -232,5 +232,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Asante Samuel Jr.",
+    "age": "25",
+    "position": "CB",
+    "weight": "180",
+    "height": "5-10",
+    "college": "Florida St.",
+    "experience": "3"
   }
 ]

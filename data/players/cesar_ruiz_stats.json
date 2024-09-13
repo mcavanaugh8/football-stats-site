@@ -274,5 +274,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Cesar Ruiz",
+    "age": "25",
+    "position": "OL",
+    "weight": "316",
+    "height": "6-4",
+    "college": "Michigan",
+    "experience": "4"
   }
 ]

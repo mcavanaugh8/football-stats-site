@@ -1245,5 +1245,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Cooper Rush",
+    "age": "31",
+    "position": "QB",
+    "weight": "225",
+    "height": "6-3",
+    "college": "Central Michigan",
+    "experience": "7"
   }
 ]

@@ -108,5 +108,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Rasheed Walker",
+    "age": "24",
+    "position": "T",
+    "weight": "324",
+    "height": "6-6",
+    "college": "Penn St.",
+    "experience": "2"
   }
 ]

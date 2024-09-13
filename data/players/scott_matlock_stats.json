@@ -253,5 +253,14 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "Scott Matlock",
+    "age": "24",
+    "position": "DL",
+    "weight": "296",
+    "height": "6-4",
+    "college": "Boise St.",
+    "experience": "1"
   }
 ]

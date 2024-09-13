@@ -279,5 +279,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Tristan Wirfs",
+    "age": "25",
+    "position": "T",
+    "weight": "320",
+    "height": "6-5",
+    "college": "Iowa",
+    "experience": "4"
   }
 ]

@@ -279,5 +279,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nnamdi Madubuike",
+    "age": "27",
+    "position": "DT",
+    "weight": "305",
+    "height": "6-3",
+    "college": "Texas A&M",
+    "experience": "4"
   }
 ]

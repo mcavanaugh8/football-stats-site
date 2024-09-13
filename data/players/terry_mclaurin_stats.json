@@ -848,5 +848,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Terry McLaurin",
+    "age": "29",
+    "position": "WR",
+    "weight": "210",
+    "height": "6-0",
+    "college": "Ohio St.",
+    "experience": "5"
   }
 ]

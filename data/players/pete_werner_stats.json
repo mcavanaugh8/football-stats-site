@@ -232,5 +232,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Pete Werner",
+    "age": "25",
+    "position": "LB",
+    "weight": "242",
+    "height": "6-3",
+    "college": "Ohio St.",
+    "experience": "3"
   }
 ]

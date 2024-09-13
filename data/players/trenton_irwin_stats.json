@@ -671,5 +671,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trenton Irwin",
+    "age": "29",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-2",
+    "college": "Stanford",
+    "experience": "5"
   }
 ]

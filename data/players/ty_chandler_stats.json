@@ -400,5 +400,14 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Ty Chandler",
+    "age": "26",
+    "position": "RB",
+    "weight": "204",
+    "height": "5-11",
+    "college": "Tennessee,North Carolina",
+    "experience": "2"
   }
 ]

@@ -1010,5 +1010,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mason Rudolph",
+    "age": "29",
+    "position": "QB",
+    "weight": "235",
+    "height": "6-5",
+    "college": "Oklahoma St.",
+    "experience": "5"
   }
 ]

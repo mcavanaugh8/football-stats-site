@@ -1148,5 +1148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "James Conner",
+    "age": "29",
+    "position": "RB",
+    "weight": "233",
+    "height": "6-1",
+    "college": "Pittsburgh",
+    "experience": "7"
   }
 ]

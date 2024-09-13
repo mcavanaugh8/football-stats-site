@@ -409,5 +409,14 @@
         "st_pct": "77%"
       }
     ]
+  },
+  {
+    "name": "Charlie Kolar",
+    "age": "25",
+    "position": "TE",
+    "weight": "267",
+    "height": "6-6",
+    "college": "Iowa St.",
+    "experience": "2"
   }
 ]

@@ -698,5 +698,14 @@
         "st_pct": "57%"
       }
     ]
+  },
+  {
+    "name": "Tanner Hudson",
+    "age": "30",
+    "position": "TE",
+    "weight": "239",
+    "height": "6-5",
+    "college": "Southern Arkansas",
+    "experience": "5"
   }
 ]

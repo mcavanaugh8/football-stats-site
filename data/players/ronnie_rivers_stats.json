@@ -372,5 +372,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Ronnie Rivers",
+    "age": "25",
+    "position": "RB",
+    "weight": "192",
+    "height": "",
+    "college": "Fresno St.",
+    "experience": "2"
   }
 ]

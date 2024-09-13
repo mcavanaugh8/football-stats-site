@@ -148,5 +148,14 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Daiyan Henley",
+    "age": "25",
+    "position": "LB",
+    "weight": "225",
+    "height": "6-1",
+    "college": "Nevada,Washington St.",
+    "experience": "1"
   }
 ]

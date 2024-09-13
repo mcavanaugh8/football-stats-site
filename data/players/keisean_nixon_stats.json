@@ -741,5 +741,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Keisean Nixon",
+    "age": "27",
+    "position": "CB",
+    "weight": "200",
+    "height": "5-10",
+    "college": "South Carolina",
+    "experience": "5"
   }
 ]

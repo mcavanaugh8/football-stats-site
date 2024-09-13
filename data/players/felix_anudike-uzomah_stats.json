@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Felix Anudike-Uzomah",
+    "age": "22",
+    "position": "DE",
+    "weight": "255",
+    "height": "",
+    "college": "Kansas St.",
+    "experience": "1"
   }
 ]

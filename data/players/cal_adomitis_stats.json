@@ -190,5 +190,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Cal Adomitis",
+    "age": "26",
+    "position": "LS",
+    "weight": "238",
+    "height": "",
+    "college": "Pittsburgh",
+    "experience": "2"
   }
 ]

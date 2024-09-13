@@ -148,5 +148,23 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Jaylon Jones",
+    "age": "27",
+    "position": "DB",
+    "weight": "190",
+    "height": "5-11",
+    "college": "Mississippi",
+    "experience": "2"
+  },
+  {
+    "name": "Jaylon Jones",
+    "age": "22",
+    "position": "CB",
+    "weight": "203",
+    "height": "",
+    "college": "Texas A&M",
+    "experience": "1"
   }
 ]

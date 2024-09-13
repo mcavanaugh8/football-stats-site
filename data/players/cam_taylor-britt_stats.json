@@ -218,5 +218,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Cam Taylor-Britt",
+    "age": "25",
+    "position": "CB",
+    "weight": "202",
+    "height": "5-11",
+    "college": "Nebraska",
+    "experience": "2"
   }
 ]

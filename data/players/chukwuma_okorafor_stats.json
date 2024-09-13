@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Chukwuma Okorafor",
+    "age": "27",
+    "position": "T",
+    "weight": "320",
+    "height": "6-6",
+    "college": "Western Michigan",
+    "experience": "6"
   }
 ]

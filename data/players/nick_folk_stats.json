@@ -830,5 +830,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Nick Folk",
+    "age": "40",
+    "position": "K",
+    "weight": "225",
+    "height": "6-1",
+    "college": "Arizona",
+    "experience": "17"
   }
 ]

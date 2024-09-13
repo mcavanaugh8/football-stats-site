@@ -760,5 +760,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Adam Trautman",
+    "age": "27",
+    "position": "TE",
+    "weight": "253",
+    "height": "6-5",
+    "college": "Dayton",
+    "experience": "4"
   }
 ]

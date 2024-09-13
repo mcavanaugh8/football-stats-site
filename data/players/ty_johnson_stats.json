@@ -1192,5 +1192,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Ty Johnson",
+    "age": "27",
+    "position": "RB",
+    "weight": "210",
+    "height": "5-10",
+    "college": "Maryland",
+    "experience": "5"
   }
 ]

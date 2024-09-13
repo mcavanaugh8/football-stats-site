@@ -218,5 +218,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Jaylen Watson",
+    "age": "26",
+    "position": "CB",
+    "weight": "197",
+    "height": "6-2",
+    "college": "Washington St.,Ventura College",
+    "experience": "2"
   }
 ]

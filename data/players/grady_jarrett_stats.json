@@ -494,5 +494,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Grady Jarrett",
+    "age": "31",
+    "position": "DL",
+    "weight": "288",
+    "height": "6-0",
+    "college": "Clemson",
+    "experience": "9"
   }
 ]

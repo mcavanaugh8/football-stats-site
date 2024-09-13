@@ -148,5 +148,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Garrett Williams",
+    "age": "23",
+    "position": "CB",
+    "weight": "192",
+    "height": "",
+    "college": "Syracuse",
+    "experience": "1"
   }
 ]

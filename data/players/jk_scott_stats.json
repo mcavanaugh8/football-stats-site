@@ -813,5 +813,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "JK Scott",
+    "age": "29",
+    "position": "P",
+    "weight": "208",
+    "height": "6-5",
+    "college": "Alabama",
+    "experience": "6"
   }
 ]

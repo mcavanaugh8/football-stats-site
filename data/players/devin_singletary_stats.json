@@ -1262,5 +1262,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Devin Singletary",
+    "age": "27",
+    "position": "RB",
+    "weight": "203",
+    "height": "5-7",
+    "college": "Florida Atlantic",
+    "experience": "5"
   }
 ]

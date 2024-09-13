@@ -847,5 +847,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Tyler Conklin",
+    "age": "29",
+    "position": "TE",
+    "weight": "248",
+    "height": "6-3",
+    "college": "Central Michigan",
+    "experience": "6"
   }
 ]

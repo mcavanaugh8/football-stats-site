@@ -811,5 +811,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mac Jones",
+    "age": "26",
+    "position": "QB",
+    "weight": "220",
+    "height": "6-3",
+    "college": "Alabama",
+    "experience": "3"
   }
 ]

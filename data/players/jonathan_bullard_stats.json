@@ -442,5 +442,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jonathan Bullard",
+    "age": "31",
+    "position": "DL",
+    "weight": "290",
+    "height": "6-3",
+    "college": "Florida",
+    "experience": "8"
   }
 ]

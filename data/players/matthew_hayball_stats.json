@@ -101,5 +101,14 @@
         "st_pct": "37%"
       }
     ]
+  },
+  {
+    "name": "Matthew Hayball",
+    "age": "27",
+    "position": "P",
+    "weight": "189",
+    "height": "6-0",
+    "college": "Florida Atlantic,Vanderbilt",
+    "experience": "Rook"
   }
 ]

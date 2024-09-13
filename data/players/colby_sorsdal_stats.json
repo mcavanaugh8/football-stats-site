@@ -78,5 +78,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Colby Sorsdal",
+    "age": "24",
+    "position": "OL",
+    "weight": "315",
+    "height": "6-6",
+    "college": "William & Mary",
+    "experience": "1"
   }
 ]

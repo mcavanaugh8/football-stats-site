@@ -301,5 +301,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jevon Holland",
+    "age": "24",
+    "position": "S",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Oregon",
+    "experience": "3"
   }
 ]

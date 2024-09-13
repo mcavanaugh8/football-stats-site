@@ -225,5 +225,14 @@
         "st_pct": "59%"
       }
     ]
+  },
+  {
+    "name": "Jake Camarda",
+    "age": "25",
+    "position": "P",
+    "weight": "193",
+    "height": "6-1",
+    "college": "Georgia",
+    "experience": "2"
   }
 ]

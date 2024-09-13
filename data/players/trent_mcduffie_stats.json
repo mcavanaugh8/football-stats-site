@@ -193,5 +193,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trent McDuffie",
+    "age": "24",
+    "position": "CB",
+    "weight": "193",
+    "height": "5-11",
+    "college": "Washington",
+    "experience": "2"
   }
 ]

@@ -274,5 +274,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Logan Wilson",
+    "age": "28",
+    "position": "LB",
+    "weight": "245",
+    "height": "6-2",
+    "college": "Wyoming",
+    "experience": "4"
   }
 ]

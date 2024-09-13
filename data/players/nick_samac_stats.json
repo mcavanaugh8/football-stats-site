@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Nick Samac",
+    "age": "23",
+    "position": "C",
+    "weight": "314",
+    "height": "",
+    "college": "Michigan St.",
+    "experience": "Rook"
   }
 ]

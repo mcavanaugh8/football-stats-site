@@ -190,5 +190,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Daxton Hill",
+    "age": "24",
+    "position": "CB",
+    "weight": "191",
+    "height": "6-0",
+    "college": "Michigan",
+    "experience": "2"
   }
 ]

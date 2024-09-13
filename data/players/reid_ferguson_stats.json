@@ -400,5 +400,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Reid Ferguson",
+    "age": "30",
+    "position": "LS",
+    "weight": "235",
+    "height": "6-2",
+    "college": "LSU",
+    "experience": "7"
   }
 ]

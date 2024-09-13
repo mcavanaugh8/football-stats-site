@@ -903,5 +903,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jordan Love",
+    "age": "26",
+    "position": "QB",
+    "weight": "219",
+    "height": "6-4",
+    "college": "Utah St.",
+    "experience": "3"
   }
 ]

@@ -259,5 +259,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Evan McPherson",
+    "age": "25",
+    "position": "K",
+    "weight": "185",
+    "height": "5-11",
+    "college": "Florida",
+    "experience": "3"
   }
 ]

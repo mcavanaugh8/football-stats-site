@@ -451,5 +451,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kenny Clark",
+    "age": "29",
+    "position": "DL",
+    "weight": "314",
+    "height": "6-3",
+    "college": "UCLA",
+    "experience": "8"
   }
 ]

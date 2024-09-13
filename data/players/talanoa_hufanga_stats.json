@@ -221,5 +221,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Talanoa Hufanga",
+    "age": "25",
+    "position": "S",
+    "weight": "200",
+    "height": "6-0",
+    "college": "USC",
+    "experience": "3"
   }
 ]

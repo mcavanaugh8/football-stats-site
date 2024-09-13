@@ -442,5 +442,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Ted Karras",
+    "age": "31",
+    "position": "C",
+    "weight": "310",
+    "height": "6-4",
+    "college": "Illinois",
+    "experience": "8"
   }
 ]

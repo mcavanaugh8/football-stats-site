@@ -285,5 +285,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Xavier Hutchinson",
+    "age": "24",
+    "position": "WR",
+    "weight": "210",
+    "height": "",
+    "college": "Blinn College (TX),Iowa St.",
+    "experience": "1"
   }
 ]

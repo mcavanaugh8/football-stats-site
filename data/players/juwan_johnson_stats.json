@@ -708,5 +708,14 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Juwan Johnson",
+    "age": "28",
+    "position": "TE",
+    "weight": "231",
+    "height": "6-4",
+    "college": "Oregon,Penn St.",
+    "experience": "4"
   }
 ]

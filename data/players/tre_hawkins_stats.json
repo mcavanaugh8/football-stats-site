@@ -106,5 +106,14 @@
         "st_pct": "34%"
       }
     ]
+  },
+  {
+    "name": "Tre Hawkins",
+    "age": "24",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-3",
+    "college": "Trinity Valley CC (TX),Old Dominion",
+    "experience": "1"
   }
 ]

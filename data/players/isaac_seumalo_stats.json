@@ -400,5 +400,14 @@
         "st_pct": "9%"
       }
     ]
+  },
+  {
+    "name": "Isaac Seumalo",
+    "age": "31",
+    "position": "G",
+    "weight": "303",
+    "height": "6-4",
+    "college": "Oregon St.",
+    "experience": "8"
   }
 ]

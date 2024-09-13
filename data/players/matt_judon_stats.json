@@ -506,5 +506,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Matt Judon",
+    "age": "32",
+    "position": "OLB",
+    "weight": "275",
+    "height": "6-3",
+    "college": "Grand Valley St.",
+    "experience": "8"
   }
 ]

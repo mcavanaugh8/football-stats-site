@@ -148,5 +148,14 @@
         "st_pct": "83%"
       }
     ]
+  },
+  {
+    "name": "Jay Ward",
+    "age": "24",
+    "position": "S",
+    "weight": "188",
+    "height": "6-1",
+    "college": "LSU",
+    "experience": "1"
   }
 ]

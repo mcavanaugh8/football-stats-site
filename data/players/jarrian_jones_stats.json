@@ -106,5 +106,14 @@
         "st_pct": "72%"
       }
     ]
+  },
+  {
+    "name": "Jarrian Jones",
+    "age": "23",
+    "position": "CB",
+    "weight": "190",
+    "height": "5-11",
+    "college": "Mississippi St.,Florida St.",
+    "experience": "Rook"
   }
 ]

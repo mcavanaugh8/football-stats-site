@@ -190,5 +190,14 @@
         "st_pct": "70%"
       }
     ]
+  },
+  {
+    "name": "J.J. Russell",
+    "age": "26",
+    "position": "LB",
+    "weight": "225",
+    "height": "6-1",
+    "college": "Memphis",
+    "experience": "2"
   }
 ]

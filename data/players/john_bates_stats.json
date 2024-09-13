@@ -605,5 +605,14 @@
         "st_pct": "56%"
       }
     ]
+  },
+  {
+    "name": "John Bates",
+    "age": "27",
+    "position": "TE",
+    "weight": "259",
+    "height": "6-6",
+    "college": "Boise St.",
+    "experience": "3"
   }
 ]

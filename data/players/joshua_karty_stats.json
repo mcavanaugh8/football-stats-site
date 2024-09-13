@@ -106,5 +106,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Joshua Karty",
+    "age": "22",
+    "position": "K",
+    "weight": "207",
+    "height": "",
+    "college": "Stanford",
+    "experience": "Rook"
   }
 ]

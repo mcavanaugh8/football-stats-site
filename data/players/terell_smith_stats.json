@@ -148,5 +148,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Terell Smith",
+    "age": "25",
+    "position": "DB",
+    "weight": "207",
+    "height": "6-0",
+    "college": "Minnesota",
+    "experience": "1"
   }
 ]

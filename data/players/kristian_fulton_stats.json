@@ -274,5 +274,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Kristian Fulton",
+    "age": "26",
+    "position": "CB",
+    "weight": "197",
+    "height": "5-11",
+    "college": "LSU",
+    "experience": "4"
   }
 ]

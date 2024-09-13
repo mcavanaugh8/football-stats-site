@@ -148,5 +148,14 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Yasir Abdullah",
+    "age": "24",
+    "position": "LB",
+    "weight": "240",
+    "height": "",
+    "college": "Louisville",
+    "experience": "1"
   }
 ]

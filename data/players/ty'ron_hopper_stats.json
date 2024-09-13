@@ -78,5 +78,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Ty'Ron Hopper",
+    "age": "23",
+    "position": "LB",
+    "weight": "228",
+    "height": "",
+    "college": "Florida,Missouri",
+    "experience": "Rook"
   }
 ]

@@ -611,5 +611,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Josh Palmer",
+    "age": "25",
+    "position": "WR",
+    "weight": "210",
+    "height": "6-1",
+    "college": "Tennessee",
+    "experience": "3"
   }
 ]

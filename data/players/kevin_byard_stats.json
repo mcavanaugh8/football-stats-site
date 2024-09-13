@@ -1494,5 +1494,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kevin Byard",
+    "age": "31",
+    "position": "DB",
+    "weight": "212",
+    "height": "5-11",
+    "college": "Middle Tenn. St.",
+    "experience": "8"
   }
 ]

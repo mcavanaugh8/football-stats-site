@@ -190,5 +190,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Kaiir Elam",
+    "age": "23",
+    "position": "CB",
+    "weight": "191",
+    "height": "6-1",
+    "college": "Florida",
+    "experience": "2"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "78%"
       }
     ]
+  },
+  {
+    "name": "Dadrion Taylor-Demerson",
+    "age": "23",
+    "position": "S",
+    "weight": "189",
+    "height": "5-10",
+    "college": "Texas Tech",
+    "experience": "Rook"
   }
 ]

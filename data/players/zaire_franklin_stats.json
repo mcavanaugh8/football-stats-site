@@ -358,5 +358,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Zaire Franklin",
+    "age": "28",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-0",
+    "college": "Syracuse",
+    "experience": "6"
   }
 ]

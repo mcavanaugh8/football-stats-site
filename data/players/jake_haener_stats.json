@@ -154,5 +154,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jake Haener",
+    "age": "25",
+    "position": "QB",
+    "weight": "200",
+    "height": "",
+    "college": "Washington,Fresno St.",
+    "experience": "1"
   }
 ]

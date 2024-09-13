@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Khristian Boyd",
+    "age": "24",
+    "position": "DT",
+    "weight": "320",
+    "height": "6-2",
+    "college": "Northern Iowa",
+    "experience": "Rook"
   }
 ]

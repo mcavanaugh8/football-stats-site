@@ -93,5 +93,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Asim Richards",
+    "age": "24",
+    "position": "OL",
+    "weight": "307",
+    "height": "6-4",
+    "college": "North Carolina",
+    "experience": "1"
   }
 ]

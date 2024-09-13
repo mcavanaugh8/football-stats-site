@@ -302,5 +302,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Jeff Okudah",
+    "age": "25",
+    "position": "CB",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Ohio St.",
+    "experience": "4"
   }
 ]

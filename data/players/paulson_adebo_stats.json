@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Paulson Adebo",
+    "age": "25",
+    "position": "CB",
+    "weight": "192",
+    "height": "6-1",
+    "college": "Stanford",
+    "experience": "3"
   }
 ]

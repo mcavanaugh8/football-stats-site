@@ -189,5 +189,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Will Mallory",
+    "age": "25",
+    "position": "TE",
+    "weight": "239",
+    "height": "6-4",
+    "college": "Miami (FL)",
+    "experience": "1"
   }
 ]

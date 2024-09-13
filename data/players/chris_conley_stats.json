@@ -1422,5 +1422,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Chris Conley",
+    "age": "32",
+    "position": "WR",
+    "weight": "205",
+    "height": "6-3",
+    "college": "Georgia",
+    "experience": "9"
   }
 ]

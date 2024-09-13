@@ -506,5 +506,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Miles Killebrew",
+    "age": "31",
+    "position": "S",
+    "weight": "222",
+    "height": "6-2",
+    "college": "Southern Utah",
+    "experience": "8"
   }
 ]

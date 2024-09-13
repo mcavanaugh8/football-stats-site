@@ -671,5 +671,14 @@
         "st_pct": "69%"
       }
     ]
+  },
+  {
+    "name": "Craig Reynolds",
+    "age": "28",
+    "position": "RB",
+    "weight": "216",
+    "height": "5-11",
+    "college": "Kutztown (PA)",
+    "experience": "5"
   }
 ]

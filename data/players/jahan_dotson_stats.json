@@ -402,5 +402,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jahan Dotson",
+    "age": "24",
+    "position": "WR",
+    "weight": "182",
+    "height": "5-11",
+    "college": "Penn St.",
+    "experience": "2"
   }
 ]

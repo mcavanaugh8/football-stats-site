@@ -1027,5 +1027,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Will Dissly",
+    "age": "28",
+    "position": "TE",
+    "weight": "265",
+    "height": "6-4",
+    "college": "Washington",
+    "experience": "6"
   }
 ]

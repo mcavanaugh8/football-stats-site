@@ -358,5 +358,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Folorunso Fatukasi",
+    "age": "29",
+    "position": "DT",
+    "weight": "318",
+    "height": "6-4",
+    "college": "Connecticut",
+    "experience": "6"
   }
 ]

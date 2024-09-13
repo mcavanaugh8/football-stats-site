@@ -162,5 +162,14 @@
         "st_pct": "62%"
       }
     ]
+  },
+  {
+    "name": "Braelon Allen",
+    "age": "20",
+    "position": "RB",
+    "weight": "235",
+    "height": "",
+    "college": "Wisconsin",
+    "experience": "Rook"
   }
 ]

@@ -413,5 +413,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Justin Reid",
+    "age": "27",
+    "position": "S",
+    "weight": "207",
+    "height": "6-1",
+    "college": "Stanford",
+    "experience": "6"
   }
 ]

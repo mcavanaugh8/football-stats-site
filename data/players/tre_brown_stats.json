@@ -260,5 +260,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Tre Brown",
+    "age": "27",
+    "position": "CB",
+    "weight": "185",
+    "height": "5-10",
+    "college": "Oklahoma",
+    "experience": "3"
   }
 ]

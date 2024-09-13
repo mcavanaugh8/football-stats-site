@@ -587,5 +587,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "DeVonta Smith",
+    "age": "26",
+    "position": "WR",
+    "weight": "170",
+    "height": "6-0",
+    "college": "Alabama",
+    "experience": "3"
   }
 ]

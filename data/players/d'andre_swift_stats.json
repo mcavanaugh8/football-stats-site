@@ -1073,5 +1073,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "D'Andre Swift",
+    "age": "25",
+    "position": "RB",
+    "weight": "215",
+    "height": "5-9",
+    "college": "Georgia",
+    "experience": "4"
   }
 ]

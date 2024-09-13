@@ -108,5 +108,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Kyle Hinton",
+    "age": "26",
+    "position": "OL",
+    "weight": "295",
+    "height": "6-2",
+    "college": "Washburn",
+    "experience": "2"
   }
 ]

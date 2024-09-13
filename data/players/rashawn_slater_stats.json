@@ -123,5 +123,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Rashawn Slater",
+    "age": "25",
+    "position": "T",
+    "weight": "315",
+    "height": "6-4",
+    "college": "Northwestern",
+    "experience": "3"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "57%"
       }
     ]
+  },
+  {
+    "name": "Dell Pettus",
+    "age": "23",
+    "position": "S",
+    "weight": "200",
+    "height": "5-11",
+    "college": "Troy",
+    "experience": "Rook"
   }
 ]

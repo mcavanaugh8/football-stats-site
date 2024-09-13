@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "John Stephens",
+    "age": "25",
+    "position": "TE",
+    "weight": "221",
+    "height": "6-5",
+    "college": "Louisiana",
+    "experience": "Rook"
   }
 ]

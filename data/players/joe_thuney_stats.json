@@ -451,5 +451,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Joe Thuney",
+    "age": "32",
+    "position": "G",
+    "weight": "304",
+    "height": "6-5",
+    "college": "North Carolina St.",
+    "experience": "8"
   }
 ]

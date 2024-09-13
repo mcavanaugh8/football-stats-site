@@ -846,5 +846,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jordan Poyer",
+    "age": "33",
+    "position": "S",
+    "weight": "191",
+    "height": "6-0",
+    "college": "Oregon St.",
+    "experience": "11"
   }
 ]

@@ -253,5 +253,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Nick McCloud",
+    "age": "26",
+    "position": "CB",
+    "weight": "193",
+    "height": "6-1",
+    "college": "North Carolina St.,Notre Dame",
+    "experience": "3"
   }
 ]

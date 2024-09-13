@@ -190,5 +190,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Zyon McCollum",
+    "age": "25",
+    "position": "CB",
+    "weight": "199",
+    "height": "6-2",
+    "college": "Sam Houston St.",
+    "experience": "2"
   }
 ]

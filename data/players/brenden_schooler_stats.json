@@ -190,5 +190,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Brenden Schooler",
+    "age": "27",
+    "position": "S",
+    "weight": "210",
+    "height": "6-2",
+    "college": "Oregon,Texas",
+    "experience": "2"
   }
 ]

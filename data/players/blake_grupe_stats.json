@@ -148,5 +148,14 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Blake Grupe",
+    "age": "26",
+    "position": "K",
+    "weight": "156",
+    "height": "5-7",
+    "college": "Arkansas St.,Notre Dame",
+    "experience": "1"
   }
 ]

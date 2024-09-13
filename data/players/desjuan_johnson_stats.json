@@ -106,5 +106,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Desjuan Johnson",
+    "age": "25",
+    "position": "DE",
+    "weight": "285",
+    "height": "6-3",
+    "college": "Toledo",
+    "experience": "1"
   }
 ]

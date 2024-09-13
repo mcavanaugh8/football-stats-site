@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Dwight McGlothern",
+    "age": "",
+    "position": "CB",
+    "weight": "185",
+    "height": "",
+    "college": "Arkansas",
+    "experience": "Rook"
   }
 ]

@@ -1115,5 +1115,14 @@
         "st_pct": "67%"
       }
     ]
+  },
+  {
+    "name": "C.J. Ham",
+    "age": "31",
+    "position": "FB",
+    "weight": "250",
+    "height": "5-11",
+    "college": "Augustana (SD)",
+    "experience": "7"
   }
 ]

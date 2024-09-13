@@ -190,5 +190,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Luke Fortner",
+    "age": "26",
+    "position": "OL",
+    "weight": "307",
+    "height": "6-4",
+    "college": "Kentucky",
+    "experience": "2"
   }
 ]

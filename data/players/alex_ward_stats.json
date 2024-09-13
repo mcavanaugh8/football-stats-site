@@ -148,5 +148,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Alex Ward",
+    "age": "25",
+    "position": "LS",
+    "weight": "241",
+    "height": "",
+    "college": "Central Florida",
+    "experience": "1"
   }
 ]

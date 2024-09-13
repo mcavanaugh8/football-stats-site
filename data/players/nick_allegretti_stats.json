@@ -153,5 +153,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Nick Allegretti",
+    "age": "28",
+    "position": "G",
+    "weight": "320",
+    "height": "6-4",
+    "college": "Illinois",
+    "experience": "5"
   }
 ]

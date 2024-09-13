@@ -409,5 +409,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyquan Thornton",
+    "age": "24",
+    "position": "WR",
+    "weight": "185",
+    "height": "6-2",
+    "college": "Baylor",
+    "experience": "2"
   }
 ]

@@ -494,5 +494,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Laken Tomlinson",
+    "age": "32",
+    "position": "G",
+    "weight": "323",
+    "height": "6-3",
+    "college": "Duke",
+    "experience": "9"
   }
 ]

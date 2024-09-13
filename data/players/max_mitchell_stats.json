@@ -148,5 +148,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Max Mitchell",
+    "age": "25",
+    "position": "OL",
+    "weight": "307",
+    "height": "6-6",
+    "college": "Louisiana",
+    "experience": "2"
   }
 ]

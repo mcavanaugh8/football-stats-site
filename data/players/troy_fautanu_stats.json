@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Troy Fautanu",
+    "age": "24",
+    "position": "OT",
+    "weight": "317",
+    "height": "",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

@@ -547,5 +547,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Daniel Carlson",
+    "age": "29",
+    "position": "K",
+    "weight": "215",
+    "height": "6-5",
+    "college": "Auburn",
+    "experience": "6"
   }
 ]

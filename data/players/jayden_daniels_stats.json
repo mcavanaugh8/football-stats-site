@@ -252,5 +252,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jayden Daniels",
+    "age": "24",
+    "position": "QB",
+    "weight": "210",
+    "height": "",
+    "college": "Arizona St.,LSU",
+    "experience": "Rook"
   }
 ]

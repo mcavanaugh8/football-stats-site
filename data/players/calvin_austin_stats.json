@@ -354,5 +354,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Calvin Austin",
+    "age": "25",
+    "position": "WR",
+    "weight": "162",
+    "height": "5-9",
+    "college": "Memphis",
+    "experience": "1"
   }
 ]

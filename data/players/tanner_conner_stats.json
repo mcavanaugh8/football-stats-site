@@ -381,5 +381,14 @@
         "st_pct": "44%"
       }
     ]
+  },
+  {
+    "name": "Tanner Conner",
+    "age": "26",
+    "position": "TE",
+    "weight": "232",
+    "height": "6-3",
+    "college": "Idaho St.",
+    "experience": "2"
   }
 ]

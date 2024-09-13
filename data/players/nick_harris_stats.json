@@ -190,5 +190,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Nick Harris",
+    "age": "26",
+    "position": "C",
+    "weight": "293",
+    "height": "6-1",
+    "college": "Washington",
+    "experience": "4"
   }
 ]

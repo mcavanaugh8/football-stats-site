@@ -106,5 +106,14 @@
         "st_pct": "25%"
       }
     ]
+  },
+  {
+    "name": "Tyler Nubin",
+    "age": "23",
+    "position": "S",
+    "weight": "210",
+    "height": "",
+    "college": "Minnesota",
+    "experience": "Rook"
   }
 ]

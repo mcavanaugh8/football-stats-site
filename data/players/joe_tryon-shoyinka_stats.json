@@ -232,5 +232,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Joe Tryon-Shoyinka",
+    "age": "25",
+    "position": "OLB",
+    "weight": "259",
+    "height": "6-5",
+    "college": "Washington",
+    "experience": "3"
   }
 ]

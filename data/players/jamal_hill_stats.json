@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jamal Hill",
+    "age": "23",
+    "position": "LB",
+    "weight": "227",
+    "height": "6-0",
+    "college": "Oregon",
+    "experience": "Rook"
   }
 ]

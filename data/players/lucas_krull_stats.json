@@ -286,5 +286,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Lucas Krull",
+    "age": "26",
+    "position": "TE",
+    "weight": "260",
+    "height": "",
+    "college": "Jefferson,Florida,Pittsburgh",
+    "experience": "2"
   }
 ]

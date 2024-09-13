@@ -106,5 +106,14 @@
         "st_pct": "60%"
       }
     ]
+  },
+  {
+    "name": "Dee Winters",
+    "age": "24",
+    "position": "LB",
+    "weight": "227",
+    "height": "",
+    "college": "TCU",
+    "experience": "1"
   }
 ]

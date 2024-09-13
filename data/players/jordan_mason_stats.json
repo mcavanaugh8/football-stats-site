@@ -473,5 +473,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jordan Mason",
+    "age": "25",
+    "position": "RB",
+    "weight": "223",
+    "height": "5-11",
+    "college": "Georgia Tech",
+    "experience": "2"
   }
 ]

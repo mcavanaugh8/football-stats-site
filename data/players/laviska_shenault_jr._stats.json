@@ -741,5 +741,14 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Laviska Shenault Jr.",
+    "age": "26",
+    "position": "WR",
+    "weight": "224",
+    "height": "6-1",
+    "college": "Colorado",
+    "experience": "4"
   }
 ]

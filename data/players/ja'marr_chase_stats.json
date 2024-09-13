@@ -886,5 +886,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Ja'Marr Chase",
+    "age": "24",
+    "position": "WR",
+    "weight": "201",
+    "height": "6-0",
+    "college": "LSU",
+    "experience": "3"
   }
 ]

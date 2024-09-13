@@ -532,5 +532,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Anthony Richardson",
+    "age": "22",
+    "position": "QB",
+    "weight": "244",
+    "height": "",
+    "college": "Florida",
+    "experience": "1"
   }
 ]

@@ -1033,5 +1033,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Justin Fields",
+    "age": "25",
+    "position": "QB",
+    "weight": "227",
+    "height": "6-3",
+    "college": "Georgia,Ohio St.",
+    "experience": "3"
   }
 ]

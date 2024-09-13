@@ -1996,5 +1996,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jacoby Brissett",
+    "age": "32",
+    "position": "QB",
+    "weight": "235",
+    "height": "6-4",
+    "college": "Florida,North Carolina St.",
+    "experience": "8"
   }
 ]

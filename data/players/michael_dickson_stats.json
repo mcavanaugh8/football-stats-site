@@ -686,5 +686,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Michael Dickson",
+    "age": "28",
+    "position": "P",
+    "weight": "208",
+    "height": "6-2",
+    "college": "Texas",
+    "experience": "6"
   }
 ]

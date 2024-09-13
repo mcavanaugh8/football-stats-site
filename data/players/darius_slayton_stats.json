@@ -924,5 +924,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Darius Slayton",
+    "age": "27",
+    "position": "WR",
+    "weight": "198",
+    "height": "6-1",
+    "college": "Auburn",
+    "experience": "5"
   }
 ]

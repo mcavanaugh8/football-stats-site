@@ -78,5 +78,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Braiden McGregor",
+    "age": "23",
+    "position": "DE",
+    "weight": "267",
+    "height": "6-6",
+    "college": "Michigan",
+    "experience": "Rook"
   }
 ]

@@ -307,5 +307,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Trey Palmer",
+    "age": "23",
+    "position": "WR",
+    "weight": "190",
+    "height": "6-1",
+    "college": "LSU,Nebraska",
+    "experience": "1"
   }
 ]

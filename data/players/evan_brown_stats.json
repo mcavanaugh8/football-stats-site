@@ -484,5 +484,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Evan Brown",
+    "age": "28",
+    "position": "OL",
+    "weight": "320",
+    "height": "6-3",
+    "college": "SMU",
+    "experience": "5"
   }
 ]

@@ -176,5 +176,14 @@
         "st_pct": "39%"
       }
     ]
+  },
+  {
+    "name": "Ronnie Hickman",
+    "age": "23",
+    "position": "S",
+    "weight": "209",
+    "height": "",
+    "college": "Ohio St.",
+    "experience": "1"
   }
 ]

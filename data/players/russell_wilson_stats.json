@@ -2517,5 +2517,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Russell Wilson",
+    "age": "36",
+    "position": "QB",
+    "weight": "206",
+    "height": "5-11",
+    "college": "Wisconsin,North Carolina St.",
+    "experience": "12"
   }
 ]

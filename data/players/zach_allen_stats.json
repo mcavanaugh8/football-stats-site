@@ -371,5 +371,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Zach Allen",
+    "age": "27",
+    "position": "DE",
+    "weight": "285",
+    "height": "6-5",
+    "college": "Boston Col.",
+    "experience": "5"
   }
 ]

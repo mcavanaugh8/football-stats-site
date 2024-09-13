@@ -232,5 +232,14 @@
         "st_pct": "25%"
       }
     ]
+  },
+  {
+    "name": "Yetur Gross-Matos",
+    "age": "26",
+    "position": "DL",
+    "weight": "265",
+    "height": "6-5",
+    "college": "Penn St.",
+    "experience": "4"
   }
 ]

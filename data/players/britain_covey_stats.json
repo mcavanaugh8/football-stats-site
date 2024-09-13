@@ -433,5 +433,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Britain Covey",
+    "age": "27",
+    "position": "WR",
+    "weight": "173",
+    "height": "5-8",
+    "college": "Utah",
+    "experience": "2"
   }
 ]

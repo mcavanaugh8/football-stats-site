@@ -93,5 +93,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Matthew Bergeron",
+    "age": "24",
+    "position": "OL",
+    "weight": "323",
+    "height": "",
+    "college": "Syracuse",
+    "experience": "1"
   }
 ]

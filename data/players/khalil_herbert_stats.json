@@ -603,5 +603,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Khalil Herbert",
+    "age": "26",
+    "position": "RB",
+    "weight": "212",
+    "height": "5-9",
+    "college": "Kansas,Virginia Tech",
+    "experience": "3"
   }
 ]

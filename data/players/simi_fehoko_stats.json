@@ -505,5 +505,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Simi Fehoko",
+    "age": "27",
+    "position": "WR",
+    "weight": "218",
+    "height": "6-4",
+    "college": "Stanford",
+    "experience": "3"
   }
 ]

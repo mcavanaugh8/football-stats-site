@@ -286,5 +286,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jaxon Smith-Njigba",
+    "age": "22",
+    "position": "WR",
+    "weight": "197",
+    "height": "",
+    "college": "Ohio St.",
+    "experience": "1"
   }
 ]

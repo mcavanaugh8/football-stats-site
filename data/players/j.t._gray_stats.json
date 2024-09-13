@@ -365,5 +365,14 @@
         "st_pct": "67%"
       }
     ]
+  },
+  {
+    "name": "J.T. Gray",
+    "age": "28",
+    "position": "DB",
+    "weight": "202",
+    "height": "6-0",
+    "college": "Mississippi St.",
+    "experience": "6"
   }
 ]

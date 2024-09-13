@@ -386,5 +386,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Dorance Armstrong Jr.",
+    "age": "27",
+    "position": "DE",
+    "weight": "255",
+    "height": "6-4",
+    "college": "Kansas",
+    "experience": "6"
   }
 ]

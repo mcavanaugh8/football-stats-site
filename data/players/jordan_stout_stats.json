@@ -202,5 +202,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Jordan Stout",
+    "age": "26",
+    "position": "P",
+    "weight": "209",
+    "height": "6-3",
+    "college": "Virginia Tech,Penn St.",
+    "experience": "2"
   }
 ]

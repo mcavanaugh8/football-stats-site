@@ -719,5 +719,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Jerry Hughes",
+    "age": "36",
+    "position": "DE",
+    "weight": "254",
+    "height": "6-2",
+    "college": "TCU",
+    "experience": "14"
   }
 ]

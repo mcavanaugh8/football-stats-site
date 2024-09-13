@@ -1822,5 +1822,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Stefon Diggs",
+    "age": "31",
+    "position": "WR",
+    "weight": "191",
+    "height": "6-0",
+    "college": "Maryland",
+    "experience": "9"
   }
 ]

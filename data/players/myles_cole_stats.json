@@ -78,5 +78,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Myles Cole",
+    "age": "24",
+    "position": "DE",
+    "weight": "278",
+    "height": "",
+    "college": "La-Monroe,Texas Tech",
+    "experience": "Rook"
   }
 ]

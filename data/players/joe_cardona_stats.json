@@ -484,5 +484,14 @@
         "st_pct": "43%"
       }
     ]
+  },
+  {
+    "name": "Joe Cardona",
+    "age": "32",
+    "position": "LS",
+    "weight": "245",
+    "height": "6-2",
+    "college": "Navy",
+    "experience": "9"
   }
 ]

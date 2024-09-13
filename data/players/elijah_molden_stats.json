@@ -287,5 +287,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Elijah Molden",
+    "age": "25",
+    "position": "CB",
+    "weight": "192",
+    "height": "5-10",
+    "college": "Washington",
+    "experience": "3"
   }
 ]

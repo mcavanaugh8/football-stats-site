@@ -1781,5 +1781,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mitchell Trubisky",
+    "age": "30",
+    "position": "QB",
+    "weight": "222",
+    "height": "6-3",
+    "college": "North Carolina",
+    "experience": "7"
   }
 ]

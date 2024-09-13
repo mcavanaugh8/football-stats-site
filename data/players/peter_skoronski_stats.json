@@ -93,5 +93,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Peter Skoronski",
+    "age": "23",
+    "position": "OL",
+    "weight": "313",
+    "height": "",
+    "college": "Northwestern",
+    "experience": "1"
   }
 ]

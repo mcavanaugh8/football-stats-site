@@ -193,5 +193,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Sauce Gardner",
+    "age": "24",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-3",
+    "college": "Cincinnati",
+    "experience": "2"
   }
 ]

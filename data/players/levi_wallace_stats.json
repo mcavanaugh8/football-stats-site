@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Levi Wallace",
+    "age": "29",
+    "position": "CB",
+    "weight": "179",
+    "height": "6-0",
+    "college": "Alabama",
+    "experience": "6"
   }
 ]

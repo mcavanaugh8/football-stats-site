@@ -106,5 +106,14 @@
         "st_pct": "46%"
       }
     ]
+  },
+  {
+    "name": "Andru Phillips",
+    "age": "23",
+    "position": "CB",
+    "weight": "180",
+    "height": "",
+    "college": "Kentucky",
+    "experience": "Rook"
   }
 ]

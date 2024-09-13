@@ -148,5 +148,14 @@
         "st_pct": "77%"
       }
     ]
+  },
+  {
+    "name": "Tristin McCollum",
+    "age": "25",
+    "position": "S",
+    "weight": "195",
+    "height": "6-3",
+    "college": "Sam Houston St.",
+    "experience": "1"
   }
 ]

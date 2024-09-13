@@ -90,5 +90,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Erick All",
+    "age": "24",
+    "position": "TE",
+    "weight": "253",
+    "height": "6-5",
+    "college": "Michigan,Iowa",
+    "experience": "Rook"
   }
 ]

@@ -1750,5 +1750,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Sam Darnold",
+    "age": "27",
+    "position": "QB",
+    "weight": "225",
+    "height": "6-3",
+    "college": "USC",
+    "experience": "6"
   }
 ]

@@ -148,5 +148,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Tyree Wilson",
+    "age": "24",
+    "position": "DE",
+    "weight": "275",
+    "height": "",
+    "college": "Texas A&M,Texas Tech",
+    "experience": "1"
   }
 ]

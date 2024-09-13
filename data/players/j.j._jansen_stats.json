@@ -707,5 +707,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "J.J. Jansen",
+    "age": "38",
+    "position": "LS",
+    "weight": "235",
+    "height": "6-2",
+    "college": "Notre Dame",
+    "experience": "15"
   }
 ]

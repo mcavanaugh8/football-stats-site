@@ -442,5 +442,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Terrell Edmunds",
+    "age": "27",
+    "position": "S",
+    "weight": "217",
+    "height": "6-1",
+    "college": "Virginia Tech",
+    "experience": "6"
   }
 ]

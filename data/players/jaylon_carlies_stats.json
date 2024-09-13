@@ -78,5 +78,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Jaylon Carlies",
+    "age": "23",
+    "position": "LB",
+    "weight": "227",
+    "height": "",
+    "college": "Missouri",
+    "experience": "Rook"
   }
 ]

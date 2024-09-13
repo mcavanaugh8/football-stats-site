@@ -190,5 +190,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Luke Goedeke",
+    "age": "26",
+    "position": "T",
+    "weight": "312",
+    "height": "6-5",
+    "college": "Wisconsin–Stevens Point,Central Michigan",
+    "experience": "2"
   }
 ]

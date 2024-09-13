@@ -258,5 +258,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Jonathan Mingo",
+    "age": "23",
+    "position": "WR",
+    "weight": "220",
+    "height": "",
+    "college": "Mississippi",
+    "experience": "1"
   }
 ]

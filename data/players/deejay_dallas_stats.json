@@ -1184,5 +1184,14 @@
         "st_pct": "59%"
       }
     ]
+  },
+  {
+    "name": "DeeJay Dallas",
+    "age": "26",
+    "position": "RB",
+    "weight": "214",
+    "height": "5-10",
+    "college": "Miami (FL)",
+    "experience": "4"
   }
 ]

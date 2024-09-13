@@ -148,5 +148,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "DJ Johnson",
+    "age": "26",
+    "position": "OLB",
+    "weight": "260",
+    "height": "",
+    "college": "Miami (FL),Oregon",
+    "experience": "1"
   }
 ]

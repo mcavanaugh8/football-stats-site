@@ -190,5 +190,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Kerby Joseph",
+    "age": "24",
+    "position": "S",
+    "weight": "203",
+    "height": "6-1",
+    "college": "Illinois",
+    "experience": "2"
   }
 ]

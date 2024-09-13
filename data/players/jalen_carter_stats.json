@@ -178,5 +178,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Jalen Carter",
+    "age": "23",
+    "position": "DT",
+    "weight": "314",
+    "height": "",
+    "college": "Georgia",
+    "experience": "1"
   }
 ]

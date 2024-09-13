@@ -918,5 +918,14 @@
         "st_pct": "45%"
       }
     ]
+  },
+  {
+    "name": "Braden Mann",
+    "age": "27",
+    "position": "P",
+    "weight": "198",
+    "height": "5-11",
+    "college": "Texas A&M",
+    "experience": "4"
   }
 ]

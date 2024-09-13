@@ -106,5 +106,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Beanie Bishop",
+    "age": "25",
+    "position": "CB",
+    "weight": "182",
+    "height": "5-9",
+    "college": "Western Kentucky,Minnesota,West Virginia",
+    "experience": "Rook"
   }
 ]

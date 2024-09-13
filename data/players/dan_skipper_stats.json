@@ -823,5 +823,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Dan Skipper",
+    "age": "30",
+    "position": "T",
+    "weight": "330",
+    "height": "6-9",
+    "college": "Arkansas",
+    "experience": "7"
   }
 ]

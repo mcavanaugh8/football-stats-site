@@ -484,5 +484,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Shaq Mason",
+    "age": "31",
+    "position": "G",
+    "weight": "310",
+    "height": "6-1",
+    "college": "Georgia Tech",
+    "experience": "9"
   }
 ]

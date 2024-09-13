@@ -138,5 +138,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Daniel Whelan",
+    "age": "25",
+    "position": "P",
+    "weight": "216",
+    "height": "6-5",
+    "college": "UC Davis",
+    "experience": "1"
   }
 ]

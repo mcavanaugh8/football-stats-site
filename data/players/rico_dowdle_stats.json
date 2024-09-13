@@ -568,5 +568,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rico Dowdle",
+    "age": "26",
+    "position": "RB",
+    "weight": "215",
+    "height": "6-0",
+    "college": "South Carolina",
+    "experience": "4"
   }
 ]

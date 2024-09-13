@@ -78,5 +78,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Jeremiah Trotter Jr.",
+    "age": "22",
+    "position": "LB",
+    "weight": "225",
+    "height": "",
+    "college": "Clemson",
+    "experience": "Rook"
   }
 ]

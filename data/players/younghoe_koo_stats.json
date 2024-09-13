@@ -433,5 +433,14 @@
         "st_pct": "8%"
       }
     ]
+  },
+  {
+    "name": "Younghoe Koo",
+    "age": "30",
+    "position": "K",
+    "weight": "193",
+    "height": "5-10",
+    "college": "Georgia Southern",
+    "experience": "7"
   }
 ]

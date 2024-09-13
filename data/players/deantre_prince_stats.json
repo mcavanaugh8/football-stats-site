@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Deantre Prince",
+    "age": "24",
+    "position": "CB",
+    "weight": "183",
+    "height": "",
+    "college": "Northeast Mississippi CC,Mississippi",
+    "experience": "Rook"
   }
 ]

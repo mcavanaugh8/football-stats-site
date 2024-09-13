@@ -1388,5 +1388,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Braxton Berrios",
+    "age": "29",
+    "position": "WR",
+    "weight": "185",
+    "height": "5-9",
+    "college": "Miami (FL)",
+    "experience": "5"
   }
 ]

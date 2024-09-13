@@ -302,5 +302,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Jordyn Brooks",
+    "age": "27",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-0",
+    "college": "Texas Tech",
+    "experience": "4"
   }
 ]

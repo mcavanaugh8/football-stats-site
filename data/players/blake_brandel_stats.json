@@ -123,5 +123,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Blake Brandel",
+    "age": "27",
+    "position": "OG",
+    "weight": "315",
+    "height": "6-7",
+    "college": "Oregon St.",
+    "experience": "3"
   }
 ]

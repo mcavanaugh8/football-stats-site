@@ -190,5 +190,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jalen McMillan",
+    "age": "23",
+    "position": "WR",
+    "weight": "192",
+    "height": "",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

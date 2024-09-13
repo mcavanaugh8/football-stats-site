@@ -260,5 +260,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Greg Newsome II",
+    "age": "24",
+    "position": "CB",
+    "weight": "192",
+    "height": "6-0",
+    "college": "Northwestern",
+    "experience": "3"
   }
 ]

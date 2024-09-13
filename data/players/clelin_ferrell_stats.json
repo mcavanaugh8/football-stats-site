@@ -316,5 +316,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Clelin Ferrell",
+    "age": "27",
+    "position": "DE",
+    "weight": "265",
+    "height": "6-4",
+    "college": "Clemson",
+    "experience": "5"
   }
 ]

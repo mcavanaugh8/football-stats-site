@@ -232,5 +232,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Samuel Cosmi",
+    "age": "25",
+    "position": "G",
+    "weight": "309",
+    "height": "6-6",
+    "college": "Texas",
+    "experience": "3"
   }
 ]

@@ -1886,5 +1886,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyler Boyd",
+    "age": "30",
+    "position": "WR",
+    "weight": "203",
+    "height": "6-2",
+    "college": "Pittsburgh",
+    "experience": "8"
   }
 ]

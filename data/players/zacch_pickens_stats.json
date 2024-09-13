@@ -106,5 +106,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Zacch Pickens",
+    "age": "24",
+    "position": "DL",
+    "weight": "300",
+    "height": "",
+    "college": "South Carolina",
+    "experience": "1"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Jovaughn Gwyn",
+    "age": "25",
+    "position": "OL",
+    "weight": "301",
+    "height": "6-2",
+    "college": "South Carolina",
+    "experience": "1"
   }
 ]

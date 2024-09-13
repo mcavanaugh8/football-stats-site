@@ -302,5 +302,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Kamren Curl",
+    "age": "25",
+    "position": "DB",
+    "weight": "205",
+    "height": "6-2",
+    "college": "Arkansas",
+    "experience": "4"
   }
 ]

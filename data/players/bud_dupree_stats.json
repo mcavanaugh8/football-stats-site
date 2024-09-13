@@ -512,5 +512,14 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Bud Dupree",
+    "age": "31",
+    "position": "OLB",
+    "weight": "269",
+    "height": "6-4",
+    "college": "Kentucky",
+    "experience": "9"
   }
 ]

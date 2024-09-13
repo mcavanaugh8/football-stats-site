@@ -316,5 +316,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "L.J. Collier",
+    "age": "29",
+    "position": "DL",
+    "weight": "291",
+    "height": "6-2",
+    "college": "TCU",
+    "experience": "5"
   }
 ]

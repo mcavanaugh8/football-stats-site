@@ -138,5 +138,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Lester Cotton",
+    "age": "28",
+    "position": "OL",
+    "weight": "330",
+    "height": "6-4",
+    "college": "Alabama",
+    "experience": "5"
   }
 ]

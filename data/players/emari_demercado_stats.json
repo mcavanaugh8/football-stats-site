@@ -261,5 +261,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Emari Demercado",
+    "age": "25",
+    "position": "RB",
+    "weight": "215",
+    "height": "5-9",
+    "college": "Saddleback College,TCU",
+    "experience": "1"
   }
 ]

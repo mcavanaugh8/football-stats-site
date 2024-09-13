@@ -883,5 +883,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Alec Ingold",
+    "age": "28",
+    "position": "FB",
+    "weight": "232",
+    "height": "6-1",
+    "college": "Wisconsin",
+    "experience": "5"
   }
 ]

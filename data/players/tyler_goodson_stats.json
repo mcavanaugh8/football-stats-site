@@ -161,5 +161,14 @@
         "st_pct": "1%"
       }
     ]
+  },
+  {
+    "name": "Tyler Goodson",
+    "age": "24",
+    "position": "RB",
+    "weight": "197",
+    "height": "",
+    "college": "Iowa",
+    "experience": "1"
   }
 ]

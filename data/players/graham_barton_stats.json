@@ -78,5 +78,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Graham Barton",
+    "age": "22",
+    "position": "C",
+    "weight": "314",
+    "height": "",
+    "college": "Duke",
+    "experience": "Rook"
   }
 ]

@@ -123,5 +123,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Jake Hanson",
+    "age": "27",
+    "position": "OL",
+    "weight": "303",
+    "height": "6-4",
+    "college": "Oregon",
+    "experience": "3"
   }
 ]

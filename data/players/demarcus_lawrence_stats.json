@@ -619,5 +619,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "DeMarcus Lawrence",
+    "age": "32",
+    "position": "DE",
+    "weight": "265",
+    "height": "6-3",
+    "college": "Butler (KS),Boise St.",
+    "experience": "10"
   }
 ]

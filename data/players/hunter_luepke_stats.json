@@ -309,5 +309,14 @@
         "st_pct": "69%"
       }
     ]
+  },
+  {
+    "name": "Hunter Luepke",
+    "age": "24",
+    "position": "RB",
+    "weight": "238",
+    "height": "",
+    "college": "North Dakota St.",
+    "experience": "1"
   }
 ]

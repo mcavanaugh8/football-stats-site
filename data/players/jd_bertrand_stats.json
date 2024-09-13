@@ -106,5 +106,14 @@
         "st_pct": "92%"
       }
     ]
+  },
+  {
+    "name": "JD Bertrand",
+    "age": "24",
+    "position": "LB",
+    "weight": "233",
+    "height": "",
+    "college": "Notre Dame",
+    "experience": "Rook"
   }
 ]

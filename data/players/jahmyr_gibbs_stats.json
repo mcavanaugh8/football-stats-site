@@ -290,5 +290,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jahmyr Gibbs",
+    "age": "22",
+    "position": "RB",
+    "weight": "200",
+    "height": "",
+    "college": "Georgia Tech,Alabama",
+    "experience": "1"
   }
 ]

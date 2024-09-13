@@ -190,5 +190,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Charles Cross",
+    "age": "24",
+    "position": "T",
+    "weight": "311",
+    "height": "6-5",
+    "college": "Mississippi St.",
+    "experience": "2"
   }
 ]

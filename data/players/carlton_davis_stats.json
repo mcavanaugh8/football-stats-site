@@ -358,5 +358,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Carlton Davis",
+    "age": "28",
+    "position": "CB",
+    "weight": "206",
+    "height": "6-1",
+    "college": "Auburn",
+    "experience": "6"
   }
 ]

@@ -566,5 +566,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nico Collins",
+    "age": "25",
+    "position": "WR",
+    "weight": "222",
+    "height": "6-4",
+    "college": "Michigan",
+    "experience": "3"
   }
 ]

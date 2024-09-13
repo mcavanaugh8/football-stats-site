@@ -176,5 +176,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Cameron Thomas",
+    "age": "24",
+    "position": "DE",
+    "weight": "267",
+    "height": "6-4",
+    "college": "San Diego St.",
+    "experience": "2"
   }
 ]

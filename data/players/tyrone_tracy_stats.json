@@ -161,5 +161,14 @@
         "st_pct": "21%"
       }
     ]
+  },
+  {
+    "name": "Tyrone Tracy",
+    "age": "25",
+    "position": "RB",
+    "weight": "210",
+    "height": "",
+    "college": "Iowa,Purdue",
+    "experience": "Rook"
   }
 ]

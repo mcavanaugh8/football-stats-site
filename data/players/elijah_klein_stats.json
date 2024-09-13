@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Elijah Klein",
+    "age": "24",
+    "position": "OG",
+    "weight": "319",
+    "height": "",
+    "college": "Texas-El Paso",
+    "experience": "Rook"
   }
 ]

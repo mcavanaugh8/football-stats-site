@@ -106,5 +106,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Marist Liufau",
+    "age": "23",
+    "position": "LB",
+    "weight": "239",
+    "height": "",
+    "college": "Notre Dame",
+    "experience": "Rook"
   }
 ]

@@ -162,5 +162,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Johnny Wilson",
+    "age": "23",
+    "position": "WR",
+    "weight": "228",
+    "height": "",
+    "college": "Arizona St.,Florida St.",
+    "experience": "Rook"
   }
 ]

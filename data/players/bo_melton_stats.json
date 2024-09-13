@@ -339,5 +339,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Bo Melton",
+    "age": "25",
+    "position": "WR",
+    "weight": "189",
+    "height": "5-11",
+    "college": "Rutgers",
+    "experience": "1"
   }
 ]

@@ -190,5 +190,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Leo Chenal",
+    "age": "24",
+    "position": "LB",
+    "weight": "250",
+    "height": "6-3",
+    "college": "Wisconsin",
+    "experience": "2"
   }
 ]

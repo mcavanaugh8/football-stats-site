@@ -988,5 +988,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "George Kittle",
+    "age": "31",
+    "position": "TE",
+    "weight": "250",
+    "height": "6-4",
+    "college": "Iowa",
+    "experience": "7"
   }
 ]

@@ -570,5 +570,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kyle Trask",
+    "age": "26",
+    "position": "QB",
+    "weight": "236",
+    "height": "6-5",
+    "college": "Florida",
+    "experience": "2"
   }
 ]

@@ -340,5 +340,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Jayden Reed",
+    "age": "24",
+    "position": "WR",
+    "weight": "187",
+    "height": "5-11",
+    "college": "Western Michigan,Michigan St.",
+    "experience": "1"
   }
 ]

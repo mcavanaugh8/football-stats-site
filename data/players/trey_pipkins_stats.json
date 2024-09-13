@@ -322,5 +322,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Trey Pipkins",
+    "age": "28",
+    "position": "T",
+    "weight": "307",
+    "height": "6-6",
+    "college": "Sioux Falls",
+    "experience": "5"
   }
 ]

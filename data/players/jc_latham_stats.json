@@ -78,5 +78,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "JC Latham",
+    "age": "21",
+    "position": "OT",
+    "weight": "342",
+    "height": "",
+    "college": "Alabama",
+    "experience": "Rook"
   }
 ]

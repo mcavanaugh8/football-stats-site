@@ -827,5 +827,14 @@
         "st_pct": "59%"
       }
     ]
+  },
+  {
+    "name": "Jeremy McNichols",
+    "age": "29",
+    "position": "RB",
+    "weight": "214",
+    "height": "5-9",
+    "college": "Boise St.",
+    "experience": "7"
   }
 ]

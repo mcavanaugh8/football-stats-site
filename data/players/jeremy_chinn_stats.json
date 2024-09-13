@@ -509,5 +509,14 @@
         "st_pct": "37%"
       }
     ]
+  },
+  {
+    "name": "Jeremy Chinn",
+    "age": "26",
+    "position": "S",
+    "weight": "220",
+    "height": "6-3",
+    "college": "Southern Illinois",
+    "experience": "4"
   }
 ]

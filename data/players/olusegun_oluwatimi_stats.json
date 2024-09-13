@@ -93,5 +93,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Olusegun Oluwatimi",
+    "age": "25",
+    "position": "C",
+    "weight": "309",
+    "height": "",
+    "college": "Air Force,Virginia,Michigan",
+    "experience": "1"
   }
 ]

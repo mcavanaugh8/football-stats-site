@@ -1783,5 +1783,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Cooper Kupp",
+    "age": "31",
+    "position": "WR",
+    "weight": "207",
+    "height": "6-2",
+    "college": "Eastern Washington",
+    "experience": "7"
   }
 ]

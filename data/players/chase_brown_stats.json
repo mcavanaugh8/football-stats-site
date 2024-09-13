@@ -309,5 +309,14 @@
         "st_pct": "43%"
       }
     ]
+  },
+  {
+    "name": "Chase Brown",
+    "age": "24",
+    "position": "RB",
+    "weight": "211",
+    "height": "5-10",
+    "college": "Western Michigan,Illinois",
+    "experience": "1"
   }
 ]

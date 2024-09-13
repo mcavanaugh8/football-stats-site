@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jay Tufele",
+    "age": "25",
+    "position": "DT",
+    "weight": "305",
+    "height": "6-3",
+    "college": "USC",
+    "experience": "3"
   }
 ]

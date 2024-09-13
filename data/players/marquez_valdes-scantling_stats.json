@@ -1027,5 +1027,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Marquez Valdes-Scantling",
+    "age": "30",
+    "position": "WR",
+    "weight": "206",
+    "height": "6-4",
+    "college": "North Carolina St.,South Florida",
+    "experience": "6"
   }
 ]

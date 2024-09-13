@@ -195,5 +195,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Levi Onwuzurike",
+    "age": "26",
+    "position": "DL",
+    "weight": "290",
+    "height": "6-3",
+    "college": "Washington",
+    "experience": "3"
   }
 ]

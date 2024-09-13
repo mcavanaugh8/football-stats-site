@@ -168,5 +168,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Alex Cappa",
+    "age": "29",
+    "position": "G",
+    "weight": "310",
+    "height": "6-6",
+    "college": "Humboldt St.",
+    "experience": "6"
   }
 ]

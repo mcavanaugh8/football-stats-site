@@ -190,5 +190,14 @@
         "st_pct": "92%"
       }
     ]
+  },
+  {
+    "name": "DeAngelo Malone",
+    "age": "25",
+    "position": "OLB",
+    "weight": "246",
+    "height": "6-3",
+    "college": "Western Kentucky",
+    "experience": "2"
   }
 ]

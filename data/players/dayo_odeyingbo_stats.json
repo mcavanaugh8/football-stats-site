@@ -232,5 +232,14 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Dayo Odeyingbo",
+    "age": "25",
+    "position": "DE",
+    "weight": "286",
+    "height": "6-6",
+    "college": "Vanderbilt",
+    "experience": "3"
   }
 ]

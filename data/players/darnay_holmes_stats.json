@@ -315,5 +315,14 @@
         "st_pct": "25%"
       }
     ]
+  },
+  {
+    "name": "Darnay Holmes",
+    "age": "26",
+    "position": "CB",
+    "weight": "195",
+    "height": "5-10",
+    "college": "UCLA",
+    "experience": "4"
   }
 ]

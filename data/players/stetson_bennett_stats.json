@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Stetson Bennett",
+    "age": "27",
+    "position": "QB",
+    "weight": "190",
+    "height": "",
+    "college": "Jones County JC,Georgia",
+    "experience": "Rook"
   }
 ]

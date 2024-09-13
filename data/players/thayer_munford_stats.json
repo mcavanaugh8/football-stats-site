@@ -108,5 +108,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Thayer Munford",
+    "age": "25",
+    "position": "T",
+    "weight": "315",
+    "height": "6-6",
+    "college": "Ohio St.",
+    "experience": "2"
   }
 ]

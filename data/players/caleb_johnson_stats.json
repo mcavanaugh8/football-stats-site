@@ -232,5 +232,14 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Caleb Johnson",
+    "age": "26",
+    "position": "LB",
+    "weight": "220",
+    "height": "6-2",
+    "college": "Houston Christian",
+    "experience": "3"
   }
 ]

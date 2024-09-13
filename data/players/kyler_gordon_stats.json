@@ -190,5 +190,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Kyler Gordon",
+    "age": "25",
+    "position": "DB",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Washington",
+    "experience": "2"
   }
 ]

@@ -232,5 +232,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Ben Cleveland",
+    "age": "26",
+    "position": "G",
+    "weight": "360",
+    "height": "6-6",
+    "college": "Georgia",
+    "experience": "3"
   }
 ]

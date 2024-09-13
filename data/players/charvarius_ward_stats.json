@@ -420,5 +420,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Charvarius Ward",
+    "age": "28",
+    "position": "CB",
+    "weight": "196",
+    "height": "6-1",
+    "college": "Hinds CC,Middle Tenn. St.",
+    "experience": "6"
   }
 ]

@@ -649,5 +649,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Jack Conklin",
+    "age": "30",
+    "position": "T",
+    "weight": "308",
+    "height": "6-6",
+    "college": "Michigan St.",
+    "experience": "8"
   }
 ]

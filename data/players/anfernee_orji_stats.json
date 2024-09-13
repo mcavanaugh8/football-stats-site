@@ -106,5 +106,14 @@
         "st_pct": "70%"
       }
     ]
+  },
+  {
+    "name": "Anfernee Orji",
+    "age": "24",
+    "position": "LB",
+    "weight": "230",
+    "height": "",
+    "college": "Vanderbilt",
+    "experience": "1"
   }
 ]

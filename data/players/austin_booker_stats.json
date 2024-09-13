@@ -78,5 +78,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Austin Booker",
+    "age": "22",
+    "position": "DL",
+    "weight": "245",
+    "height": "6-6",
+    "college": "Minnesota,Kansas",
+    "experience": "Rook"
   }
 ]

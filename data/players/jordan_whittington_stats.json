@@ -139,5 +139,14 @@
         "st_pct": "54%"
       }
     ]
+  },
+  {
+    "name": "Jordan Whittington",
+    "age": "24",
+    "position": "WR",
+    "weight": "202",
+    "height": "",
+    "college": "Texas",
+    "experience": "Rook"
   }
 ]

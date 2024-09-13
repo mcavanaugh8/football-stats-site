@@ -692,5 +692,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kyle Van Noy",
+    "age": "33",
+    "position": "OLB",
+    "weight": "255",
+    "height": "6-3",
+    "college": "BYU",
+    "experience": "10"
   }
 ]

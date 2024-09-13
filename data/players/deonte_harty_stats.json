@@ -1009,5 +1009,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Deonte Harty",
+    "age": "27",
+    "position": "WR",
+    "weight": "170",
+    "height": "5-6",
+    "college": "Assumption",
+    "experience": "5"
   }
 ]

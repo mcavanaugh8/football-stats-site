@@ -462,5 +462,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jalen Nailor",
+    "age": "25",
+    "position": "WR",
+    "weight": "190",
+    "height": "6-0",
+    "college": "Michigan St.",
+    "experience": "2"
   }
 ]

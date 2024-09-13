@@ -190,5 +190,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Royce Newman",
+    "age": "27",
+    "position": "OG",
+    "weight": "310",
+    "height": "6-5",
+    "college": "Mississippi",
+    "experience": "3"
   }
 ]

@@ -428,5 +428,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Malik Hooker",
+    "age": "28",
+    "position": "S",
+    "weight": "212",
+    "height": "6-2",
+    "college": "Ohio St.",
+    "experience": "7"
   }
 ]

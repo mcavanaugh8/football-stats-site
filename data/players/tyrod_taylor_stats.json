@@ -2538,5 +2538,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyrod Taylor",
+    "age": "35",
+    "position": "QB",
+    "weight": "217",
+    "height": "6-1",
+    "college": "Virginia Tech",
+    "experience": "13"
   }
 ]

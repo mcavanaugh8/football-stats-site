@@ -78,5 +78,14 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Roger Rosengarten",
+    "age": "22",
+    "position": "OT",
+    "weight": "316",
+    "height": "",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

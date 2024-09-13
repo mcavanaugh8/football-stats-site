@@ -78,5 +78,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Jaden Hicks",
+    "age": "22",
+    "position": "DB",
+    "weight": "215",
+    "height": "6-1",
+    "college": "Washington St.",
+    "experience": "Rook"
   }
 ]

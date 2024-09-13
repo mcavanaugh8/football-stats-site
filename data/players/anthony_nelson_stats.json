@@ -316,5 +316,14 @@
         "st_pct": "96%"
       }
     ]
+  },
+  {
+    "name": "Anthony Nelson",
+    "age": "27",
+    "position": "OLB",
+    "weight": "271",
+    "height": "6-7",
+    "college": "Iowa",
+    "experience": "5"
   }
 ]

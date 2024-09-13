@@ -484,5 +484,14 @@
         "st_pct": "80%"
       }
     ]
+  },
+  {
+    "name": "Duke Riley",
+    "age": "30",
+    "position": "LB",
+    "weight": "227",
+    "height": "6-1",
+    "college": "LSU",
+    "experience": "7"
   }
 ]

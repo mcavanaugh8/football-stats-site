@@ -1321,5 +1321,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nick Mullens",
+    "age": "29",
+    "position": "QB",
+    "weight": "210",
+    "height": "6-0",
+    "college": "Southern Miss",
+    "experience": "6"
   }
 ]

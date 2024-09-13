@@ -148,5 +148,14 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Darius Rush",
+    "age": "24",
+    "position": "CB",
+    "weight": "198",
+    "height": "",
+    "college": "South Carolina",
+    "experience": "1"
   }
 ]

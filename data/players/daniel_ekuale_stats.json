@@ -316,5 +316,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Daniel Ekuale",
+    "age": "30",
+    "position": "DT",
+    "weight": "310",
+    "height": "6-3",
+    "college": "Washington St.",
+    "experience": "5"
   }
 ]

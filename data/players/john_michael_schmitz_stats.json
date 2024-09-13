@@ -148,5 +148,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "John Michael Schmitz",
+    "age": "25",
+    "position": "C",
+    "weight": "320",
+    "height": "",
+    "college": "Minnesota",
+    "experience": "1"
   }
 ]

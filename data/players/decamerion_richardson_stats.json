@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Decamerion Richardson",
+    "age": "23",
+    "position": "CB",
+    "weight": "195",
+    "height": "",
+    "college": "Mississippi St.",
+    "experience": "Rook"
   }
 ]

@@ -358,5 +358,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Kolton Miller",
+    "age": "29",
+    "position": "T",
+    "weight": "325",
+    "height": "6-8",
+    "college": "UCLA",
+    "experience": "6"
   }
 ]

@@ -379,5 +379,14 @@
         "st_pct": "48%"
       }
     ]
+  },
+  {
+    "name": "Tyler Bass",
+    "age": "27",
+    "position": "K",
+    "weight": "183",
+    "height": "5-10",
+    "college": "Georgia Southern",
+    "experience": "4"
   }
 ]

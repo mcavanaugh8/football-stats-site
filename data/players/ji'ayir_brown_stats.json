@@ -148,5 +148,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Ji'Ayir Brown",
+    "age": "24",
+    "position": "S",
+    "weight": "202",
+    "height": "",
+    "college": "Lackawanna,Penn St.",
+    "experience": "1"
   }
 ]

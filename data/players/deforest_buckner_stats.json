@@ -533,5 +533,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "DeForest Buckner",
+    "age": "30",
+    "position": "DT",
+    "weight": "295",
+    "height": "6-7",
+    "college": "Oregon",
+    "experience": "8"
   }
 ]

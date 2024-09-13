@@ -400,5 +400,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Solomon Thomas",
+    "age": "29",
+    "position": "DL",
+    "weight": "295",
+    "height": "6-3",
+    "college": "Stanford",
+    "experience": "7"
   }
 ]

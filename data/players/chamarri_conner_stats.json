@@ -148,5 +148,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Chamarri Conner",
+    "age": "24",
+    "position": "DB",
+    "weight": "202",
+    "height": "",
+    "college": "Virginia Tech",
+    "experience": "1"
   }
 ]

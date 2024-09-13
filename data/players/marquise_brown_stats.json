@@ -756,5 +756,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Marquise Brown",
+    "age": "27",
+    "position": "WR",
+    "weight": "180",
+    "height": "5-9",
+    "college": "College of the Canyons (CA),Oklahoma",
+    "experience": "5"
   }
 ]

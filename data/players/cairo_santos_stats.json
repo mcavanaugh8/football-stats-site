@@ -833,5 +833,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Cairo Santos",
+    "age": "33",
+    "position": "K",
+    "weight": "175",
+    "height": "5-8",
+    "college": "Tulane",
+    "experience": "10"
   }
 ]

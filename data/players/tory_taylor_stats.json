@@ -101,5 +101,14 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Tory Taylor",
+    "age": "27",
+    "position": "P",
+    "weight": "223",
+    "height": "",
+    "college": "Iowa",
+    "experience": "Rook"
   }
 ]

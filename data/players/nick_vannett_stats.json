@@ -1385,5 +1385,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Nick Vannett",
+    "age": "31",
+    "position": "TE",
+    "weight": "257",
+    "height": "6-5",
+    "college": "Ohio St.",
+    "experience": "8"
   }
 ]

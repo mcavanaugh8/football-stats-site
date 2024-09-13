@@ -316,5 +316,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Azeez Al-Shaair",
+    "age": "27",
+    "position": "LB",
+    "weight": "228",
+    "height": "6-2",
+    "college": "Florida Atlantic",
+    "experience": "5"
   }
 ]

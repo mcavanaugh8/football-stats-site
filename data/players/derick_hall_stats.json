@@ -148,5 +148,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Derick Hall",
+    "age": "23",
+    "position": "OLB",
+    "weight": "254",
+    "height": "",
+    "college": "Auburn",
+    "experience": "1"
   }
 ]

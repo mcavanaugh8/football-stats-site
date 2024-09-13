@@ -316,5 +316,14 @@
         "st_pct": "10%"
       }
     ]
+  },
+  {
+    "name": "Cody Ford",
+    "age": "28",
+    "position": "G",
+    "weight": "329",
+    "height": "6-3",
+    "college": "Oklahoma",
+    "experience": "5"
   }
 ]

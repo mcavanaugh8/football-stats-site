@@ -106,5 +106,14 @@
         "st_pct": "65%"
       }
     ]
+  },
+  {
+    "name": "Malik Mustapha",
+    "age": "22",
+    "position": "S",
+    "weight": "206",
+    "height": "5-10",
+    "college": "Richmond,Wake Forest",
+    "experience": "Rook"
   }
 ]

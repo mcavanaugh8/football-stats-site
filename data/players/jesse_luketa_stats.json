@@ -148,5 +148,14 @@
         "st_pct": "81%"
       }
     ]
+  },
+  {
+    "name": "Jesse Luketa",
+    "age": "25",
+    "position": "OLB",
+    "weight": "253",
+    "height": "6-3",
+    "college": "Penn St.",
+    "experience": "2"
   }
 ]

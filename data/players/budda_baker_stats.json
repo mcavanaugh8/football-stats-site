@@ -436,5 +436,14 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Budda Baker",
+    "age": "28",
+    "position": "S",
+    "weight": "195",
+    "height": "5-10",
+    "college": "Washington",
+    "experience": "7"
   }
 ]

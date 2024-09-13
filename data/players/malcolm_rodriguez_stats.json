@@ -329,5 +329,14 @@
         "st_pct": "85%"
       }
     ]
+  },
+  {
+    "name": "Malcolm Rodriguez",
+    "age": "25",
+    "position": "LB",
+    "weight": "234",
+    "height": "5-11",
+    "college": "Oklahoma St.",
+    "experience": "2"
   }
 ]

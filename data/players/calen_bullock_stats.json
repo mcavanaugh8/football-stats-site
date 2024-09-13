@@ -106,5 +106,14 @@
         "st_pct": "44%"
       }
     ]
+  },
+  {
+    "name": "Calen Bullock",
+    "age": "21",
+    "position": "S",
+    "weight": "190",
+    "height": "6-3",
+    "college": "USC",
+    "experience": "Rook"
   }
 ]

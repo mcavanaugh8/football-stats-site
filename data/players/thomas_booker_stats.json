@@ -148,5 +148,14 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "Thomas Booker",
+    "age": "25",
+    "position": "DT",
+    "weight": "301",
+    "height": "6-3",
+    "college": "Stanford",
+    "experience": "2"
   }
 ]

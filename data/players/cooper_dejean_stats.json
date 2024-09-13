@@ -78,5 +78,14 @@
         "st_pct": "74%"
       }
     ]
+  },
+  {
+    "name": "Cooper DeJean",
+    "age": "21",
+    "position": "DB",
+    "weight": "198",
+    "height": "6-0",
+    "college": "Iowa",
+    "experience": "Rook"
   }
 ]

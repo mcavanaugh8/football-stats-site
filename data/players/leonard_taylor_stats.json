@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Leonard Taylor",
+    "age": "25",
+    "position": "DL",
+    "weight": "305",
+    "height": "6-3",
+    "college": "Cincinnati",
+    "experience": "Rook"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Taliese Fuaga",
+    "age": "22",
+    "position": "OT",
+    "weight": "324",
+    "height": "",
+    "college": "Oregon St.",
+    "experience": "Rook"
   }
 ]

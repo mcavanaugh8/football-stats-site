@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Jordan Jackson",
+    "age": "26",
+    "position": "DL",
+    "weight": "294",
+    "height": "6-4",
+    "college": "Air Force",
+    "experience": "1"
   }
 ]

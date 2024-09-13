@@ -297,5 +297,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Eric Gray",
+    "age": "25",
+    "position": "RB",
+    "weight": "211",
+    "height": "",
+    "college": "Tennessee,Oklahoma",
+    "experience": "1"
   }
 ]

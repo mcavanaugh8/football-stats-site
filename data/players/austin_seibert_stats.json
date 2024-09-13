@@ -353,5 +353,14 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Austin Seibert",
+    "age": "28",
+    "position": "K",
+    "weight": "200",
+    "height": "5-9",
+    "college": "Oklahoma",
+    "experience": "5"
   }
 ]

@@ -494,5 +494,14 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Denzel Perryman",
+    "age": "32",
+    "position": "LB",
+    "weight": "240",
+    "height": "5-11",
+    "college": "Miami (FL)",
+    "experience": "9"
   }
 ]

@@ -528,5 +528,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Trey Lance",
+    "age": "24",
+    "position": "QB",
+    "weight": "226",
+    "height": "6-4",
+    "college": "North Dakota St.",
+    "experience": "3"
   }
 ]

@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Tyrek Funderburk",
+    "age": "24",
+    "position": "CB",
+    "weight": "185",
+    "height": "6-0",
+    "college": "Appalachian State",
+    "experience": "Rook"
   }
 ]

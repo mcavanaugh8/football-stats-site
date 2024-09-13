@@ -750,5 +750,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brandon Aiyuk",
+    "age": "26",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Arizona St.",
+    "experience": "4"
   }
 ]

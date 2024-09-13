@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Mason Tipton",
+    "age": "24",
+    "position": "WR",
+    "weight": "187",
+    "height": "5-11",
+    "college": "Yale",
+    "experience": "Rook"
   }
 ]

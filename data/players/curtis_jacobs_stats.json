@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Curtis Jacobs",
+    "age": "",
+    "position": "LB",
+    "weight": "241",
+    "height": "",
+    "college": "Penn St.",
+    "experience": "Rook"
   }
 ]

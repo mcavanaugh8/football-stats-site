@@ -279,5 +279,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tyler Biadasz",
+    "age": "27",
+    "position": "C",
+    "weight": "318",
+    "height": "6-4",
+    "college": "Wisconsin",
+    "experience": "4"
   }
 ]

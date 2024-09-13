@@ -148,5 +148,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "James Houston",
+    "age": "26",
+    "position": "LB",
+    "weight": "245",
+    "height": "6-1",
+    "college": "Florida,Jackson St.",
+    "experience": "2"
   }
 ]

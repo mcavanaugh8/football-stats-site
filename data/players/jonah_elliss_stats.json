@@ -78,5 +78,14 @@
         "st_pct": "85%"
       }
     ]
+  },
+  {
+    "name": "Jonah Elliss",
+    "age": "21",
+    "position": "OLB",
+    "weight": "246",
+    "height": "",
+    "college": "Utah",
+    "experience": "Rook"
   }
 ]

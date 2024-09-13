@@ -316,5 +316,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Drue Tranquill",
+    "age": "29",
+    "position": "LB",
+    "weight": "234",
+    "height": "6-2",
+    "college": "Notre Dame",
+    "experience": "5"
   }
 ]

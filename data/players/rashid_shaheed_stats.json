@@ -466,5 +466,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Rashid Shaheed",
+    "age": "26",
+    "position": "WR",
+    "weight": "180",
+    "height": "6-0",
+    "college": "Weber St.",
+    "experience": "2"
   }
 ]

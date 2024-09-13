@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "C.J. Hanson",
+    "age": "23",
+    "position": "OL",
+    "weight": "300",
+    "height": "6-5",
+    "college": "Holy Cross",
+    "experience": "Rook"
   }
 ]

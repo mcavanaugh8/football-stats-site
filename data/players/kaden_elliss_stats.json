@@ -316,5 +316,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Kaden Elliss",
+    "age": "29",
+    "position": "LB",
+    "weight": "238",
+    "height": "6-2",
+    "college": "Idaho",
+    "experience": "5"
   }
 ]

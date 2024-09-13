@@ -705,5 +705,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Bobby Wagner",
+    "age": "34",
+    "position": "MLB",
+    "weight": "241",
+    "height": "6-0",
+    "college": "Utah St.",
+    "experience": "12"
   }
 ]

@@ -283,5 +283,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Demario Douglas",
+    "age": "24",
+    "position": "WR",
+    "weight": "192",
+    "height": "",
+    "college": "Liberty",
+    "experience": "1"
   }
 ]

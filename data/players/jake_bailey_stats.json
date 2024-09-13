@@ -371,5 +371,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Jake Bailey",
+    "age": "27",
+    "position": "P",
+    "weight": "212",
+    "height": "6-2",
+    "college": "Stanford",
+    "experience": "5"
   }
 ]

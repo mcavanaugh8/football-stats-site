@@ -90,5 +90,14 @@
         "st_pct": "59%"
       }
     ]
+  },
+  {
+    "name": "Colson Yankoff",
+    "age": "24",
+    "position": "TE",
+    "weight": "225",
+    "height": "6-4",
+    "college": "Washington,UCLA",
+    "experience": "Rook"
   }
 ]

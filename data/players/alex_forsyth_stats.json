@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Alex Forsyth",
+    "age": "25",
+    "position": "C",
+    "weight": "312",
+    "height": "6-4",
+    "college": "Oregon",
+    "experience": "1"
   }
 ]

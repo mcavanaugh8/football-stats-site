@@ -90,5 +90,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Malachi Corley",
+    "age": "22",
+    "position": "WR",
+    "weight": "215",
+    "height": "",
+    "college": "Western Kentucky",
+    "experience": "Rook"
   }
 ]

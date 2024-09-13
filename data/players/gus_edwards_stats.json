@@ -903,5 +903,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Gus Edwards",
+    "age": "29",
+    "position": "RB",
+    "weight": "238",
+    "height": "6-1",
+    "college": "Miami (FL),Rutgers",
+    "experience": "6"
   }
 ]

@@ -190,5 +190,14 @@
         "st_pct": "55%"
       }
     ]
+  },
+  {
+    "name": "Kingsley Enagbare",
+    "age": "24",
+    "position": "DL",
+    "weight": "258",
+    "height": "6-4",
+    "college": "South Carolina",
+    "experience": "2"
   }
 ]

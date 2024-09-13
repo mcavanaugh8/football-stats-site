@@ -138,5 +138,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Corliss Waitman",
+    "age": "29",
+    "position": "P",
+    "weight": "210",
+    "height": "6-2",
+    "college": "South Alabama",
+    "experience": "3"
   }
 ]

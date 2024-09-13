@@ -274,5 +274,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Elijah Campbell",
+    "age": "29",
+    "position": "DB",
+    "weight": "200",
+    "height": "5-11",
+    "college": "Iowa Western,Northern Illinois,Northern Iowa",
+    "experience": "4"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "T'Vondre Sweat",
+    "age": "23",
+    "position": "DT",
+    "weight": "366",
+    "height": "6-4",
+    "college": "Texas",
+    "experience": "Rook"
   }
 ]

@@ -190,5 +190,14 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Tariq Castro-Fields",
+    "age": "25",
+    "position": "CB",
+    "weight": "197",
+    "height": "6-1",
+    "college": "Penn St.",
+    "experience": "2"
   }
 ]

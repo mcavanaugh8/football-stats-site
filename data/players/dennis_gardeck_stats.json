@@ -386,5 +386,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Dennis Gardeck",
+    "age": "30",
+    "position": "OLB",
+    "weight": "232",
+    "height": "6-0",
+    "college": "Sioux Falls",
+    "experience": "6"
   }
 ]

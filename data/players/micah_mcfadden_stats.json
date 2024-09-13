@@ -148,5 +148,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Micah McFadden",
+    "age": "24",
+    "position": "LB",
+    "weight": "232",
+    "height": "6-2",
+    "college": "Indiana",
+    "experience": "2"
   }
 ]

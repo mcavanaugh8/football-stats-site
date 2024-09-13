@@ -78,5 +78,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Evan Deckers",
+    "age": "25",
+    "position": "LS",
+    "weight": "252",
+    "height": "6-3",
+    "college": "Massachusetts,Duke",
+    "experience": "1"
   }
 ]

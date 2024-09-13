@@ -221,5 +221,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Kyle Hamilton",
+    "age": "23",
+    "position": "S",
+    "weight": "220",
+    "height": "6-4",
+    "college": "Notre Dame",
+    "experience": "2"
   }
 ]

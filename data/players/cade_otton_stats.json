@@ -428,5 +428,14 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Cade Otton",
+    "age": "25",
+    "position": "TE",
+    "weight": "247",
+    "height": "6-5",
+    "college": "Washington",
+    "experience": "2"
   }
 ]

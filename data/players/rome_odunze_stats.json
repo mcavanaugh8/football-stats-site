@@ -162,5 +162,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rome Odunze",
+    "age": "22",
+    "position": "WR",
+    "weight": "215",
+    "height": "",
+    "college": "Washington",
+    "experience": "Rook"
   }
 ]

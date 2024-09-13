@@ -633,5 +633,14 @@
         "st_pct": "80%"
       }
     ]
+  },
+  {
+    "name": "Siran Neal",
+    "age": "30",
+    "position": "CB",
+    "weight": "206",
+    "height": "6-0",
+    "college": "Jacksonville St.",
+    "experience": "6"
   }
 ]

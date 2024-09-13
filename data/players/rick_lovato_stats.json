@@ -580,5 +580,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Rick Lovato",
+    "age": "32",
+    "position": "LS",
+    "weight": "249",
+    "height": "6-2",
+    "college": "Old Dominion",
+    "experience": "9"
   }
 ]

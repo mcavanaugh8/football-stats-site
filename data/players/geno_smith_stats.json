@@ -2114,5 +2114,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Geno Smith",
+    "age": "34",
+    "position": "QB",
+    "weight": "221",
+    "height": "6-3",
+    "college": "West Virginia",
+    "experience": "11"
   }
 ]

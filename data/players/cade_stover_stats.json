@@ -90,5 +90,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Cade Stover",
+    "age": "24",
+    "position": "TE",
+    "weight": "251",
+    "height": "",
+    "college": "Ohio St.",
+    "experience": "Rook"
   }
 ]

@@ -78,5 +78,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Adams",
+    "age": "24",
+    "position": "OL",
+    "weight": "316",
+    "height": "",
+    "college": "Wilfrid Laurier,Garden City (KS),Illinois",
+    "experience": "Rook"
   }
 ]

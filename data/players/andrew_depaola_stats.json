@@ -494,5 +494,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Andrew DePaola",
+    "age": "37",
+    "position": "LS",
+    "weight": "229",
+    "height": "6-1",
+    "college": "Rutgers",
+    "experience": "10"
   }
 ]

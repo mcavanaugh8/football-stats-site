@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Divine Deablo",
+    "age": "26",
+    "position": "LB",
+    "weight": "223",
+    "height": "6-3",
+    "college": "Virginia Tech",
+    "experience": "3"
   }
 ]

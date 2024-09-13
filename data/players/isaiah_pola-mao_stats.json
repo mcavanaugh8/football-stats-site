@@ -190,5 +190,14 @@
         "st_pct": "82%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Pola-Mao",
+    "age": "25",
+    "position": "S",
+    "weight": "205",
+    "height": "6-4",
+    "college": "USC",
+    "experience": "2"
   }
 ]

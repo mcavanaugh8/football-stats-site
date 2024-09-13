@@ -1400,5 +1400,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Deebo Samuel",
+    "age": "28",
+    "position": "WR",
+    "weight": "215",
+    "height": "6-0",
+    "college": "South Carolina",
+    "experience": "5"
   }
 ]

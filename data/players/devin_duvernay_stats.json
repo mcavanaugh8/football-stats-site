@@ -813,5 +813,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Devin Duvernay",
+    "age": "27",
+    "position": "WR",
+    "weight": "202",
+    "height": "5-11",
+    "college": "Texas",
+    "experience": "4"
   }
 ]

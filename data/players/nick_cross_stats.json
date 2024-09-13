@@ -211,5 +211,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Nick Cross",
+    "age": "23",
+    "position": "S",
+    "weight": "212",
+    "height": "6-0",
+    "college": "Maryland",
+    "experience": "2"
   }
 ]

@@ -724,5 +724,14 @@
         "st_pct": "34%"
       }
     ]
+  },
+  {
+    "name": "Ihmir Smith-Marsette",
+    "age": "25",
+    "position": "WR",
+    "weight": "185",
+    "height": "6-1",
+    "college": "Iowa",
+    "experience": "3"
   }
 ]

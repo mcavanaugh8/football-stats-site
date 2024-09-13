@@ -190,5 +190,14 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Quentin Lake",
+    "age": "25",
+    "position": "DB",
+    "weight": "196",
+    "height": "6-1",
+    "college": "UCLA",
+    "experience": "2"
   }
 ]

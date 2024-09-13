@@ -307,5 +307,14 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Jaylon Johnson",
+    "age": "25",
+    "position": "DB",
+    "weight": "196",
+    "height": "6-0",
+    "college": "Utah",
+    "experience": "4"
   }
 ]

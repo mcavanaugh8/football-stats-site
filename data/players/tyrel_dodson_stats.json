@@ -274,5 +274,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Tyrel Dodson",
+    "age": "26",
+    "position": "LB",
+    "weight": "237",
+    "height": "6-0",
+    "college": "Texas A&M",
+    "experience": "4"
   }
 ]

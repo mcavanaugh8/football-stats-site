@@ -112,5 +112,14 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Jha'Quan Jackson",
+    "age": "24",
+    "position": "WR",
+    "weight": "188",
+    "height": "5-9",
+    "college": "Tulane",
+    "experience": "Rook"
   }
 ]

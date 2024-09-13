@@ -302,5 +302,14 @@
         "st_pct": "24%"
       }
     ]
+  },
+  {
+    "name": "Julian Blackmon",
+    "age": "26",
+    "position": "S",
+    "weight": "202",
+    "height": "6-0",
+    "college": "Utah",
+    "experience": "4"
   }
 ]

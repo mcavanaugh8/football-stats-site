@@ -148,5 +148,14 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Josh Hayes",
+    "age": "25",
+    "position": "DB",
+    "weight": "190",
+    "height": "6-0",
+    "college": "North Dakota St.,Virginia,Kansas St.",
+    "experience": "1"
   }
 ]

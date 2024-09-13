@@ -1025,5 +1025,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Trent Sherfield",
+    "age": "28",
+    "position": "WR",
+    "weight": "206",
+    "height": "6-1",
+    "college": "Vanderbilt",
+    "experience": "6"
   }
 ]

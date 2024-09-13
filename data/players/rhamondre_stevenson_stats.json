@@ -660,5 +660,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Rhamondre Stevenson",
+    "age": "26",
+    "position": "RB",
+    "weight": "227",
+    "height": "6-0",
+    "college": "Cerritos (CA),Oklahoma",
+    "experience": "3"
   }
 ]

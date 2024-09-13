@@ -1484,5 +1484,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jonnu Smith",
+    "age": "29",
+    "position": "TE",
+    "weight": "248",
+    "height": "6-3",
+    "college": "Florida International",
+    "experience": "7"
   }
 ]

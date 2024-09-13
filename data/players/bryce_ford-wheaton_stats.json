@@ -90,5 +90,14 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Bryce Ford-Wheaton",
+    "age": "24",
+    "position": "WR",
+    "weight": "220",
+    "height": "",
+    "college": "West Virginia",
+    "experience": "1"
   }
 ]

@@ -526,5 +526,14 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Chase McLaughlin",
+    "age": "28",
+    "position": "K",
+    "weight": "190",
+    "height": "6-0",
+    "college": "Illinois",
+    "experience": "5"
   }
 ]

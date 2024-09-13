@@ -190,5 +190,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Terrel Bernard",
+    "age": "25",
+    "position": "LB",
+    "weight": "224",
+    "height": "6-1",
+    "college": "Baylor",
+    "experience": "2"
   }
 ]

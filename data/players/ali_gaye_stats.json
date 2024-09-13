@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Ali Gaye",
+    "age": "26",
+    "position": "OLB",
+    "weight": "265",
+    "height": "",
+    "college": "Arizona Western,Garden City (KS),LSU",
+    "experience": "Rook"
   }
 ]

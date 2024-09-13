@@ -568,5 +568,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jordan Phillips",
+    "age": "32",
+    "position": "DT",
+    "weight": "330",
+    "height": "6-6",
+    "college": "Oklahoma",
+    "experience": "9"
   }
 ]

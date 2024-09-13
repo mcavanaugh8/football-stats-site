@@ -148,5 +148,14 @@
         "st_pct": "70%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Foskey",
+    "age": "24",
+    "position": "DE",
+    "weight": "270",
+    "height": "",
+    "college": "Notre Dame",
+    "experience": "1"
   }
 ]

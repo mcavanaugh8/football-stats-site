@@ -896,5 +896,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "D'Ernest Johnson",
+    "age": "28",
+    "position": "RB",
+    "weight": "208",
+    "height": "5-10",
+    "college": "South Florida",
+    "experience": "5"
   }
 ]

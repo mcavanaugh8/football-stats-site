@@ -442,5 +442,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Austin Corbett",
+    "age": "29",
+    "position": "C",
+    "weight": "305",
+    "height": "6-4",
+    "college": "Nevada",
+    "experience": "6"
   }
 ]

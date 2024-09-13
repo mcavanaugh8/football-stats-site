@@ -106,5 +106,14 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Kool-Aid McKinstry",
+    "age": "22",
+    "position": "CB",
+    "weight": "199",
+    "height": "5-11",
+    "college": "Alabama",
+    "experience": "Rook"
   }
 ]

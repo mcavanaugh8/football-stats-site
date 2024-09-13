@@ -344,5 +344,14 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Darnell Savage Jr.",
+    "age": "27",
+    "position": "S",
+    "weight": "198",
+    "height": "5-11",
+    "college": "Maryland",
+    "experience": "5"
   }
 ]

@@ -123,5 +123,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Kayode Awosika",
+    "age": "26",
+    "position": "G",
+    "weight": "315",
+    "height": "6-3",
+    "college": "Buffalo",
+    "experience": "3"
   }
 ]

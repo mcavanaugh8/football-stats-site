@@ -925,5 +925,14 @@
         "st_pct": "29%"
       }
     ]
+  },
+  {
+    "name": "Jamycal Hasty",
+    "age": "28",
+    "position": "RB",
+    "weight": "205",
+    "height": "5-8",
+    "college": "Baylor",
+    "experience": "4"
   }
 ]

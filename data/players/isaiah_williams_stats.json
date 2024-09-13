@@ -62,5 +62,14 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Isaiah Williams",
+    "age": "23",
+    "position": "WR",
+    "weight": "186",
+    "height": "5-10",
+    "college": "Illinois",
+    "experience": "Rook"
   }
 ]

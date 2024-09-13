@@ -232,5 +232,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Baron Browning",
+    "age": "25",
+    "position": "OLB",
+    "weight": "240",
+    "height": "6-3",
+    "college": "Ohio St.",
+    "experience": "3"
   }
 ]

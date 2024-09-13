@@ -358,5 +358,14 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Avonte Maddox",
+    "age": "28",
+    "position": "CB",
+    "weight": "184",
+    "height": "5-9",
+    "college": "Pittsburgh",
+    "experience": "6"
   }
 ]

@@ -90,5 +90,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Brevyn Spann-Ford",
+    "age": "25",
+    "position": "TE",
+    "weight": "270",
+    "height": "",
+    "college": "Minnesota",
+    "experience": "Rook"
   }
 ]

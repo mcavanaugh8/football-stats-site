@@ -106,5 +106,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Payton Wilson",
+    "age": "24",
+    "position": "LB",
+    "weight": "242",
+    "height": "",
+    "college": "North Carolina St.",
+    "experience": "Rook"
   }
 ]

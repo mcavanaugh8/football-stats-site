@@ -539,5 +539,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Jordan Hicks",
+    "age": "32",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-1",
+    "college": "Texas",
+    "experience": "9"
   }
 ]

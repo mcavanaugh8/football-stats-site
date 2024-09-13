@@ -2112,5 +2112,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "DeAndre Hopkins",
+    "age": "32",
+    "position": "WR",
+    "weight": "212",
+    "height": "6-1",
+    "college": "Clemson",
+    "experience": "11"
   }
 ]

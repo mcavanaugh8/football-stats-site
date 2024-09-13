@@ -969,5 +969,14 @@
         "st_pct": "36%"
       }
     ]
+  },
+  {
+    "name": "Logan Cooke",
+    "age": "29",
+    "position": "P",
+    "weight": "230",
+    "height": "6-5",
+    "college": "Mississippi St.",
+    "experience": "6"
   }
 ]

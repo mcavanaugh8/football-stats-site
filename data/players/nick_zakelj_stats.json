@@ -108,5 +108,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Nick Zakelj",
+    "age": "25",
+    "position": "OL",
+    "weight": "316",
+    "height": "6-6",
+    "college": "Fordham",
+    "experience": "2"
   }
 ]

@@ -260,5 +260,14 @@
         "st_pct": "40%"
       }
     ]
+  },
+  {
+    "name": "Andre Cisco",
+    "age": "24",
+    "position": "S",
+    "weight": "210",
+    "height": "6-0",
+    "college": "Syracuse",
+    "experience": "3"
   }
 ]

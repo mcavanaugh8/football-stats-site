@@ -78,5 +78,14 @@
         "st_pct": "52%"
       }
     ]
+  },
+  {
+    "name": "Chop Robinson",
+    "age": "21",
+    "position": "LB",
+    "weight": "254",
+    "height": "",
+    "college": "Maryland,Penn St.",
+    "experience": "Rook"
   }
 ]

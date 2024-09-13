@@ -108,5 +108,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Brock Hoffman",
+    "age": "25",
+    "position": "C",
+    "weight": "302",
+    "height": "6-4",
+    "college": "Coastal Carolina,Virginia Tech",
+    "experience": "2"
   }
 ]

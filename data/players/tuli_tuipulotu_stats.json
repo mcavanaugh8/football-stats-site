@@ -148,5 +148,14 @@
         "st_pct": "75%"
       }
     ]
+  },
+  {
+    "name": "Tuli Tuipulotu",
+    "age": "22",
+    "position": "OLB",
+    "weight": "266",
+    "height": "",
+    "college": "USC",
+    "experience": "1"
   }
 ]

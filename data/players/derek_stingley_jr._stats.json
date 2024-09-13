@@ -190,5 +190,14 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Derek Stingley Jr.",
+    "age": "23",
+    "position": "CB",
+    "weight": "195",
+    "height": "6-1",
+    "college": "LSU",
+    "experience": "2"
   }
 ]

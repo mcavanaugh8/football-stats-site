@@ -358,5 +358,14 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Taven Bryan",
+    "age": "28",
+    "position": "DT",
+    "weight": "291",
+    "height": "6-4",
+    "college": "Florida",
+    "experience": "6"
   }
 ]

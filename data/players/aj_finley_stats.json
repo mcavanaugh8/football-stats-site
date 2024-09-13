@@ -148,5 +148,14 @@
         "st_pct": "57%"
       }
     ]
+  },
+  {
+    "name": "AJ Finley",
+    "age": "23",
+    "position": "S",
+    "weight": "188",
+    "height": "6-0",
+    "college": "Mississippi",
+    "experience": "1"
   }
 ]

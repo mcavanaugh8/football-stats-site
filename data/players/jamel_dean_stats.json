@@ -365,5 +365,14 @@
         "st_pct": "37%"
       }
     ]
+  },
+  {
+    "name": "Jamel Dean",
+    "age": "28",
+    "position": "CB",
+    "weight": "206",
+    "height": "6-1",
+    "college": "Auburn",
+    "experience": "5"
   }
 ]

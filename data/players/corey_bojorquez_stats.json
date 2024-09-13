@@ -1133,5 +1133,14 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Corey Bojorquez",
+    "age": "28",
+    "position": "P",
+    "weight": "217",
+    "height": "6-0",
+    "college": "Cerritos (CA),New Mexico",
+    "experience": "6"
   }
 ]

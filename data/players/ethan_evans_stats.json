@@ -136,5 +136,14 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "Ethan Evans",
+    "age": "23",
+    "position": "P",
+    "weight": "250",
+    "height": "6-3",
+    "college": "Wingate",
+    "experience": "1"
   }
 ]

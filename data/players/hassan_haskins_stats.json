@@ -304,5 +304,14 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Hassan Haskins",
+    "age": "25",
+    "position": "RB",
+    "weight": "228",
+    "height": "6-2",
+    "college": "Michigan",
+    "experience": "2"
   }
 ]

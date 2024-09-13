@@ -479,5 +479,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Roquan Smith",
+    "age": "27",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-1",
+    "college": "Georgia",
+    "experience": "6"
   }
 ]

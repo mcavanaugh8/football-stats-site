@@ -165,5 +165,14 @@
         "st_pct": "43%"
       }
     ]
+  },
+  {
+    "name": "Bryce Baringer",
+    "age": "25",
+    "position": "P",
+    "weight": "215",
+    "height": "6-2",
+    "college": "Michigan St.",
+    "experience": "1"
   }
 ]

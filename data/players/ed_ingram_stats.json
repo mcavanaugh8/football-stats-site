@@ -190,5 +190,14 @@
         "st_pct": "17%"
       }
     ]
+  },
+  {
+    "name": "Ed Ingram",
+    "age": "25",
+    "position": "G",
+    "weight": "307",
+    "height": "6-3",
+    "college": "LSU",
+    "experience": "2"
   }
 ]

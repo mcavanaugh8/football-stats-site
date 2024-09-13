@@ -190,5 +190,14 @@
         "st_pct": "83%"
       }
     ]
+  },
+  {
+    "name": "Elijah Hicks",
+    "age": "25",
+    "position": "DB",
+    "weight": "200",
+    "height": "5-11",
+    "college": "California",
+    "experience": "2"
   }
 ]

@@ -494,5 +494,14 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Andrus Peat",
+    "age": "31",
+    "position": "OL",
+    "weight": "316",
+    "height": "6-7",
+    "college": "Stanford",
+    "experience": "9"
   }
 ]

@@ -705,5 +705,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Harrison Smith",
+    "age": "35",
+    "position": "S",
+    "weight": "211",
+    "height": "6-2",
+    "college": "Notre Dame",
+    "experience": "12"
   }
 ]

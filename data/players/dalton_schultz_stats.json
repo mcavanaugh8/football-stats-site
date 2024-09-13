@@ -921,5 +921,14 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Dalton Schultz",
+    "age": "28",
+    "position": "TE",
+    "weight": "242",
+    "height": "6-5",
+    "college": "Stanford",
+    "experience": "6"
   }
 ]

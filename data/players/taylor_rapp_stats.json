@@ -344,5 +344,14 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Taylor Rapp",
+    "age": "27",
+    "position": "S",
+    "weight": "208",
+    "height": "6-0",
+    "college": "Washington",
+    "experience": "5"
   }
 ]
