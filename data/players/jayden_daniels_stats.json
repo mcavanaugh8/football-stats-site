@@ -1,0 +1,256 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "g": "1",
+        "fantasy_pos": "QB",
+        "fantasy_points": "28",
+        "vbd": "13",
+        "fantasy_rank_pos": "3",
+        "fantasy_rank_overall": "5",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "rush_att": "16",
+        "rush_yds": "88",
+        "rush_first_down": "8",
+        "rush_yds_before_contact": "73",
+        "rush_yds_bc_per_rush": "4.6",
+        "rush_yac": "15",
+        "rush_yac_per_rush": "0.9",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "0",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "pass_cmp": "17",
+        "pass_att": "24",
+        "pass_yds": "184",
+        "pass_target_yds": "125",
+        "pass_tgt_yds_per_att": "5.2",
+        "pass_air_yds": "30",
+        "pass_air_yds_per_cmp": "1.8",
+        "pass_air_yds_per_att": "1.3",
+        "pass_yac": "154",
+        "pass_yac_per_cmp": "9.1"
+      }
+    ]
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "pass_cmp": "17",
+        "pass_att": "24",
+        "pass_yds": "184",
+        "pass_batted_passes": "0",
+        "pass_throwaways": "0",
+        "pass_spikes": "0",
+        "pass_drops": "1",
+        "pass_drop_pct": "4.2%",
+        "pass_poor_throws": "4",
+        "pass_poor_throw_pct": "16.7%",
+        "pass_on_target": "20",
+        "pass_on_target_pct": "83.3%"
+      }
+    ]
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "pass_cmp": "17",
+        "pass_att": "24",
+        "pass_yds": "184",
+        "pass_sacked": "2",
+        "pocket_time": "2.1",
+        "pass_blitzed": "11",
+        "pass_hurried": "3",
+        "pass_hits": "1",
+        "pass_pressured": "6",
+        "pass_pressured_pct": "18.2%",
+        "rush_scrambles": "7",
+        "rush_scrambles_yds_per_att": "11.0"
+      }
+    ]
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "rush_att": "16",
+        "rush_yds": "88",
+        "rush_td": "2",
+        "rush_first_down": "8",
+        "rush_success": "62.5",
+        "rush_long": "17",
+        "rush_yds_per_att": "5.5",
+        "rush_yds_per_g": "88.0",
+        "rush_att_per_g": "16.0",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "16",
+        "yds_per_touch": "5.5",
+        "yds_from_scrimmage": "88",
+        "rush_receive_td": "2",
+        "fumbles": "3"
+      }
+    ]
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "rushtd": "2",
+        "rectd": "",
+        "prtd": "",
+        "krtd": "",
+        "frtd": "",
+        "ditd": "",
+        "otd": "",
+        "alltd": "2",
+        "two_pt_md": "",
+        "two_pt_att": "",
+        "def_two_pt": "0",
+        "xpm": "",
+        "xpa": "",
+        "fgm": "",
+        "fga": "",
+        "safety_md": "",
+        "scoring": "12",
+        "points_per_g": "12.0"
+      }
+    ]
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "WAS",
+        "pos": "QB",
+        "uniform_number": "5",
+        "g": "1",
+        "gs": "1",
+        "offense": "59",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

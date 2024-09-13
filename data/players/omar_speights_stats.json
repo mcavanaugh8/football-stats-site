@@ -1,0 +1,82 @@
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "LAR",
+        "pos": "LB",
+        "uniform_number": "48",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "15",
+        "st_pct": "58%"
+      }
+    ]
+  }
+]

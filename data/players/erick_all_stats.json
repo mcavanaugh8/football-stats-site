@@ -1,0 +1,94 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "g": "1",
+        "fantasy_pos": "TE",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "75",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "CIN",
+        "pos": "TE",
+        "uniform_number": "83",
+        "g": "1",
+        "gs": "0",
+        "offense": "12",
+        "off_pct": "24%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "4",
+        "st_pct": "19%"
+      }
+    ]
+  }
+]

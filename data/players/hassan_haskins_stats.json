@@ -1,0 +1,308 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "g": "15",
+        "fantasy_pos": "RB",
+        "fantasy_points": "15",
+        "vbd": "",
+        "fantasy_rank_pos": "105",
+        "fantasy_rank_overall": "",
+        "games": "All 2022 Games"
+      },
+      {
+        "year_id": "2024",
+        "age": "25",
+        "g": "1",
+        "fantasy_pos": "RB",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "100",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "TEN",
+        "pos": "RB",
+        "uniform_number": "25",
+        "g": "15",
+        "gs": "1",
+        "rush_att": "25",
+        "rush_yds": "93",
+        "rush_first_down": "5",
+        "rush_yds_before_contact": "31",
+        "rush_yds_bc_per_rush": "1.2",
+        "rush_yac": "62",
+        "rush_yac_per_rush": "2.5",
+        "rush_broken_tackles": "2",
+        "rush_broken_tackles_per_rush": "12.5",
+        "targets": "12",
+        "rec": "11",
+        "rec_yds": "57",
+        "rec_first_down": "2",
+        "rec_air_yds": "-1",
+        "rec_air_yds_per_rec": "-0.1",
+        "rec_yac": "58",
+        "rec_yac_per_rec": "5.3",
+        "rec_adot": "-0.5",
+        "rec_broken_tackles": "2",
+        "rec_broken_tackles_per_rec": "5.5",
+        "rec_drops": "1",
+        "rec_drop_pct": "8.3",
+        "rec_target_int": "0",
+        "rec_pass_rating": "86.5"
+      },
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "LAC",
+        "pos": "RB",
+        "uniform_number": "28",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "TEN",
+        "pos": "RB",
+        "uniform_number": "25",
+        "g": "15",
+        "gs": "1",
+        "rush_att": "25",
+        "rush_yds": "93",
+        "rush_td": "0",
+        "rush_first_down": "5",
+        "rush_success": "44.0",
+        "rush_long": "12",
+        "rush_yds_per_att": "3.7",
+        "rush_yds_per_g": "6.2",
+        "rush_att_per_g": "1.7",
+        "targets": "12",
+        "rec": "11",
+        "rec_yds": "57",
+        "rec_yds_per_rec": "5.2",
+        "rec_td": "0",
+        "rec_first_down": "2",
+        "rec_success": "25.0",
+        "rec_long": "10",
+        "rec_per_g": "0.7",
+        "rec_yds_per_g": "3.8",
+        "catch_pct": "91.7%",
+        "rec_yds_per_tgt": "4.8",
+        "touches": "36",
+        "yds_per_touch": "4.2",
+        "yds_from_scrimmage": "150",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": "1"
+      },
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "LAC",
+        "pos": "RB",
+        "uniform_number": "28",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "",
+        "yds_per_touch": "",
+        "yds_from_scrimmage": "",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "TEN",
+        "pos": "RB",
+        "uniform_number": "25",
+        "g": "15",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "13",
+        "tackles_solo": "9",
+        "tackles_assists": "4",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": ""
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "TEN",
+        "pos": "RB",
+        "uniform_number": "25",
+        "g": "15",
+        "gs": "1",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "19",
+        "kick_ret_yds": "414",
+        "kick_ret_td": "0",
+        "kick_ret_long": "37",
+        "kick_ret_yds_per_ret": "21.8",
+        "all_purpose_yds": "564"
+      }
+    ]
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "23",
+        "team": "TEN",
+        "pos": "RB",
+        "uniform_number": "25",
+        "g": "15",
+        "gs": "1",
+        "offense": "155",
+        "off_pct": "17%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "234",
+        "st_pct": "60%"
+      },
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "LAC",
+        "pos": "RB",
+        "uniform_number": "28",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "19",
+        "st_pct": "68%"
+      }
+    ]
+  }
+]

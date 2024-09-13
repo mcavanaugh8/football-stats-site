@@ -1,0 +1,194 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "11",
+        "vbd": "3",
+        "fantasy_rank_pos": "18",
+        "fantasy_rank_overall": "45",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "JAX",
+        "pos": "WR",
+        "uniform_number": "7",
+        "g": "1",
+        "gs": "0",
+        "targets": "4",
+        "rec": "4",
+        "rec_yds": "47",
+        "rec_first_down": "3",
+        "rec_air_yds": "39",
+        "rec_air_yds_per_rec": "9.8",
+        "rec_yac": "8",
+        "rec_yac_per_rec": "2.0",
+        "rec_adot": "9.8",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "155.2",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_td": "0",
+        "rush_first_down": "0",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "JAX",
+        "pos": "WR",
+        "uniform_number": "7",
+        "g": "1",
+        "gs": "0",
+        "targets": "4",
+        "rec": "4",
+        "rec_yds": "47",
+        "rec_yds_per_rec": "11.8",
+        "rec_td": "1",
+        "rec_first_down": "3",
+        "rec_success": "100.0",
+        "rec_long": "18",
+        "rec_per_g": "4.0",
+        "rec_yds_per_g": "47.0",
+        "catch_pct": "100.0%",
+        "rec_yds_per_tgt": "11.8",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "touches": "4",
+        "yds_per_touch": "11.8",
+        "yds_from_scrimmage": "47",
+        "rush_receive_td": "1",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "JAX",
+        "pos": "WR",
+        "uniform_number": "7",
+        "g": "1",
+        "gs": "0",
+        "rushtd": "",
+        "rectd": "1",
+        "prtd": "",
+        "krtd": "",
+        "frtd": "",
+        "ditd": "",
+        "otd": "",
+        "alltd": "1",
+        "two_pt_md": "",
+        "two_pt_att": "",
+        "def_two_pt": "0",
+        "xpm": "",
+        "xpa": "",
+        "fgm": "",
+        "fga": "",
+        "safety_md": "",
+        "scoring": "6",
+        "points_per_g": "6.0"
+      }
+    ]
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "JAX",
+        "pos": "WR",
+        "uniform_number": "7",
+        "g": "1",
+        "gs": "0",
+        "offense": "41",
+        "off_pct": "77%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

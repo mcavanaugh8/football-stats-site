@@ -1,0 +1,313 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "g": "7",
+        "fantasy_pos": "QB",
+        "fantasy_points": "17",
+        "vbd": "",
+        "fantasy_rank_pos": "57",
+        "fantasy_rank_overall": "",
+        "games": "All 2022 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "rush_att": "14",
+        "rush_yds": "21",
+        "rush_first_down": "1",
+        "rush_yds_before_contact": "20",
+        "rush_yds_bc_per_rush": "1.4",
+        "rush_yac": "1",
+        "rush_yac_per_rush": "0.1",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "0",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team_name_abbr": "MIA",
+        "comp_name_abbr": "NFL",
+        "pos": "QB",
+        "games": "7",
+        "games_started": "2",
+        "qb_rec": "1-1-0",
+        "pass_cmp": "60",
+        "pass_att": "105",
+        "pass_cmp_pct": "57.1",
+        "pass_yds": "534",
+        "pass_td": "1",
+        "pass_td_pct": "1.0",
+        "pass_int": "3",
+        "pass_int_pct": "2.9",
+        "pass_first_down": "26",
+        "pass_success": "36.0",
+        "pass_long": "32",
+        "pass_yds_per_att": "5.1",
+        "pass_adj_yds_per_att": "3.99",
+        "pass_yds_per_cmp": "8.9",
+        "pass_yds_per_g": "76.3",
+        "pass_rating": "62.2",
+        "qbr": "28.7",
+        "pass_sacked": "6",
+        "pass_sacked_yds": "40",
+        "pass_sacked_pct": "5.41",
+        "pass_net_yds_per_att": "4.45",
+        "pass_adj_net_yds_per_att": "3.41",
+        "comebacks": "0",
+        "gwd": "1",
+        "av": "2",
+        "awards": ""
+      }
+    ]
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "pass_cmp": "60",
+        "pass_att": "105",
+        "pass_yds": "534",
+        "pass_target_yds": "783",
+        "pass_tgt_yds_per_att": "7.5",
+        "pass_air_yds": "326",
+        "pass_air_yds_per_cmp": "5.4",
+        "pass_air_yds_per_att": "3.1",
+        "pass_yac": "208",
+        "pass_yac_per_cmp": "3.5"
+      }
+    ]
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "pass_cmp": "60",
+        "pass_att": "105",
+        "pass_yds": "534",
+        "pass_batted_passes": "2",
+        "pass_throwaways": "4",
+        "pass_spikes": "0",
+        "pass_drops": "8",
+        "pass_drop_pct": "7.9%",
+        "pass_poor_throws": "22",
+        "pass_poor_throw_pct": "21.8%",
+        "pass_on_target": "70",
+        "pass_on_target_pct": "69.3%"
+      }
+    ]
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "pass_cmp": "60",
+        "pass_att": "105",
+        "pass_yds": "534",
+        "pass_sacked": "6",
+        "pocket_time": "2.6",
+        "pass_blitzed": "15",
+        "pass_hurried": "16",
+        "pass_hits": "25",
+        "pass_pressured": "47",
+        "pass_pressured_pct": "40.5%",
+        "rush_scrambles": "5",
+        "rush_scrambles_yds_per_att": "4.0"
+      }
+    ]
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "qb_rec": "1-1-0",
+        "pass_att": "105",
+        "pass_yds_per_att_index": "52",
+        "pass_net_yds_per_att_index": "62",
+        "pass_adj_yds_per_att_index": "53",
+        "pass_adj_net_yds_per_att_index": "61",
+        "pass_cmp_perc_index": "66",
+        "pass_td_perc_index": "60",
+        "pass_int_perc_index": "88",
+        "pass_sacked_perc_index": "107",
+        "pass_rating_index": "55"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "rush_att": "14",
+        "rush_yds": "21",
+        "rush_td": "0",
+        "rush_first_down": "1",
+        "rush_success": "14.3",
+        "rush_long": "9",
+        "rush_yds_per_att": "1.5",
+        "rush_yds_per_g": "3.0",
+        "rush_att_per_g": "2.0",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "14",
+        "yds_per_touch": "1.5",
+        "yds_from_scrimmage": "21",
+        "rush_receive_td": "0",
+        "fumbles": "2"
+      }
+    ]
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "2",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "-1",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": ""
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "MIA",
+        "pos": "QB",
+        "uniform_number": "19",
+        "g": "7",
+        "gs": "2",
+        "offense": "211",
+        "off_pct": "45%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

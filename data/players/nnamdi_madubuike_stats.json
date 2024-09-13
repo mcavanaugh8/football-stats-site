@@ -1,0 +1,283 @@
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "23",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "10",
+        "gs": "3",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "1.0",
+        "tackles_combined": "19",
+        "tackles_solo": "11",
+        "tackles_assists": "8",
+        "tackles_loss": "2",
+        "qb_hits": "2",
+        "safety_md": "",
+        "av": "2",
+        "awards": ""
+      },
+      {
+        "year_id": "2021",
+        "age": "24",
+        "team": "BAL",
+        "pos": "LDE",
+        "uniform_number": "92",
+        "g": "15",
+        "gs": "11",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "2",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "2.0",
+        "tackles_combined": "36",
+        "tackles_solo": "23",
+        "tackles_assists": "13",
+        "tackles_loss": "7",
+        "qb_hits": "5",
+        "safety_md": "",
+        "av": "6",
+        "awards": ""
+      },
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "17",
+        "gs": "16",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "3",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "5.5",
+        "tackles_combined": "42",
+        "tackles_solo": "26",
+        "tackles_assists": "16",
+        "tackles_loss": "8",
+        "qb_hits": "9",
+        "safety_md": "",
+        "av": "7",
+        "awards": ""
+      },
+      {
+        "year_id": "2023",
+        "age": "26",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "17",
+        "gs": "17",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "1",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "13.0",
+        "tackles_combined": "56",
+        "tackles_solo": "38",
+        "tackles_assists": "18",
+        "tackles_loss": "12",
+        "qb_hits": "33",
+        "safety_md": "",
+        "av": "15",
+        "awards": "AP DPoY-9, AP2, PB"
+      },
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "1",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.5",
+        "tackles_combined": "2",
+        "tackles_solo": "0",
+        "tackles_assists": "2",
+        "tackles_loss": "0",
+        "qb_hits": "2",
+        "safety_md": "",
+        "av": "",
+        "awards": ""
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "23",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "10",
+        "gs": "3",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "260",
+        "def_pct": "41%",
+        "special_teams": "1",
+        "st_pct": "0%"
+      },
+      {
+        "year_id": "2021",
+        "age": "24",
+        "team": "BAL",
+        "pos": "LDE",
+        "uniform_number": "92",
+        "g": "15",
+        "gs": "11",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "484",
+        "def_pct": "51%",
+        "special_teams": "66",
+        "st_pct": "16%"
+      },
+      {
+        "year_id": "2022",
+        "age": "25",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "17",
+        "gs": "16",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "655",
+        "def_pct": "60%",
+        "special_teams": "24",
+        "st_pct": "6%"
+      },
+      {
+        "year_id": "2023",
+        "age": "26",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "17",
+        "gs": "17",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "757",
+        "def_pct": "65%",
+        "special_teams": "53",
+        "st_pct": "11%"
+      },
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "BAL",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "1",
+        "gs": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "40",
+        "def_pct": "74%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "21",
+        "team": "KAN",
+        "pos": "WR",
+        "uniform_number": "1",
+        "g": "1",
+        "gs": "1",
+        "targets": "3",
+        "rec": "2",
+        "rec_yds": "47",
+        "rec_first_down": "2",
+        "rec_air_yds": "24",
+        "rec_air_yds_per_rec": "12.0",
+        "rec_yac": "23",
+        "rec_yac_per_rec": "11.5",
+        "rec_adot": "12.3",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "149.3",
+        "rush_att": "1",
+        "rush_yds": "21",
+        "rush_td": "1",
+        "rush_first_down": "1",
+        "rush_yds_before_contact": "21",
+        "rush_yds_bc_per_rush": "21.0",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "0.0",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "21",
+        "team": "KAN",
+        "pos": "WR",
+        "uniform_number": "1",
+        "g": "1",
+        "gs": "1",
+        "targets": "3",
+        "rec": "2",
+        "rec_yds": "47",
+        "rec_yds_per_rec": "23.5",
+        "rec_td": "1",
+        "rec_first_down": "2",
+        "rec_success": "66.7",
+        "rec_long": "35",
+        "rec_per_g": "2.0",
+        "rec_yds_per_g": "47.0",
+        "catch_pct": "66.7%",
+        "rec_yds_per_tgt": "15.7",
+        "rush_att": "1",
+        "rush_yds": "21",
+        "rush_td": "1",
+        "rush_first_down": "1",
+        "rush_success": "100.0",
+        "rush_long": "21",
+        "rush_yds_per_att": "21.0",
+        "rush_yds_per_g": "21.0",
+        "rush_att_per_g": "1.0",
+        "touches": "3",
+        "yds_per_touch": "22.7",
+        "yds_from_scrimmage": "68",
+        "rush_receive_td": "2",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "21",
+        "team": "KAN",
+        "pos": "WR",
+        "uniform_number": "1",
+        "g": "1",
+        "gs": "1",
+        "rushtd": "1",
+        "rectd": "1",
+        "prtd": "",
+        "krtd": "",
+        "frtd": "",
+        "ditd": "",
+        "otd": "",
+        "alltd": "2",
+        "two_pt_md": "",
+        "two_pt_att": "",
+        "def_two_pt": "0",
+        "xpm": "",
+        "xpa": "",
+        "fgm": "",
+        "fga": "",
+        "safety_md": "",
+        "scoring": "12",
+        "points_per_g": "12.0"
+      }
+    ]
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "21",
+        "team": "KAN",
+        "pos": "WR",
+        "uniform_number": "1",
+        "g": "1",
+        "gs": "1",
+        "offense": "34",
+        "off_pct": "63%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

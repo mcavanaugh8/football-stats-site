@@ -1,0 +1,186 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "g": "1",
+        "fantasy_pos": "FB",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "79",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "KAN",
+        "pos": "FB",
+        "uniform_number": "42",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "2",
+        "rush_yds": "3",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "3",
+        "rush_yds_bc_per_rush": "1.5",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "0.0",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "KAN",
+        "pos": "FB",
+        "uniform_number": "42",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "2",
+        "rush_yds": "3",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "50.0",
+        "rush_long": "5",
+        "rush_yds_per_att": "1.5",
+        "rush_yds_per_g": "3.0",
+        "rush_att_per_g": "2.0",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "2",
+        "yds_per_touch": "1.5",
+        "yds_from_scrimmage": "3",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "KAN",
+        "pos": "FB",
+        "uniform_number": "42",
+        "g": "1",
+        "gs": "0",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "1",
+        "kick_ret_yds": "28",
+        "kick_ret_td": "0",
+        "kick_ret_long": "28",
+        "kick_ret_yds_per_ret": "28.0",
+        "all_purpose_yds": "31"
+      }
+    ]
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "KAN",
+        "pos": "FB",
+        "uniform_number": "42",
+        "g": "1",
+        "gs": "0",
+        "offense": "5",
+        "off_pct": "9%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "16",
+        "st_pct": "62%"
+      }
+    ]
+  }
+]

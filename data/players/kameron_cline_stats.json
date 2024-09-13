@@ -1,0 +1,236 @@
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "22",
+        "team": "IND",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "",
+        "fumbles_rec": "",
+        "fumbles_rec_yds": "",
+        "fumbles_rec_td": "",
+        "sacks": "0.0",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2021",
+        "age": "23",
+        "team": "IND",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2022",
+        "age": "24",
+        "team": "IND",
+        "pos": "DE",
+        "uniform_number": "92",
+        "g": "3",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "BUF",
+        "pos": "DE",
+        "uniform_number": "96",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2020",
+        "age": "22",
+        "team": "IND",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "12",
+        "def_pct": "17%",
+        "special_teams": "6",
+        "st_pct": "19%"
+      },
+      {
+        "year_id": "2021",
+        "age": "23",
+        "team": "IND",
+        "pos": "DT",
+        "uniform_number": "92",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "9",
+        "st_pct": "36%"
+      },
+      {
+        "year_id": "2022",
+        "age": "24",
+        "team": "IND",
+        "pos": "DE",
+        "uniform_number": "92",
+        "g": "3",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "12",
+        "def_pct": "6%",
+        "special_teams": "2",
+        "st_pct": "3%"
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "BUF",
+        "pos": "DE",
+        "uniform_number": "96",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "17",
+        "st_pct": "63%"
+      }
+    ]
+  }
+]

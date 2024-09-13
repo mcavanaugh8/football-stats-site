@@ -1,0 +1,166 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "27",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "4",
+        "vbd": "",
+        "fantasy_rank_pos": "56",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "DEN",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "targets": "8",
+        "rec": "8",
+        "rec_yds": "39",
+        "rec_first_down": "1",
+        "rec_air_yds": "17",
+        "rec_air_yds_per_rec": "2.1",
+        "rec_yac": "22",
+        "rec_yac_per_rec": "2.8",
+        "rec_adot": "2.1",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "87.0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_td": "0",
+        "rush_first_down": "0",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "DEN",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "targets": "8",
+        "rec": "8",
+        "rec_yds": "39",
+        "rec_yds_per_rec": "4.9",
+        "rec_td": "0",
+        "rec_first_down": "1",
+        "rec_success": "37.5",
+        "rec_long": "9",
+        "rec_per_g": "8.0",
+        "rec_yds_per_g": "39.0",
+        "catch_pct": "100.0%",
+        "rec_yds_per_tgt": "4.9",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "touches": "8",
+        "yds_per_touch": "4.9",
+        "yds_from_scrimmage": "39",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "DEN",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "offense": "34",
+        "off_pct": "49%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

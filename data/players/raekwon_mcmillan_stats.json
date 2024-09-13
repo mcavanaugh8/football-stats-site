@@ -1,0 +1,306 @@
+[
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": []
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": [
+      {
+        "year_id": "2018",
+        "age": "22",
+        "team": "MIA",
+        "pos": "MLB",
+        "uniform_number": "52",
+        "g": "16",
+        "gs": "16",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "1",
+        "fumbles_forced": "2",
+        "fumbles": "0",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "105",
+        "tackles_solo": "69",
+        "tackles_assists": "36",
+        "tackles_loss": "5",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "6"
+      },
+      {
+        "year_id": "2019",
+        "age": "23",
+        "team": "MIA",
+        "pos": "LILB",
+        "uniform_number": "52",
+        "g": "13",
+        "gs": "12",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "1",
+        "fumbles_forced": "0",
+        "fumbles": "",
+        "fumbles_rec": "",
+        "fumbles_rec_yds": "",
+        "fumbles_rec_td": "",
+        "sacks": "0.0",
+        "tackles_combined": "72",
+        "tackles_solo": "35",
+        "tackles_assists": "37",
+        "tackles_loss": "3",
+        "qb_hits": "2",
+        "safety_md": "",
+        "av": "3"
+      },
+      {
+        "year_id": "2020",
+        "age": "24",
+        "team": "LVR",
+        "pos": "LB",
+        "uniform_number": "54",
+        "g": "16",
+        "gs": "4",
+        "def_int": "0",
+        "def_int_yds": "0",
+        "def_int_td": "0",
+        "def_int_long": "0",
+        "pass_defended": "1",
+        "fumbles_forced": "1",
+        "fumbles": "",
+        "fumbles_rec": "",
+        "fumbles_rec_yds": "",
+        "fumbles_rec_td": "",
+        "sacks": "0.0",
+        "tackles_combined": "27",
+        "tackles_solo": "17",
+        "tackles_assists": "10",
+        "tackles_loss": "1",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": "2"
+      },
+      {
+        "year_id": "2022",
+        "age": "26",
+        "team": "NWE",
+        "pos": "LB",
+        "uniform_number": "46",
+        "g": "16",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "23",
+        "fumbles_rec_td": "1",
+        "sacks": "1.0",
+        "tackles_combined": "35",
+        "tackles_solo": "26",
+        "tackles_assists": "9",
+        "tackles_loss": "5",
+        "qb_hits": "1",
+        "safety_md": "",
+        "av": "3"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NWE",
+        "pos": "LB",
+        "uniform_number": "50",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "26",
+        "team": "NWE",
+        "pos": "LB",
+        "uniform_number": "46",
+        "g": "16",
+        "gs": "1",
+        "rushtd": "",
+        "rectd": "",
+        "prtd": "",
+        "krtd": "",
+        "frtd": "1",
+        "ditd": "",
+        "otd": "",
+        "alltd": "1",
+        "two_pt_md": "",
+        "two_pt_att": "",
+        "def_two_pt": "0",
+        "xpm": "",
+        "xpa": "",
+        "fgm": "",
+        "fga": "",
+        "safety_md": "",
+        "scoring": "6",
+        "points_per_g": "0.4"
+      }
+    ]
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2018",
+        "age": "22",
+        "team": "MIA",
+        "pos": "MLB",
+        "uniform_number": "52",
+        "g": "16",
+        "gs": "16",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "831",
+        "def_pct": "76%",
+        "special_teams": "16",
+        "st_pct": "4%"
+      },
+      {
+        "year_id": "2019",
+        "age": "23",
+        "team": "MIA",
+        "pos": "LILB",
+        "uniform_number": "52",
+        "g": "13",
+        "gs": "12",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "515",
+        "def_pct": "58%",
+        "special_teams": "172",
+        "st_pct": "47%"
+      },
+      {
+        "year_id": "2020",
+        "age": "24",
+        "team": "LVR",
+        "pos": "LB",
+        "uniform_number": "54",
+        "g": "16",
+        "gs": "4",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "169",
+        "def_pct": "16%",
+        "special_teams": "285",
+        "st_pct": "61%"
+      },
+      {
+        "year_id": "2022",
+        "age": "26",
+        "team": "NWE",
+        "pos": "LB",
+        "uniform_number": "46",
+        "g": "16",
+        "gs": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "250",
+        "def_pct": "23%",
+        "special_teams": "277",
+        "st_pct": "64%"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NWE",
+        "pos": "LB",
+        "uniform_number": "50",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "17",
+        "st_pct": "81%"
+      }
+    ]
+  }
+]

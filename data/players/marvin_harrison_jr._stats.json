@@ -1,0 +1,166 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "105",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "ARI",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "1",
+        "gs": "1",
+        "targets": "3",
+        "rec": "1",
+        "rec_yds": "4",
+        "rec_first_down": "",
+        "rec_air_yds": "4",
+        "rec_air_yds_per_rec": "4.0",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "0.0",
+        "rec_adot": "10.3",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "42.4",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "ARI",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "1",
+        "gs": "1",
+        "targets": "3",
+        "rec": "1",
+        "rec_yds": "4",
+        "rec_yds_per_rec": "4.0",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "0.0",
+        "rec_long": "4",
+        "rec_per_g": "1.0",
+        "rec_yds_per_g": "4.0",
+        "catch_pct": "33.3%",
+        "rec_yds_per_tgt": "1.3",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "touches": "1",
+        "yds_per_touch": "4.0",
+        "yds_from_scrimmage": "4",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": []
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "ARI",
+        "pos": "WR",
+        "uniform_number": "18",
+        "g": "1",
+        "gs": "1",
+        "offense": "55",
+        "off_pct": "90%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "0",
+        "st_pct": "0%"
+      }
+    ]
+  }
+]

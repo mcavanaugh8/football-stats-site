@@ -1,0 +1,187 @@
+[
+  {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "23",
+        "g": "1",
+        "fantasy_pos": "WR",
+        "fantasy_points": "4",
+        "vbd": "",
+        "fantasy_rank_pos": "59",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CAR",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "targets": "7",
+        "rec": "4",
+        "rec_yds": "35",
+        "rec_first_down": "2",
+        "rec_air_yds": "30",
+        "rec_air_yds_per_rec": "7.5",
+        "rec_yac": "5",
+        "rec_yac_per_rec": "1.3",
+        "rec_adot": "16.0",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "70.5",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_td": "0",
+        "rush_first_down": "0",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
+      }
+    ]
+  },
+  {
+    "category": "passing",
+    "rows": []
+  },
+  {
+    "category": "advanced_air_yards",
+    "rows": []
+  },
+  {
+    "category": "advanced_accuracy",
+    "rows": []
+  },
+  {
+    "category": "advanced_pressure",
+    "rows": []
+  },
+  {
+    "category": "advanced_play_tape",
+    "rows": []
+  },
+  {
+    "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CAR",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "targets": "7",
+        "rec": "4",
+        "rec_yds": "35",
+        "rec_yds_per_rec": "8.8",
+        "rec_td": "0",
+        "rec_first_down": "2",
+        "rec_success": "42.9",
+        "rec_long": "18",
+        "rec_per_g": "4.0",
+        "rec_yds_per_g": "35.0",
+        "catch_pct": "57.1%",
+        "rec_yds_per_tgt": "5.0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "touches": "4",
+        "yds_per_touch": "8.8",
+        "yds_from_scrimmage": "35",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
+  },
+  {
+    "category": "rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "detailed_rushing_and_receiving",
+    "rows": []
+  },
+  {
+    "category": "defense",
+    "rows": []
+  },
+  {
+    "category": "punting",
+    "rows": []
+  },
+  {
+    "category": "returns",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CAR",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "1",
+        "kick_ret_yds": "28",
+        "kick_ret_td": "0",
+        "kick_ret_long": "28",
+        "kick_ret_yds_per_ret": "28.0",
+        "all_purpose_yds": "63"
+      }
+    ]
+  },
+  {
+    "category": "scoring",
+    "rows": []
+  },
+  {
+    "category": "snap_counts",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CAR",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "1",
+        "gs": "0",
+        "offense": "35",
+        "off_pct": "59%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "10",
+        "st_pct": "33%"
+      }
+    ]
+  }
+]
