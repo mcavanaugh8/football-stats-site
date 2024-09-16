@@ -10,63 +10,8 @@
     <ul id="suggestions"></ul>
 </div>
 
-<table id="playerTable">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Position</th>
-            <th>Team</th>
-            <th>Games Played</th>
-            <th>Fantasy Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{#each players}}
-        <tr>
-            <td>{{this.name}}</td>
-            <td>{{this.position}}</td>
-            <td>{{this.team}}</td>
-            <td>{{this.gamesPlayed}}</td>
-            <td>{{this.fantasyPoints}}</td>
-        </tr>
-        {{/each}}
-    </tbody>
-</table>
-
+{{{table}}}
+<script src="/public/js/ui.js"></script>
 <script>
-  const playerSearch = document.getElementById('playerSearch');
-  const suggestions = document.getElementById('suggestions');
-  let debounceTimer;
-
-  playerSearch.addEventListener('input', function() {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => {
-      const query = this.value;
-      if (query.length > 1) {
-        fetch(`/api/players?q=${encodeURIComponent(query)}`)
-          .then(response => response.json())
-          .then(data => {
-            suggestions.innerHTML = '';
-            data.forEach(name => {
-              const li = document.createElement('li');
-              li.textContent = name;
-              li.addEventListener('click', () => {
-                playerSearch.value = name;
-                suggestions.innerHTML = '';
-              });
-              suggestions.appendChild(li);
-            });
-          });
-      } else {
-        suggestions.innerHTML = '';
-      }
-    }, 300); // 300ms debounce
-  });
-
-  // Close suggestions when clicking outside
-  document.addEventListener('click', function(e) {
-    if (e.target !== playerSearch && e.target !== suggestions) {
-      suggestions.innerHTML = '';
-    }
-  });
+    const ui = new UI();
 </script>
