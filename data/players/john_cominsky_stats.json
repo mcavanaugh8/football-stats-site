@@ -274,5 +274,17 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "John Cominsky (IR)",
+    "id": "ComiJo00",
+    "team": "DET",
+    "age": "29",
+    "position": "DL",
+    "weight": "285",
+    "height": "6-5",
+    "college": "Charleston (WV)",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/C/ComiJo00.htm"
   }
 ]

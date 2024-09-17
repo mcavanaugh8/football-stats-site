@@ -79,8 +79,8 @@
         "team": "CAR",
         "pos": "OLB",
         "uniform_number": "46",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -138,24 +138,27 @@
         "team": "CAR",
         "pos": "OLB",
         "uniform_number": "46",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "30",
-        "def_pct": "46%",
-        "special_teams": "13",
+        "defense": "56",
+        "def_pct": "42%",
+        "special_teams": "23",
         "st_pct": "43%"
       }
     ]
   },
   {
     "name": "Eku Leota",
+    "id": "LeotEk00",
+    "team": "CAR",
     "age": "25",
     "position": "OLB",
     "weight": "252",
     "height": "6-3",
     "college": "Northwestern,Auburn",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/L/LeotEk00.htm"
   }
 ]

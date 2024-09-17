@@ -106,8 +106,8 @@
         "team": "NWE",
         "pos": "T",
         "uniform_number": "59",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -180,24 +180,27 @@
         "team": "NWE",
         "pos": "T",
         "uniform_number": "59",
-        "g": "1",
-        "gs": "0",
-        "offense": "53",
-        "off_pct": "82%",
+        "g": "2",
+        "gs": "1",
+        "offense": "118",
+        "off_pct": "89%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "4",
-        "st_pct": "19%"
+        "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Vederian Lowe",
+    "id": "LoweVe00",
+    "team": "NE",
     "age": "25",
     "position": "T",
     "weight": "315",
     "height": "6-5",
     "college": "Illinois",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/L/LoweVe00.htm"
   }
 ]

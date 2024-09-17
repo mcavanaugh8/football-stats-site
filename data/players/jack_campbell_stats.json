@@ -80,8 +80,8 @@
         "team": "DET",
         "pos": "LB",
         "uniform_number": "46",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -93,10 +93,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "7",
-        "tackles_solo": "2",
-        "tackles_assists": "5",
-        "tackles_loss": "1",
+        "tackles_combined": "13",
+        "tackles_solo": "6",
+        "tackles_assists": "7",
+        "tackles_loss": "3",
         "qb_hits": "0",
         "safety_md": "",
         "av": "",
@@ -140,24 +140,27 @@
         "team": "DET",
         "pos": "LB",
         "uniform_number": "46",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "44",
-        "def_pct": "56%",
-        "special_teams": "9",
-        "st_pct": "35%"
+        "defense": "79",
+        "def_pct": "63%",
+        "special_teams": "17",
+        "st_pct": "33%"
       }
     ]
   },
   {
     "name": "Jack Campbell",
+    "id": "CampJa04",
+    "team": "DET",
     "age": "24",
     "position": "LB",
     "weight": "243",
     "height": "",
     "college": "Iowa",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/C/CampJa04.htm"
   }
 ]

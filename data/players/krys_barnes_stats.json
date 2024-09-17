@@ -160,7 +160,7 @@
         "team": "ARI",
         "pos": "LB",
         "uniform_number": "51",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -172,12 +172,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "1",
-        "tackles_assists": "1",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "6",
+        "tackles_solo": "3",
+        "tackles_assists": "3",
+        "tackles_loss": "1",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -264,24 +264,15 @@
         "team": "ARI",
         "pos": "LB",
         "uniform_number": "51",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "10",
-        "def_pct": "16%",
-        "special_teams": "23",
-        "st_pct": "85%"
+        "defense": "30",
+        "def_pct": "26%",
+        "special_teams": "40",
+        "st_pct": "77%"
       }
     ]
-  },
-  {
-    "name": "Krys Barnes",
-    "age": "26",
-    "position": "LB",
-    "weight": "229",
-    "height": "6-2",
-    "college": "UCLA",
-    "experience": "4"
   }
 ]

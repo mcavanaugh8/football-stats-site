@@ -160,7 +160,7 @@
         "team": "HOU",
         "pos": "LB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -264,24 +264,27 @@
         "team": "HOU",
         "pos": "LB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "68%"
+        "special_teams": "36",
+        "st_pct": "66%"
       }
     ]
   },
   {
     "name": "Del'Shawn Phillips",
+    "id": "PhilDe00",
+    "team": "HOU",
     "age": "28",
     "position": "LB",
     "weight": "230",
     "height": "6-2",
     "college": "Illinois",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/P/PhilDe00.htm"
   }
 ]

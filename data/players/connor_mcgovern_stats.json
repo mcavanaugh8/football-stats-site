@@ -160,8 +160,8 @@
         "team": "BUF",
         "pos": "G",
         "uniform_number": "66",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -264,10 +264,10 @@
         "team": "BUF",
         "pos": "G",
         "uniform_number": "66",
-        "g": "1",
-        "gs": "1",
-        "offense": "62",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "103",
+        "off_pct": "96%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -277,11 +277,14 @@
   },
   {
     "name": "Connor McGovern",
+    "id": "McGoCo01",
+    "team": "BUF",
     "age": "27",
     "position": "G",
     "weight": "318",
     "height": "6-5",
     "college": "Penn St.",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/M/McGoCo01.htm"
   }
 ]

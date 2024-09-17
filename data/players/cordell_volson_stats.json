@@ -98,24 +98,27 @@
         "team": "CIN",
         "pos": "G",
         "uniform_number": "67",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "115",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "10%"
+        "special_teams": "8",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Cordell Volson",
+    "id": "VolsCo02",
+    "team": "CIN",
     "age": "26",
     "position": "G",
     "weight": "315",
     "height": "6-6",
     "college": "North Dakota St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/V/VolsCo02.htm"
   }
 ]

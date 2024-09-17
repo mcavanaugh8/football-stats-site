@@ -173,7 +173,7 @@
         "team": "DET",
         "pos": "RB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -427,7 +427,7 @@
         "team": "DET",
         "pos": "RB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "",
         "rush_yds": "",
@@ -661,24 +661,27 @@
         "team": "DET",
         "pos": "RB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "3",
+        "off_pct": "2%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "18",
+        "special_teams": "36",
         "st_pct": "69%"
       }
     ]
   },
   {
     "name": "Craig Reynolds",
+    "id": "ReynCr00",
+    "team": "DET",
     "age": "28",
     "position": "RB",
     "weight": "216",
     "height": "5-11",
     "college": "Kutztown (PA)",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/R/ReynCr00.htm"
   }
 ]

@@ -79,7 +79,7 @@
         "team": "LAR",
         "pos": "LS",
         "uniform_number": "47",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "LAR",
         "pos": "LS",
         "uniform_number": "47",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "27%"
+        "special_teams": "13",
+        "st_pct": "26%"
       }
     ]
   },
   {
     "name": "Alex Ward",
+    "id": "WardAl00",
+    "team": "LAR",
     "age": "25",
     "position": "LS",
     "weight": "241",
     "height": "",
     "college": "Central Florida",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/W/WardAl00.htm"
   }
 ]

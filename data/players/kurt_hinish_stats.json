@@ -148,5 +148,17 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "Kurt Hinish (IRD)",
+    "id": "HiniKu00",
+    "team": "HOU",
+    "age": "25",
+    "position": "DT",
+    "weight": "296",
+    "height": "6-1",
+    "college": "Notre Dame",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/H/HiniKu00.htm"
   }
 ]

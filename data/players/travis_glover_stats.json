@@ -65,11 +65,14 @@
   },
   {
     "name": "Travis Glover",
+    "id": "GlovTr00",
+    "team": "GB",
     "age": "24",
     "position": "T",
     "weight": "317",
     "height": "",
     "college": "Georgia St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/G/GlovTr00.htm"
   }
 ]

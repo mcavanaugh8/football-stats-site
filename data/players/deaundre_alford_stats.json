@@ -242,11 +242,14 @@
   },
   {
     "name": "DeAundre Alford",
+    "id": "AlfoDe00",
+    "team": "ATL",
     "age": "27",
     "position": "CB",
     "weight": "177",
     "height": "5-11",
     "college": "Tusculum",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/A/AlfoDe00.htm"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Jalen Redmond",
+    "id": "RedmJa01",
+    "team": "MIN",
     "age": "25",
-    "position": "DT",
+    "position": "DL",
     "weight": "291",
     "height": "6-2",
     "college": "Oklahoma",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RedmJa01.htm"
   }
 ]

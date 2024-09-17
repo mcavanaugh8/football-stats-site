@@ -151,11 +151,14 @@
   },
   {
     "name": "Clark Phillips",
+    "id": "PhilCl00",
+    "team": "ATL",
     "age": "23",
     "position": "CB",
     "weight": "184",
     "height": "5-9",
     "college": "Utah",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/P/PhilCl00.htm"
   }
 ]

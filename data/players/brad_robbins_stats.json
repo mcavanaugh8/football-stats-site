@@ -128,5 +128,17 @@
         "st_pct": "32%"
       }
     ]
+  },
+  {
+    "name": "Brad Robbins (IRD)",
+    "id": "RobbBr00",
+    "team": "CIN",
+    "age": "26",
+    "position": "P",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Michigan",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/R/RobbBr00.htm"
   }
 ]

@@ -63,10 +63,10 @@
         "rush_yds": "7",
         "rush_td": "0",
         "rush_first_down": "0",
-        "rush_yds_before_contact": "7",
-        "rush_yds_bc_per_rush": "7.0",
-        "rush_yac": "0",
-        "rush_yac_per_rush": "0.0",
+        "rush_yds_before_contact": "3",
+        "rush_yds_bc_per_rush": "3.0",
+        "rush_yac": "4",
+        "rush_yac_per_rush": "4.0",
         "rush_broken_tackles": "0",
         "rush_broken_tackles_per_rush": ""
       }
@@ -292,5 +292,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Puka Nacua (IR)",
+    "id": "NacuPu00",
+    "team": "LAR",
+    "age": "23",
+    "position": "WR",
+    "weight": "212",
+    "height": "6-2",
+    "college": "Washington,BYU",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/N/NacuPu00.htm"
   }
 ]

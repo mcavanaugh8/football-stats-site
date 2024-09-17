@@ -106,5 +106,17 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Cameron Young (PUP)",
+    "id": "YounCa00",
+    "team": "SEA",
+    "age": "24",
+    "position": "NT",
+    "weight": "304",
+    "height": "",
+    "college": "Mississippi St.",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/Y/YounCa00.htm"
   }
 ]

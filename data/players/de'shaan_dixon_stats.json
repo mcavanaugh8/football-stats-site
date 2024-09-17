@@ -106,5 +106,17 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "De'Shaan Dixon (IR)",
+    "id": "DixoDe01",
+    "team": "JAX",
+    "age": "26",
+    "position": "DE",
+    "weight": "247",
+    "height": "6-4",
+    "college": "Norfolk St.",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/D/DixoDe01.htm"
   }
 ]

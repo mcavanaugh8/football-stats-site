@@ -68,24 +68,27 @@
         "team": "LAR",
         "pos": "OL",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "0",
-        "offense": "41",
-        "off_pct": "53%",
+        "g": "2",
+        "gs": "1",
+        "offense": "93",
+        "off_pct": "72%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "6",
+        "st_pct": "12%"
       }
     ]
   },
   {
     "name": "Beaux Limmer",
+    "id": "LimmBe00",
+    "team": "LAR",
     "age": "23",
     "position": "OL",
     "weight": "312",
     "height": "",
     "college": "Arkansas",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LimmBe00.htm"
   }
 ]

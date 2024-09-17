@@ -316,5 +316,17 @@
         "st_pct": "3%"
       }
     ]
+  },
+  {
+    "name": "Trayvon Mullen (IR)",
+    "id": "MullTr00",
+    "team": "BAL",
+    "age": "27",
+    "position": "CB",
+    "weight": "194",
+    "height": "6-2",
+    "college": "Clemson",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/M/MullTr00.htm"
   }
 ]

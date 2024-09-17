@@ -151,11 +151,14 @@
   },
   {
     "name": "Channing Tindall",
+    "id": "TindCh00",
+    "team": "MIA",
     "age": "24",
     "position": "LB",
     "weight": "236",
     "height": "6-2",
     "college": "Georgia",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/TindCh00.htm"
   }
 ]

@@ -214,7 +214,7 @@
         "team": "DET",
         "pos": "LB",
         "uniform_number": "51",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -348,24 +348,27 @@
         "team": "DET",
         "pos": "LB",
         "uniform_number": "51",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "18",
+        "special_teams": "36",
         "st_pct": "69%"
       }
     ]
   },
   {
     "name": "Ben Niemann",
+    "id": "NiemBe00",
+    "team": "DET",
     "age": "29",
     "position": "LB",
     "weight": "235",
     "height": "6-2",
     "college": "Iowa",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/N/NiemBe00.htm"
   }
 ]

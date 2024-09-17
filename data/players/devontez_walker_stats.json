@@ -65,11 +65,14 @@
   },
   {
     "name": "Devontez Walker",
+    "id": "WalkDe01",
+    "team": "BAL",
     "age": "23",
     "position": "WR",
     "weight": "198",
     "height": "6-1",
     "college": "North Carolina Central,Kent St.,North Carolina",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WalkDe01.htm"
   }
 ]

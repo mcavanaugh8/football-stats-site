@@ -45,6 +45,17 @@
         "fantasy_rank_pos": "48",
         "fantasy_rank_overall": "",
         "games": "All 2023 Games"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "g": "1",
+        "fantasy_pos": "QB",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "40",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
       }
     ]
   },
@@ -171,6 +182,39 @@
         "rec": "0",
         "rec_yds": "0",
         "rec_first_down": "0",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NYG",
+        "pos": "QB",
+        "uniform_number": "2",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "",
         "rec_air_yds": "0",
         "rec_air_yds_per_rec": "",
         "rec_yac": "0",
@@ -448,6 +492,25 @@
         "pass_air_yds_per_att": "3.1",
         "pass_yac": "305",
         "pass_yac_per_cmp": "6.4"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NYG",
+        "pos": "QB",
+        "uniform_number": "2",
+        "g": "1",
+        "gs": "0",
+        "pass_cmp": "0",
+        "pass_att": "0",
+        "pass_yds": "0",
+        "pass_target_yds": "0",
+        "pass_tgt_yds_per_att": "",
+        "pass_air_yds": "0",
+        "pass_air_yds_per_cmp": "",
+        "pass_air_yds_per_att": "",
+        "pass_yac": "0",
+        "pass_yac_per_cmp": ""
       }
     ]
   },
@@ -537,6 +600,27 @@
         "pass_poor_throw_pct": "16.0%",
         "pass_on_target": "54",
         "pass_on_target_pct": "72.0%"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NYG",
+        "pos": "QB",
+        "uniform_number": "2",
+        "g": "1",
+        "gs": "0",
+        "pass_cmp": "0",
+        "pass_att": "0",
+        "pass_yds": "0",
+        "pass_batted_passes": "0",
+        "pass_throwaways": "0",
+        "pass_spikes": "0",
+        "pass_drops": "0",
+        "pass_drop_pct": "0.0%",
+        "pass_poor_throws": "0",
+        "pass_poor_throw_pct": "0.0%",
+        "pass_on_target": "0",
+        "pass_on_target_pct": "0.0%"
       }
     ]
   },
@@ -626,6 +710,27 @@
         "pass_pressured_pct": "16.5%",
         "rush_scrambles": "3",
         "rush_scrambles_yds_per_att": "5.0"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NYG",
+        "pos": "QB",
+        "uniform_number": "2",
+        "g": "1",
+        "gs": "0",
+        "pass_cmp": "0",
+        "pass_att": "0",
+        "pass_yds": "0",
+        "pass_sacked": "0",
+        "pocket_time": "",
+        "pass_blitzed": "0",
+        "pass_hurried": "0",
+        "pass_hits": "0",
+        "pass_pressured": "0",
+        "pass_pressured_pct": "",
+        "rush_scrambles": "0",
+        "rush_scrambles_yds_per_att": ""
       }
     ]
   },
@@ -1083,16 +1188,34 @@
         "def_pct": "0%",
         "special_teams": "0",
         "st_pct": "0%"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "NYG",
+        "pos": "QB",
+        "uniform_number": "2",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "1",
+        "st_pct": "5%"
       }
     ]
   },
   {
     "name": "Drew Lock",
+    "id": "LockDr00",
+    "team": "NYG",
     "age": "28",
     "position": "QB",
     "weight": "228",
     "height": "6-4",
     "college": "Missouri",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/L/LockDr00.htm"
   }
 ]

@@ -68,24 +68,27 @@
         "team": "DEN",
         "pos": "C",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "15%"
+        "special_teams": "8",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Alex Forsyth",
+    "id": "ForsAl00",
+    "team": "DEN",
     "age": "25",
     "position": "C",
     "weight": "312",
     "height": "6-4",
     "college": "Oregon",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/F/ForsAl00.htm"
   }
 ]

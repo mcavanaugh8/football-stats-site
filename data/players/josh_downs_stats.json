@@ -214,11 +214,14 @@
   },
   {
     "name": "Josh Downs",
+    "id": "DownJo00",
+    "team": "IND",
     "age": "23",
     "position": "WR",
     "weight": "171",
     "height": "5-9",
     "college": "North Carolina",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/D/DownJo00.htm"
   }
 ]

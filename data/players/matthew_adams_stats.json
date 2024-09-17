@@ -316,5 +316,17 @@
         "st_pct": "85%"
       }
     ]
+  },
+  {
+    "name": "Matthew Adams (IRD)",
+    "id": "AdamMa00",
+    "team": "NYG",
+    "age": "29",
+    "position": "LB",
+    "weight": "230",
+    "height": "6-0",
+    "college": "Houston",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/A/AdamMa00.htm"
   }
 ]

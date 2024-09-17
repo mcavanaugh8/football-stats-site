@@ -68,24 +68,27 @@
         "team": "NWE",
         "pos": "G",
         "uniform_number": "64",
-        "g": "1",
-        "gs": "1",
-        "offense": "65",
+        "g": "2",
+        "gs": "2",
+        "offense": "133",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Layden Robinson",
+    "id": "RobiLa02",
+    "team": "NE",
     "age": "23",
     "position": "G",
     "weight": "311",
     "height": "6-3",
     "college": "Texas A&M",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RobiLa02.htm"
   }
 ]

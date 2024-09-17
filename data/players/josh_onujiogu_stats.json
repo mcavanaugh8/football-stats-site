@@ -106,5 +106,17 @@
         "st_pct": "22%"
       }
     ]
+  },
+  {
+    "name": "Josh Onujiogu (IR)",
+    "id": "OnujJo00",
+    "team": "SEA",
+    "age": "26",
+    "position": "LB",
+    "weight": "252",
+    "height": "6-2",
+    "college": "Framingham St.",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/O/OnujJo00.htm"
   }
 ]

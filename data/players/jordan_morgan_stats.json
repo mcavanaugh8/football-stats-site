@@ -68,24 +68,27 @@
         "team": "GNB",
         "pos": "OT",
         "uniform_number": "77",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "28",
-        "off_pct": "42%",
+        "offense": "48",
+        "off_pct": "35%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "23%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Jordan Morgan",
+    "id": "MorgJo03",
+    "team": "GB",
     "age": "23",
     "position": "OT",
     "weight": "311",
     "height": "",
     "college": "Arizona",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MorgJo03.htm"
   }
 ]

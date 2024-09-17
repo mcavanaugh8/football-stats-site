@@ -187,8 +187,8 @@
         "team": "HOU",
         "pos": "T",
         "uniform_number": "71",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -306,24 +306,27 @@
         "team": "HOU",
         "pos": "T",
         "uniform_number": "71",
-        "g": "1",
-        "gs": "1",
-        "offense": "79",
+        "g": "2",
+        "gs": "2",
+        "offense": "141",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "special_teams": "10",
+        "st_pct": "18%"
       }
     ]
   },
   {
     "name": "Tytus Howard",
+    "id": "HowaTy00",
+    "team": "HOU",
     "age": "28",
     "position": "T",
     "weight": "322",
     "height": "6-5",
     "college": "Alabama St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/H/HowaTy00.htm"
   }
 ]

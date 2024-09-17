@@ -274,5 +274,17 @@
         "st_pct": "5%"
       }
     ]
+  },
+  {
+    "name": "Armon Watts (IR)",
+    "id": "WattAr01",
+    "team": "NE",
+    "age": "28",
+    "position": "DT",
+    "weight": "307",
+    "height": "6-5",
+    "college": "Arkansas",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WattAr01.htm"
   }
 ]

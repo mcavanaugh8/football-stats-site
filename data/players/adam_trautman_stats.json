@@ -49,11 +49,11 @@
       {
         "year_id": "2024",
         "age": "27",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "70",
+        "fantasy_rank_pos": "103",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -204,8 +204,8 @@
         "team": "DEN",
         "pos": "TE",
         "uniform_number": "82",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "1",
         "rec": "0",
         "rec_yds": "0",
@@ -411,8 +411,8 @@
         "team": "DEN",
         "pos": "TE",
         "uniform_number": "82",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "1",
         "rec": "0",
         "rec_yds": "0",
@@ -538,8 +538,8 @@
         "team": "DEN",
         "pos": "TE",
         "uniform_number": "82",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -750,24 +750,27 @@
         "team": "DEN",
         "pos": "TE",
         "uniform_number": "82",
-        "g": "1",
-        "gs": "1",
-        "offense": "24",
-        "off_pct": "35%",
+        "g": "2",
+        "gs": "2",
+        "offense": "49",
+        "off_pct": "38%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "24%"
+        "special_teams": "11",
+        "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Adam Trautman",
+    "id": "TrauAd00",
+    "team": "DEN",
     "age": "27",
     "position": "TE",
     "weight": "253",
     "height": "6-5",
     "college": "Dayton",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/T/TrauAd00.htm"
   }
 ]

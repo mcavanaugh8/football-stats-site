@@ -109,11 +109,14 @@
   },
   {
     "name": "Nate Wiggins",
+    "id": "WiggNa00",
+    "team": "BAL",
     "age": "21",
     "position": "CB",
     "weight": "182",
     "height": "",
     "college": "Clemson",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WiggNa00.htm"
   }
 ]

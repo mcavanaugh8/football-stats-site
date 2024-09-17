@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Ryan Watts (IR)",
+    "id": "WattRy00",
+    "team": "PIT",
+    "age": "23",
+    "position": "DB",
+    "weight": "212",
+    "height": "",
+    "college": "Ohio St.,Texas",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WattRy00.htm"
   }
 ]

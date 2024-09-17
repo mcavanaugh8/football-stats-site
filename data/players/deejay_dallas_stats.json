@@ -49,11 +49,11 @@
       {
         "year_id": "2024",
         "age": "26",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "RB",
         "fantasy_points": "6",
         "vbd": "",
-        "fantasy_rank_pos": "35",
+        "fantasy_rank_pos": "51",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -200,7 +200,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -249,7 +249,6 @@
         "pass_int": "1",
         "pass_int_pct": "100.0",
         "pass_first_down": "0",
-        "pass_long": "0",
         "pass_yds_per_att": "0.0",
         "pass_adj_yds_per_att": "-45.00",
         "pass_yds_per_g": "0.0",
@@ -282,7 +281,6 @@
         "pass_int": "0",
         "pass_int_pct": "",
         "pass_first_down": "0",
-        "pass_long": "0",
         "pass_yds_per_att": "",
         "pass_adj_yds_per_att": "",
         "pass_yds_per_g": "0.0",
@@ -385,7 +383,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -493,7 +491,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -603,7 +601,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -789,7 +787,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "",
         "rush_yds": "",
@@ -927,6 +925,32 @@
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": ""
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "ARI",
+        "pos": "RB",
+        "uniform_number": "20",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": ""
       }
     ]
   },
@@ -1003,7 +1027,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "punt_ret": "",
         "punt_ret_yds": "",
@@ -1082,7 +1106,7 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -1101,7 +1125,7 @@
         "fga": "",
         "safety_md": "",
         "scoring": "6",
-        "points_per_g": "6.0"
+        "points_per_g": "3.0"
       }
     ]
   },
@@ -1174,24 +1198,15 @@
         "team": "ARI",
         "pos": "RB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "16",
-        "st_pct": "59%"
+        "special_teams": "31",
+        "st_pct": "60%"
       }
     ]
-  },
-  {
-    "name": "DeeJay Dallas",
-    "age": "26",
-    "position": "RB",
-    "weight": "214",
-    "height": "5-10",
-    "college": "Miami (FL)",
-    "experience": "4"
   }
 ]

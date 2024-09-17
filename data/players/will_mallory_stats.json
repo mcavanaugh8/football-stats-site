@@ -192,11 +192,14 @@
   },
   {
     "name": "Will Mallory",
+    "id": "MallWi00",
+    "team": "IND",
     "age": "25",
     "position": "TE",
     "weight": "239",
     "height": "6-4",
     "college": "Miami (FL)",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MallWi00.htm"
   }
 ]

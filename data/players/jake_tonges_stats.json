@@ -16,11 +16,11 @@
       {
         "year_id": "2024",
         "age": "25",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "60",
+        "fantasy_rank_pos": "102",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -69,7 +69,7 @@
         "team": "SFO",
         "pos": "TE",
         "uniform_number": "88",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -168,7 +168,7 @@
         "team": "SFO",
         "pos": "TE",
         "uniform_number": "88",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -210,7 +210,34 @@
   },
   {
     "category": "defense",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "SFO",
+        "pos": "TE",
+        "uniform_number": "88",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": ""
+      }
+    ]
   },
   {
     "category": "punting",
@@ -248,24 +275,27 @@
         "team": "SFO",
         "pos": "TE",
         "uniform_number": "88",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "1",
+        "offense": "2",
         "off_pct": "1%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "16",
-        "st_pct": "62%"
+        "special_teams": "29",
+        "st_pct": "59%"
       }
     ]
   },
   {
     "name": "Jake Tonges",
+    "id": "TongJa00",
+    "team": "SF",
     "age": "25",
     "position": "TE",
     "weight": "240",
     "height": "6-4",
     "college": "California",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/TongJa00.htm"
   }
 ]

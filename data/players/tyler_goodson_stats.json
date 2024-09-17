@@ -12,6 +12,17 @@
         "fantasy_rank_pos": "95",
         "fantasy_rank_overall": "",
         "games": "All 2023 Games"
+      },
+      {
+        "year_id": "2024",
+        "age": "24",
+        "g": "1",
+        "fantasy_pos": "RB",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "91",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
       }
     ]
   },
@@ -50,6 +61,39 @@
         "rec_drop_pct": "22.2",
         "rec_target_int": "0",
         "rec_pass_rating": "73.4"
+      },
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "IND",
+        "pos": "RB",
+        "uniform_number": "31",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "2",
+        "rec_first_down": "",
+        "rec_air_yds": "2",
+        "rec_air_yds_per_rec": "2.0",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "0.0",
+        "rec_adot": "2.0",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "79.2"
       }
     ]
   },
@@ -123,6 +167,42 @@
         "rush_receive_td": "0",
         "fumbles": "0",
         "av": "1"
+      },
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "IND",
+        "pos": "RB",
+        "uniform_number": "31",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "2",
+        "rec_yds_per_rec": "2.0",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "0.0",
+        "rec_long": "2",
+        "rec_per_g": "1.0",
+        "rec_yds_per_g": "2.0",
+        "catch_pct": "100.0%",
+        "rec_yds_per_tgt": "2.0",
+        "touches": "1",
+        "yds_per_touch": "2.0",
+        "yds_from_scrimmage": "2",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
       }
     ]
   },
@@ -159,16 +239,34 @@
         "def_pct": "0%",
         "special_teams": "2",
         "st_pct": "1%"
+      },
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "IND",
+        "pos": "RB",
+        "uniform_number": "31",
+        "g": "1",
+        "gs": "0",
+        "offense": "9",
+        "off_pct": "16%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "3",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Tyler Goodson",
+    "id": "GoodTy00",
+    "team": "IND",
     "age": "24",
     "position": "RB",
     "weight": "197",
     "height": "",
     "college": "Iowa",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/G/GoodTy00.htm"
   }
 ]

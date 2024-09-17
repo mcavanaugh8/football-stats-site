@@ -274,5 +274,17 @@
         "st_pct": "82%"
       }
     ]
+  },
+  {
+    "name": "Jordan Kunaszyk (IR)",
+    "id": "KunaJo00",
+    "team": "MIN",
+    "age": "28",
+    "position": "LB",
+    "weight": "235",
+    "height": "6-3",
+    "college": "California",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/K/KunaJo00.htm"
   }
 ]

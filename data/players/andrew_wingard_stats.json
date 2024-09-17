@@ -476,5 +476,17 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Andrew Wingard (IRD)",
+    "id": "WingAn01",
+    "team": "JAX",
+    "age": "28",
+    "position": "S",
+    "weight": "200",
+    "height": "6-0",
+    "college": "Wyoming",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WingAn01.htm"
   }
 ]

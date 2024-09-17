@@ -581,7 +581,7 @@
         "team": "CHI",
         "pos": "K",
         "uniform_number": "8",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -594,13 +594,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "1",
-        "xpa": "1",
-        "fgm": "3",
-        "fga": "3",
+        "xpm": "2",
+        "xpa": "2",
+        "fgm": "5",
+        "fga": "5",
         "safety_md": "",
-        "scoring": "10",
-        "points_per_g": "10.0"
+        "scoring": "17",
+        "points_per_g": "8.5"
       }
     ]
   },
@@ -823,24 +823,27 @@
         "team": "CHI",
         "pos": "K",
         "uniform_number": "8",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "10",
-        "st_pct": "35%"
+        "special_teams": "17",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Cairo Santos",
+    "id": "SantCa01",
+    "team": "CHI",
     "age": "33",
     "position": "K",
     "weight": "175",
     "height": "5-8",
     "college": "Tulane",
-    "experience": "10"
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/S/SantCa01.htm"
   }
 ]

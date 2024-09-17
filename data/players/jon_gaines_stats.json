@@ -62,14 +62,5 @@
   {
     "category": "snap_counts",
     "rows": []
-  },
-  {
-    "name": "Jon Gaines",
-    "age": "25",
-    "position": "OL",
-    "weight": "303",
-    "height": "6-4",
-    "college": "UCLA",
-    "experience": "Rook"
   }
 ]

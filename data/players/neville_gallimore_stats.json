@@ -160,7 +160,7 @@
         "team": "LAR",
         "pos": "NT",
         "uniform_number": "92",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -173,9 +173,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
+        "tackles_combined": "3",
         "tackles_solo": "0",
-        "tackles_assists": "2",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -264,24 +264,27 @@
         "team": "LAR",
         "pos": "NT",
         "uniform_number": "92",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "4",
-        "def_pct": "7%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "20",
+        "def_pct": "16%",
+        "special_teams": "1",
+        "st_pct": "2%"
       }
     ]
   },
   {
     "name": "Neville Gallimore",
+    "id": "GallNe00",
+    "team": "LAR",
     "age": "27",
     "position": "NT",
     "weight": "315",
     "height": "6-2",
     "college": "Oklahoma",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/G/GallNe00.htm"
   }
 ]

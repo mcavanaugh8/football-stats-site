@@ -65,11 +65,14 @@
   },
   {
     "name": "Tanner McKee",
+    "id": "McKeTa01",
+    "team": "PHI",
     "age": "24",
     "position": "QB",
     "weight": "231",
     "height": "",
     "college": "Stanford",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/McKeTa01.htm"
   }
 ]

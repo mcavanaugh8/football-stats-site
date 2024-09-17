@@ -27,11 +27,11 @@
       {
         "year_id": "2024",
         "age": "24",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "130",
+        "fantasy_rank_pos": "162",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -114,7 +114,7 @@
         "team": "KAN",
         "pos": "WR",
         "uniform_number": "24",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -249,7 +249,7 @@
         "team": "KAN",
         "pos": "WR",
         "uniform_number": "24",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -420,24 +420,27 @@
         "team": "KAN",
         "pos": "WR",
         "uniform_number": "24",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "10",
-        "off_pct": "19%",
+        "offense": "15",
+        "off_pct": "13%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "special_teams": "3",
+        "st_pct": "6%"
       }
     ]
   },
   {
     "name": "Skyy Moore",
+    "id": "MoorSk01",
+    "team": "KC",
     "age": "24",
     "position": "WR",
     "weight": "195",
     "height": "5-10",
     "college": "Western Michigan",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/MoorSk01.htm"
   }
 ]

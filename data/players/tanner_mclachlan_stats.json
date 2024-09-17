@@ -65,11 +65,14 @@
   },
   {
     "name": "Tanner McLachlan",
+    "id": "McLaTa00",
+    "team": "CIN",
     "age": "25",
     "position": "TE",
     "weight": "244",
     "height": "",
     "college": "Southern Utah,Arizona",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/McLaTa00.htm"
   }
 ]

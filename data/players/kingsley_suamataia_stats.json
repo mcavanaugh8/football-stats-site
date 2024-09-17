@@ -68,24 +68,27 @@
         "team": "KAN",
         "pos": "T",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
-        "offense": "54",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "108",
+        "off_pct": "91%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Kingsley Suamataia",
+    "id": "SuamKi00",
+    "team": "KC",
     "age": "21",
     "position": "T",
     "weight": "326",
     "height": "6-4",
     "college": "Oregon,BYU",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SuamKi00.htm"
   }
 ]

@@ -78,5 +78,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jaylon Thomas (IR)",
+    "id": "ThomJa05",
+    "team": "HOU",
+    "age": "24",
+    "position": "T",
+    "weight": "311",
+    "height": "",
+    "college": "SMU",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/ThomJa05.htm"
   }
 ]

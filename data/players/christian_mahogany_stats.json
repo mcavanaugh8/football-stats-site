@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Christian Mahogany (NON)",
+    "id": "MahoCh00",
+    "team": "DET",
+    "age": "24",
+    "position": "OL",
+    "weight": "319",
+    "height": "",
+    "college": "Boston Col.",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MahoCh00.htm"
   }
 ]

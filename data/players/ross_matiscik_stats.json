@@ -164,7 +164,7 @@
         "team": "JAX",
         "pos": "LS",
         "uniform_number": "46",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -269,24 +269,27 @@
         "team": "JAX",
         "pos": "LS",
         "uniform_number": "46",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "36%"
+        "special_teams": "16",
+        "st_pct": "31%"
       }
     ]
   },
   {
     "name": "Ross Matiscik",
+    "id": "MatiRo00",
+    "team": "JAX",
     "age": "28",
     "position": "LS",
     "weight": "240",
     "height": "6-0",
     "college": "Baylor",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/M/MatiRo00.htm"
   }
 ]

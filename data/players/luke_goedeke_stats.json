@@ -193,11 +193,14 @@
   },
   {
     "name": "Luke Goedeke",
+    "id": "GoedLu00",
+    "team": "TB",
     "age": "26",
     "position": "T",
     "weight": "312",
     "height": "6-5",
     "college": "Wisconsin–Stevens Point,Central Michigan",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/G/GoedLu00.htm"
   }
 ]

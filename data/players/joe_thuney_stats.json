@@ -276,8 +276,8 @@
         "team": "KAN",
         "pos": "G",
         "uniform_number": "62",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -441,9 +441,9 @@
         "team": "KAN",
         "pos": "G",
         "uniform_number": "62",
-        "g": "1",
-        "gs": "1",
-        "offense": "54",
+        "g": "2",
+        "gs": "2",
+        "offense": "119",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -454,11 +454,14 @@
   },
   {
     "name": "Joe Thuney",
+    "id": "ThunJo00",
+    "team": "KC",
     "age": "32",
     "position": "G",
     "weight": "304",
     "height": "6-5",
     "college": "North Carolina St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/T/ThunJo00.htm"
   }
 ]

@@ -214,7 +214,7 @@
         "team": "BUF",
         "pos": "DE",
         "uniform_number": "99",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -227,10 +227,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
+        "tackles_combined": "4",
+        "tackles_solo": "4",
         "tackles_assists": "0",
-        "tackles_loss": "0",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -376,24 +376,27 @@
         "team": "BUF",
         "pos": "DE",
         "uniform_number": "99",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "11",
-        "def_pct": "18%",
-        "special_teams": "13",
-        "st_pct": "48%"
+        "defense": "34",
+        "def_pct": "25%",
+        "special_teams": "18",
+        "st_pct": "38%"
       }
     ]
   },
   {
     "name": "Casey Toohill",
+    "id": "ToohCa00",
+    "team": "BUF",
     "age": "28",
     "position": "DE",
     "weight": "254",
     "height": "6-5",
     "college": "Stanford",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/T/ToohCa00.htm"
   }
 ]

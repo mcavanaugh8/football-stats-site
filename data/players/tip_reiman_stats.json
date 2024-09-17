@@ -5,11 +5,11 @@
       {
         "year_id": "2024",
         "age": "23",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "80",
+        "fantasy_rank_pos": "94",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -80,24 +80,15 @@
         "team": "ARI",
         "pos": "TE",
         "uniform_number": "87",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "20",
-        "off_pct": "33%",
+        "offense": "58",
+        "off_pct": "46%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "11",
-        "st_pct": "41%"
+        "special_teams": "21",
+        "st_pct": "40%"
       }
     ]
-  },
-  {
-    "name": "Tip Reiman",
-    "age": "23",
-    "position": "TE",
-    "weight": "273",
-    "height": "6-4",
-    "college": "Illinois",
-    "experience": "Rook"
   }
 ]

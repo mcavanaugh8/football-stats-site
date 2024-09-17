@@ -79,7 +79,7 @@
         "team": "LVR",
         "pos": "DE",
         "uniform_number": "97",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "LVR",
         "pos": "DE",
         "uniform_number": "97",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "24",
-        "def_pct": "42%",
-        "special_teams": "4",
-        "st_pct": "14%"
+        "defense": "60",
+        "def_pct": "49%",
+        "special_teams": "10",
+        "st_pct": "16%"
       }
     ]
   },
   {
     "name": "Janarius Robinson",
+    "id": "RobiJa04",
+    "team": "LV",
     "age": "25",
     "position": "DE",
     "weight": "260",
     "height": "6-5",
     "college": "Florida St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/R/RobiJa04.htm"
   }
 ]

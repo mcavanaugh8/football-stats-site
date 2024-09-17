@@ -165,11 +165,14 @@
   },
   {
     "name": "John Metchie",
+    "id": "MetcJo00",
+    "team": "HOU",
     "age": "24",
     "position": "WR",
     "weight": "195",
     "height": "6-0",
     "college": "Alabama",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MetcJo00.htm"
   }
 ]

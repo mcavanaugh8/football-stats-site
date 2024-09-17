@@ -126,11 +126,11 @@
       {
         "year_id": "2024",
         "age": "32",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "127",
+        "fantasy_rank_pos": "172",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -349,7 +349,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -808,7 +808,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -1141,6 +1141,26 @@
         "kick_ret_long": "",
         "kick_ret_yds_per_ret": "",
         "all_purpose_yds": "475"
+      },
+      {
+        "year_id": "2024",
+        "age": "32",
+        "team": "HOU",
+        "pos": "WR",
+        "uniform_number": "2",
+        "g": "2",
+        "gs": "0",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "2",
+        "kick_ret_yds": "61",
+        "kick_ret_td": "0",
+        "kick_ret_long": "31",
+        "kick_ret_yds_per_ret": "30.5",
+        "all_purpose_yds": "61"
       }
     ]
   },
@@ -1620,24 +1640,27 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "12",
+        "offense": "21",
         "off_pct": "15%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "special_teams": "2",
+        "st_pct": "4%"
       }
     ]
   },
   {
     "name": "Robert Woods",
+    "id": "WoodRo02",
+    "team": "HOU",
     "age": "32",
     "position": "WR",
     "weight": "193",
     "height": "6-0",
     "college": "USC",
-    "experience": "11"
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/W/WoodRo02.htm"
   }
 ]

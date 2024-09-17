@@ -325,11 +325,14 @@
   },
   {
     "name": "Chris Lindstrom",
+    "id": "LindCh00",
+    "team": "ATL",
     "age": "27",
     "position": "G",
     "weight": "307",
     "height": "6-3",
     "college": "Boston Col.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/L/LindCh00.htm"
   }
 ]

@@ -2027,5 +2027,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Marcus Mariota (IR)",
+    "id": "MariMa01",
+    "team": "WAS",
+    "age": "31",
+    "position": "QB",
+    "weight": "222",
+    "height": "6-4",
+    "college": "Oregon",
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/M/MariMa01.htm"
   }
 ]

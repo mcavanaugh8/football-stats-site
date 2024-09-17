@@ -193,11 +193,14 @@
   },
   {
     "name": "DeAngelo Malone",
+    "id": "MaloDe00",
+    "team": "ATL",
     "age": "25",
     "position": "OLB",
     "weight": "246",
     "height": "6-3",
     "college": "Western Kentucky",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/MaloDe00.htm"
   }
 ]

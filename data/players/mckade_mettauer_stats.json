@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "McKade Mettauer (IR)",
+    "id": "MettMc00",
+    "team": "KC",
+    "age": "",
+    "position": "G",
+    "weight": "307",
+    "height": "6-3",
+    "college": "California,Oklahoma",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MettMc00.htm"
   }
 ]

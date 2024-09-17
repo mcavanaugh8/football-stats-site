@@ -187,8 +187,8 @@
         "team": "BUF",
         "pos": "S",
         "uniform_number": "9",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -200,10 +200,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "3",
-        "tackles_assists": "2",
-        "tackles_loss": "0",
+        "tackles_combined": "10",
+        "tackles_solo": "6",
+        "tackles_assists": "4",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -334,24 +334,27 @@
         "team": "BUF",
         "pos": "S",
         "uniform_number": "9",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "61",
-        "def_pct": "100%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "defense": "131",
+        "def_pct": "96%",
+        "special_teams": "6",
+        "st_pct": "13%"
       }
     ]
   },
   {
     "name": "Taylor Rapp",
+    "id": "RappTa00",
+    "team": "BUF",
     "age": "27",
     "position": "S",
     "weight": "208",
     "height": "6-0",
     "college": "Washington",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/R/RappTa00.htm"
   }
 ]

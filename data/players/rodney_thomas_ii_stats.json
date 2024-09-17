@@ -106,8 +106,8 @@
         "team": "IND",
         "pos": "S",
         "uniform_number": "25",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -119,11 +119,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "6",
+        "tackles_solo": "4",
+        "tackles_assists": "2",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -180,24 +180,27 @@
         "team": "IND",
         "pos": "S",
         "uniform_number": "25",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "1",
-        "def_pct": "1%",
-        "special_teams": "8",
-        "st_pct": "32%"
+        "defense": "71",
+        "def_pct": "48%",
+        "special_teams": "16",
+        "st_pct": "34%"
       }
     ]
   },
   {
     "name": "Rodney Thomas II",
+    "id": "ThomRo07",
+    "team": "IND",
     "age": "26",
     "position": "S",
     "weight": "196",
     "height": "6-1",
     "college": "Yale",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/ThomRo07.htm"
   }
 ]

@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Ryan Coll (IR)",
+    "id": "CollRy01",
+    "team": "IND",
+    "age": "23",
+    "position": "C",
+    "weight": "324",
+    "height": "6-5",
+    "college": "Richmond",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CollRy01.htm"
   }
 ]

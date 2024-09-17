@@ -65,11 +65,14 @@
   },
   {
     "name": "Giovanni Manu",
+    "id": "ManuGi00",
+    "team": "DET",
     "age": "23",
     "position": "OL",
     "weight": "354",
     "height": "6-7",
     "college": "British Columbia",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/ManuGi00.htm"
   }
 ]

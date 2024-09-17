@@ -403,8 +403,8 @@
         "team": "LVR",
         "pos": "DT",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -416,9 +416,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "2",
-        "tackles_assists": "3",
+        "tackles_combined": "7",
+        "tackles_solo": "3",
+        "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -670,24 +670,27 @@
         "team": "LVR",
         "pos": "DT",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "34",
-        "def_pct": "60%",
-        "special_teams": "6",
-        "st_pct": "21%"
+        "defense": "55",
+        "def_pct": "45%",
+        "special_teams": "12",
+        "st_pct": "20%"
       }
     ]
   },
   {
     "name": "John Jenkins",
+    "id": "JenkJo00",
+    "team": "LV",
     "age": "35",
     "position": "DT",
     "weight": "327",
     "height": "6-3",
     "college": "Mississippi Gulf Coast CC,Georgia",
-    "experience": "11"
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/J/JenkJo00.htm"
   }
 ]

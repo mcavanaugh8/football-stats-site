@@ -476,5 +476,17 @@
         "st_pct": "35%"
       }
     ]
+  },
+  {
+    "name": "Malik Taylor (IR)",
+    "id": "TaylMa01",
+    "team": "NYJ",
+    "age": "29",
+    "position": "WR",
+    "weight": "220",
+    "height": "6-1",
+    "college": "Ferris St.",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/T/TaylMa01.htm"
   }
 ]

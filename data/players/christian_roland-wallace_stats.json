@@ -68,24 +68,27 @@
         "team": "KAN",
         "pos": "CB",
         "uniform_number": "30",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "16",
-        "st_pct": "62%"
+        "special_teams": "31",
+        "st_pct": "60%"
       }
     ]
   },
   {
     "name": "Christian Roland-Wallace",
+    "id": "RolaCh00",
+    "team": "KC",
     "age": "23",
     "position": "CB",
     "weight": "202",
     "height": "5-11",
     "college": "Arizona,USC",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RolaCh00.htm"
   }
 ]

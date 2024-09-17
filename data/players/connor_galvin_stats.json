@@ -78,5 +78,17 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Connor Galvin (IR)",
+    "id": "GalvCo00",
+    "team": "DET",
+    "age": "24",
+    "position": "OL",
+    "weight": "300",
+    "height": "",
+    "college": "Baylor",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/G/GalvCo00.htm"
   }
 ]

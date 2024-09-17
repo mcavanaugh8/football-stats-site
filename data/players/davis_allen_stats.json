@@ -20,7 +20,7 @@
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "69",
+        "fantasy_rank_pos": "70",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -82,8 +82,8 @@
         "rec_adot": "2.0",
         "rec_broken_tackles": "0",
         "rec_broken_tackles_per_rec": "",
-        "rec_drops": "0",
-        "rec_drop_pct": "0.0",
+        "rec_drops": "1",
+        "rec_drop_pct": "100.0",
         "rec_target_int": "0",
         "rec_pass_rating": "39.6",
         "rush_att": "0",
@@ -316,11 +316,14 @@
   },
   {
     "name": "Davis Allen",
+    "id": "AlleDa02",
+    "team": "LAR",
     "age": "23",
     "position": "TE",
     "weight": "251",
     "height": "",
     "college": "Clemson",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AlleDa02.htm"
   }
 ]

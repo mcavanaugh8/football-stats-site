@@ -187,8 +187,8 @@
         "team": "TAM",
         "pos": "DL",
         "uniform_number": "96",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -200,11 +200,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "0",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
         "tackles_assists": "1",
         "tackles_loss": "0",
-        "qb_hits": "0",
+        "qb_hits": "2",
         "safety_md": "",
         "av": ""
       }
@@ -306,24 +306,27 @@
         "team": "TAM",
         "pos": "DL",
         "uniform_number": "96",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "36",
-        "def_pct": "61%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "102",
+        "def_pct": "71%",
+        "special_teams": "2",
+        "st_pct": "4%"
       }
     ]
   },
   {
     "name": "Greg Gaines",
+    "id": "GainGr00",
+    "team": "TB",
     "age": "28",
     "position": "DL",
     "weight": "312",
     "height": "6-1",
     "college": "Washington",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/G/GainGr00.htm"
   }
 ]

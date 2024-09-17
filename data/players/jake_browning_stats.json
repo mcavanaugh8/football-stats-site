@@ -340,11 +340,14 @@
   },
   {
     "name": "Jake Browning",
+    "id": "BrowJa08",
+    "team": "CIN",
     "age": "28",
     "position": "QB",
     "weight": "209",
     "height": "6-2",
     "college": "Washington",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BrowJa08.htm"
   }
 ]

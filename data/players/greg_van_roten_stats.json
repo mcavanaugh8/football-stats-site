@@ -295,8 +295,8 @@
         "team": "NYG",
         "pos": "OG",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -474,24 +474,27 @@
         "team": "NYG",
         "pos": "OG",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
-        "offense": "71",
+        "g": "2",
+        "gs": "2",
+        "offense": "127",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "8%"
+        "special_teams": "3",
+        "st_pct": "7%"
       }
     ]
   },
   {
     "name": "Greg Van Roten",
+    "id": "VanRGr00",
+    "team": "NYG",
     "age": "34",
     "position": "OG",
     "weight": "295",
     "height": "6-4",
     "college": "Pennsylvania",
-    "experience": "12"
+    "experience": "12",
+    "href": "https://www.pro-football-reference.com/players/V/VanRGr00.htm"
   }
 ]

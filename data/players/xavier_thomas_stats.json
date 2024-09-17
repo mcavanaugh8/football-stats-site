@@ -45,7 +45,35 @@
   },
   {
     "category": "defense",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "ARI",
+        "pos": "OLB",
+        "uniform_number": "54",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "0",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "punting",
@@ -68,24 +96,15 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "18",
-        "def_pct": "29%",
-        "special_teams": "6",
-        "st_pct": "22%"
+        "defense": "39",
+        "def_pct": "34%",
+        "special_teams": "14",
+        "st_pct": "27%"
       }
     ]
-  },
-  {
-    "name": "Xavier Thomas",
-    "age": "25",
-    "position": "OLB",
-    "weight": "244",
-    "height": "",
-    "college": "Clemson",
-    "experience": "Rook"
   }
 ]

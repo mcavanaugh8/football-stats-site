@@ -349,7 +349,7 @@
         "team": "TAM",
         "pos": "DL",
         "uniform_number": "92",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "def_int": "",
         "def_int_yds": "",
@@ -362,9 +362,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "0",
-        "tackles_assists": "1",
+        "tackles_combined": "3",
+        "tackles_solo": "1",
+        "tackles_assists": "2",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -558,24 +558,27 @@
         "team": "TAM",
         "pos": "DL",
         "uniform_number": "92",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "18",
+        "defense": "45",
         "def_pct": "31%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "William Gholston",
+    "id": "GholWi00",
+    "team": "TB",
     "age": "33",
     "position": "DL",
     "weight": "281",
     "height": "6-6",
     "college": "Michigan St.",
-    "experience": "11"
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/G/GholWi00.htm"
   }
 ]

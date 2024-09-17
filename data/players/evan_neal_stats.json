@@ -178,11 +178,14 @@
   },
   {
     "name": "Evan Neal",
+    "id": "NealEv00",
+    "team": "NYG",
     "age": "24",
     "position": "T",
     "weight": "340",
     "height": "6-7",
     "college": "Alabama",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/N/NealEv00.htm"
   }
 ]

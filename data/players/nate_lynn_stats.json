@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Nate Lynn (IR)",
+    "id": "LynnNa00",
+    "team": "DET",
+    "age": "22",
+    "position": "DL",
+    "weight": "256",
+    "height": "6-3",
+    "college": "William & Mary",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LynnNa00.htm"
   }
 ]

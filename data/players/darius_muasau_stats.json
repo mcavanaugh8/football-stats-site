@@ -66,8 +66,8 @@
         "fumbles_rec_td": "0",
         "sacks": "0.0",
         "tackles_combined": "6",
-        "tackles_solo": "4",
-        "tackles_assists": "2",
+        "tackles_solo": "5",
+        "tackles_assists": "1",
         "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
@@ -109,11 +109,14 @@
   },
   {
     "name": "Darius Muasau",
+    "id": "MuasDa00",
+    "team": "NYG",
     "age": "23",
     "position": "LB",
     "weight": "234",
     "height": "",
     "college": "Hawaii,UCLA",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MuasDa00.htm"
   }
 ]

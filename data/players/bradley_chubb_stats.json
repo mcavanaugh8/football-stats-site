@@ -408,5 +408,17 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Bradley Chubb (PUP)",
+    "id": "ChubBr00",
+    "team": "MIA",
+    "age": "28",
+    "position": "LB",
+    "weight": "268",
+    "height": "6-4",
+    "college": "North Carolina St.",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/ChubBr00.htm"
   }
 ]

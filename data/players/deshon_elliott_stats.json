@@ -187,8 +187,8 @@
         "team": "PIT",
         "pos": "S",
         "uniform_number": "25",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "1",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -200,10 +200,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "1",
-        "tackles_assists": "3",
-        "tackles_loss": "0",
+        "tackles_combined": "13",
+        "tackles_solo": "5",
+        "tackles_assists": "8",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -306,24 +306,27 @@
         "team": "PIT",
         "pos": "S",
         "uniform_number": "25",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "47",
-        "def_pct": "84%",
-        "special_teams": "2",
-        "st_pct": "8%"
+        "defense": "94",
+        "def_pct": "80%",
+        "special_teams": "5",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "DeShon Elliott",
+    "id": "ElliDe02",
+    "team": "PIT",
     "age": "27",
     "position": "S",
     "weight": "210",
     "height": "6-0",
     "college": "Texas",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/E/ElliDe02.htm"
   }
 ]

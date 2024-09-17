@@ -52,7 +52,7 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "16",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -65,8 +65,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
+        "tackles_combined": "4",
+        "tackles_solo": "4",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -96,24 +96,15 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "16",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "11",
-        "def_pct": "18%",
-        "special_teams": "17",
-        "st_pct": "63%"
+        "defense": "36",
+        "def_pct": "32%",
+        "special_teams": "33",
+        "st_pct": "64%"
       }
     ]
-  },
-  {
-    "name": "Max Melton",
-    "age": "22",
-    "position": "CB",
-    "weight": "193",
-    "height": "5-11",
-    "college": "Rutgers",
-    "experience": "Rook"
   }
 ]

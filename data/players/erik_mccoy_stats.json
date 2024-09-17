@@ -192,8 +192,8 @@
         "team": "NOR",
         "pos": "OL",
         "uniform_number": "78",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -312,24 +312,27 @@
         "team": "NOR",
         "pos": "OL",
         "uniform_number": "78",
-        "g": "1",
-        "gs": "1",
-        "offense": "66",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "119",
+        "off_pct": "95%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "30%"
+        "special_teams": "16",
+        "st_pct": "28%"
       }
     ]
   },
   {
     "name": "Erik McCoy",
+    "id": "McCoEr01",
+    "team": "NO",
     "age": "27",
     "position": "OL",
     "weight": "303",
     "height": "6-4",
     "college": "Texas A&M",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/M/McCoEr01.htm"
   }
 ]

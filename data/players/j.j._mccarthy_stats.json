@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "J.J. McCarthy (IR)",
+    "id": "McCaJJ00",
+    "team": "MIN",
+    "age": "21",
+    "position": "QB",
+    "weight": "219",
+    "height": "",
+    "college": "Michigan",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/McCaJJ00.htm"
   }
 ]

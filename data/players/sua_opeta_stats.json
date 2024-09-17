@@ -123,5 +123,17 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Sua Opeta (IR)",
+    "id": "OpetIo00",
+    "team": "TB",
+    "age": "28",
+    "position": "G",
+    "weight": "305",
+    "height": "6-4",
+    "college": "Weber St.",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/O/OpetIo00.htm"
   }
 ]

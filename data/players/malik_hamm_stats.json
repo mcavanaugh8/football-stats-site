@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Malik Hamm (IR)",
+    "id": "HammMa01",
+    "team": "BAL",
+    "age": "24",
+    "position": "OLB",
+    "weight": "254",
+    "height": "6-3",
+    "college": "Lafayette",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HammMa01.htm"
   }
 ]

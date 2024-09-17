@@ -31,7 +31,7 @@
         "fantasy_pos": "QB",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "40",
+        "fantasy_rank_pos": "44",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -573,11 +573,14 @@
   },
   {
     "name": "Kyle Trask",
+    "id": "TrasKy00",
+    "team": "TB",
     "age": "26",
     "position": "QB",
     "weight": "236",
     "height": "6-5",
     "college": "Florida",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/TrasKy00.htm"
   }
 ]

@@ -109,11 +109,14 @@
   },
   {
     "name": "Chau Smith-Wade",
+    "id": "SmitCh05",
+    "team": "CAR",
     "age": "22",
     "position": "CB",
     "weight": "176",
     "height": "",
     "college": "Washington St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SmitCh05.htm"
   }
 ]

@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Travis Clayton (IR)",
+    "id": "ClayTr00",
+    "team": "BUF",
+    "age": "",
+    "position": "OT",
+    "weight": "301",
+    "height": "6-7",
+    "college": "None",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/ClayTr00.htm"
   }
 ]

@@ -133,8 +133,8 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "98",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -146,9 +146,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "1.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
-        "tackles_assists": "0",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
+        "tackles_assists": "1",
         "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
@@ -250,24 +250,15 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "98",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "23",
-        "def_pct": "37%",
-        "special_teams": "6",
-        "st_pct": "22%"
+        "defense": "45",
+        "def_pct": "40%",
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
-  },
-  {
-    "name": "Roy Lopez",
-    "age": "27",
-    "position": "DL",
-    "weight": "318",
-    "height": "6-2",
-    "college": "New Mexico St.,Arizona",
-    "experience": "3"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Sataoa Laumea",
+    "id": "LaumSa00",
+    "team": "SEA",
     "age": "23",
     "position": "OG",
     "weight": "319",
     "height": "",
     "college": "Utah",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LaumSa00.htm"
   }
 ]

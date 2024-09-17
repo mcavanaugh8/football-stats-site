@@ -214,8 +214,8 @@
         "team": "IND",
         "pos": "DE",
         "uniform_number": "94",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,9 +227,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "1.0",
-        "tackles_combined": "6",
-        "tackles_solo": "4",
-        "tackles_assists": "2",
+        "tackles_combined": "11",
+        "tackles_solo": "7",
+        "tackles_assists": "4",
         "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
@@ -348,12 +348,12 @@
         "team": "IND",
         "pos": "DE",
         "uniform_number": "94",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "52",
-        "def_pct": "66%",
+        "defense": "96",
+        "def_pct": "64%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -361,11 +361,14 @@
   },
   {
     "name": "Tyquan Lewis",
+    "id": "LewiTy00",
+    "team": "IND",
     "age": "29",
     "position": "DE",
     "weight": "267",
     "height": "6-3",
     "college": "Ohio St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/L/LewiTy00.htm"
   }
 ]

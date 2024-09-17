@@ -106,7 +106,7 @@
         "team": "ARI",
         "pos": "S",
         "uniform_number": "32",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,24 +180,15 @@
         "team": "ARI",
         "pos": "S",
         "uniform_number": "32",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "63%"
+        "defense": "8",
+        "def_pct": "7%",
+        "special_teams": "32",
+        "st_pct": "62%"
       }
     ]
-  },
-  {
-    "name": "Joey Blount",
-    "age": "26",
-    "position": "S",
-    "weight": "201",
-    "height": "6-1",
-    "college": "Virginia",
-    "experience": "2"
   }
 ]

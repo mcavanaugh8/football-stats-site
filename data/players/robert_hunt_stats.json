@@ -140,8 +140,8 @@
         "team": "CAR",
         "pos": "G",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "rush_att": "0",
         "rush_yds": "0",
         "rush_first_down": "",
@@ -362,8 +362,8 @@
         "team": "CAR",
         "pos": "G",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -466,24 +466,27 @@
         "team": "CAR",
         "pos": "G",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "1",
-        "offense": "59",
+        "g": "2",
+        "gs": "2",
+        "offense": "107",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "7%"
+        "special_teams": "3",
+        "st_pct": "6%"
       }
     ]
   },
   {
     "name": "Robert Hunt",
+    "id": "HuntRo01",
+    "team": "CAR",
     "age": "28",
     "position": "G",
     "weight": "323",
     "height": "6-6",
     "college": "Louisiana",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/H/HuntRo01.htm"
   }
 ]

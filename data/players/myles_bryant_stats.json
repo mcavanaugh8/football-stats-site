@@ -160,7 +160,7 @@
         "team": "HOU",
         "pos": "CB",
         "uniform_number": "27",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -305,24 +305,27 @@
         "team": "HOU",
         "pos": "CB",
         "uniform_number": "27",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "28%"
+        "special_teams": "22",
+        "st_pct": "40%"
       }
     ]
   },
   {
     "name": "Myles Bryant",
+    "id": "BryaMy01",
+    "team": "HOU",
     "age": "26",
     "position": "CB",
     "weight": "192",
     "height": "5-9",
     "college": "Washington",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/B/BryaMy01.htm"
   }
 ]

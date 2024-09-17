@@ -160,8 +160,8 @@
         "team": "CAR",
         "pos": "S",
         "uniform_number": "20",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -173,9 +173,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "7",
-        "tackles_solo": "4",
-        "tackles_assists": "3",
+        "tackles_combined": "13",
+        "tackles_solo": "8",
+        "tackles_assists": "5",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -264,12 +264,12 @@
         "team": "CAR",
         "pos": "S",
         "uniform_number": "20",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "60",
-        "def_pct": "91%",
+        "defense": "129",
+        "def_pct": "96%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -277,11 +277,14 @@
   },
   {
     "name": "Jordan Fuller",
+    "id": "FullJo01",
+    "team": "CAR",
     "age": "26",
     "position": "S",
     "weight": "203",
     "height": "6-2",
     "college": "Ohio St.",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/F/FullJo01.htm"
   }
 ]

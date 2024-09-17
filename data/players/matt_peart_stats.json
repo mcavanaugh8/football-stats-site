@@ -128,24 +128,27 @@
         "team": "DEN",
         "pos": "T",
         "uniform_number": "79",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "18",
-        "off_pct": "26%",
+        "offense": "23",
+        "off_pct": "18%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "12%"
+        "special_teams": "6",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "Matt Peart",
+    "id": "PearMa00",
+    "team": "DEN",
     "age": "27",
     "position": "T",
     "weight": "318",
     "height": "6-7",
     "college": "Connecticut",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/P/PearMa00.htm"
   }
 ]

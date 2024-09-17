@@ -106,5 +106,17 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "DJ Ivey (PUP)",
+    "id": "IveyDJ00",
+    "team": "CIN",
+    "age": "24",
+    "position": "CB",
+    "weight": "192",
+    "height": "6-1",
+    "college": "Miami (FL)",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/I/IveyDJ00.htm"
   }
 ]

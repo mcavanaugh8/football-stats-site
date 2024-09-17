@@ -68,24 +68,27 @@
         "team": "BAL",
         "pos": "OL",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
-        "offense": "80",
+        "g": "2",
+        "gs": "2",
+        "offense": "145",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
+        "special_teams": "11",
         "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Andrew Vorhees",
+    "id": "VorhAn00",
+    "team": "BAL",
     "age": "25",
     "position": "OL",
     "weight": "320",
     "height": "",
     "college": "USC",
-    "experience": "Rook"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/V/VorhAn00.htm"
   }
 ]

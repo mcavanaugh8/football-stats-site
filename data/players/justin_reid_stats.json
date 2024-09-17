@@ -214,8 +214,8 @@
         "team": "KAN",
         "pos": "S",
         "uniform_number": "20",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,9 +227,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "9",
-        "tackles_solo": "8",
-        "tackles_assists": "1",
+        "tackles_combined": "16",
+        "tackles_solo": "11",
+        "tackles_assists": "5",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -403,24 +403,27 @@
         "team": "KAN",
         "pos": "S",
         "uniform_number": "20",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "80",
-        "def_pct": "100%",
-        "special_teams": "5",
-        "st_pct": "19%"
+        "defense": "139",
+        "def_pct": "97%",
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
   },
   {
     "name": "Justin Reid",
+    "id": "ReidJu00",
+    "team": "KC",
     "age": "27",
     "position": "S",
     "weight": "207",
     "height": "6-1",
     "college": "Stanford",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/R/ReidJu00.htm"
   }
 ]

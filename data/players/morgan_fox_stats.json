@@ -241,7 +241,7 @@
         "team": "LAC",
         "pos": "DL",
         "uniform_number": "56",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -418,24 +418,27 @@
         "team": "LAC",
         "pos": "DL",
         "uniform_number": "56",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "29",
-        "def_pct": "48%",
-        "special_teams": "4",
+        "defense": "51",
+        "def_pct": "47%",
+        "special_teams": "7",
         "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Morgan Fox",
+    "id": "FoxxMo00",
+    "team": "LAC",
     "age": "30",
     "position": "DL",
     "weight": "275",
     "height": "6-3",
     "college": "Colorado State-Pueblo",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/F/FoxxMo00.htm"
   }
 ]

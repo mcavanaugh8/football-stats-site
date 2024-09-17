@@ -68,24 +68,15 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "74",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "6",
+        "off_pct": "5%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
-  },
-  {
-    "name": "Isaiah Adams",
-    "age": "24",
-    "position": "OL",
-    "weight": "316",
-    "height": "",
-    "college": "Wilfrid Laurier,Garden City (KS),Illinois",
-    "experience": "Rook"
   }
 ]

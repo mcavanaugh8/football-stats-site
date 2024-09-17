@@ -337,5 +337,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jake Luton (IR)",
+    "id": "LutoJa00",
+    "team": "CAR",
+    "age": "28",
+    "position": "QB",
+    "weight": "224",
+    "height": "6-6",
+    "college": "Idaho,Oregon St.",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/L/LutoJa00.htm"
   }
 ]

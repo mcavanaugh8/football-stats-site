@@ -72,6 +72,33 @@
         "qb_hits": "0",
         "safety_md": "",
         "av": "2"
+      },
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "CAR",
+        "pos": "DE",
+        "uniform_number": "93",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -104,16 +131,34 @@
         "def_pct": "34%",
         "special_teams": "17",
         "st_pct": "4%"
+      },
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "CAR",
+        "pos": "DE",
+        "uniform_number": "93",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "32",
+        "def_pct": "46%",
+        "special_teams": "5",
+        "st_pct": "21%"
       }
     ]
   },
   {
     "name": "LaBryan Ray",
+    "id": "RayxLa02",
+    "team": "CAR",
     "age": "27",
     "position": "DE",
     "weight": "290",
     "height": "6-4",
     "college": "Alabama",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/R/RayxLa02.htm"
   }
 ]

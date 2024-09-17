@@ -239,10 +239,10 @@
         "year_id": "2024",
         "age": "31",
         "team": "JAX",
-        "pos": "DL",
+        "pos": "DT",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -254,10 +254,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
+        "tackles_assists": "1",
+        "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
         "av": ""
@@ -409,26 +409,29 @@
         "year_id": "2024",
         "age": "31",
         "team": "JAX",
-        "pos": "DL",
+        "pos": "DT",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "42",
-        "def_pct": "59%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "defense": "91",
+        "def_pct": "64%",
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Roy Robertson-Harris",
+    "id": "RobeRo00",
+    "team": "JAX",
     "age": "31",
-    "position": "DL",
+    "position": "DT",
     "weight": "290",
     "height": "6-5",
     "college": "Texas-El Paso",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/R/RobeRo00.htm"
   }
 ]

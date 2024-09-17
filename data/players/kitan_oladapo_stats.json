@@ -81,11 +81,14 @@
   },
   {
     "name": "Kitan Oladapo",
+    "id": "OladKi00",
+    "team": "GB",
     "age": "24",
     "position": "S",
     "weight": "216",
     "height": "",
     "college": "Oregon St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/O/OladKi00.htm"
   }
 ]

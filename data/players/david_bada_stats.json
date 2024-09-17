@@ -106,5 +106,17 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "David Bada (IR)",
+    "id": "BadaDa00",
+    "team": "DET",
+    "age": "29",
+    "position": "DL",
+    "weight": "287",
+    "height": "6-5",
+    "college": "None",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/B/BadaDa00.htm"
   }
 ]

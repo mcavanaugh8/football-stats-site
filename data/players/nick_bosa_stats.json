@@ -192,8 +192,8 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "97",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -204,12 +204,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "1",
-        "tackles_assists": "1",
-        "tackles_loss": "0",
-        "qb_hits": "2",
+        "sacks": "2.0",
+        "tackles_combined": "7",
+        "tackles_solo": "5",
+        "tackles_assists": "2",
+        "tackles_loss": "2",
+        "qb_hits": "4",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -312,12 +312,12 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "97",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "48",
-        "def_pct": "94%",
+        "defense": "94",
+        "def_pct": "90%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -325,11 +325,14 @@
   },
   {
     "name": "Nick Bosa",
+    "id": "BosaNi00",
+    "team": "SF",
     "age": "27",
     "position": "DL",
     "weight": "266",
     "height": "6-4",
     "college": "Ohio St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BosaNi00.htm"
   }
 ]

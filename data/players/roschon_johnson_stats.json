@@ -34,6 +34,39 @@
         "rec_drop_pct": "2.5",
         "rec_target_int": "0",
         "rec_pass_rating": "88.4"
+      },
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CHI",
+        "pos": "RB",
+        "uniform_number": "23",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
       }
     ]
   },
@@ -111,6 +144,42 @@
         "rush_receive_td": "2",
         "fumbles": "1",
         "av": "4"
+      },
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CHI",
+        "pos": "RB",
+        "uniform_number": "23",
+        "g": "1",
+        "gs": "0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "",
+        "yds_per_touch": "",
+        "yds_from_scrimmage": "",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
       }
     ]
   },
@@ -223,16 +292,34 @@
         "def_pct": "0%",
         "special_teams": "152",
         "st_pct": "39%"
+      },
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "CHI",
+        "pos": "RB",
+        "uniform_number": "23",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "15",
+        "st_pct": "50%"
       }
     ]
   },
   {
     "name": "Roschon Johnson",
+    "id": "JohnRo07",
+    "team": "CHI",
     "age": "23",
     "position": "RB",
     "weight": "225",
     "height": "",
     "college": "Texas",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/J/JohnRo07.htm"
   }
 ]

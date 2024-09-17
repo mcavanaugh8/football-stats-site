@@ -78,5 +78,17 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "Luke Wypler (IR)",
+    "id": "WyplLu00",
+    "team": "CLE",
+    "age": "23",
+    "position": "C",
+    "weight": "303",
+    "height": "",
+    "college": "Ohio St.",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/W/WyplLu00.htm"
   }
 ]

@@ -133,7 +133,7 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "52",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -146,11 +146,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_loss": "1",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -222,24 +222,15 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "52",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "13",
+        "defense": "24",
         "def_pct": "21%",
-        "special_teams": "17",
-        "st_pct": "63%"
+        "special_teams": "32",
+        "st_pct": "62%"
       }
     ]
-  },
-  {
-    "name": "Victor Dimukeje",
-    "age": "25",
-    "position": "OLB",
-    "weight": "262",
-    "height": "6-2",
-    "college": "Duke",
-    "experience": "3"
   }
 ]

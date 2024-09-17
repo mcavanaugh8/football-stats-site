@@ -260,5 +260,17 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Sam Franklin (IRD)",
+    "id": "FranSa00",
+    "team": "CAR",
+    "age": "28",
+    "position": "S",
+    "weight": "210",
+    "height": "6-3",
+    "college": "Temple",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/F/FranSa00.htm"
   }
 ]

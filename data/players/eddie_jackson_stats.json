@@ -248,8 +248,8 @@
         "team": "BAL",
         "pos": "FS",
         "uniform_number": "39",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -261,9 +261,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
-        "tackles_assists": "0",
+        "tackles_combined": "4",
+        "tackles_solo": "3",
+        "tackles_assists": "1",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -501,12 +501,12 @@
         "team": "BAL",
         "pos": "FS",
         "uniform_number": "39",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "22",
-        "def_pct": "41%",
+        "defense": "70",
+        "def_pct": "60%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -514,11 +514,14 @@
   },
   {
     "name": "Eddie Jackson",
+    "id": "JackEd01",
+    "team": "BAL",
     "age": "31",
     "position": "FS",
     "weight": "202",
     "height": "6-0",
     "college": "Alabama",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/J/JackEd01.htm"
   }
 ]

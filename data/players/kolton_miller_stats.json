@@ -214,8 +214,8 @@
         "team": "LVR",
         "pos": "T",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -223,7 +223,7 @@
         "pass_defended": "",
         "fumbles_forced": "0",
         "fumbles": "0",
-        "fumbles_rec": "0",
+        "fumbles_rec": "1",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
@@ -348,24 +348,27 @@
         "team": "LVR",
         "pos": "T",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
-        "offense": "60",
+        "g": "2",
+        "gs": "2",
+        "offense": "123",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "11%"
+        "special_teams": "9",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Kolton Miller",
+    "id": "MillKo00",
+    "team": "LV",
     "age": "29",
     "position": "T",
     "weight": "325",
     "height": "6-8",
     "college": "UCLA",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/M/MillKo00.htm"
   }
 ]

@@ -68,24 +68,27 @@
         "team": "NWE",
         "pos": "T",
         "uniform_number": "70",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "18",
-        "off_pct": "28%",
+        "offense": "29",
+        "off_pct": "22%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Caedan Wallace",
+    "id": "WallCa00",
+    "team": "NE",
     "age": "24",
     "position": "T",
     "weight": "314",
     "height": "",
     "college": "Penn St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WallCa00.htm"
   }
 ]

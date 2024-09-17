@@ -98,24 +98,27 @@
         "team": "GNB",
         "pos": "OG",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "1",
-        "offense": "42",
-        "off_pct": "63%",
+        "g": "2",
+        "gs": "2",
+        "offense": "92",
+        "off_pct": "67%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
+        "special_teams": "12",
         "st_pct": "23%"
       }
     ]
   },
   {
     "name": "Sean Rhyan",
+    "id": "RhyaSe00",
+    "team": "GB",
     "age": "24",
     "position": "OG",
     "weight": "321",
     "height": "6-5",
     "college": "UCLA",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/R/RhyaSe00.htm"
   }
 ]

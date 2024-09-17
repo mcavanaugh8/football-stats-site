@@ -79,7 +79,7 @@
         "team": "NWE",
         "pos": "DT",
         "uniform_number": "98",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -92,11 +92,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
-        "tackles_assists": "0",
+        "tackles_combined": "4",
+        "tackles_solo": "2",
+        "tackles_assists": "2",
         "tackles_loss": "0",
-        "qb_hits": "0",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -138,24 +138,27 @@
         "team": "NWE",
         "pos": "DT",
         "uniform_number": "98",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "11",
-        "def_pct": "22%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "35",
+        "def_pct": "29%",
+        "special_teams": "5",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "Jeremiah Pharms",
+    "id": "PharJe00",
+    "team": "NE",
     "age": "28",
     "position": "DT",
     "weight": "300",
     "height": "6-2",
     "college": "Sacramento CC,Delta College,Friends",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/P/PharJe00.htm"
   }
 ]

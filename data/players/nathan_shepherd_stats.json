@@ -214,8 +214,8 @@
         "team": "NOR",
         "pos": "DT",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,9 +227,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "3",
-        "tackles_assists": "1",
+        "tackles_combined": "7",
+        "tackles_solo": "4",
+        "tackles_assists": "3",
         "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
@@ -348,24 +348,27 @@
         "team": "NOR",
         "pos": "DT",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "24",
-        "def_pct": "41%",
-        "special_teams": "2",
-        "st_pct": "7%"
+        "defense": "60",
+        "def_pct": "47%",
+        "special_teams": "7",
+        "st_pct": "12%"
       }
     ]
   },
   {
     "name": "Nathan Shepherd",
+    "id": "ShepNa00",
+    "team": "NO",
     "age": "31",
     "position": "DT",
     "weight": "315",
     "height": "6-4",
     "college": "Fort Hays St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/S/ShepNa00.htm"
   }
 ]

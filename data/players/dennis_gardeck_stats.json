@@ -214,24 +214,24 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "45",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
         "def_int_long": "",
         "pass_defended": "",
-        "fumbles_forced": "0",
+        "fumbles_forced": "1",
         "fumbles": "0",
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "sacks": "3.0",
+        "tackles_combined": "6",
+        "tackles_solo": "6",
+        "tackles_assists": "0",
+        "tackles_loss": "4",
+        "qb_hits": "3",
         "safety_md": "",
         "av": ""
       }
@@ -376,24 +376,15 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "45",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "40",
-        "def_pct": "65%",
-        "special_teams": "8",
-        "st_pct": "30%"
+        "defense": "66",
+        "def_pct": "58%",
+        "special_teams": "12",
+        "st_pct": "23%"
       }
     ]
-  },
-  {
-    "name": "Dennis Gardeck",
-    "age": "30",
-    "position": "OLB",
-    "weight": "232",
-    "height": "6-0",
-    "college": "Sioux Falls",
-    "experience": "6"
   }
 ]

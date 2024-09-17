@@ -271,6 +271,33 @@
         "safety_md": "",
         "scoring": "134",
         "points_per_g": "7.9"
+      },
+      {
+        "year_id": "2024",
+        "age": "30",
+        "team": "IND",
+        "pos": "K",
+        "uniform_number": "7",
+        "g": "1",
+        "gs": "0",
+        "rushtd": "",
+        "rectd": "",
+        "prtd": "",
+        "krtd": "",
+        "frtd": "",
+        "ditd": "",
+        "otd": "",
+        "alltd": "",
+        "two_pt_md": "",
+        "two_pt_att": "",
+        "def_two_pt": "0",
+        "xpm": "1",
+        "xpa": "1",
+        "fgm": "1",
+        "fga": "2",
+        "safety_md": "",
+        "scoring": "4",
+        "points_per_g": "4.0"
       }
     ]
   },
@@ -351,16 +378,34 @@
         "def_pct": "0%",
         "special_teams": "172",
         "st_pct": "34%"
+      },
+      {
+        "year_id": "2024",
+        "age": "30",
+        "team": "IND",
+        "pos": "K",
+        "uniform_number": "7",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "6",
+        "st_pct": "27%"
       }
     ]
   },
   {
     "name": "Matt Gay",
+    "id": "GayxMa00",
+    "team": "IND",
     "age": "30",
     "position": "K",
     "weight": "232",
     "height": "6-0",
     "college": "Utah",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/G/GayxMa00.htm"
   }
 ]

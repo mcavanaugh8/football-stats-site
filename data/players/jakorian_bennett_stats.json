@@ -79,24 +79,24 @@
         "team": "LVR",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
         "def_int_long": "0",
-        "pass_defended": "1",
+        "pass_defended": "3",
         "fumbles_forced": "0",
         "fumbles": "0",
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -138,12 +138,12 @@
         "team": "LVR",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "30",
-        "def_pct": "53%",
+        "defense": "76",
+        "def_pct": "62%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -151,11 +151,14 @@
   },
   {
     "name": "Jakorian Bennett",
+    "id": "BennJa00",
+    "team": "LV",
     "age": "24",
     "position": "CB",
     "weight": "195",
     "height": "",
     "college": "Hutchinson (KS),Maryland",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BennJa00.htm"
   }
 ]

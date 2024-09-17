@@ -68,9 +68,9 @@
         "team": "PIT",
         "pos": "C",
         "uniform_number": "54",
-        "g": "1",
-        "gs": "1",
-        "offense": "68",
+        "g": "2",
+        "gs": "2",
+        "offense": "134",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -81,11 +81,14 @@
   },
   {
     "name": "Zach Frazier",
+    "id": "FrazZa00",
+    "team": "PIT",
     "age": "23",
     "position": "C",
     "weight": "310",
     "height": "",
     "college": "West Virginia",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/FrazZa00.htm"
   }
 ]

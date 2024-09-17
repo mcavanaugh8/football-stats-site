@@ -148,5 +148,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Earnest Brown IV (IR)",
+    "id": "BrowEa00",
+    "team": "TB",
+    "age": "25",
+    "position": "DE",
+    "weight": "300",
+    "height": "6-5",
+    "college": "Northwestern",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/B/BrowEa00.htm"
   }
 ]

@@ -274,5 +274,17 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Quinn Bailey (IR)",
+    "id": "BailQu00",
+    "team": "DEN",
+    "age": "29",
+    "position": "T",
+    "weight": "323",
+    "height": "6-6",
+    "college": "Arizona St.",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BailQu00.htm"
   }
 ]

@@ -344,5 +344,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Emmanuel Moseley (IRD)",
+    "id": "MoseEm00",
+    "team": "DET",
+    "age": "28",
+    "position": "CB",
+    "weight": "195",
+    "height": "5-11",
+    "college": "Tennessee",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/M/MoseEm00.htm"
   }
 ]

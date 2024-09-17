@@ -53,7 +53,7 @@
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "45",
+        "fantasy_rank_pos": "65",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -654,11 +654,14 @@
   },
   {
     "name": "Charlie Woerner",
+    "id": "WoerCh00",
+    "team": "ATL",
     "age": "27",
     "position": "TE",
     "weight": "241",
     "height": "6-5",
     "college": "Georgia",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/W/WoerCh00.htm"
   }
 ]

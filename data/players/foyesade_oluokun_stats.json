@@ -214,8 +214,8 @@
         "team": "JAX",
         "pos": "LB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -226,12 +226,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "11",
-        "tackles_solo": "8",
-        "tackles_assists": "3",
-        "tackles_loss": "1",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "19",
+        "tackles_solo": "12",
+        "tackles_assists": "7",
+        "tackles_loss": "3",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -376,24 +376,27 @@
         "team": "JAX",
         "pos": "LB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "60",
-        "def_pct": "85%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "defense": "119",
+        "def_pct": "83%",
+        "special_teams": "10",
+        "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Foyesade Oluokun",
+    "id": "OluoFo00",
+    "team": "JAX",
     "age": "29",
     "position": "LB",
     "weight": "230",
     "height": "6-2",
     "college": "Yale",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/O/OluoFo00.htm"
   }
 ]

@@ -104,11 +104,11 @@
       {
         "year_id": "2024",
         "age": "32",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "73",
+        "fantasy_rank_pos": "91",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -361,7 +361,7 @@
         "team": "CAR",
         "pos": "TE",
         "uniform_number": "81",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "targets": "1",
         "rec": "0",
@@ -820,7 +820,7 @@
         "team": "CAR",
         "pos": "TE",
         "uniform_number": "81",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "targets": "1",
         "rec": "0",
@@ -1186,24 +1186,27 @@
         "team": "CAR",
         "pos": "TE",
         "uniform_number": "81",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "offense": "20",
-        "off_pct": "34%",
+        "offense": "24",
+        "off_pct": "22%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "17%"
+        "special_teams": "18",
+        "st_pct": "33%"
       }
     ]
   },
   {
     "name": "Jordan Matthews",
+    "id": "MattJo00",
+    "team": "CAR",
     "age": "32",
     "position": "TE",
     "weight": "212",
     "height": "6-3",
     "college": "Vanderbilt",
-    "experience": "10"
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/M/MattJo00.htm"
   }
 ]

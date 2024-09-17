@@ -9,8 +9,19 @@
     <input type="text" id="playerSearch" autocomplete="off">
     <ul id="suggestions"></ul>
 </div>
-
-{{{table}}}
+<div class="player-grid">
+    {{#each players}}
+    <div class="player-card" data-player-id="{{this._id}}">
+        <div class="player-image">
+            <img src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg" alt="{{this.name}}" onerror="this.src='/img/default-player.jpg'">
+        </div>
+        <div class="player-info">
+            <h3>{{this.name}}</h3>
+            <p>{{this.position}} - {{this.team}}</p>
+        </div>
+    </div>
+    {{/each}}
+</div>
 <script src="/public/js/ui.js"></script>
 <script>
     const ui = new UI();

@@ -248,13 +248,13 @@
         "team": "CHI",
         "pos": "DL",
         "uniform_number": "98",
-        "g": "1",
-        "gs": "1",
-        "def_int": "",
-        "def_int_yds": "",
+        "g": "2",
+        "gs": "2",
+        "def_int": "0",
+        "def_int_yds": "0",
         "def_int_td": "0",
-        "def_int_long": "",
-        "pass_defended": "",
+        "def_int_long": "0",
+        "pass_defended": "1",
         "fumbles_forced": "0",
         "fumbles": "0",
         "fumbles_rec": "0",
@@ -426,24 +426,27 @@
         "team": "CHI",
         "pos": "DL",
         "uniform_number": "98",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "44",
-        "def_pct": "69%",
+        "defense": "85",
+        "def_pct": "68%",
         "special_teams": "2",
-        "st_pct": "7%"
+        "st_pct": "3%"
       }
     ]
   },
   {
     "name": "Montez Sweat",
+    "id": "SweaMo00",
+    "team": "CHI",
     "age": "28",
     "position": "DL",
     "weight": "262",
     "height": "6-6",
     "college": "Michigan St.,Copiah-Lincoln CC,Mississippi St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/SweaMo00.htm"
   }
 ]

@@ -346,12 +346,15 @@
     ]
   },
   {
-    "name": "Juan Thornhill",
+    "name": "Juan Thornhill (IR)",
+    "id": "ThorJu00",
+    "team": "CLE",
     "age": "29",
     "position": "S",
     "weight": "205",
     "height": "6-0",
     "college": "Virginia",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/T/ThorJu00.htm"
   }
 ]

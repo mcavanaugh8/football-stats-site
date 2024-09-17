@@ -96,11 +96,14 @@
   },
   {
     "name": "Juice Scruggs",
+    "id": "ScruJu00",
+    "team": "HOU",
     "age": "24",
     "position": "OL",
     "weight": "310",
     "height": "",
     "college": "Penn St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/ScruJu00.htm"
   }
 ]

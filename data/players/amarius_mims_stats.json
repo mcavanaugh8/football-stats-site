@@ -65,11 +65,14 @@
   },
   {
     "name": "Amarius Mims",
+    "id": "MimsAm00",
+    "team": "CIN",
     "age": "22",
     "position": "OT",
     "weight": "340",
     "height": "",
     "college": "Georgia",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MimsAm00.htm"
   }
 ]

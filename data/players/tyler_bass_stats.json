@@ -277,7 +277,7 @@
         "team": "BUF",
         "pos": "K",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -290,13 +290,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "4",
-        "xpa": "4",
-        "fgm": "2",
-        "fga": "2",
+        "xpm": "8",
+        "xpa": "8",
+        "fgm": "3",
+        "fga": "4",
         "safety_md": "",
-        "scoring": "10",
-        "points_per_g": "10.0"
+        "scoring": "17",
+        "points_per_g": "8.5"
       }
     ]
   },
@@ -369,24 +369,27 @@
         "team": "BUF",
         "pos": "K",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "13",
-        "st_pct": "48%"
+        "special_teams": "25",
+        "st_pct": "52%"
       }
     ]
   },
   {
     "name": "Tyler Bass",
+    "id": "BassTy00",
+    "team": "BUF",
     "age": "27",
     "position": "K",
     "weight": "183",
     "height": "5-10",
     "college": "Georgia Southern",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/B/BassTy00.htm"
   }
 ]

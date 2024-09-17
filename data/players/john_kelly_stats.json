@@ -45,6 +45,17 @@
         "fantasy_rank_pos": "170",
         "fantasy_rank_overall": "",
         "games": "All 2022 Games"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "g": "2",
+        "fantasy_pos": "RB",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "103",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
       }
     ]
   },
@@ -157,6 +168,39 @@
         "pos": "RB",
         "uniform_number": "41",
         "g": "1",
+        "gs": "0",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "BAL",
+        "pos": "RB",
+        "uniform_number": "33",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -398,6 +442,42 @@
         "yds_from_scrimmage": "",
         "rush_receive_td": "",
         "fumbles": "",
+        "av": "0"
+      },
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "BAL",
+        "pos": "RB",
+        "uniform_number": "33",
+        "g": "2",
+        "gs": "0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "",
+        "yds_per_touch": "",
+        "yds_from_scrimmage": "",
+        "rush_receive_td": "0",
+        "fumbles": "0",
         "av": ""
       }
     ]
@@ -412,7 +492,28 @@
   },
   {
     "category": "returns",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "28",
+        "team": "BAL",
+        "pos": "RB",
+        "uniform_number": "33",
+        "g": "2",
+        "gs": "0",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "2",
+        "kick_ret_yds": "46",
+        "kick_ret_td": "0",
+        "kick_ret_long": "24",
+        "kick_ret_yds_per_ret": "23.0",
+        "all_purpose_yds": "46"
+      }
+    ]
   },
   {
     "category": "scoring",
@@ -480,131 +581,34 @@
         "def_pct": "0%",
         "special_teams": "14",
         "st_pct": "67%"
-      }
-    ]
-  },
-  {
-    "category": "stats",
-    "rows": [
-      {
-        "game_date": "2023-10-29",
-        "game_num": "7",
-        "week_num": "8",
-        "age": "",
-        "team": "CLE",
-        "game_location": "@",
-        "opp": "SEA",
-        "game_result": "L 20-24",
-        "reason": "Did Not Play"
       },
       {
-        "game_date": "2023-11-05",
-        "game_num": "8",
-        "week_num": "9",
-        "age": "",
-        "team": "CLE",
-        "game_location": "",
-        "opp": "ARI",
-        "game_result": "W 27-0",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-11-12",
-        "game_num": "9",
-        "week_num": "10",
-        "age": "",
-        "team": "CLE",
-        "game_location": "@",
-        "opp": "BAL",
-        "game_result": "W 33-31",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-11-19",
-        "game_num": "10",
-        "week_num": "11",
-        "age": "",
-        "team": "CLE",
-        "game_location": "",
-        "opp": "PIT",
-        "game_result": "W 13-10",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-03",
-        "game_num": "12",
-        "week_num": "13",
-        "age": "",
-        "team": "CLE",
-        "game_location": "@",
-        "opp": "LAR",
-        "game_result": "L 19-36",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-10",
-        "game_num": "13",
-        "week_num": "14",
-        "age": "",
-        "team": "CLE",
-        "game_location": "",
-        "opp": "JAX",
-        "game_result": "W 31-27",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-17",
-        "game_num": "14",
-        "week_num": "15",
-        "age": "",
-        "team": "CLE",
-        "game_location": "",
-        "opp": "CHI",
-        "game_result": "W 20-17",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-24",
-        "game_num": "15",
-        "week_num": "16",
-        "age": "",
-        "team": "CLE",
-        "game_location": "@",
-        "opp": "HOU",
-        "game_result": "W 36-22",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-28",
-        "game_num": "16",
-        "week_num": "17",
-        "age": "",
-        "team": "CLE",
-        "game_location": "",
-        "opp": "NYJ",
-        "game_result": "W 37-20",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2024-01-07",
-        "game_num": "17",
-        "week_num": "18",
-        "age": "",
-        "team": "CLE",
-        "game_location": "@",
-        "opp": "CIN",
-        "game_result": "L 14-31",
-        "reason": "Did Not Play"
+        "year_id": "2024",
+        "age": "28",
+        "team": "BAL",
+        "pos": "RB",
+        "uniform_number": "33",
+        "g": "2",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "11",
+        "st_pct": "19%"
       }
     ]
   },
   {
     "name": "John Kelly",
-    "age": "27",
+    "id": "KellJo00",
+    "team": "BAL",
+    "age": "28",
     "position": "RB",
     "weight": "205",
     "height": "5-10",
     "college": "Tennessee",
-    "experience": "5"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/K/KellJo00.htm"
   }
 ]

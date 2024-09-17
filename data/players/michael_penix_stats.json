@@ -65,11 +65,14 @@
   },
   {
     "name": "Michael Penix",
+    "id": "PeniMi00",
+    "team": "ATL",
     "age": "24",
     "position": "QB",
     "weight": "216",
     "height": "6-2",
     "college": "Indiana,Washington",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/P/PeniMi00.htm"
   }
 ]

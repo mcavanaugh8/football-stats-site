@@ -79,22 +79,22 @@
         "team": "CHI",
         "pos": "DB",
         "uniform_number": "29",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "1",
         "def_int_yds": "43",
         "def_int_td": "1",
         "def_int_long": "43",
-        "pass_defended": "2",
+        "pass_defended": "3",
         "fumbles_forced": "0",
         "fumbles": "0",
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "2",
-        "tackles_assists": "2",
+        "tackles_combined": "9",
+        "tackles_solo": "6",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -119,8 +119,8 @@
         "team": "CHI",
         "pos": "DB",
         "uniform_number": "29",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "rushtd": "",
         "rectd": "",
         "prtd": "",
@@ -138,7 +138,7 @@
         "fga": "",
         "safety_md": "",
         "scoring": "6",
-        "points_per_g": "6.0"
+        "points_per_g": "3.0"
       }
     ]
   },
@@ -166,24 +166,27 @@
         "team": "CHI",
         "pos": "DB",
         "uniform_number": "29",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "63",
-        "def_pct": "98%",
-        "special_teams": "7",
-        "st_pct": "24%"
+        "defense": "125",
+        "def_pct": "99%",
+        "special_teams": "12",
+        "st_pct": "20%"
       }
     ]
   },
   {
     "name": "Tyrique Stevenson",
+    "id": "StevTy01",
+    "team": "CHI",
     "age": "24",
     "position": "DB",
     "weight": "204",
     "height": "",
     "college": "Georgia,Miami (FL)",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/StevTy01.htm"
   }
 ]

@@ -79,7 +79,7 @@
         "team": "PHI",
         "pos": "CB",
         "uniform_number": "22",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "PHI",
         "pos": "CB",
         "uniform_number": "22",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "4",
-        "def_pct": "6%",
-        "special_teams": "25",
-        "st_pct": "81%"
+        "defense": "6",
+        "def_pct": "5%",
+        "special_teams": "44",
+        "st_pct": "83%"
       }
     ]
   },
   {
     "name": "Kelee Ringo",
+    "id": "RingKe00",
+    "team": "PHI",
     "age": "22",
     "position": "CB",
     "weight": "207",
     "height": "",
     "college": "Georgia",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/R/RingKe00.htm"
   }
 ]

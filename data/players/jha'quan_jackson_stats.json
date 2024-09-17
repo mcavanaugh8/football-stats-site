@@ -5,11 +5,11 @@
       {
         "year_id": "2024",
         "age": "24",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "144",
+        "fantasy_rank_pos": "153",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -72,19 +72,19 @@
         "team": "TEN",
         "pos": "WR",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "punt_ret": "4",
-        "punt_ret_yds": "30",
+        "punt_ret": "9",
+        "punt_ret_yds": "67",
         "punt_ret_td": "0",
-        "punt_ret_long": "12",
-        "punt_ret_yds_per_ret": "7.5",
-        "kick_ret": "5",
-        "kick_ret_yds": "127",
+        "punt_ret_long": "18",
+        "punt_ret_yds_per_ret": "7.4",
+        "kick_ret": "6",
+        "kick_ret_yds": "157",
         "kick_ret_td": "0",
         "kick_ret_long": "30",
-        "kick_ret_yds_per_ret": "25.4",
-        "all_purpose_yds": "157",
+        "kick_ret_yds_per_ret": "26.2",
+        "all_purpose_yds": "224",
         "av": ""
       }
     ]
@@ -102,24 +102,27 @@
         "team": "TEN",
         "pos": "WR",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "1",
+        "off_pct": "1%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "12",
-        "st_pct": "41%"
+        "special_teams": "23",
+        "st_pct": "42%"
       }
     ]
   },
   {
     "name": "Jha'Quan Jackson",
+    "id": "JackJh00",
+    "team": "TEN",
     "age": "24",
     "position": "WR",
     "weight": "188",
     "height": "5-9",
     "college": "Tulane",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/J/JackJh00.htm"
   }
 ]

@@ -7,6 +7,7 @@
         "age": "24",
         "team_name_abbr": "PHI",
         "comp_name_abbr": "NFL",
+        "pos": "K",
         "games": "16",
         "games_started": "0",
         "pass_cmp": "0",
@@ -157,7 +158,7 @@
         "team": "PHI",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -307,7 +308,7 @@
         "team": "PHI",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -459,7 +460,7 @@
         "team": "PHI",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -810,7 +811,7 @@
         "team": "PHI",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -823,13 +824,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "4",
-        "xpa": "4",
-        "fgm": "2",
-        "fga": "2",
+        "xpm": "5",
+        "xpa": "5",
+        "fgm": "4",
+        "fga": "4",
         "safety_md": "",
-        "scoring": "10",
-        "points_per_g": "10.0"
+        "scoring": "17",
+        "points_per_g": "8.5"
       }
     ]
   },
@@ -947,24 +948,27 @@
         "team": "PHI",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "6",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Jake Elliott",
+    "id": "ElliJa03",
+    "team": "PHI",
     "age": "29",
     "position": "K",
     "weight": "167",
     "height": "5-9",
     "college": "Memphis",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/E/ElliJa03.htm"
   }
 ]

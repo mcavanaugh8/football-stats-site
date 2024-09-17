@@ -268,8 +268,8 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "99",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -281,9 +281,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
-        "tackles_assists": "0",
+        "tackles_combined": "6",
+        "tackles_solo": "4",
+        "tackles_assists": "2",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -432,24 +432,27 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "99",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "37",
-        "def_pct": "73%",
-        "special_teams": "1",
-        "st_pct": "4%"
+        "defense": "73",
+        "def_pct": "70%",
+        "special_teams": "4",
+        "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Maliek Collins",
+    "id": "CollMa00",
+    "team": "SF",
     "age": "29",
     "position": "DL",
     "weight": "310",
     "height": "6-2",
     "college": "Nebraska",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/C/CollMa00.htm"
   }
 ]

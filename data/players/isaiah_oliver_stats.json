@@ -214,7 +214,7 @@
         "team": "NYJ",
         "pos": "CB",
         "uniform_number": "23",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -227,11 +227,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -348,24 +348,27 @@
         "team": "NYJ",
         "pos": "CB",
         "uniform_number": "23",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "4",
-        "def_pct": "6%",
-        "special_teams": "17",
-        "st_pct": "65%"
+        "defense": "29",
+        "def_pct": "21%",
+        "special_teams": "30",
+        "st_pct": "58%"
       }
     ]
   },
   {
     "name": "Isaiah Oliver",
+    "id": "OlivIs00",
+    "team": "NYJ",
     "age": "28",
     "position": "CB",
     "weight": "202",
     "height": "6-0",
     "college": "Colorado",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/O/OlivIs00.htm"
   }
 ]

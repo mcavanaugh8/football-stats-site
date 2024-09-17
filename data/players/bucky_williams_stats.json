@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Bucky Williams (IR)",
+    "id": "WillBu00",
+    "team": "LAC",
+    "age": "",
+    "position": "OL",
+    "weight": "300",
+    "height": "",
+    "college": "Appalachian St.",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WillBu00.htm"
   }
 ]

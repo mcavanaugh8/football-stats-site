@@ -212,7 +212,7 @@
         "team": "MIA",
         "pos": "K",
         "uniform_number": "7",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -580,7 +580,7 @@
         "team": "MIA",
         "pos": "K",
         "uniform_number": "7",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -593,13 +593,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "2",
-        "fga": "3",
+        "xpm": "3",
+        "xpa": "3",
+        "fgm": "3",
+        "fga": "4",
         "safety_md": "",
-        "scoring": "8",
-        "points_per_g": "8.0"
+        "scoring": "12",
+        "points_per_g": "6.0"
       }
     ]
   },
@@ -702,24 +702,27 @@
         "team": "MIA",
         "pos": "K",
         "uniform_number": "7",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "36%"
+        "special_teams": "14",
+        "st_pct": "30%"
       }
     ]
   },
   {
     "name": "Jason Sanders",
+    "id": "SandJa00",
+    "team": "MIA",
     "age": "29",
     "position": "K",
     "weight": "195",
     "height": "5-11",
     "college": "New Mexico",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/S/SandJa00.htm"
   }
 ]

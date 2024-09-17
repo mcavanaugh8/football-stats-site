@@ -79,7 +79,7 @@
         "team": "SEA",
         "pos": "LS",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "SEA",
         "pos": "LS",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "27%"
+        "special_teams": "19",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Chris Stoll",
+    "id": "StolCh00",
+    "team": "SEA",
     "age": "26",
     "position": "LS",
     "weight": "255",
     "height": "6-2",
     "college": "Penn St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/StolCh00.htm"
   }
 ]

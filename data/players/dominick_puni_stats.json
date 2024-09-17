@@ -68,24 +68,27 @@
         "team": "SFO",
         "pos": "OL",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
-        "offense": "72",
+        "g": "2",
+        "gs": "2",
+        "offense": "142",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "31%"
+        "special_teams": "11",
+        "st_pct": "22%"
       }
     ]
   },
   {
     "name": "Dominick Puni",
+    "id": "PuniDo00",
+    "team": "SF",
     "age": "24",
     "position": "OL",
     "weight": "313",
     "height": "",
     "college": "Central Missouri St.,Kansas",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/P/PuniDo00.htm"
   }
 ]

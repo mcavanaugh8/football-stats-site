@@ -160,8 +160,8 @@
         "team": "NWE",
         "pos": "S",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -172,12 +172,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "6",
-        "tackles_solo": "3",
-        "tackles_assists": "3",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "15",
+        "tackles_solo": "10",
+        "tackles_assists": "5",
+        "tackles_loss": "3",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -333,24 +333,27 @@
         "team": "NWE",
         "pos": "S",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "51",
+        "defense": "121",
         "def_pct": "100%",
-        "special_teams": "6",
-        "st_pct": "29%"
+        "special_teams": "16",
+        "st_pct": "31%"
       }
     ]
   },
   {
     "name": "Kyle Dugger",
+    "id": "DuggKy00",
+    "team": "NE",
     "age": "28",
     "position": "S",
     "weight": "216",
     "height": "6-1",
     "college": "Lenoir-Rhyne",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/D/DuggKy00.htm"
   }
 ]

@@ -133,7 +133,7 @@
         "team": "HOU",
         "pos": "DT",
         "uniform_number": "94",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -222,24 +222,27 @@
         "team": "HOU",
         "pos": "DT",
         "uniform_number": "94",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "10",
-        "def_pct": "22%",
-        "special_teams": "2",
-        "st_pct": "8%"
+        "defense": "38",
+        "def_pct": "33%",
+        "special_teams": "5",
+        "st_pct": "9%"
       }
     ]
   },
   {
     "name": "Khalil Davis",
+    "id": "DaviKh00",
+    "team": "HOU",
     "age": "28",
     "position": "DT",
     "weight": "315",
     "height": "6-2",
     "college": "Nebraska",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/D/DaviKh00.htm"
   }
 ]

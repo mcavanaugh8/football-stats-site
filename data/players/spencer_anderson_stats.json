@@ -83,24 +83,27 @@
         "team": "PIT",
         "pos": "OL",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
-        "offense": "68",
+        "g": "2",
+        "gs": "2",
+        "offense": "134",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "special_teams": "8",
+        "st_pct": "16%"
       }
     ]
   },
   {
     "name": "Spencer Anderson",
+    "id": "AndeSp00",
+    "team": "PIT",
     "age": "24",
     "position": "OL",
     "weight": "305",
     "height": "",
     "college": "Maryland",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AndeSp00.htm"
   }
 ]

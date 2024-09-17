@@ -1,21 +1,5 @@
 [
   {
-    "category": "fantasy",
-    "rows": [
-      {
-        "year_id": "2024",
-        "age": "23",
-        "g": "1",
-        "fantasy_pos": "WR",
-        "fantasy_points": "9",
-        "vbd": "1",
-        "fantasy_rank_pos": "23",
-        "fantasy_rank_overall": "63",
-        "games": "All 2024 Games"
-      }
-    ]
-  },
-  {
     "category": "detailed_receiving_and_rushing",
     "rows": [
       {
@@ -24,23 +8,23 @@
         "team": "TAM",
         "pos": "WR",
         "uniform_number": "15",
-        "g": "1",
-        "gs": "1",
-        "targets": "3",
-        "rec": "1",
-        "rec_yds": "32",
-        "rec_first_down": "1",
-        "rec_air_yds": "29",
-        "rec_air_yds_per_rec": "29.0",
+        "g": "2",
+        "gs": "2",
+        "targets": "5",
+        "rec": "2",
+        "rec_yds": "53",
+        "rec_first_down": "2",
+        "rec_air_yds": "50",
+        "rec_air_yds_per_rec": "25.0",
         "rec_yac": "3",
-        "rec_yac_per_rec": "3.0",
-        "rec_adot": "18.0",
+        "rec_yac_per_rec": "1.5",
+        "rec_adot": "18.6",
         "rec_broken_tackles": "0",
         "rec_broken_tackles_per_rec": "",
         "rec_drops": "1",
-        "rec_drop_pct": "33.3",
+        "rec_drop_pct": "20.0",
         "rec_target_int": "0",
-        "rec_pass_rating": "113.9",
+        "rec_pass_rating": "119.2",
         "rush_att": "0",
         "rush_yds": "0",
         "rush_td": "0",
@@ -79,6 +63,10 @@
     "rows": []
   },
   {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
     "category": "receiving_and_rushing",
     "rows": [
       {
@@ -87,20 +75,20 @@
         "team": "TAM",
         "pos": "WR",
         "uniform_number": "15",
-        "g": "1",
-        "gs": "1",
-        "targets": "3",
-        "rec": "1",
-        "rec_yds": "32",
-        "rec_yds_per_rec": "32.0",
+        "g": "2",
+        "gs": "2",
+        "targets": "5",
+        "rec": "2",
+        "rec_yds": "53",
+        "rec_yds_per_rec": "26.5",
         "rec_td": "1",
-        "rec_first_down": "1",
-        "rec_success": "33.3",
+        "rec_first_down": "2",
+        "rec_success": "40.0",
         "rec_long": "32",
         "rec_per_g": "1.0",
-        "rec_yds_per_g": "32.0",
-        "catch_pct": "33.3%",
-        "rec_yds_per_tgt": "10.7",
+        "rec_yds_per_g": "26.5",
+        "catch_pct": "40.0%",
+        "rec_yds_per_tgt": "10.6",
         "rush_att": "",
         "rush_yds": "",
         "rush_td": "0",
@@ -110,9 +98,9 @@
         "rush_yds_per_att": "",
         "rush_yds_per_g": "",
         "rush_att_per_g": "",
-        "touches": "1",
-        "yds_per_touch": "32.0",
-        "yds_from_scrimmage": "32",
+        "touches": "2",
+        "yds_per_touch": "26.5",
+        "yds_from_scrimmage": "53",
         "rush_receive_td": "1",
         "fumbles": "0",
         "av": ""
@@ -148,8 +136,8 @@
         "team": "TAM",
         "pos": "WR",
         "uniform_number": "15",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "rushtd": "",
         "rectd": "1",
         "prtd": "",
@@ -167,7 +155,7 @@
         "fga": "",
         "safety_md": "",
         "scoring": "6",
-        "points_per_g": "6.0"
+        "points_per_g": "3.0"
       }
     ]
   },
@@ -180,10 +168,10 @@
         "team": "TAM",
         "pos": "WR",
         "uniform_number": "15",
-        "g": "1",
-        "gs": "1",
-        "offense": "53",
-        "off_pct": "83%",
+        "g": "2",
+        "gs": "2",
+        "offense": "91",
+        "off_pct": "81%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -193,11 +181,14 @@
   },
   {
     "name": "Jalen McMillan",
+    "id": "McMiJa01",
+    "team": "TB",
     "age": "23",
     "position": "WR",
     "weight": "192",
     "height": "",
     "college": "Washington",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/McMiJa01.htm"
   }
 ]

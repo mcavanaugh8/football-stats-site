@@ -241,7 +241,7 @@
         "team": "NYJ",
         "pos": "LS",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -390,24 +390,27 @@
         "team": "NYJ",
         "pos": "LS",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "14",
+        "st_pct": "27%"
       }
     ]
   },
   {
     "name": "Thomas Hennessy",
+    "id": "HennTh00",
+    "team": "NYJ",
     "age": "30",
     "position": "LS",
     "weight": "246",
     "height": "6-2",
     "college": "Duke",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/H/HennTh00.htm"
   }
 ]

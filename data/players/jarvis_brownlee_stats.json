@@ -52,7 +52,7 @@
         "team": "TEN",
         "pos": "CB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -65,8 +65,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
+        "tackles_combined": "4",
+        "tackles_solo": "4",
         "tackles_assists": "0",
         "tackles_loss": "1",
         "qb_hits": "0",
@@ -96,24 +96,27 @@
         "team": "TEN",
         "pos": "CB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "18",
-        "def_pct": "32%",
-        "special_teams": "15",
-        "st_pct": "52%"
+        "defense": "28",
+        "def_pct": "25%",
+        "special_teams": "29",
+        "st_pct": "53%"
       }
     ]
   },
   {
     "name": "Jarvis Brownlee",
+    "id": "BrowJa09",
+    "team": "TEN",
     "age": "23",
     "position": "CB",
     "weight": "194",
     "height": "",
     "college": "Florida St.,Louisville",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BrowJa09.htm"
   }
 ]

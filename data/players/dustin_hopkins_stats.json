@@ -544,7 +544,7 @@
         "team": "CLE",
         "pos": "K",
         "uniform_number": "7",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -557,13 +557,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "1",
-        "fga": "1",
+        "xpm": "3",
+        "xpa": "3",
+        "fgm": "4",
+        "fga": "4",
         "safety_md": "",
-        "scoring": "5",
-        "points_per_g": "5.0"
+        "scoring": "15",
+        "points_per_g": "7.5"
       }
     ]
   },
@@ -741,24 +741,27 @@
         "team": "CLE",
         "pos": "K",
         "uniform_number": "7",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "22%"
+        "special_teams": "18",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Dustin Hopkins",
+    "id": "HopkDu00",
+    "team": "CLE",
     "age": "34",
     "position": "K",
     "weight": "210",
     "height": "6-2",
     "college": "Florida St.",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/H/HopkDu00.htm"
   }
 ]

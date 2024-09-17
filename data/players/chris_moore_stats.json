@@ -93,11 +93,11 @@
       {
         "year_id": "2024",
         "age": "31",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "119",
+        "fantasy_rank_pos": "161",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -316,7 +316,7 @@
         "team": "ARI",
         "pos": "WR",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -667,7 +667,7 @@
         "team": "ARI",
         "pos": "WR",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -1298,24 +1298,15 @@
         "team": "ARI",
         "pos": "WR",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "1",
-        "off_pct": "2%",
+        "offense": "10",
+        "off_pct": "8%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
         "st_pct": "0%"
       }
     ]
-  },
-  {
-    "name": "Chris Moore",
-    "age": "31",
-    "position": "WR",
-    "weight": "200",
-    "height": "6-1",
-    "college": "Cincinnati",
-    "experience": "8"
   }
 ]

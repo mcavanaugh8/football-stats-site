@@ -60,7 +60,7 @@
         "team": "BUF",
         "pos": "DB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "punt_ret": "1",
         "punt_ret_yds": "7",
@@ -90,24 +90,27 @@
         "team": "BUF",
         "pos": "DB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "30%"
+        "special_teams": "12",
+        "st_pct": "25%"
       }
     ]
   },
   {
     "name": "Brandon Codrington",
+    "id": "CodrBr00",
+    "team": "BUF",
     "age": "24",
     "position": "DB",
     "weight": "185",
     "height": "5-9",
     "college": "North Carolina Central",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CodrBr00.htm"
   }
 ]

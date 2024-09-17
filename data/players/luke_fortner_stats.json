@@ -106,7 +106,7 @@
         "team": "JAX",
         "pos": "OL",
         "uniform_number": "79",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,24 +180,27 @@
         "team": "JAX",
         "pos": "OL",
         "uniform_number": "79",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "12%"
+        "special_teams": "7",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Luke Fortner",
+    "id": "FortLu01",
+    "team": "JAX",
     "age": "26",
     "position": "OL",
     "weight": "307",
     "height": "6-4",
     "college": "Kentucky",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/F/FortLu01.htm"
   }
 ]

@@ -68,24 +68,27 @@
         "team": "CIN",
         "pos": "LB",
         "uniform_number": "45",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "19",
-        "st_pct": "91%"
+        "special_teams": "39",
+        "st_pct": "83%"
       }
     ]
   },
   {
     "name": "Maema Njongmeta",
+    "id": "NjonMa00",
+    "team": "CIN",
     "age": "23",
     "position": "LB",
     "weight": "230",
     "height": "",
     "college": "Wisconsin",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/N/NjonMa00.htm"
   }
 ]

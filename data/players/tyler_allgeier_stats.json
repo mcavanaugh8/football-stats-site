@@ -405,11 +405,14 @@
   },
   {
     "name": "Tyler Allgeier",
+    "id": "AllgTy00",
+    "team": "ATL",
     "age": "24",
     "position": "RB",
     "weight": "220",
     "height": "5-11",
     "college": "BYU",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/A/AllgTy00.htm"
   }
 ]

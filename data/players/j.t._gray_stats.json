@@ -220,7 +220,7 @@
         "team": "NOR",
         "pos": "DB",
         "uniform_number": "48",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -233,8 +233,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "3",
-        "tackles_solo": "1",
+        "tackles_combined": "4",
+        "tackles_solo": "2",
         "tackles_assists": "2",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -355,24 +355,27 @@
         "team": "NOR",
         "pos": "DB",
         "uniform_number": "48",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "7",
-        "def_pct": "12%",
-        "special_teams": "20",
-        "st_pct": "67%"
+        "defense": "8",
+        "def_pct": "6%",
+        "special_teams": "40",
+        "st_pct": "70%"
       }
     ]
   },
   {
     "name": "J.T. Gray",
+    "id": "GrayJ.00",
+    "team": "NO",
     "age": "28",
     "position": "DB",
     "weight": "202",
     "height": "6-0",
     "college": "Mississippi St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/G/GrayJ.00.htm"
   }
 ]

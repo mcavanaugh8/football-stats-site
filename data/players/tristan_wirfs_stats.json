@@ -164,8 +164,8 @@
         "team": "TAM",
         "pos": "T",
         "uniform_number": "78",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -269,24 +269,27 @@
         "team": "TAM",
         "pos": "T",
         "uniform_number": "78",
-        "g": "1",
-        "gs": "1",
-        "offense": "64",
+        "g": "2",
+        "gs": "2",
+        "offense": "112",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "26%"
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
   },
   {
     "name": "Tristan Wirfs",
+    "id": "WirfTr00",
+    "team": "TB",
     "age": "25",
     "position": "T",
     "weight": "320",
     "height": "6-5",
     "college": "Iowa",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/W/WirfTr00.htm"
   }
 ]

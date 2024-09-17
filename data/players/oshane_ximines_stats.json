@@ -187,7 +187,7 @@
         "team": "NWE",
         "pos": "OLB",
         "uniform_number": "93",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -327,24 +327,27 @@
         "team": "NWE",
         "pos": "OLB",
         "uniform_number": "93",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "11",
-        "def_pct": "22%",
-        "special_teams": "17",
-        "st_pct": "81%"
+        "defense": "14",
+        "def_pct": "12%",
+        "special_teams": "29",
+        "st_pct": "56%"
       }
     ]
   },
   {
     "name": "Oshane Ximines",
+    "id": "XimiOs00",
+    "team": "NE",
     "age": "28",
     "position": "OLB",
     "weight": "254",
     "height": "6-4",
     "college": "Old Dominion",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/X/XimiOs00.htm"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Leonard Taylor",
+    "id": "TaylLe01",
+    "team": "NYJ",
     "age": "25",
     "position": "DL",
     "weight": "305",
     "height": "6-3",
     "college": "Cincinnati",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/T/TaylLe01.htm"
   }
 ]

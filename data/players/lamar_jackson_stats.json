@@ -319,11 +319,14 @@
   },
   {
     "name": "Lamar Jackson",
+    "id": "JackLa00",
+    "team": "BAL",
     "age": "27",
     "position": "QB",
     "weight": "205",
     "height": "6-2",
     "college": "Louisville",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/J/JackLa00.htm"
   }
 ]

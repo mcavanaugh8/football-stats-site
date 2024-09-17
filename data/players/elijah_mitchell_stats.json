@@ -433,5 +433,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Elijah Mitchell (IR)",
+    "id": "MitcEl00",
+    "team": "SF",
+    "age": "26",
+    "position": "RB",
+    "weight": "200",
+    "height": "5-10",
+    "college": "Louisiana",
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/M/MitcEl00.htm"
   }
 ]

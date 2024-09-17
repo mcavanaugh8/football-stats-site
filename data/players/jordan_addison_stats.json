@@ -20,7 +20,7 @@
         "fantasy_pos": "WR",
         "fantasy_points": "4",
         "vbd": "",
-        "fantasy_rank_pos": "60",
+        "fantasy_rank_pos": "84",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -289,11 +289,14 @@
   },
   {
     "name": "Jordan Addison",
+    "id": "AddiJo00",
+    "team": "MIN",
     "age": "22",
     "position": "WR",
     "weight": "175",
     "height": "",
     "college": "Pittsburgh,USC",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AddiJo00.htm"
   }
 ]

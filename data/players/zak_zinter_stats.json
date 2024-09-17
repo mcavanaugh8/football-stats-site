@@ -68,24 +68,27 @@
         "team": "CLE",
         "pos": "G",
         "uniform_number": "70",
-        "g": "1",
-        "gs": "0",
-        "offense": "2",
-        "off_pct": "3%",
+        "g": "2",
+        "gs": "1",
+        "offense": "16",
+        "off_pct": "11%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "11%"
+        "special_teams": "8",
+        "st_pct": "13%"
       }
     ]
   },
   {
     "name": "Zak Zinter",
+    "id": "ZintZa00",
+    "team": "CLE",
     "age": "23",
     "position": "G",
     "weight": "310",
     "height": "",
     "college": "Michigan",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/Z/ZintZa00.htm"
   }
 ]

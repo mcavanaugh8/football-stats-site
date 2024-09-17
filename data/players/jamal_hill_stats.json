@@ -65,11 +65,14 @@
   },
   {
     "name": "Jamal Hill",
+    "id": "HillJa02",
+    "team": "HOU",
     "age": "23",
     "position": "LB",
     "weight": "227",
     "height": "6-0",
     "college": "Oregon",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HillJa02.htm"
   }
 ]

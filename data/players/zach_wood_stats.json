@@ -241,7 +241,7 @@
         "team": "NOR",
         "pos": "LS",
         "uniform_number": "49",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -390,24 +390,27 @@
         "team": "NOR",
         "pos": "LS",
         "uniform_number": "49",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "11",
-        "st_pct": "37%"
+        "special_teams": "19",
+        "st_pct": "33%"
       }
     ]
   },
   {
     "name": "Zach Wood",
+    "id": "WoodZa00",
+    "team": "NO",
     "age": "31",
     "position": "LS",
     "weight": "255",
     "height": "6-3",
     "college": "SMU",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/W/WoodZa00.htm"
   }
 ]

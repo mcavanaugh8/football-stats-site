@@ -180,6 +180,33 @@
         "qb_hits": "1",
         "safety_md": "",
         "av": "2"
+      },
+      {
+        "year_id": "2024",
+        "age": "30",
+        "team": "JAX",
+        "pos": "DT",
+        "uniform_number": "99",
+        "g": "1",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "3",
+        "tackles_solo": "1",
+        "tackles_assists": "2",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -272,16 +299,34 @@
         "def_pct": "33%",
         "special_teams": "67",
         "st_pct": "15%"
+      },
+      {
+        "year_id": "2024",
+        "age": "30",
+        "team": "JAX",
+        "pos": "DT",
+        "uniform_number": "99",
+        "g": "1",
+        "gs": "1",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "36",
+        "def_pct": "50%",
+        "special_teams": "4",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Jeremiah Ledbetter",
+    "id": "LedbJe00",
+    "team": "JAX",
     "age": "30",
-    "position": "DL",
+    "position": "DT",
     "weight": "299",
     "height": "6-3",
     "college": "Arkansas",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/L/LedbJe00.htm"
   }
 ]

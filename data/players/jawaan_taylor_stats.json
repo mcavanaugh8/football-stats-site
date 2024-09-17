@@ -187,8 +187,8 @@
         "team": "KAN",
         "pos": "T",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -306,24 +306,27 @@
         "team": "KAN",
         "pos": "T",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
-        "offense": "54",
+        "g": "2",
+        "gs": "2",
+        "offense": "119",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Jawaan Taylor",
+    "id": "TaylJa02",
+    "team": "KC",
     "age": "27",
     "position": "T",
     "weight": "330",
     "height": "6-5",
     "college": "Florida",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/T/TaylJa02.htm"
   }
 ]

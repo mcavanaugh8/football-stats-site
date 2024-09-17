@@ -65,11 +65,14 @@
   },
   {
     "name": "Decamerion Richardson",
+    "id": "RichDe01",
+    "team": "LV",
     "age": "23",
     "position": "CB",
     "weight": "195",
     "height": "",
     "college": "Mississippi St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RichDe01.htm"
   }
 ]

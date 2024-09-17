@@ -98,9 +98,9 @@
         "team": "IND",
         "pos": "T",
         "uniform_number": "79",
-        "g": "1",
-        "gs": "1",
-        "offense": "45",
+        "g": "2",
+        "gs": "2",
+        "offense": "101",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -111,11 +111,14 @@
   },
   {
     "name": "Bernhard Raimann",
+    "id": "RaimBe00",
+    "team": "IND",
     "age": "27",
     "position": "T",
     "weight": "303",
     "height": "6-6",
     "college": "Central Michigan",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/R/RaimBe00.htm"
   }
 ]

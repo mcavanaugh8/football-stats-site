@@ -280,7 +280,7 @@
         "team": "MIN",
         "pos": "LB",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -700,7 +700,7 @@
         "team": "MIN",
         "pos": "LB",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -894,24 +894,27 @@
         "team": "MIN",
         "pos": "LB",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "20",
-        "st_pct": "83%"
+        "special_teams": "38",
+        "st_pct": "81%"
       }
     ]
   },
   {
     "name": "Kamu Grugier-Hill",
+    "id": "GrugKa00",
+    "team": "MIN",
     "age": "30",
     "position": "LB",
     "weight": "230",
     "height": "6-2",
     "college": "Eastern Illinois",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/G/GrugKa00.htm"
   }
 ]

@@ -60,12 +60,12 @@
       {
         "year_id": "2024",
         "age": "27",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "10",
-        "vbd": "6",
-        "fantasy_rank_pos": "2",
-        "fantasy_rank_overall": "28",
+        "vbd": "2",
+        "fantasy_rank_pos": "8",
+        "fantasy_rank_overall": "69",
         "games": "All 2024 Games"
       }
     ]
@@ -249,8 +249,8 @@
         "team": "NOR",
         "pos": "TE",
         "uniform_number": "87",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "4",
         "rec": "4",
         "rec_yds": "43",
@@ -492,8 +492,8 @@
         "team": "NOR",
         "pos": "TE",
         "uniform_number": "87",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "4",
         "rec": "4",
         "rec_yds": "43",
@@ -502,8 +502,8 @@
         "rec_first_down": "2",
         "rec_success": "75.0",
         "rec_long": "22",
-        "rec_per_g": "4.0",
-        "rec_yds_per_g": "43.0",
+        "rec_per_g": "2.0",
+        "rec_yds_per_g": "21.5",
         "catch_pct": "100.0%",
         "rec_yds_per_tgt": "10.8",
         "rush_att": "",
@@ -767,8 +767,8 @@
         "team": "NOR",
         "pos": "TE",
         "uniform_number": "87",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "rushtd": "",
         "rectd": "1",
         "prtd": "",
@@ -786,7 +786,7 @@
         "fga": "",
         "safety_md": "",
         "scoring": "6",
-        "points_per_g": "6.0"
+        "points_per_g": "3.0"
       }
     ]
   },
@@ -874,24 +874,27 @@
         "team": "NOR",
         "pos": "TE",
         "uniform_number": "87",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
-        "off_pct": "77%",
+        "g": "2",
+        "gs": "2",
+        "offense": "98",
+        "off_pct": "78%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "27%"
+        "special_teams": "15",
+        "st_pct": "26%"
       }
     ]
   },
   {
     "name": "Foster Moreau",
+    "id": "MoreFo00",
+    "team": "NO",
     "age": "27",
     "position": "TE",
     "weight": "250",
     "height": "6-4",
     "college": "LSU",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/M/MoreFo00.htm"
   }
 ]

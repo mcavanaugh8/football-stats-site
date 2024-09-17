@@ -65,11 +65,14 @@
   },
   {
     "name": "Jarrett Kingston",
+    "id": "KingJa02",
+    "team": "CAR",
     "age": "25",
     "position": "OG",
     "weight": "305",
     "height": "",
     "college": "Washington St.,USC",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/K/KingJa02.htm"
   }
 ]

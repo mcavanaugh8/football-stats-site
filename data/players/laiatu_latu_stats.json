@@ -45,7 +45,35 @@
   },
   {
     "category": "defense",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "IND",
+        "pos": "DE",
+        "uniform_number": "97",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "0",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "punting",
@@ -68,24 +96,27 @@
         "team": "IND",
         "pos": "DE",
         "uniform_number": "97",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "31",
-        "def_pct": "39%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "defense": "59",
+        "def_pct": "40%",
+        "special_teams": "7",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Laiatu Latu",
+    "id": "LatuLa00",
+    "team": "IND",
     "age": "24",
     "position": "DE",
     "weight": "265",
     "height": "",
     "college": "Washington,UCLA",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LatuLa00.htm"
   }
 ]

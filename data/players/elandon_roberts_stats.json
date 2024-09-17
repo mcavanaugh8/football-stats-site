@@ -212,8 +212,8 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "0",
         "rec": "0",
         "rec_yds": "0",
@@ -543,8 +543,8 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -556,11 +556,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -783,24 +783,27 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "50",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "23",
-        "def_pct": "41%",
-        "special_teams": "2",
+        "defense": "44",
+        "def_pct": "38%",
+        "special_teams": "4",
         "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Elandon Roberts",
+    "id": "RobeEl00",
+    "team": "PIT",
     "age": "30",
     "position": "LB",
     "weight": "238",
     "height": "6-1",
     "college": "Houston",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/R/RobeEl00.htm"
   }
 ]

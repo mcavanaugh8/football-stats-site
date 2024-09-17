@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Robert Burns (PUP)",
+    "id": "BurnRo01",
+    "team": "ATL",
+    "age": "26",
+    "position": "RB",
+    "weight": "222",
+    "height": "5-11",
+    "college": "UConn",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BurnRo01.htm"
   }
 ]

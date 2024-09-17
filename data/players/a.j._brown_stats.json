@@ -216,6 +216,7 @@
         "age": "24",
         "team_name_abbr": "TEN",
         "comp_name_abbr": "NFL",
+        "pos": "WR",
         "games": "13",
         "games_started": "13",
         "pass_cmp": "0",
@@ -1300,11 +1301,14 @@
   },
   {
     "name": "A.J. Brown",
+    "id": "BrowAJ00",
+    "team": "PHI",
     "age": "27",
     "position": "WR",
     "weight": "226",
     "height": "6-1",
     "college": "Mississippi",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BrowAJ00.htm"
   }
 ]

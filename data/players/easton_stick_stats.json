@@ -540,11 +540,14 @@
   },
   {
     "name": "Easton Stick",
+    "id": "SticEa00",
+    "team": "LAC",
     "age": "29",
     "position": "QB",
     "weight": "224",
     "height": "6-1",
     "college": "North Dakota St.",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/S/SticEa00.htm"
   }
 ]

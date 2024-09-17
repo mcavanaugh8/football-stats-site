@@ -81,11 +81,14 @@
   },
   {
     "name": "Blake Freeland",
+    "id": "FreeBl00",
+    "team": "IND",
     "age": "23",
     "position": "T",
     "weight": "302",
     "height": "6-6",
     "college": "BYU",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/F/FreeBl00.htm"
   }
 ]

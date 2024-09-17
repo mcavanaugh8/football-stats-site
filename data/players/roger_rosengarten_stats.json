@@ -68,24 +68,27 @@
         "team": "BAL",
         "pos": "OT",
         "uniform_number": "70",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "20",
-        "off_pct": "25%",
+        "offense": "38",
+        "off_pct": "26%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "5",
-        "st_pct": "19%"
+        "st_pct": "9%"
       }
     ]
   },
   {
     "name": "Roger Rosengarten",
+    "id": "RoseRo01",
+    "team": "BAL",
     "age": "22",
     "position": "OT",
     "weight": "316",
     "height": "",
     "college": "Washington",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RoseRo01.htm"
   }
 ]

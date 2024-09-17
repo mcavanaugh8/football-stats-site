@@ -428,5 +428,17 @@
         "st_pct": "25%"
       }
     ]
+  },
+  {
+    "name": "Jacob Martin (IRD)",
+    "id": "MartJa02",
+    "team": "CHI",
+    "age": "29",
+    "position": "DL",
+    "weight": "242",
+    "height": "6-2",
+    "college": "Temple",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/M/MartJa02.htm"
   }
 ]

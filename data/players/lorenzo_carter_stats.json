@@ -213,7 +213,7 @@
         "age": "29",
         "team": "ATL",
         "pos": "OLB",
-        "uniform_number": "",
+        "uniform_number": "0",
         "g": "1",
         "gs": "1",
         "def_int": "",
@@ -375,7 +375,7 @@
         "age": "29",
         "team": "ATL",
         "pos": "OLB",
-        "uniform_number": "",
+        "uniform_number": "0",
         "g": "1",
         "gs": "1",
         "offense": "0",
@@ -389,11 +389,14 @@
   },
   {
     "name": "Lorenzo Carter",
+    "id": "CartLo01",
+    "team": "ATL",
     "age": "29",
     "position": "OLB",
     "weight": "264",
     "height": "6-5",
     "college": "Georgia",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/CartLo01.htm"
   }
 ]

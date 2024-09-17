@@ -79,7 +79,7 @@
         "team": "CHI",
         "pos": "DL",
         "uniform_number": "92",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -92,9 +92,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
-        "tackles_assists": "0",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
+        "tackles_assists": "1",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -138,24 +138,27 @@
         "team": "CHI",
         "pos": "DL",
         "uniform_number": "92",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "1",
-        "def_pct": "2%",
-        "special_teams": "24",
-        "st_pct": "83%"
+        "def_pct": "1%",
+        "special_teams": "51",
+        "st_pct": "86%"
       }
     ]
   },
   {
     "name": "Daniel Hardy",
+    "id": "HardDa01",
+    "team": "CHI",
     "age": "26",
     "position": "DL",
     "weight": "240",
     "height": "6-3",
     "college": "Montana State",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/H/HardDa01.htm"
   }
 ]

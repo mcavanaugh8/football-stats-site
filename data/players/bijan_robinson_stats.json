@@ -287,11 +287,14 @@
   },
   {
     "name": "Bijan Robinson",
+    "id": "RobiBi01",
+    "team": "ATL",
     "age": "22",
     "position": "RB",
     "weight": "215",
     "height": "5-11",
     "college": "Texas",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/R/RobiBi01.htm"
   }
 ]

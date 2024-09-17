@@ -304,8 +304,8 @@
         "team": "LVR",
         "pos": "OL",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -484,24 +484,27 @@
         "team": "LVR",
         "pos": "OL",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "g": "2",
+        "gs": "1",
+        "offense": "27",
+        "off_pct": "22%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "11%"
+        "special_teams": "9",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Andrus Peat",
+    "id": "PeatAn00",
+    "team": "LV",
     "age": "31",
     "position": "OL",
     "weight": "316",
     "height": "6-7",
     "college": "Stanford",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/P/PeatAn00.htm"
   }
 ]

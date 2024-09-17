@@ -318,12 +318,15 @@
     ]
   },
   {
-    "name": "Ryan Bates",
+    "name": "Ryan Bates (IR)",
+    "id": "BateRy02",
+    "team": "CHI",
     "age": "27",
     "position": "OL",
     "weight": "302",
     "height": "6-4",
     "college": "Penn St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BateRy02.htm"
   }
 ]

@@ -829,5 +829,17 @@
         "st_pct": "33%"
       }
     ]
+  },
+  {
+    "name": "Ian Thomas (IR)",
+    "id": "ThomIa00",
+    "team": "CAR",
+    "age": "28",
+    "position": "TE",
+    "weight": "260",
+    "height": "6-4",
+    "college": "Indiana",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/T/ThomIa00.htm"
   }
 ]

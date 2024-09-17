@@ -153,5 +153,17 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Le'Raven Clark (IR)",
+    "id": "ClarLe01",
+    "team": "PHI",
+    "age": "31",
+    "position": "T",
+    "weight": "319",
+    "height": "6-5",
+    "college": "Texas Tech",
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/C/ClarLe01.htm"
   }
 ]

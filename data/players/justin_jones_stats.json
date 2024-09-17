@@ -214,8 +214,8 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,11 +227,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "1",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
         "tackles_assists": "1",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "tackles_loss": "1",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -348,24 +348,15 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "43",
-        "def_pct": "69%",
-        "special_teams": "6",
-        "st_pct": "22%"
+        "defense": "78",
+        "def_pct": "68%",
+        "special_teams": "7",
+        "st_pct": "14%"
       }
     ]
-  },
-  {
-    "name": "Justin Jones",
-    "age": "28",
-    "position": "DL",
-    "weight": "309",
-    "height": "6-3",
-    "college": "North Carolina St.",
-    "experience": "6"
   }
 ]

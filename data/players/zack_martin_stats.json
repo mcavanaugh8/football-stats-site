@@ -332,8 +332,8 @@
         "team": "DAL",
         "pos": "G",
         "uniform_number": "70",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -527,10 +527,10 @@
         "team": "DAL",
         "pos": "G",
         "uniform_number": "70",
-        "g": "1",
-        "gs": "1",
-        "offense": "62",
-        "off_pct": "98%",
+        "g": "2",
+        "gs": "2",
+        "offense": "124",
+        "off_pct": "93%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -540,11 +540,14 @@
   },
   {
     "name": "Zack Martin",
+    "id": "MartZa00",
+    "team": "DAL",
     "age": "34",
     "position": "G",
     "weight": "315",
     "height": "6-4",
     "college": "Notre Dame",
-    "experience": "10"
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/M/MartZa00.htm"
   }
 ]

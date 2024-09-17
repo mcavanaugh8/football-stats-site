@@ -179,11 +179,14 @@
   },
   {
     "name": "Cameron Thomas",
+    "id": "ThomCa03",
+    "team": "KC",
     "age": "24",
     "position": "DE",
     "weight": "267",
     "height": "6-4",
     "college": "San Diego St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/ThomCa03.htm"
   }
 ]

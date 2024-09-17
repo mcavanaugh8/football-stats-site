@@ -106,7 +106,7 @@
         "team": "GNB",
         "pos": "DL",
         "uniform_number": "95",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -118,12 +118,12 @@
         "fumbles_rec": "1",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
+        "sacks": "1.0",
+        "tackles_combined": "3",
+        "tackles_solo": "3",
         "tackles_assists": "0",
-        "tackles_loss": "1",
-        "qb_hits": "0",
+        "tackles_loss": "3",
+        "qb_hits": "2",
         "safety_md": "",
         "av": ""
       }
@@ -180,12 +180,12 @@
         "team": "GNB",
         "pos": "DL",
         "uniform_number": "95",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "36",
-        "def_pct": "47%",
+        "defense": "61",
+        "def_pct": "46%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -193,11 +193,14 @@
   },
   {
     "name": "Devonte Wyatt",
+    "id": "WyatDe00",
+    "team": "GB",
     "age": "26",
     "position": "DL",
     "weight": "304",
     "height": "6-3",
     "college": "Hutchinson (KS),Georgia",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WyatDe00.htm"
   }
 ]

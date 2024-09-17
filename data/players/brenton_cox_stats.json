@@ -81,11 +81,14 @@
   },
   {
     "name": "Brenton Cox",
+    "id": "CoxxBr02",
+    "team": "GB",
     "age": "24",
     "position": "DL",
     "weight": "250",
     "height": "6-4",
     "college": "Georgia,Florida",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/C/CoxxBr02.htm"
   }
 ]

@@ -212,7 +212,7 @@
         "team": "DAL",
         "pos": "CB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -597,7 +597,7 @@
         "team": "DAL",
         "pos": "CB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -791,24 +791,27 @@
         "team": "DAL",
         "pos": "CB",
         "uniform_number": "29",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "4",
-        "def_pct": "5%",
-        "special_teams": "29",
+        "def_pct": "3%",
+        "special_teams": "51",
         "st_pct": "81%"
       }
     ]
   },
   {
     "name": "C.J. Goodwin",
+    "id": "GoodC.00",
+    "team": "DAL",
     "age": "34",
     "position": "CB",
     "weight": "190",
     "height": "6-3",
     "college": "California (PA)",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/G/GoodC.00.htm"
   }
 ]

@@ -106,5 +106,17 @@
         "st_pct": "63%"
       }
     ]
+  },
+  {
+    "name": "Chance Campbell (IR)",
+    "id": "CampCh02",
+    "team": "TEN",
+    "age": "25",
+    "position": "LB",
+    "weight": "232",
+    "height": "6-2",
+    "college": "Maryland,Mississippi",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/C/CampCh02.htm"
   }
 ]

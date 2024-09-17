@@ -909,5 +909,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Nick Chubb (PUP)",
+    "id": "ChubNi00",
+    "team": "CLE",
+    "age": "29",
+    "position": "RB",
+    "weight": "227",
+    "height": "5-11",
+    "college": "Georgia",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/ChubNi00.htm"
   }
 ]

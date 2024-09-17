@@ -106,5 +106,17 @@
         "st_pct": "78%"
       }
     ]
+  },
+  {
+    "name": "Tre'Vius Tomlinson (IR)",
+    "id": "HodgTr00",
+    "team": "LAR",
+    "age": "24",
+    "position": "DB",
+    "weight": "177",
+    "height": "",
+    "college": "TCU",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/H/HodgTr00.htm"
   }
 ]

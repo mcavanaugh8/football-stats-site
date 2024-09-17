@@ -9,7 +9,7 @@
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "151",
+        "fantasy_rank_pos": "159",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -121,11 +121,14 @@
   },
   {
     "name": "Tyreik McAllister",
+    "id": "McAlTy00",
+    "team": "LV",
     "age": "26",
     "position": "WR",
     "weight": "180",
     "height": "5-11",
     "college": "Charleston (WV)",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/McAlTy00.htm"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2023",
+        "age": "21",
+        "g": "16",
+        "fantasy_pos": "WR",
+        "fantasy_points": "49",
+        "vbd": "",
+        "fantasy_rank_pos": "84",
+        "fantasy_rank_overall": "",
+        "games": "All 2023 Games"
+      },
+      {
+        "year_id": "2024",
+        "age": "22",
+        "g": "2",
+        "fantasy_pos": "WR",
+        "fantasy_points": "1",
+        "vbd": "",
+        "fantasy_rank_pos": "119",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
     "category": "detailed_receiving_and_rushing",
     "rows": [
       {
@@ -42,23 +69,23 @@
         "team": "DEN",
         "pos": "WR",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "targets": "1",
-        "rec": "0",
-        "rec_yds": "0",
+        "targets": "3",
+        "rec": "1",
+        "rec_yds": "10",
         "rec_first_down": "",
-        "rec_air_yds": "0",
-        "rec_air_yds_per_rec": "",
-        "rec_yac": "0",
-        "rec_yac_per_rec": "",
-        "rec_adot": "11.0",
+        "rec_air_yds": "2",
+        "rec_air_yds_per_rec": "2.0",
+        "rec_yac": "8",
+        "rec_yac_per_rec": "8.0",
+        "rec_adot": "21.3",
         "rec_broken_tackles": "0",
         "rec_broken_tackles_per_rec": "",
         "rec_drops": "0",
         "rec_drop_pct": "0.0",
         "rec_target_int": "0",
-        "rec_pass_rating": "39.6",
+        "rec_pass_rating": "43.7",
         "rush_att": "0",
         "rush_yds": "0",
         "rush_td": "0",
@@ -94,10 +121,6 @@
   },
   {
     "category": "passing_advanced",
-    "rows": []
-  },
-  {
-    "category": "fantasy",
     "rows": []
   },
   {
@@ -146,20 +169,20 @@
         "team": "DEN",
         "pos": "WR",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "targets": "1",
-        "rec": "0",
-        "rec_yds": "0",
-        "rec_yds_per_rec": "",
+        "targets": "3",
+        "rec": "1",
+        "rec_yds": "10",
+        "rec_yds_per_rec": "10.0",
         "rec_td": "0",
         "rec_first_down": "",
         "rec_success": "0.0",
-        "rec_long": "0",
-        "rec_per_g": "0.0",
-        "rec_yds_per_g": "0.0",
-        "catch_pct": "0.0%",
-        "rec_yds_per_tgt": "0.0",
+        "rec_long": "8",
+        "rec_per_g": "0.5",
+        "rec_yds_per_g": "5.0",
+        "catch_pct": "33.3%",
+        "rec_yds_per_tgt": "3.3",
         "rush_att": "",
         "rush_yds": "",
         "rush_td": "0",
@@ -169,9 +192,9 @@
         "rush_yds_per_att": "",
         "rush_yds_per_g": "",
         "rush_att_per_g": "",
-        "touches": "",
-        "yds_per_touch": "",
-        "yds_from_scrimmage": "",
+        "touches": "1",
+        "yds_per_touch": "10.0",
+        "yds_from_scrimmage": "10",
         "rush_receive_td": "0",
         "fumbles": "0",
         "av": "",
@@ -224,19 +247,19 @@
         "team": "DEN",
         "pos": "WR",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "punt_ret": "5",
-        "punt_ret_yds": "47",
+        "punt_ret": "8",
+        "punt_ret_yds": "67",
         "punt_ret_td": "0",
         "punt_ret_long": "18",
-        "punt_ret_yds_per_ret": "9.4",
+        "punt_ret_yds_per_ret": "8.4",
         "kick_ret": "3",
         "kick_ret_yds": "69",
         "kick_ret_td": "0",
         "kick_ret_long": "26",
         "kick_ret_yds_per_ret": "23.0",
-        "all_purpose_yds": "116"
+        "all_purpose_yds": "146"
       }
     ]
   },
@@ -296,24 +319,27 @@
         "team": "DEN",
         "pos": "WR",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "offense": "12",
-        "off_pct": "17%",
+        "offense": "21",
+        "off_pct": "16%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "14",
-        "st_pct": "41%"
+        "special_teams": "26",
+        "st_pct": "44%"
       }
     ]
   },
   {
     "name": "Marvin Mims",
+    "id": "MimsMa00",
+    "team": "DEN",
     "age": "22",
     "position": "WR",
     "weight": "182",
     "height": "",
     "college": "Oklahoma",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MimsMa00.htm"
   }
 ]

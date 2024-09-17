@@ -150,12 +150,15 @@
     ]
   },
   {
-    "name": "Mohamoud Diabate",
+    "name": "Mohamoud Diabate (IR)",
+    "id": "DiabMo00",
+    "team": "CLE",
     "age": "23",
     "position": "LB",
     "weight": "225",
     "height": "",
     "college": "Florida,Utah",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/D/DiabMo00.htm"
   }
 ]

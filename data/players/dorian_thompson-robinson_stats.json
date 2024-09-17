@@ -313,11 +313,14 @@
   },
   {
     "name": "Dorian Thompson-Robinson",
+    "id": "ThomDo02",
+    "team": "CLE",
     "age": "25",
     "position": "QB",
     "weight": "203",
     "height": "6-2",
     "college": "UCLA",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/ThomDo02.htm"
   }
 ]

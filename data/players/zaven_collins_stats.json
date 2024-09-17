@@ -133,8 +133,8 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "25",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -145,12 +145,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "9",
-        "tackles_solo": "5",
-        "tackles_assists": "4",
-        "tackles_loss": "1",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "11",
+        "tackles_solo": "6",
+        "tackles_assists": "5",
+        "tackles_loss": "2",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -250,24 +250,15 @@
         "team": "ARI",
         "pos": "OLB",
         "uniform_number": "25",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "43",
-        "def_pct": "69%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "66",
+        "def_pct": "58%",
+        "special_teams": "1",
+        "st_pct": "2%"
       }
     ]
-  },
-  {
-    "name": "Zaven Collins",
-    "age": "25",
-    "position": "OLB",
-    "weight": "260",
-    "height": "6-4",
-    "college": "Tulsa",
-    "experience": "3"
   }
 ]

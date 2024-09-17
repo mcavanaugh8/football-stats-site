@@ -106,5 +106,17 @@
         "st_pct": "64%"
       }
     ]
+  },
+  {
+    "name": "Drew Sanders (PUP)",
+    "id": "SandDr00",
+    "team": "DEN",
+    "age": "23",
+    "position": "LB",
+    "weight": "233",
+    "height": "",
+    "college": "Alabama,Arkansas",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/SandDr00.htm"
   }
 ]

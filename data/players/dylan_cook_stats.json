@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Dylan Cook (IRD)",
+    "id": "CookDy00",
+    "team": "PIT",
+    "age": "26",
+    "position": "OT",
+    "weight": "305",
+    "height": "6-6",
+    "college": "Montana",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CookDy00.htm"
   }
 ]

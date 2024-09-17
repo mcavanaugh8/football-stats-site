@@ -65,11 +65,14 @@
   },
   {
     "name": "Dominique Hampton",
+    "id": "HampDo00",
+    "team": "WAS",
     "age": "24",
     "position": "S",
     "weight": "220",
     "height": "6-3",
     "college": "Washington",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HampDo00.htm"
   }
 ]

@@ -160,8 +160,8 @@
         "team": "BUF",
         "pos": "DE",
         "uniform_number": "57",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -173,11 +173,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "0",
-        "tackles_assists": "1",
+        "tackles_combined": "4",
+        "tackles_solo": "2",
+        "tackles_assists": "2",
         "tackles_loss": "0",
-        "qb_hits": "1",
+        "qb_hits": "2",
         "safety_md": "",
         "av": ""
       }
@@ -292,24 +292,27 @@
         "team": "BUF",
         "pos": "DE",
         "uniform_number": "57",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "38",
-        "def_pct": "62%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "defense": "88",
+        "def_pct": "64%",
+        "special_teams": "6",
+        "st_pct": "13%"
       }
     ]
   },
   {
     "name": "A.J. Epenesa",
+    "id": "EpenAJ00",
+    "team": "BUF",
     "age": "26",
     "position": "DE",
     "weight": "260",
     "height": "6-6",
     "college": "Iowa",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/E/EpenAJ00.htm"
   }
 ]

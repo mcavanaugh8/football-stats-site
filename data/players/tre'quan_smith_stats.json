@@ -857,5 +857,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Tre'Quan Smith (IR)",
+    "id": "SmitTr03",
+    "team": "DET",
+    "age": "28",
+    "position": "WR",
+    "weight": "210",
+    "height": "6-2",
+    "college": "Central Florida",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/S/SmitTr03.htm"
   }
 ]

@@ -178,5 +178,17 @@
         "st_pct": "7%"
       }
     ]
+  },
+  {
+    "name": "DaRon Bland (IRD)",
+    "id": "BlanDa00",
+    "team": "DAL",
+    "age": "25",
+    "position": "CB",
+    "weight": "197",
+    "height": "6-0",
+    "college": "Sacramento St.,Fresno St.",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/B/BlanDa00.htm"
   }
 ]

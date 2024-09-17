@@ -268,8 +268,8 @@
         "team": "CIN",
         "pos": "S",
         "uniform_number": "24",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -281,9 +281,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "6",
-        "tackles_solo": "3",
-        "tackles_assists": "3",
+        "tackles_combined": "14",
+        "tackles_solo": "5",
+        "tackles_assists": "9",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -460,24 +460,27 @@
         "team": "CIN",
         "pos": "S",
         "uniform_number": "24",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "65",
-        "def_pct": "100%",
-        "special_teams": "4",
+        "defense": "129",
+        "def_pct": "99%",
+        "special_teams": "9",
         "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Vonn Bell",
+    "id": "BellVo00",
+    "team": "CIN",
     "age": "30",
     "position": "S",
     "weight": "205",
     "height": "5-11",
     "college": "Ohio St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/B/BellVo00.htm"
   }
 ]

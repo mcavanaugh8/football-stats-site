@@ -68,24 +68,15 @@
         "team": "ARI",
         "pos": "S",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "21",
-        "st_pct": "78%"
+        "defense": "8",
+        "def_pct": "7%",
+        "special_teams": "37",
+        "st_pct": "71%"
       }
     ]
-  },
-  {
-    "name": "Dadrion Taylor-Demerson",
-    "age": "23",
-    "position": "S",
-    "weight": "189",
-    "height": "5-10",
-    "college": "Texas Tech",
-    "experience": "Rook"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Joe Milton",
+    "id": "MiltJo00",
+    "team": "NE",
     "age": "24",
     "position": "QB",
     "weight": "246",
     "height": "",
     "college": "Michigan,Tennessee",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MiltJo00.htm"
   }
 ]

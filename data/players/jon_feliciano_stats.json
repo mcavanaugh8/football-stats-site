@@ -463,5 +463,17 @@
         "st_pct": "20%"
       }
     ]
+  },
+  {
+    "name": "Jon Feliciano (IR)",
+    "id": "FeliJo00",
+    "team": "SF",
+    "age": "32",
+    "position": "OL",
+    "weight": "325",
+    "height": "6-4",
+    "college": "Miami (FL)",
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/F/FeliJo00.htm"
   }
 ]

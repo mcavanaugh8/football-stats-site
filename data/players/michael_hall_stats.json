@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Michael Hall (EXE)",
+    "id": "HallMi00",
+    "team": "CLE",
+    "age": "21",
+    "position": "DT",
+    "weight": "300",
+    "height": "",
+    "college": "Ohio St.",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HallMi00.htm"
   }
 ]

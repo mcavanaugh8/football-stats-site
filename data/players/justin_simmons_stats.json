@@ -482,11 +482,14 @@
   },
   {
     "name": "Justin Simmons",
+    "id": "SimmJu00",
+    "team": "ATL",
     "age": "31",
     "position": "S",
     "weight": "202",
     "height": "6-2",
     "college": "Boston Col.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/S/SimmJu00.htm"
   }
 ]

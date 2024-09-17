@@ -106,5 +106,17 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Ronnie Perkins (IR)",
+    "id": "PerkRo00",
+    "team": "DEN",
+    "age": "25",
+    "position": "OLB",
+    "weight": "253",
+    "height": "6-3",
+    "college": "Oklahoma",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/P/PerkRo00.htm"
   }
 ]

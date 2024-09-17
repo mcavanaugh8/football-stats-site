@@ -151,11 +151,14 @@
   },
   {
     "name": "Tyler Lacy",
+    "id": "LacyTy00",
+    "team": "JAX",
     "age": "25",
     "position": "DT",
     "weight": "279",
     "height": "",
     "college": "Oklahoma St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/L/LacyTy00.htm"
   }
 ]

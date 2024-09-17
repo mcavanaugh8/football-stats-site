@@ -65,11 +65,14 @@
   },
   {
     "name": "Ramel Keyton",
+    "id": "KeytRa00",
+    "team": "LV",
     "age": "24",
     "position": "WR",
     "weight": "191",
     "height": "6-2",
     "college": "Tennessee",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/K/KeytRa00.htm"
   }
 ]

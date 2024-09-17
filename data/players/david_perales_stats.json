@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "David Perales (IR)",
+    "id": "PeraDa00",
+    "team": "PIT",
+    "age": "25",
+    "position": "LB",
+    "weight": "255",
+    "height": "6-3",
+    "college": "Fresno State",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/P/PeraDa00.htm"
   }
 ]

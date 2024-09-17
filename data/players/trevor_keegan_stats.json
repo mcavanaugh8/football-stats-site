@@ -65,11 +65,14 @@
   },
   {
     "name": "Trevor Keegan",
+    "id": "KeegTr00",
+    "team": "PHI",
     "age": "24",
     "position": "G",
     "weight": "306",
     "height": "6-5",
     "college": "Michigan",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/K/KeegTr00.htm"
   }
 ]

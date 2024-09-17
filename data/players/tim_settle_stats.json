@@ -214,7 +214,7 @@
         "team": "HOU",
         "pos": "DT",
         "uniform_number": "98",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -348,24 +348,27 @@
         "team": "HOU",
         "pos": "DT",
         "uniform_number": "98",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "13",
-        "def_pct": "29%",
-        "special_teams": "2",
-        "st_pct": "8%"
+        "defense": "38",
+        "def_pct": "33%",
+        "special_teams": "5",
+        "st_pct": "9%"
       }
     ]
   },
   {
     "name": "Tim Settle",
+    "id": "SettTi00",
+    "team": "HOU",
     "age": "27",
     "position": "DT",
     "weight": "313",
     "height": "6-3",
     "college": "Virginia Tech",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/S/SettTi00.htm"
   }
 ]

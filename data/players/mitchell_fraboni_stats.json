@@ -106,7 +106,7 @@
         "team": "DEN",
         "pos": "LS",
         "uniform_number": "48",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,24 +180,27 @@
         "team": "DEN",
         "pos": "LS",
         "uniform_number": "48",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "12",
-        "st_pct": "35%"
+        "special_teams": "20",
+        "st_pct": "34%"
       }
     ]
   },
   {
     "name": "Mitchell Fraboni",
+    "id": "FrabMi00",
+    "team": "DEN",
     "age": "28",
     "position": "LS",
     "weight": "223",
     "height": "6-2",
     "college": "Arizona St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/F/FrabMi00.htm"
   }
 ]

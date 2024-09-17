@@ -214,8 +214,8 @@
         "team": "ARI",
         "pos": "LB",
         "uniform_number": "7",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,9 +227,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "11",
-        "tackles_solo": "5",
-        "tackles_assists": "6",
+        "tackles_combined": "18",
+        "tackles_solo": "7",
+        "tackles_assists": "11",
         "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
@@ -348,24 +348,15 @@
         "team": "ARI",
         "pos": "LB",
         "uniform_number": "7",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "62",
-        "def_pct": "100%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "106",
+        "def_pct": "93%",
+        "special_teams": "1",
+        "st_pct": "2%"
       }
     ]
-  },
-  {
-    "name": "Kyzir White",
-    "age": "28",
-    "position": "LB",
-    "weight": "234",
-    "height": "6-2",
-    "college": "West Virginia",
-    "experience": "6"
   }
 ]

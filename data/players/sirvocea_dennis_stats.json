@@ -79,7 +79,7 @@
         "team": "TAM",
         "pos": "LB",
         "uniform_number": "8",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -92,9 +92,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "1.0",
-        "tackles_combined": "7",
-        "tackles_solo": "5",
-        "tackles_assists": "2",
+        "tackles_combined": "18",
+        "tackles_solo": "11",
+        "tackles_assists": "7",
         "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
@@ -138,24 +138,27 @@
         "team": "TAM",
         "pos": "LB",
         "uniform_number": "8",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "21",
-        "def_pct": "36%",
-        "special_teams": "15",
-        "st_pct": "56%"
+        "defense": "65",
+        "def_pct": "45%",
+        "special_teams": "31",
+        "st_pct": "59%"
       }
     ]
   },
   {
     "name": "SirVocea Dennis",
+    "id": "DennSi00",
+    "team": "TB",
     "age": "24",
     "position": "LB",
     "weight": "230",
     "height": "6-0",
     "college": "Pittsburgh",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/D/DennSi00.htm"
   }
 ]

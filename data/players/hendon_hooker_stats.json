@@ -65,11 +65,14 @@
   },
   {
     "name": "Hendon Hooker",
+    "id": "HookHe00",
+    "team": "DET",
     "age": "26",
     "position": "QB",
     "weight": "220",
     "height": "6-3",
     "college": "Virginia Tech,Tennessee",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HookHe00.htm"
   }
 ]

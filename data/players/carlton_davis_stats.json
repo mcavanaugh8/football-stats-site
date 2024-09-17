@@ -214,8 +214,8 @@
         "team": "DET",
         "pos": "CB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,8 +227,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "10",
-        "tackles_solo": "6",
+        "tackles_combined": "14",
+        "tackles_solo": "10",
         "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -348,11 +348,11 @@
         "team": "DET",
         "pos": "CB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "77",
+        "defense": "125",
         "def_pct": "99%",
         "special_teams": "0",
         "st_pct": "0%"
@@ -361,11 +361,14 @@
   },
   {
     "name": "Carlton Davis",
+    "id": "DaviCa02",
+    "team": "DET",
     "age": "28",
     "position": "CB",
     "weight": "206",
     "height": "6-1",
     "college": "Auburn",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/D/DaviCa02.htm"
   }
 ]

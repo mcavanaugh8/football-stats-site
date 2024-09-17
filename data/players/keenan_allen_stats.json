@@ -225,8 +225,8 @@
         "rec_adot": "6.6",
         "rec_broken_tackles": "0",
         "rec_broken_tackles_per_rec": "",
-        "rec_drops": "0",
-        "rec_drop_pct": "0.0",
+        "rec_drops": "1",
+        "rec_drop_pct": "9.1",
         "rec_target_int": "0",
         "rec_pass_rating": "44.9",
         "rush_att": "0",
@@ -263,7 +263,7 @@
         "pass_int_pct": "",
         "pass_first_down": "0",
         "pass_success": "",
-        "pass_long": "0",
+        "pass_long": "",
         "pass_yds_per_att": "",
         "pass_adj_yds_per_att": "",
         "pass_yds_per_cmp": "",
@@ -333,7 +333,7 @@
         "pass_int_pct": "0.0",
         "pass_first_down": "0",
         "pass_success": "",
-        "pass_long": "0",
+        "pass_long": "",
         "pass_yds_per_att": "0.0",
         "pass_adj_yds_per_att": "0.00",
         "pass_yds_per_cmp": "",
@@ -368,7 +368,7 @@
         "pass_int_pct": "0.0",
         "pass_first_down": "0",
         "pass_success": "",
-        "pass_long": "0",
+        "pass_long": "",
         "pass_yds_per_att": "0.0",
         "pass_adj_yds_per_att": "0.00",
         "pass_yds_per_cmp": "",
@@ -2158,11 +2158,14 @@
   },
   {
     "name": "Keenan Allen",
+    "id": "AlleKe00",
+    "team": "CHI",
     "age": "32",
     "position": "WR",
     "weight": "211",
     "height": "6-2",
     "college": "California",
-    "experience": "11"
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/A/AlleKe00.htm"
   }
 ]

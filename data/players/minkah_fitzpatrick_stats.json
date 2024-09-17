@@ -276,8 +276,8 @@
         "team": "PIT",
         "pos": "S",
         "uniform_number": "39",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -289,9 +289,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "7",
-        "tackles_solo": "6",
-        "tackles_assists": "1",
+        "tackles_combined": "14",
+        "tackles_solo": "11",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -577,24 +577,27 @@
         "team": "PIT",
         "pos": "S",
         "uniform_number": "39",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "56",
+        "defense": "117",
         "def_pct": "100%",
-        "special_teams": "2",
+        "special_teams": "4",
         "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Minkah Fitzpatrick",
+    "id": "FitzMi00",
+    "team": "PIT",
     "age": "28",
     "position": "S",
     "weight": "207",
     "height": "6-1",
     "college": "Alabama",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/F/FitzMi00.htm"
   }
 ]

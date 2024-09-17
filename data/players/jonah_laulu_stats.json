@@ -68,24 +68,27 @@
         "team": "LVR",
         "pos": "DT",
         "uniform_number": "96",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "1",
-        "st_pct": "4%"
+        "defense": "2",
+        "def_pct": "2%",
+        "special_teams": "7",
+        "st_pct": "12%"
       }
     ]
   },
   {
     "name": "Jonah Laulu",
+    "id": "LaulJo00",
+    "team": "LV",
     "age": "24",
     "position": "DT",
     "weight": "292",
     "height": "6-5",
     "college": "Hawaii,Oklahoma",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LaulJo00.htm"
   }
 ]

@@ -214,7 +214,7 @@
         "team": "LAC",
         "pos": "DT",
         "uniform_number": "90",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -227,11 +227,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -348,24 +348,27 @@
         "team": "LAC",
         "pos": "DT",
         "uniform_number": "90",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "6",
-        "def_pct": "10%",
+        "defense": "20",
+        "def_pct": "19%",
         "special_teams": "1",
-        "st_pct": "4%"
+        "st_pct": "2%"
       }
     ]
   },
   {
     "name": "Teair Tart",
+    "id": "TartTe00",
+    "team": "LAC",
     "age": "27",
     "position": "DT",
     "weight": "315",
     "height": "6-2",
     "college": "Florida International",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/T/TartTe00.htm"
   }
 ]

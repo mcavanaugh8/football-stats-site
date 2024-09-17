@@ -260,5 +260,17 @@
         "st_pct": "26%"
       }
     ]
+  },
+  {
+    "name": "D.J. Wonnum (PUP)",
+    "id": "WonnDJ00",
+    "team": "CAR",
+    "age": "27",
+    "position": "OLB",
+    "weight": "258",
+    "height": "6-5",
+    "college": "South Carolina",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/W/WonnDJ00.htm"
   }
 ]

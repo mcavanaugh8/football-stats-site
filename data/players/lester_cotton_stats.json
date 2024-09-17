@@ -128,24 +128,27 @@
         "team": "MIA",
         "pos": "OL",
         "uniform_number": "66",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "36",
+        "off_pct": "25%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "special_teams": "7",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Lester Cotton",
+    "id": "CottLe00",
+    "team": "MIA",
     "age": "28",
     "position": "OL",
     "weight": "330",
     "height": "6-4",
     "college": "Alabama",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/C/CottLe00.htm"
   }
 ]

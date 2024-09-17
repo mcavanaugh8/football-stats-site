@@ -106,7 +106,7 @@
         "team": "LVR",
         "pos": "S",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -119,11 +119,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -180,24 +180,27 @@
         "team": "LVR",
         "pos": "S",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "2",
-        "def_pct": "4%",
-        "special_teams": "23",
+        "defense": "14",
+        "def_pct": "12%",
+        "special_teams": "50",
         "st_pct": "82%"
       }
     ]
   },
   {
     "name": "Isaiah Pola-Mao",
+    "id": "PolaIs00",
+    "team": "LV",
     "age": "25",
     "position": "S",
     "weight": "205",
     "height": "6-4",
     "college": "USC",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/P/PolaIs00.htm"
   }
 ]

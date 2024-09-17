@@ -65,11 +65,14 @@
   },
   {
     "name": "Eric Watts",
+    "id": "WattEr00",
+    "team": "NYJ",
     "age": "",
     "position": "DL",
     "weight": "277",
     "height": "6-5",
     "college": "Connecticut",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WattEr00.htm"
   }
 ]

@@ -78,5 +78,17 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Jake Andrews (IR)",
+    "id": "AndrJa00",
+    "team": "NE",
+    "age": "25",
+    "position": "C",
+    "weight": "308",
+    "height": "",
+    "college": "Troy",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AndrJa00.htm"
   }
 ]

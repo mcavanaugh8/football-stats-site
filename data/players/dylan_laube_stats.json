@@ -65,11 +65,14 @@
   },
   {
     "name": "Dylan Laube",
+    "id": "LaubDy00",
+    "team": "LV",
     "age": "25",
     "position": "RB",
     "weight": "208",
     "height": "",
     "college": "New Hampshire",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LaubDy00.htm"
   }
 ]

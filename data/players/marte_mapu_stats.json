@@ -106,5 +106,17 @@
         "st_pct": "47%"
       }
     ]
+  },
+  {
+    "name": "Marte Mapu (IRD)",
+    "id": "MapuMa00",
+    "team": "NE",
+    "age": "25",
+    "position": "S",
+    "weight": "230",
+    "height": "6-3",
+    "college": "Sacramento St.",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MapuMa00.htm"
   }
 ]

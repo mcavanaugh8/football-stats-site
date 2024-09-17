@@ -79,7 +79,7 @@
         "team": "CAR",
         "pos": "LB",
         "uniform_number": "53",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "CAR",
         "pos": "LB",
         "uniform_number": "53",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "19",
-        "st_pct": "63%"
+        "special_teams": "37",
+        "st_pct": "69%"
       }
     ]
   },
   {
     "name": "Claudin Cherelus",
+    "id": "CherCl00",
+    "team": "CAR",
     "age": "26",
     "position": "LB",
     "weight": "230",
     "height": "6-2",
     "college": "Massachusetts,Alcorn St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/C/CherCl00.htm"
   }
 ]

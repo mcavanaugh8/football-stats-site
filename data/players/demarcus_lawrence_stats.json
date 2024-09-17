@@ -332,8 +332,8 @@
         "team": "DAL",
         "pos": "DE",
         "uniform_number": "90",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -345,9 +345,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "2.0",
-        "tackles_combined": "5",
+        "tackles_combined": "7",
         "tackles_solo": "4",
-        "tackles_assists": "1",
+        "tackles_assists": "3",
         "tackles_loss": "3",
         "qb_hits": "4",
         "safety_md": "",
@@ -609,12 +609,12 @@
         "team": "DAL",
         "pos": "DE",
         "uniform_number": "90",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "52",
-        "def_pct": "68%",
+        "defense": "86",
+        "def_pct": "64%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -622,11 +622,14 @@
   },
   {
     "name": "DeMarcus Lawrence",
+    "id": "LawrDe00",
+    "team": "DAL",
     "age": "32",
     "position": "DE",
     "weight": "265",
     "height": "6-3",
     "college": "Butler (KS),Boise St.",
-    "experience": "10"
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/L/LawrDe00.htm"
   }
 ]

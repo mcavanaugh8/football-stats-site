@@ -295,8 +295,8 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "62",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -474,24 +474,15 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "62",
-        "g": "1",
-        "gs": "1",
-        "offense": "61",
+        "g": "2",
+        "gs": "2",
+        "offense": "127",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
-  },
-  {
-    "name": "Evan Brown",
-    "age": "28",
-    "position": "OL",
-    "weight": "320",
-    "height": "6-3",
-    "college": "SMU",
-    "experience": "5"
   }
 ]

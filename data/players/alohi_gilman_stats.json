@@ -277,11 +277,14 @@
   },
   {
     "name": "Alohi Gilman",
+    "id": "GilmAl00",
+    "team": "LAC",
     "age": "27",
     "position": "S",
     "weight": "201",
     "height": "5-10",
     "college": "Navy,Notre Dame",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/G/GilmAl00.htm"
   }
 ]

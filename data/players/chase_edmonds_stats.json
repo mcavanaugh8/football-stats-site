@@ -1191,5 +1191,17 @@
         "st_pct": "41%"
       }
     ]
+  },
+  {
+    "name": "Chase Edmonds (IR)",
+    "id": "EdmoCh00",
+    "team": "TB",
+    "age": "28",
+    "position": "RB",
+    "weight": "201",
+    "height": "5-9",
+    "college": "Fordham",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/E/EdmoCh00.htm"
   }
 ]

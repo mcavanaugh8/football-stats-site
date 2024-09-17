@@ -78,5 +78,17 @@
         "st_pct": "19%"
       }
     ]
+  },
+  {
+    "name": "Kion Smith (IR)",
+    "id": "SmitKi00",
+    "team": "MIA",
+    "age": "26",
+    "position": "T",
+    "weight": "300",
+    "height": "6-5",
+    "college": "Fayetteville St.",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/SmitKi00.htm"
   }
 ]

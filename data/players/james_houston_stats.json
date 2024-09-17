@@ -99,6 +99,33 @@
         "qb_hits": "1",
         "safety_md": "",
         "av": "0"
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "DET",
+        "pos": "LB",
+        "uniform_number": "41",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -146,16 +173,34 @@
         "def_pct": "23%",
         "special_teams": "15",
         "st_pct": "27%"
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "DET",
+        "pos": "LB",
+        "uniform_number": "41",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "3",
+        "def_pct": "6%",
+        "special_teams": "0",
+        "st_pct": "0%"
       }
     ]
   },
   {
     "name": "James Houston",
+    "id": "HousJa01",
+    "team": "DET",
     "age": "26",
     "position": "LB",
     "weight": "245",
     "height": "6-1",
     "college": "Florida,Jackson St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/H/HousJa01.htm"
   }
 ]

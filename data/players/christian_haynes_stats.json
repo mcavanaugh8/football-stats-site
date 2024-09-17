@@ -68,24 +68,27 @@
         "team": "SEA",
         "pos": "OG",
         "uniform_number": "64",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "1",
-        "off_pct": "2%",
+        "offense": "16",
+        "off_pct": "12%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "12%"
+        "special_teams": "9",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Christian Haynes",
+    "id": "HaynCh00",
+    "team": "SEA",
     "age": "24",
     "position": "OG",
     "weight": "318",
     "height": "6-2",
     "college": "Connecticut",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HaynCh00.htm"
   }
 ]

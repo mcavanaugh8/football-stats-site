@@ -5,13 +5,52 @@
       {
         "year_id": "2024",
         "age": "22",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "141",
+        "fantasy_rank_pos": "131",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "NYJ",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "2",
+        "gs": "0",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "4",
+        "rec_first_down": "",
+        "rec_air_yds": "-1",
+        "rec_air_yds_per_rec": "-1.0",
+        "rec_yac": "5",
+        "rec_yac_per_rec": "5.0",
+        "rec_adot": "-1.0",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "83.3",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
       }
     ]
   },
@@ -40,12 +79,45 @@
     "rows": []
   },
   {
-    "category": "detailed_receiving_and_rushing",
-    "rows": []
-  },
-  {
     "category": "receiving_and_rushing",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "NYJ",
+        "pos": "WR",
+        "uniform_number": "17",
+        "g": "2",
+        "gs": "0",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "4",
+        "rec_yds_per_rec": "4.0",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "0.0",
+        "rec_long": "4",
+        "rec_per_g": "0.5",
+        "rec_yds_per_g": "2.0",
+        "catch_pct": "100.0%",
+        "rec_yds_per_tgt": "4.0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "touches": "1",
+        "yds_per_touch": "4.0",
+        "yds_from_scrimmage": "4",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "rushing_and_receiving",
@@ -80,9 +152,9 @@
         "team": "NYJ",
         "pos": "WR",
         "uniform_number": "17",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "1",
+        "offense": "2",
         "off_pct": "2%",
         "defense": "0",
         "def_pct": "0%",
@@ -93,11 +165,14 @@
   },
   {
     "name": "Malachi Corley",
+    "id": "CorlMa00",
+    "team": "NYJ",
     "age": "22",
     "position": "WR",
     "weight": "215",
     "height": "",
     "college": "Western Kentucky",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CorlMa00.htm"
   }
 ]

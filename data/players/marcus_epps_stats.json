@@ -241,8 +241,8 @@
         "team": "LVR",
         "pos": "S",
         "uniform_number": "1",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -254,10 +254,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "3",
-        "tackles_assists": "2",
-        "tackles_loss": "0",
+        "tackles_combined": "9",
+        "tackles_solo": "6",
+        "tackles_assists": "3",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -390,11 +390,11 @@
         "team": "LVR",
         "pos": "S",
         "uniform_number": "1",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "57",
+        "defense": "122",
         "def_pct": "100%",
         "special_teams": "0",
         "st_pct": "0%"
@@ -403,11 +403,14 @@
   },
   {
     "name": "Marcus Epps",
+    "id": "EppsMa00",
+    "team": "LV",
     "age": "28",
     "position": "S",
     "weight": "191",
     "height": "6-0",
     "college": "Wyoming",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/E/EppsMa00.htm"
   }
 ]

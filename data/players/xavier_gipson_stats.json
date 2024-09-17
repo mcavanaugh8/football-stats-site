@@ -16,11 +16,11 @@
       {
         "year_id": "2024",
         "age": "23",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "142",
+        "fantasy_rank_pos": "146",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -69,7 +69,7 @@
         "team": "NYJ",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -236,19 +236,19 @@
         "team": "NYJ",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "punt_ret": "1",
-        "punt_ret_yds": "4",
+        "punt_ret": "4",
+        "punt_ret_yds": "39",
         "punt_ret_td": "0",
-        "punt_ret_long": "4",
-        "punt_ret_yds_per_ret": "4.0",
-        "kick_ret": "3",
-        "kick_ret_yds": "77",
+        "punt_ret_long": "19",
+        "punt_ret_yds_per_ret": "9.8",
+        "kick_ret": "5",
+        "kick_ret_yds": "134",
         "kick_ret_td": "0",
-        "kick_ret_long": "28",
-        "kick_ret_yds_per_ret": "25.7",
-        "all_purpose_yds": "81",
+        "kick_ret_long": "33",
+        "kick_ret_yds_per_ret": "26.8",
+        "all_purpose_yds": "173",
         "av": ""
       }
     ]
@@ -309,24 +309,27 @@
         "team": "NYJ",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "30",
-        "off_pct": "59%",
+        "offense": "36",
+        "off_pct": "33%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "10",
-        "st_pct": "39%"
+        "special_teams": "18",
+        "st_pct": "35%"
       }
     ]
   },
   {
     "name": "Xavier Gipson",
+    "id": "GipsXa00",
+    "team": "NYJ",
     "age": "23",
     "position": "WR",
     "weight": "189",
     "height": "",
     "college": "S.F. Austin",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/G/GipsXa00.htm"
   }
 ]

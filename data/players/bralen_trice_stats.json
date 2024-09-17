@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Bralen Trice (IR)",
+    "id": "TricBr00",
+    "team": "ATL",
+    "age": "23",
+    "position": "OLB",
+    "weight": "245",
+    "height": "6-3",
+    "college": "Washington",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/T/TricBr00.htm"
   }
 ]

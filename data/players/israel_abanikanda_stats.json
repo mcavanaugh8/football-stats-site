@@ -185,11 +185,14 @@
   },
   {
     "name": "Israel Abanikanda",
+    "id": "AbanIs00",
+    "team": "NYJ",
     "age": "22",
     "position": "RB",
     "weight": "216",
     "height": "5-10",
     "college": "Pittsburgh",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AbanIs00.htm"
   }
 ]

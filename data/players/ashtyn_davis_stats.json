@@ -140,7 +140,7 @@
         "team": "NYJ",
         "pos": "S",
         "uniform_number": "21",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -397,7 +397,7 @@
         "team": "NYJ",
         "pos": "S",
         "uniform_number": "21",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -522,24 +522,27 @@
         "team": "NYJ",
         "pos": "S",
         "uniform_number": "21",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "21",
-        "def_pct": "29%",
-        "special_teams": "24",
-        "st_pct": "92%"
+        "def_pct": "15%",
+        "special_teams": "45",
+        "st_pct": "87%"
       }
     ]
   },
   {
     "name": "Ashtyn Davis",
+    "id": "DaviAs00",
+    "team": "NYJ",
     "age": "28",
     "position": "S",
     "weight": "202",
     "height": "6-1",
     "college": "California",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/D/DaviAs00.htm"
   }
 ]

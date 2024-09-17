@@ -61,15 +61,34 @@
   },
   {
     "category": "snap_counts",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "GNB",
+        "pos": "T",
+        "uniform_number": "76",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "5",
+        "st_pct": "23%"
+      }
+    ]
   },
   {
     "name": "Kadeem Telfort",
+    "id": "TelfKa00",
+    "team": "GB",
     "age": "26",
     "position": "T",
     "weight": "322",
     "height": "6-6",
     "college": "Florida,Garden City (KS),Ala-Birmingham",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/T/TelfKa00.htm"
   }
 ]

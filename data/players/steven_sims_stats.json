@@ -60,11 +60,11 @@
       {
         "year_id": "2024",
         "age": "27",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "126",
+        "fantasy_rank_pos": "166",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -249,7 +249,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -299,7 +299,6 @@
         "pass_int": "0",
         "pass_int_pct": "0.0",
         "pass_first_down": "0",
-        "pass_long": "0",
         "pass_yds_per_att": "0.0",
         "pass_adj_yds_per_att": "0.00",
         "pass_yds_per_g": "0.0",
@@ -420,7 +419,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -549,7 +548,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -680,7 +679,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -894,7 +893,7 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -1129,6 +1128,26 @@
         "kick_ret_long": "29",
         "kick_ret_yds_per_ret": "23.7",
         "all_purpose_yds": "146"
+      },
+      {
+        "year_id": "2024",
+        "age": "27",
+        "team": "HOU",
+        "pos": "WR",
+        "uniform_number": "82",
+        "g": "2",
+        "gs": "0",
+        "punt_ret": "3",
+        "punt_ret_yds": "11",
+        "punt_ret_td": "0",
+        "punt_ret_long": "26",
+        "punt_ret_yds_per_ret": "3.7",
+        "kick_ret": "1",
+        "kick_ret_yds": "37",
+        "kick_ret_td": "0",
+        "kick_ret_long": "37",
+        "kick_ret_yds_per_ret": "37.0",
+        "all_purpose_yds": "48"
       }
     ]
   },
@@ -1275,24 +1294,27 @@
         "team": "HOU",
         "pos": "WR",
         "uniform_number": "82",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "32%"
+        "special_teams": "18",
+        "st_pct": "33%"
       }
     ]
   },
   {
     "name": "Steven Sims",
+    "id": "SimsSt00",
+    "team": "HOU",
     "age": "27",
     "position": "WR",
     "weight": "176",
     "height": "5-10",
     "college": "Kansas",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/SimsSt00.htm"
   }
 ]

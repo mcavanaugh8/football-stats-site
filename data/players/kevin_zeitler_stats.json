@@ -424,8 +424,8 @@
         "team": "DET",
         "pos": "G",
         "uniform_number": "71",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -649,24 +649,27 @@
         "team": "DET",
         "pos": "G",
         "uniform_number": "71",
-        "g": "1",
-        "gs": "1",
-        "offense": "61",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "146",
+        "off_pct": "99%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
+        "special_teams": "8",
         "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Kevin Zeitler",
+    "id": "ZeitKe00",
+    "team": "DET",
     "age": "34",
     "position": "G",
     "weight": "340",
     "height": "6-4",
     "college": "Wisconsin",
-    "experience": "12"
+    "experience": "12",
+    "href": "https://www.pro-football-reference.com/players/Z/ZeitKe00.htm"
   }
 ]

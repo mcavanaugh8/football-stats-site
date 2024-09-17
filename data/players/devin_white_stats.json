@@ -310,11 +310,14 @@
   },
   {
     "name": "Devin White",
+    "id": "WhitDe02",
+    "team": "PHI",
     "age": "26",
     "position": "LB",
     "weight": "237",
     "height": "6-0",
     "college": "LSU",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WhitDe02.htm"
   }
 ]

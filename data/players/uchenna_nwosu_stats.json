@@ -319,11 +319,14 @@
   },
   {
     "name": "Uchenna Nwosu",
+    "id": "NwosUc00",
+    "team": "SEA",
     "age": "28",
     "position": "LB",
     "weight": "251",
     "height": "6-2",
     "college": "USC",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/N/NwosUc00.htm"
   }
 ]

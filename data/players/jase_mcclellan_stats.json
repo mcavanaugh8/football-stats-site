@@ -65,11 +65,14 @@
   },
   {
     "name": "Jase McClellan",
+    "id": "McClJa05",
+    "team": "ATL",
     "age": "22",
     "position": "RB",
     "weight": "212",
     "height": "5-11",
     "college": "Alabama",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/McClJa05.htm"
   }
 ]

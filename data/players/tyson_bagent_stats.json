@@ -328,11 +328,14 @@
   },
   {
     "name": "Tyson Bagent",
+    "id": "BageTy00",
+    "team": "CHI",
     "age": "24",
     "position": "QB",
     "weight": "213",
     "height": "6-3",
     "college": "Shepherd",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BageTy00.htm"
   }
 ]

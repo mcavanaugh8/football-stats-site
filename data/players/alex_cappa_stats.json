@@ -158,9 +158,9 @@
         "team": "CIN",
         "pos": "G",
         "uniform_number": "65",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "115",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -171,11 +171,14 @@
   },
   {
     "name": "Alex Cappa",
+    "id": "CappAl00",
+    "team": "CIN",
     "age": "29",
     "position": "G",
     "weight": "310",
     "height": "6-6",
     "college": "Humboldt St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/CappAl00.htm"
   }
 ]

@@ -214,8 +214,8 @@
         "team": "JAX",
         "pos": "OL",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -348,24 +348,27 @@
         "team": "JAX",
         "pos": "OL",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
-        "offense": "53",
+        "g": "2",
+        "gs": "2",
+        "offense": "113",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "12%"
+        "special_teams": "7",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Ezra Cleveland",
+    "id": "ClevEz00",
+    "team": "JAX",
     "age": "26",
     "position": "OL",
     "weight": "312",
     "height": "6-6",
     "college": "Boise St.",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/C/ClevEz00.htm"
   }
 ]

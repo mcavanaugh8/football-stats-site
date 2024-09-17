@@ -106,7 +106,7 @@
         "team": "TEN",
         "pos": "S",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -119,9 +119,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
+        "tackles_combined": "3",
         "tackles_solo": "0",
-        "tackles_assists": "1",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -180,24 +180,27 @@
         "team": "TEN",
         "pos": "S",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "25",
-        "st_pct": "86%"
+        "special_teams": "48",
+        "st_pct": "87%"
       }
     ]
   },
   {
     "name": "Mike Brown",
+    "id": "BrowMi02",
+    "team": "TEN",
     "age": "25",
     "position": "S",
     "weight": "218",
     "height": "",
     "college": "Miami (OH)",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/B/BrowMi02.htm"
   }
 ]

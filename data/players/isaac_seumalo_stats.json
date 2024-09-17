@@ -403,11 +403,14 @@
   },
   {
     "name": "Isaac Seumalo",
+    "id": "SeumIs00",
+    "team": "PIT",
     "age": "31",
     "position": "G",
     "weight": "303",
     "height": "6-4",
     "college": "Oregon St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/S/SeumIs00.htm"
   }
 ]

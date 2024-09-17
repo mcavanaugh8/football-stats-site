@@ -16,11 +16,11 @@
       {
         "year_id": "2024",
         "age": "23",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "RB",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "104",
+        "fantasy_rank_pos": "111",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -68,7 +68,7 @@
         "team": "TAM",
         "pos": "RB",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -174,7 +174,7 @@
         "team": "TAM",
         "pos": "RB",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "",
         "rush_yds": "",
@@ -234,6 +234,32 @@
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": ""
+      },
+      {
+        "year_id": "2024",
+        "age": "23",
+        "team": "TAM",
+        "pos": "RB",
+        "uniform_number": "44",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": ""
       }
     ]
   },
@@ -250,7 +276,7 @@
         "team": "TAM",
         "pos": "RB",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "punt_ret": "",
         "punt_ret_yds": "",
@@ -294,24 +320,27 @@
         "team": "TAM",
         "pos": "RB",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "2",
-        "off_pct": "3%",
+        "off_pct": "2%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "30%"
+        "special_teams": "19",
+        "st_pct": "36%"
       }
     ]
   },
   {
     "name": "Sean Tucker",
+    "id": "TuckSe00",
+    "team": "TB",
     "age": "23",
     "position": "RB",
     "weight": "205",
     "height": "",
     "college": "Syracuse",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/TuckSe00.htm"
   }
 ]

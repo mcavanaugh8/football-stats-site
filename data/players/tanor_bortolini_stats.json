@@ -65,11 +65,14 @@
   },
   {
     "name": "Tanor Bortolini",
+    "id": "BortTa00",
+    "team": "IND",
     "age": "22",
     "position": "G",
     "weight": "303",
     "height": "",
     "college": "Wisconsin",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BortTa00.htm"
   }
 ]

@@ -52,8 +52,8 @@
         "team": "DAL",
         "pos": "LB",
         "uniform_number": "35",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -65,9 +65,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
-        "tackles_assists": "0",
+        "tackles_combined": "5",
+        "tackles_solo": "4",
+        "tackles_assists": "1",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -96,24 +96,27 @@
         "team": "DAL",
         "pos": "LB",
         "uniform_number": "35",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "9",
-        "def_pct": "12%",
-        "special_teams": "13",
-        "st_pct": "36%"
+        "defense": "48",
+        "def_pct": "36%",
+        "special_teams": "26",
+        "st_pct": "41%"
       }
     ]
   },
   {
     "name": "Marist Liufau",
+    "id": "LiufMa00",
+    "team": "DAL",
     "age": "23",
     "position": "LB",
     "weight": "239",
     "height": "",
     "college": "Notre Dame",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LiufMa00.htm"
   }
 ]

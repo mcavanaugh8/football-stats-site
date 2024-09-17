@@ -64,7 +64,7 @@
         "team": "JAX",
         "pos": "K",
         "uniform_number": "39",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -77,13 +77,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "1",
-        "fga": "1",
+        "xpm": "3",
+        "xpa": "3",
+        "fgm": "3",
+        "fga": "4",
         "safety_md": "",
-        "scoring": "5",
-        "points_per_g": "5.0"
+        "scoring": "12",
+        "points_per_g": "6.0"
       }
     ]
   },
@@ -96,24 +96,27 @@
         "team": "JAX",
         "pos": "K",
         "uniform_number": "39",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "6",
-        "st_pct": "24%"
+        "special_teams": "14",
+        "st_pct": "27%"
       }
     ]
   },
   {
     "name": "Cam Little",
+    "id": "LittCa00",
+    "team": "JAX",
     "age": "21",
     "position": "K",
     "weight": "180",
     "height": "6-1",
     "college": "Arkansas",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/L/LittCa00.htm"
   }
 ]

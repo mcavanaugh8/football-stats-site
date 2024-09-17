@@ -843,5 +843,17 @@
         "st_pct": "2%"
       }
     ]
+  },
+  {
+    "name": "River Cracraft (IRD)",
+    "id": "CracRi00",
+    "team": "MIA",
+    "age": "30",
+    "position": "WR",
+    "weight": "198",
+    "height": "6-0",
+    "college": "Washington St.",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/CracRi00.htm"
   }
 ]

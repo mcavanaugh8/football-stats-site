@@ -187,8 +187,8 @@
         "team": "CHI",
         "pos": "OL",
         "uniform_number": "64",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -306,10 +306,10 @@
         "team": "CHI",
         "pos": "OL",
         "uniform_number": "64",
-        "g": "1",
-        "gs": "1",
-        "offense": "18",
-        "off_pct": "32%",
+        "g": "2",
+        "gs": "2",
+        "offense": "88",
+        "off_pct": "70%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -319,11 +319,14 @@
   },
   {
     "name": "Nate Davis",
+    "id": "DaviNa01",
+    "team": "CHI",
     "age": "28",
     "position": "OL",
     "weight": "316",
     "height": "6-3",
     "college": "Charlotte",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/D/DaviNa01.htm"
   }
 ]

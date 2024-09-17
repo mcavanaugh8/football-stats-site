@@ -96,11 +96,14 @@
   },
   {
     "name": "Chris Paul",
+    "id": "PaulCh00",
+    "team": "WAS",
     "age": "26",
     "position": "G",
     "weight": "324",
     "height": "6-4",
     "college": "Tulsa",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/P/PaulCh00.htm"
   }
 ]

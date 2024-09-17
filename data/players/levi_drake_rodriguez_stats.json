@@ -65,11 +65,14 @@
   },
   {
     "name": "Levi Drake Rodriguez",
+    "id": "RodrLe00",
+    "team": "MIN",
     "age": "24",
     "position": "DL",
     "weight": "306",
     "height": "6-2",
     "college": "Texas A&M-Commerce",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RodrLe00.htm"
   }
 ]

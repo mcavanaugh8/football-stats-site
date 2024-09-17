@@ -138,8 +138,8 @@
         "team": "PHI",
         "pos": "T",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,24 +227,27 @@
         "team": "PHI",
         "pos": "T",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
-        "offense": "76",
+        "g": "2",
+        "gs": "2",
+        "offense": "147",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "6",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Mekhi Becton",
+    "id": "BectMe00",
+    "team": "PHI",
     "age": "25",
     "position": "T",
     "weight": "363",
     "height": "6-7",
     "college": "Louisville",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/B/BectMe00.htm"
   }
 ]

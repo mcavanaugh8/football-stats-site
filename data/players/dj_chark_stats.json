@@ -884,5 +884,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "DJ Chark (IR)",
+    "id": "CharDJ00",
+    "team": "LAC",
+    "age": "28",
+    "position": "WR",
+    "weight": "200",
+    "height": "6-3",
+    "college": "LSU",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/CharDJ00.htm"
   }
 ]

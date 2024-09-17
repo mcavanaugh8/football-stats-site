@@ -68,24 +68,27 @@
         "team": "DAL",
         "pos": "OG",
         "uniform_number": "56",
-        "g": "1",
-        "gs": "1",
-        "offense": "62",
-        "off_pct": "98%",
+        "g": "2",
+        "gs": "2",
+        "offense": "132",
+        "off_pct": "99%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
+        "special_teams": "12",
         "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Cooper Beebe",
+    "id": "BeebCo00",
+    "team": "DAL",
     "age": "23",
     "position": "OG",
     "weight": "335",
     "height": "6-4",
     "college": "Kansas St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BeebCo00.htm"
   }
 ]

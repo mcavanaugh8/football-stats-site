@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Nathan Thomas (IR)",
+    "id": "ThomNa01",
+    "team": "DAL",
+    "age": "23",
+    "position": "OT",
+    "weight": "331",
+    "height": "6-4",
+    "college": "Louisiana",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/T/ThomNa01.htm"
   }
 ]

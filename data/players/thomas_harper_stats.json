@@ -65,11 +65,14 @@
   },
   {
     "name": "Thomas Harper",
+    "id": "HarpTh00",
+    "team": "LV",
     "age": "24",
     "position": "S",
     "weight": "195",
     "height": "5-10",
     "college": "Notre Dame",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HarpTh00.htm"
   }
 ]

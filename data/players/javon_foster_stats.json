@@ -65,11 +65,14 @@
   },
   {
     "name": "Javon Foster",
+    "id": "FostJa01",
+    "team": "JAX",
     "age": "24",
     "position": "OL",
     "weight": "313",
     "height": "",
     "college": "Missouri",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/FostJa01.htm"
   }
 ]

@@ -80,8 +80,8 @@
         "team": "LAR",
         "pos": "DE",
         "uniform_number": "91",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -92,12 +92,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "0",
-        "tackles_assists": "2",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "5",
+        "tackles_solo": "2",
+        "tackles_assists": "3",
+        "tackles_loss": "1",
+        "qb_hits": "1",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -140,24 +140,27 @@
         "team": "LAR",
         "pos": "DE",
         "uniform_number": "91",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "56",
-        "def_pct": "92%",
-        "special_teams": "7",
-        "st_pct": "27%"
+        "defense": "111",
+        "def_pct": "87%",
+        "special_teams": "14",
+        "st_pct": "28%"
       }
     ]
   },
   {
     "name": "Kobie Turner",
+    "id": "TurnKo00",
+    "team": "LAR",
     "age": "25",
     "position": "DE",
     "weight": "297",
     "height": "6-2",
     "college": "Richmond,Wake Forest",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/TurnKo00.htm"
   }
 ]

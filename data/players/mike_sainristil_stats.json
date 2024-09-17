@@ -52,7 +52,7 @@
         "team": "WAS",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "def_int": "",
         "def_int_yds": "",
@@ -65,9 +65,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "6",
-        "tackles_solo": "5",
-        "tackles_assists": "1",
+        "tackles_combined": "10",
+        "tackles_solo": "7",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -96,24 +96,27 @@
         "team": "WAS",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "61",
-        "def_pct": "95%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "100",
+        "def_pct": "83%",
+        "special_teams": "2",
+        "st_pct": "4%"
       }
     ]
   },
   {
     "name": "Mike Sainristil",
+    "id": "SainMi00",
+    "team": "WAS",
     "age": "24",
     "position": "CB",
     "weight": "182",
     "height": "5-10",
     "college": "Michigan",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SainMi00.htm"
   }
 ]

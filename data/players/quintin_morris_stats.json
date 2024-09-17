@@ -27,11 +27,11 @@
       {
         "year_id": "2024",
         "age": "25",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "71",
+        "fantasy_rank_pos": "92",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -114,7 +114,7 @@
         "team": "BUF",
         "pos": "TE",
         "uniform_number": "85",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -249,7 +249,7 @@
         "team": "BUF",
         "pos": "TE",
         "uniform_number": "85",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -452,24 +452,27 @@
         "team": "BUF",
         "pos": "TE",
         "uniform_number": "85",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "6",
-        "off_pct": "10%",
+        "offense": "12",
+        "off_pct": "11%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "23",
-        "st_pct": "85%"
+        "special_teams": "42",
+        "st_pct": "88%"
       }
     ]
   },
   {
     "name": "Quintin Morris",
+    "id": "MorrQu00",
+    "team": "BUF",
     "age": "25",
     "position": "TE",
     "weight": "252",
     "height": "6-2",
     "college": "Bowling Green",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/MorrQu00.htm"
   }
 ]

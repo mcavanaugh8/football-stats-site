@@ -160,7 +160,7 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "63",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -264,24 +264,15 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "63",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "6",
+        "off_pct": "5%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
-  },
-  {
-    "name": "Trystan Colon-Castillo",
-    "age": "26",
-    "position": "OL",
-    "weight": "313",
-    "height": "6-3",
-    "college": "Missouri",
-    "experience": "4"
   }
 ]

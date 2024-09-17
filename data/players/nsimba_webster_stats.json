@@ -636,5 +636,17 @@
         "st_pct": "34%"
       }
     ]
+  },
+  {
+    "name": "Nsimba Webster (IR)",
+    "id": "WebsNs00",
+    "team": "CHI",
+    "age": "28",
+    "position": "WR",
+    "weight": "180",
+    "height": "5-10",
+    "college": "Eastern Washington",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WebsNs00.htm"
   }
 ]

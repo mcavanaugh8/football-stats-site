@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jaden Crumedy (IR)",
+    "id": "CrumJa00",
+    "team": "CAR",
+    "age": "24",
+    "position": "DT",
+    "weight": "309",
+    "height": "",
+    "college": "Mississippi St.",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CrumJa00.htm"
   }
 ]

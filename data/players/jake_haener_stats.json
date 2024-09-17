@@ -5,19 +5,89 @@
       {
         "year_id": "2024",
         "age": "25",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "QB",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "34",
+        "fantasy_rank_pos": "46",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
     ]
   },
   {
+    "category": "detailed_rushing_and_receiving",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "NOR",
+        "pos": "QB",
+        "uniform_number": "3",
+        "g": "2",
+        "gs": "0",
+        "rush_att": "3",
+        "rush_yds": "-3",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "-3",
+        "rush_yds_bc_per_rush": "-1.0",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "0.0",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": "",
+        "targets": "0",
+        "rec": "0",
+        "rec_yds": "0",
+        "rec_first_down": "",
+        "rec_air_yds": "0",
+        "rec_air_yds_per_rec": "",
+        "rec_yac": "0",
+        "rec_yac_per_rec": "",
+        "rec_adot": "",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": ""
+      }
+    ]
+  },
+  {
     "category": "passing",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team_name_abbr": "NOR",
+        "comp_name_abbr": "NFL",
+        "pos": "QB",
+        "games": "2",
+        "games_started": "0",
+        "pass_cmp": "0",
+        "pass_att": "1",
+        "pass_cmp_pct": "0.0",
+        "pass_yds": "0",
+        "pass_td": "0",
+        "pass_td_pct": "0.0",
+        "pass_int": "0",
+        "pass_int_pct": "0.0",
+        "pass_first_down": "0",
+        "pass_yds_per_att": "0.0",
+        "pass_adj_yds_per_att": "0.00",
+        "pass_yds_per_g": "0.0",
+        "pass_rating": "39.6",
+        "qbr": "9.0",
+        "pass_sacked": "0",
+        "pass_sacked_yds": "0",
+        "pass_sacked_pct": "0.00",
+        "pass_net_yds_per_att": "0.00",
+        "pass_adj_net_yds_per_att": "0.00",
+        "comebacks": "0",
+        "gwd": "0",
+        "awards": ""
+      }
+    ]
   },
   {
     "category": "advanced_air_yards",
@@ -28,7 +98,7 @@
         "team": "NOR",
         "pos": "QB",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "1",
@@ -52,7 +122,7 @@
         "team": "NOR",
         "pos": "QB",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "1",
@@ -64,8 +134,8 @@
         "pass_drop_pct": "0.0%",
         "pass_poor_throws": "0",
         "pass_poor_throw_pct": "0.0%",
-        "pass_on_target": "0",
-        "pass_on_target_pct": "0.0%"
+        "pass_on_target": "1",
+        "pass_on_target_pct": "100.0%"
       }
     ]
   },
@@ -78,14 +148,14 @@
         "team": "NOR",
         "pos": "QB",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "1",
         "pass_yds": "0",
         "pass_sacked": "0",
         "pocket_time": "2.9",
-        "pass_blitzed": "0",
+        "pass_blitzed": "1",
         "pass_hurried": "0",
         "pass_hits": "0",
         "pass_pressured": "0",
@@ -113,11 +183,44 @@
   },
   {
     "category": "rushing_and_receiving",
-    "rows": []
-  },
-  {
-    "category": "detailed_rushing_and_receiving",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "NOR",
+        "pos": "QB",
+        "uniform_number": "3",
+        "g": "2",
+        "gs": "0",
+        "rush_att": "3",
+        "rush_yds": "-3",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "0.0",
+        "rush_long": "-1",
+        "rush_yds_per_att": "-1.0",
+        "rush_yds_per_g": "-1.5",
+        "rush_att_per_g": "1.5",
+        "targets": "",
+        "rec": "",
+        "rec_yds": "",
+        "rec_yds_per_rec": "",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "",
+        "rec_long": "",
+        "rec_per_g": "",
+        "rec_yds_per_g": "",
+        "catch_pct": "",
+        "rec_yds_per_tgt": "",
+        "touches": "3",
+        "yds_per_touch": "-1.0",
+        "yds_from_scrimmage": "-3",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "defense",
@@ -144,10 +247,10 @@
         "team": "NOR",
         "pos": "QB",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "6",
-        "off_pct": "9%",
+        "offense": "12",
+        "off_pct": "10%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -157,11 +260,14 @@
   },
   {
     "name": "Jake Haener",
+    "id": "HaenJa00",
+    "team": "NO",
     "age": "25",
     "position": "QB",
     "weight": "200",
     "height": "",
     "college": "Washington,Fresno St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/H/HaenJa00.htm"
   }
 ]

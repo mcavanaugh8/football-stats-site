@@ -81,11 +81,14 @@
   },
   {
     "name": "Colby Sorsdal",
+    "id": "SorsCo00",
+    "team": "DET",
     "age": "24",
     "position": "OL",
     "weight": "315",
     "height": "6-6",
     "college": "William & Mary",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/SorsCo00.htm"
   }
 ]

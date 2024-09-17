@@ -304,8 +304,8 @@
         "team": "CAR",
         "pos": "DE",
         "uniform_number": "94",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -317,8 +317,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "9",
-        "tackles_solo": "5",
+        "tackles_combined": "15",
+        "tackles_solo": "11",
         "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -496,24 +496,27 @@
         "team": "CAR",
         "pos": "DE",
         "uniform_number": "94",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "51",
-        "def_pct": "77%",
-        "special_teams": "3",
-        "st_pct": "10%"
+        "defense": "92",
+        "def_pct": "68%",
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "A'Shawn Robinson",
+    "id": "RobiAS00",
+    "team": "CAR",
     "age": "29",
     "position": "DE",
     "weight": "320",
     "height": "6-3",
     "college": "Alabama",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/R/RobiAS00.htm"
   }
 ]

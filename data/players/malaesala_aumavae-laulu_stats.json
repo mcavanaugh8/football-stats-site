@@ -65,11 +65,14 @@
   },
   {
     "name": "Malaesala Aumavae-Laulu",
+    "id": "AumaMa00",
+    "team": "BAL",
     "age": "25",
     "position": "G",
     "weight": "344",
     "height": "6-5",
     "college": "Navarro,Oregon",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/A/AumaMa00.htm"
   }
 ]

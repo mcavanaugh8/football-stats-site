@@ -52,8 +52,8 @@
         "team": "TAM",
         "pos": "S",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -65,10 +65,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "0",
-        "tackles_assists": "2",
-        "tackles_loss": "0",
+        "tackles_combined": "10",
+        "tackles_solo": "6",
+        "tackles_assists": "4",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -96,24 +96,27 @@
         "team": "TAM",
         "pos": "S",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "40",
-        "def_pct": "68%",
-        "special_teams": "2",
-        "st_pct": "7%"
+        "defense": "97",
+        "def_pct": "67%",
+        "special_teams": "7",
+        "st_pct": "13%"
       }
     ]
   },
   {
     "name": "Tykee Smith",
+    "id": "SmitTy05",
+    "team": "TB",
     "age": "23",
     "position": "S",
     "weight": "202",
     "height": "",
     "college": "West Virginia,Georgia",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SmitTy05.htm"
   }
 ]

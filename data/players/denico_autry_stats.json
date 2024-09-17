@@ -512,5 +512,17 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Denico Autry (SUS)",
+    "id": "AutrDe00",
+    "team": "HOU",
+    "age": "34",
+    "position": "DE",
+    "weight": "285",
+    "height": "6-5",
+    "college": "East Mississippi CC,Mississippi St.",
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/A/AutrDe00.htm"
   }
 ]

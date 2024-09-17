@@ -160,8 +160,8 @@
         "team": "NYJ",
         "pos": "OL",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -264,24 +264,27 @@
         "team": "NYJ",
         "pos": "OL",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "108",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "1",
-        "st_pct": "4%"
+        "special_teams": "5",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "John Simpson",
+    "id": "SimpJo00",
+    "team": "NYJ",
     "age": "27",
     "position": "OL",
     "weight": "330",
     "height": "6-4",
     "college": "Clemson",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/S/SimpJo00.htm"
   }
 ]

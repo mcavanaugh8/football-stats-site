@@ -304,8 +304,8 @@
         "team": "LAC",
         "pos": "LB",
         "uniform_number": "6",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -316,12 +316,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "5",
-        "tackles_assists": "0",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "12",
+        "tackles_solo": "10",
+        "tackles_assists": "2",
+        "tackles_loss": "1",
+        "qb_hits": "1",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -484,24 +484,27 @@
         "team": "LAC",
         "pos": "LB",
         "uniform_number": "6",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "30",
-        "def_pct": "50%",
-        "special_teams": "5",
-        "st_pct": "18%"
+        "defense": "61",
+        "def_pct": "57%",
+        "special_teams": "7",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Denzel Perryman",
+    "id": "PerrDe00",
+    "team": "LAC",
     "age": "32",
     "position": "LB",
     "weight": "240",
     "height": "5-11",
     "college": "Miami (FL)",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/P/PerrDe00.htm"
   }
 ]

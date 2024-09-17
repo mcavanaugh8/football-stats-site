@@ -790,5 +790,17 @@
         "st_pct": "44%"
       }
     ]
+  },
+  {
+    "name": "Darrynton Evans (IRD)",
+    "id": "EvanDa02",
+    "team": "BUF",
+    "age": "26",
+    "position": "RB",
+    "weight": "203",
+    "height": "5-10",
+    "college": "Appalachian St.",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/E/EvanDa02.htm"
   }
 ]

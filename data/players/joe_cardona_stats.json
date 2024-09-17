@@ -295,7 +295,7 @@
         "team": "NWE",
         "pos": "LS",
         "uniform_number": "49",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -308,8 +308,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -474,24 +474,27 @@
         "team": "NWE",
         "pos": "LS",
         "uniform_number": "49",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "43%"
+        "special_teams": "20",
+        "st_pct": "39%"
       }
     ]
   },
   {
     "name": "Joe Cardona",
+    "id": "CardJo00",
+    "team": "NE",
     "age": "32",
     "position": "LS",
     "weight": "245",
     "height": "6-2",
     "college": "Navy",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/C/CardJo00.htm"
   }
 ]

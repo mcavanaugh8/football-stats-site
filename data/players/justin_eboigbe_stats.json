@@ -65,11 +65,14 @@
   },
   {
     "name": "Justin Eboigbe",
+    "id": "EboiJu00",
+    "team": "LAC",
     "age": "23",
     "position": "DL",
     "weight": "292",
     "height": "6-5",
     "college": "Alabama",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/E/EboiJu00.htm"
   }
 ]

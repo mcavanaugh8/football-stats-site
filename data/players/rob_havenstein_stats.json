@@ -288,6 +288,33 @@
         "qb_hits": "",
         "safety_md": "",
         "av": "7"
+      },
+      {
+        "year_id": "2024",
+        "age": "32",
+        "team": "LAR",
+        "pos": "OL",
+        "uniform_number": "79",
+        "g": "1",
+        "gs": "1",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -440,16 +467,34 @@
         "def_pct": "0%",
         "special_teams": "67",
         "st_pct": "17%"
+      },
+      {
+        "year_id": "2024",
+        "age": "32",
+        "team": "LAR",
+        "pos": "OL",
+        "uniform_number": "79",
+        "g": "1",
+        "gs": "1",
+        "offense": "52",
+        "off_pct": "100%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "2",
+        "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Rob Havenstein",
+    "id": "HaveRo00",
+    "team": "LAR",
     "age": "32",
     "position": "OL",
     "weight": "323",
     "height": "6-8",
     "college": "Wisconsin",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/H/HaveRo00.htm"
   }
 ]

@@ -160,8 +160,8 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -172,12 +172,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "1",
-        "tackles_assists": "4",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "sacks": "1.0",
+        "tackles_combined": "10",
+        "tackles_solo": "5",
+        "tackles_assists": "5",
+        "tackles_loss": "2",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -292,24 +292,27 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "49",
-        "def_pct": "88%",
-        "special_teams": "2",
+        "defense": "98",
+        "def_pct": "84%",
+        "special_teams": "4",
         "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Alex Highsmith",
+    "id": "HighAl02",
+    "team": "PIT",
     "age": "27",
     "position": "LB",
     "weight": "242",
     "height": "6-4",
     "college": "Charlotte",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/H/HighAl02.htm"
   }
 ]

@@ -106,5 +106,17 @@
         "st_pct": "50%"
       }
     ]
+  },
+  {
+    "name": "NaJee Thompson (IR)",
+    "id": "ThomNa00",
+    "team": "MIN",
+    "age": "24",
+    "position": "CB",
+    "weight": "205",
+    "height": "5-11",
+    "college": "Georgia Southern",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/ThomNa00.htm"
   }
 ]

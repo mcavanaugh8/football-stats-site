@@ -106,5 +106,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Brodric Martin (IR)",
+    "id": "MartBr00",
+    "team": "DET",
+    "age": "25",
+    "position": "DL",
+    "weight": "330",
+    "height": "",
+    "college": "North Alabama,Western Kentucky",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MartBr00.htm"
   }
 ]

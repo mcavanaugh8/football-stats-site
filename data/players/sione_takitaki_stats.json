@@ -302,5 +302,17 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Sione Takitaki (PUP)",
+    "id": "TakiSi00",
+    "team": "NE",
+    "age": "29",
+    "position": "LB",
+    "weight": "245",
+    "height": "6-1",
+    "college": "BYU",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/T/TakiSi00.htm"
   }
 ]

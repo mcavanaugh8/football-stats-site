@@ -99,6 +99,33 @@
         "qb_hits": "",
         "safety_md": "",
         "av": "0"
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "team": "LVR",
+        "pos": "CB",
+        "uniform_number": "27",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -146,204 +173,34 @@
         "def_pct": "17%",
         "special_teams": "12",
         "st_pct": "44%"
-      }
-    ]
-  },
-  {
-    "category": "stats",
-    "rows": [
+      },
       {
-        "game_date": "2023-09-10",
-        "game_num": "1",
-        "week_num": "1",
-        "age": "",
+        "year_id": "2024",
+        "age": "26",
         "team": "LVR",
-        "game_location": "@",
-        "opp": "DEN",
-        "game_result": "W 17-16",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-09-18",
-        "game_num": "2",
-        "week_num": "2",
-        "age": "",
-        "team": "CAR",
-        "game_location": "",
-        "opp": "NOR",
-        "game_result": "L 17-20",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-09-24",
-        "game_num": "3",
-        "week_num": "3",
-        "age": "",
-        "team": "CAR",
-        "game_location": "@",
-        "opp": "SEA",
-        "game_result": "L 27-37",
-        "reason": "Inactive"
-      },
-      {
-        "game_date": "2023-10-01",
-        "game_num": "4",
-        "week_num": "4",
-        "age": "",
-        "team": "CAR",
-        "game_location": "",
-        "opp": "MIN",
-        "game_result": "L 13-21",
-        "reason": "Inactive"
-      },
-      {
-        "game_date": "2023-10-08",
-        "game_num": "5",
-        "week_num": "5",
-        "age": "25.142",
-        "team": "CAR",
-        "game_location": "@",
-        "opp": "DET",
-        "game_result": "L 24-42",
-        "gs": "",
+        "pos": "CB",
+        "uniform_number": "27",
+        "g": "2",
+        "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "10",
-        "def_pct": "17%",
-        "special_teams": "12",
-        "st_pct": "44%",
-        "status": ""
-      },
-      {
-        "game_date": "2023-10-22",
-        "game_num": "7",
-        "week_num": "7",
-        "age": "",
-        "team": "LVR",
-        "game_location": "@",
-        "opp": "CHI",
-        "game_result": "L 12-30",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-10-30",
-        "game_num": "8",
-        "week_num": "8",
-        "age": "",
-        "team": "LVR",
-        "game_location": "@",
-        "opp": "DET",
-        "game_result": "L 14-26",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-11-05",
-        "game_num": "9",
-        "week_num": "9",
-        "age": "",
-        "team": "LVR",
-        "game_location": "",
-        "opp": "NYG",
-        "game_result": "W 30-6",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-11-12",
-        "game_num": "10",
-        "week_num": "10",
-        "age": "",
-        "team": "LVR",
-        "game_location": "",
-        "opp": "NYJ",
-        "game_result": "W 16-12",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-11-19",
-        "game_num": "11",
-        "week_num": "11",
-        "age": "",
-        "team": "LVR",
-        "game_location": "@",
-        "opp": "MIA",
-        "game_result": "L 13-20",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-11-26",
-        "game_num": "12",
-        "week_num": "12",
-        "age": "",
-        "team": "LVR",
-        "game_location": "",
-        "opp": "KAN",
-        "game_result": "L 17-31",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-10",
-        "game_num": "13",
-        "week_num": "14",
-        "age": "",
-        "team": "LVR",
-        "game_location": "",
-        "opp": "MIN",
-        "game_result": "L 0-3",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-14",
-        "game_num": "14",
-        "week_num": "15",
-        "age": "",
-        "team": "LVR",
-        "game_location": "",
-        "opp": "LAC",
-        "game_result": "W 63-21",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-25",
-        "game_num": "15",
-        "week_num": "16",
-        "age": "",
-        "team": "LVR",
-        "game_location": "@",
-        "opp": "KAN",
-        "game_result": "W 20-14",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2023-12-31",
-        "game_num": "16",
-        "week_num": "17",
-        "age": "",
-        "team": "LVR",
-        "game_location": "@",
-        "opp": "IND",
-        "game_result": "L 20-23",
-        "reason": "Did Not Play"
-      },
-      {
-        "game_date": "2024-01-07",
-        "game_num": "17",
-        "week_num": "18",
-        "age": "",
-        "team": "LVR",
-        "game_location": "",
-        "opp": "DEN",
-        "game_result": "W 27-14",
-        "reason": "Did Not Play"
+        "defense": "1",
+        "def_pct": "1%",
+        "special_teams": "19",
+        "st_pct": "31%"
       }
     ]
   },
   {
     "name": "Sam Webb",
-    "age": "25",
-    "position": "S",
+    "id": "WebbSa00",
+    "team": "LV",
+    "age": "26",
+    "position": "CB",
     "weight": "195",
     "height": "6-2",
     "college": "Missouri Western St.",
-    "experience": "1"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WebbSa00.htm"
   }
 ]

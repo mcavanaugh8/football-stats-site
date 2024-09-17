@@ -187,8 +187,8 @@
         "team": "DEN",
         "pos": "G",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -306,24 +306,27 @@
         "team": "DEN",
         "pos": "G",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
-        "offense": "69",
+        "g": "2",
+        "gs": "2",
+        "offense": "130",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "12%"
+        "special_teams": "6",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "Ben Powers",
+    "id": "PoweBe00",
+    "team": "DEN",
     "age": "28",
     "position": "G",
     "weight": "310",
     "height": "6-4",
     "college": "Oklahoma",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/P/PoweBe00.htm"
   }
 ]

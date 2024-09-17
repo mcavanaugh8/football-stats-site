@@ -109,11 +109,14 @@
   },
   {
     "name": "Kahlef Hailassie",
+    "id": "HailKa00",
+    "team": "CLE",
     "age": "24",
     "position": "CB",
     "weight": "195",
     "height": "",
     "college": "Oregon,Independence (KS),Western Kentucky",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/H/HailKa00.htm"
   }
 ]

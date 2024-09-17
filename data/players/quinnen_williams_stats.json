@@ -192,8 +192,8 @@
         "team": "NYJ",
         "pos": "DL",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -205,11 +205,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "3",
-        "tackles_solo": "1",
+        "tackles_combined": "6",
+        "tackles_solo": "4",
         "tackles_assists": "2",
         "tackles_loss": "0",
-        "qb_hits": "1",
+        "qb_hits": "2",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -340,24 +340,27 @@
         "team": "NYJ",
         "pos": "DL",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "48",
-        "def_pct": "67%",
-        "special_teams": "9",
-        "st_pct": "35%"
+        "defense": "97",
+        "def_pct": "70%",
+        "special_teams": "13",
+        "st_pct": "25%"
       }
     ]
   },
   {
     "name": "Quinnen Williams",
+    "id": "WillQu00",
+    "team": "NYJ",
     "age": "27",
     "position": "DL",
     "weight": "303",
     "height": "6-3",
     "college": "Alabama",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WillQu00.htm"
   }
 ]

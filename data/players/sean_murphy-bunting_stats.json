@@ -187,8 +187,8 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -200,10 +200,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "2",
-        "tackles_assists": "3",
-        "tackles_loss": "0",
+        "tackles_combined": "7",
+        "tackles_solo": "3",
+        "tackles_assists": "4",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -334,24 +334,15 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "62",
-        "def_pct": "100%",
-        "special_teams": "6",
-        "st_pct": "22%"
+        "defense": "106",
+        "def_pct": "93%",
+        "special_teams": "8",
+        "st_pct": "15%"
       }
     ]
-  },
-  {
-    "name": "Sean Murphy-Bunting",
-    "age": "27",
-    "position": "CB",
-    "weight": "195",
-    "height": "6-0",
-    "college": "Central Michigan",
-    "experience": "5"
   }
 ]

@@ -93,6 +93,28 @@
         "punt_in_20_pct": "31.3%",
         "punt_blocked": "0",
         "av": "3"
+      },
+      {
+        "year_id": "2024",
+        "age": "29",
+        "team": "PIT",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "1",
+        "gs": "0",
+        "punt": "8",
+        "punt_yds": "424",
+        "punt_yds_per_punt": "53.0",
+        "punt_ret_yds_opp": "29",
+        "punt_net_yds": "335",
+        "punt_net_yds_per_punt": "41.9",
+        "punt_long": "58",
+        "punt_tb": "3",
+        "punt_tb_pct": "37.5%",
+        "punt_in_20": "2",
+        "punt_in_20_pct": "25.0%",
+        "punt_blocked": "0",
+        "av": ""
       }
     ]
   },
@@ -136,16 +158,34 @@
         "def_pct": "0%",
         "special_teams": "159",
         "st_pct": "33%"
+      },
+      {
+        "year_id": "2024",
+        "age": "29",
+        "team": "PIT",
+        "pos": "P",
+        "uniform_number": "8",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "11",
+        "st_pct": "44%"
       }
     ]
   },
   {
     "name": "Corliss Waitman",
+    "id": "WaitCo00",
+    "team": "PIT",
     "age": "29",
     "position": "P",
     "weight": "210",
     "height": "6-2",
     "college": "South Alabama",
-    "experience": "3"
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/W/WaitCo00.htm"
   }
 ]

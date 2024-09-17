@@ -52,7 +52,7 @@
         "team": "SFO",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -96,24 +96,27 @@
         "team": "SFO",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "65%"
+        "defense": "4",
+        "def_pct": "4%",
+        "special_teams": "30",
+        "st_pct": "61%"
       }
     ]
   },
   {
     "name": "Renardo Green",
+    "id": "GreeRe00",
+    "team": "SF",
     "age": "24",
     "position": "CB",
     "weight": "186",
     "height": "",
     "college": "Florida St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/G/GreeRe00.htm"
   }
 ]

@@ -106,7 +106,7 @@
         "team": "MIA",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -119,9 +119,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
-        "tackles_assists": "0",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
+        "tackles_assists": "1",
         "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
@@ -195,24 +195,27 @@
         "team": "MIA",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "16",
-        "def_pct": "30%",
-        "special_teams": "20",
-        "st_pct": "80%"
+        "defense": "32",
+        "def_pct": "33%",
+        "special_teams": "39",
+        "st_pct": "85%"
       }
     ]
   },
   {
     "name": "Quinton Bell",
+    "id": "BellQu00",
+    "team": "MIA",
     "age": "28",
     "position": "LB",
     "weight": "255",
     "height": "6-4",
     "college": "Prairie View A&M",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/B/BellQu00.htm"
   }
 ]

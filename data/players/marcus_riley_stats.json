@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Marcus Riley (IR)",
+    "id": "RileMa00",
+    "team": "NYJ",
+    "age": "25",
+    "position": "WR",
+    "weight": "175",
+    "height": "5-11",
+    "college": "Florida A&M",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RileMa00.htm"
   }
 ]

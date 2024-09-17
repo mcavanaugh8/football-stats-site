@@ -91,7 +91,7 @@
         "team": "NOR",
         "pos": "K",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -104,13 +104,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "5",
-        "xpa": "5",
-        "fgm": "4",
-        "fga": "4",
+        "xpm": "10",
+        "xpa": "11",
+        "fgm": "5",
+        "fga": "5",
         "safety_md": "",
-        "scoring": "17",
-        "points_per_g": "17.0"
+        "scoring": "25",
+        "points_per_g": "12.5"
       }
     ]
   },
@@ -138,24 +138,27 @@
         "team": "NOR",
         "pos": "K",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "19",
-        "st_pct": "63%"
+        "special_teams": "34",
+        "st_pct": "60%"
       }
     ]
   },
   {
     "name": "Blake Grupe",
+    "id": "GrupBl00",
+    "team": "NO",
     "age": "26",
     "position": "K",
     "weight": "156",
     "height": "5-7",
     "college": "Arkansas St.,Notre Dame",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/G/GrupBl00.htm"
   }
 ]

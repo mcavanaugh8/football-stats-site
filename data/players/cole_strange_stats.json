@@ -148,5 +148,17 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Cole Strange (PUP)",
+    "id": "StraCo01",
+    "team": "NE",
+    "age": "26",
+    "position": "G",
+    "weight": "310",
+    "height": "6-5",
+    "college": "Chattanooga",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/S/StraCo01.htm"
   }
 ]

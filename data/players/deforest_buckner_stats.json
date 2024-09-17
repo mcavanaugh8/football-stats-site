@@ -276,7 +276,7 @@
         "team": "IND",
         "pos": "DT",
         "uniform_number": "99",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "def_int": "",
         "def_int_yds": "",
@@ -289,9 +289,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "1.5",
-        "tackles_combined": "6",
+        "tackles_combined": "7",
         "tackles_solo": "5",
-        "tackles_assists": "1",
+        "tackles_assists": "2",
         "tackles_loss": "1",
         "qb_hits": "2",
         "safety_md": "",
@@ -523,12 +523,12 @@
         "team": "IND",
         "pos": "DT",
         "uniform_number": "99",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "54",
-        "def_pct": "68%",
+        "defense": "64",
+        "def_pct": "43%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -536,11 +536,14 @@
   },
   {
     "name": "DeForest Buckner",
+    "id": "BuckDe00",
+    "team": "IND",
     "age": "30",
     "position": "DT",
     "weight": "295",
     "height": "6-7",
     "college": "Oregon",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/B/BuckDe00.htm"
   }
 ]

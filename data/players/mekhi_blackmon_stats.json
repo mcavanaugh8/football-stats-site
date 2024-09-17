@@ -106,5 +106,17 @@
         "st_pct": "1%"
       }
     ]
+  },
+  {
+    "name": "Mekhi Blackmon (IR)",
+    "id": "BlacMe00",
+    "team": "MIN",
+    "age": "25",
+    "position": "CB",
+    "weight": "178",
+    "height": "5-11",
+    "college": "San Mateo,Colorado,USC",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BlacMe00.htm"
   }
 ]

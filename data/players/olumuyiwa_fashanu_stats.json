@@ -68,24 +68,27 @@
         "team": "NYJ",
         "pos": "OL",
         "uniform_number": "74",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "1",
-        "st_pct": "4%"
+        "special_teams": "5",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "Olumuyiwa Fashanu",
+    "id": "FashOl00",
+    "team": "NYJ",
     "age": "22",
     "position": "OL",
     "weight": "312",
     "height": "",
     "college": "Penn St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/FashOl00.htm"
   }
 ]

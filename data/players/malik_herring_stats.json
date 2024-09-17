@@ -106,7 +106,7 @@
         "team": "KAN",
         "pos": "DE",
         "uniform_number": "94",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,12 +180,12 @@
         "team": "KAN",
         "pos": "DE",
         "uniform_number": "94",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "9",
-        "def_pct": "11%",
+        "defense": "15",
+        "def_pct": "10%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -193,11 +193,14 @@
   },
   {
     "name": "Malik Herring",
+    "id": "HerrMa02",
+    "team": "KC",
     "age": "27",
     "position": "DE",
     "weight": "275",
     "height": "6-3",
     "college": "Georgia",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/H/HerrMa02.htm"
   }
 ]

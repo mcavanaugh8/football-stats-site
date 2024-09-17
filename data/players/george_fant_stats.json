@@ -767,11 +767,14 @@
   },
   {
     "name": "George Fant",
+    "id": "FantGe00",
+    "team": "SEA",
     "age": "32",
     "position": "T",
     "weight": "316",
     "height": "6-5",
     "college": "Western Kentucky",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/F/FantGe00.htm"
   }
 ]

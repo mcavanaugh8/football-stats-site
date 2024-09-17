@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jake Johanning (IR)",
+    "id": "JohaJa00",
+    "team": "LV",
+    "age": "24",
+    "position": "G",
+    "weight": "290",
+    "height": "6-2",
+    "college": "Furman",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/J/JohaJa00.htm"
   }
 ]

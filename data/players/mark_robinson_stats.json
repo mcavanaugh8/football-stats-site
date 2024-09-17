@@ -106,7 +106,7 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "93",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,24 +180,27 @@
         "team": "PIT",
         "pos": "LB",
         "uniform_number": "93",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "68%"
+        "special_teams": "37",
+        "st_pct": "74%"
       }
     ]
   },
   {
     "name": "Mark Robinson",
+    "id": "RobiMa03",
+    "team": "PIT",
     "age": "25",
     "position": "LB",
     "weight": "235",
     "height": "5-11",
     "college": "Presbyterian,SE Missouri St.,Mississippi",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/R/RobiMa03.htm"
   }
 ]

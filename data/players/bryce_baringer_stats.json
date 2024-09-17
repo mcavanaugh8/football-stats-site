@@ -105,19 +105,19 @@
         "team": "NWE",
         "pos": "P",
         "uniform_number": "17",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "punt": "5",
-        "punt_yds": "250",
-        "punt_yds_per_punt": "50.0",
-        "punt_ret_yds_opp": "22",
-        "punt_net_yds": "228",
-        "punt_net_yds_per_punt": "45.6",
-        "punt_long": "56",
-        "punt_tb": "0",
-        "punt_tb_pct": "0.0%",
-        "punt_in_20": "3",
-        "punt_in_20_pct": "60.0%",
+        "punt": "11",
+        "punt_yds": "592",
+        "punt_yds_per_punt": "53.8",
+        "punt_ret_yds_opp": "60",
+        "punt_net_yds": "512",
+        "punt_net_yds_per_punt": "46.5",
+        "punt_long": "67",
+        "punt_tb": "1",
+        "punt_tb_pct": "9.1%",
+        "punt_in_20": "6",
+        "punt_in_20_pct": "54.5%",
         "punt_blocked": "0",
         "av": ""
       }
@@ -155,24 +155,27 @@
         "team": "NWE",
         "pos": "P",
         "uniform_number": "17",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "43%"
+        "special_teams": "20",
+        "st_pct": "39%"
       }
     ]
   },
   {
     "name": "Bryce Baringer",
+    "id": "BariBr00",
+    "team": "NE",
     "age": "25",
     "position": "P",
     "weight": "215",
     "height": "6-2",
     "college": "Michigan St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BariBr00.htm"
   }
 ]

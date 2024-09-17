@@ -450,11 +450,14 @@
   },
   {
     "name": "D.J. Reed",
+    "id": "ReedD.00",
+    "team": "NYJ",
     "age": "28",
     "position": "CB",
     "weight": "188",
     "height": "5-9",
     "college": "Kansas St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/R/ReedD.00.htm"
   }
 ]

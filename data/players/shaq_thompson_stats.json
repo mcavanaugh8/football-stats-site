@@ -366,8 +366,8 @@
         "team": "CAR",
         "pos": "LB",
         "uniform_number": "54",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -379,9 +379,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "10",
-        "tackles_solo": "4",
-        "tackles_assists": "6",
+        "tackles_combined": "24",
+        "tackles_solo": "12",
+        "tackles_assists": "12",
         "tackles_loss": "2",
         "qb_hits": "0",
         "safety_md": "",
@@ -573,24 +573,27 @@
         "team": "CAR",
         "pos": "LB",
         "uniform_number": "54",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "66",
+        "defense": "135",
         "def_pct": "100%",
-        "special_teams": "9",
-        "st_pct": "30%"
+        "special_teams": "14",
+        "st_pct": "26%"
       }
     ]
   },
   {
     "name": "Shaq Thompson",
+    "id": "ThomSh01",
+    "team": "CAR",
     "age": "30",
     "position": "LB",
     "weight": "230",
     "height": "6-0",
     "college": "Washington",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/T/ThomSh01.htm"
   }
 ]

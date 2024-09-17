@@ -214,8 +214,8 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "92",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -227,11 +227,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "1",
+        "tackles_solo": "0",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -376,24 +376,15 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "92",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "27",
-        "def_pct": "44%",
-        "special_teams": "6",
-        "st_pct": "22%"
+        "defense": "48",
+        "def_pct": "42%",
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
-  },
-  {
-    "name": "Bilal Nichols",
-    "age": "28",
-    "position": "DL",
-    "weight": "313",
-    "height": "6-4",
-    "college": "Delaware",
-    "experience": "6"
   }
 ]

@@ -211,5 +211,17 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Ambry Thomas (IR)",
+    "id": "ThomAm00",
+    "team": "SF",
+    "age": "25",
+    "position": "CB",
+    "weight": "190",
+    "height": "6-0",
+    "college": "Michigan",
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/T/ThomAm00.htm"
   }
 ]

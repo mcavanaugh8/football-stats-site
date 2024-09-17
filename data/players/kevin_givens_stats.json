@@ -187,7 +187,7 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "90",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -199,12 +199,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "sacks": "1.0",
+        "tackles_combined": "2",
+        "tackles_solo": "1",
+        "tackles_assists": "1",
+        "tackles_loss": "1",
+        "qb_hits": "2",
         "safety_md": "",
         "av": ""
       }
@@ -306,24 +306,27 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "90",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "18",
+        "defense": "37",
         "def_pct": "35%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "special_teams": "2",
+        "st_pct": "4%"
       }
     ]
   },
   {
     "name": "Kevin Givens",
+    "id": "GiveKe01",
+    "team": "SF",
     "age": "27",
     "position": "DL",
     "weight": "285",
     "height": "6-1",
     "college": "Penn St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/G/GiveKe01.htm"
   }
 ]

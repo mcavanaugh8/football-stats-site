@@ -282,11 +282,14 @@
   },
   {
     "name": "Isaiah Rodgers",
+    "id": "RodgIs00",
+    "team": "PHI",
     "age": "26",
     "position": "CB",
     "weight": "170",
     "height": "5-10",
     "college": "Massachusetts",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/R/RodgIs00.htm"
   }
 ]

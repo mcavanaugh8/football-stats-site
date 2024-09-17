@@ -65,11 +65,14 @@
   },
   {
     "name": "Jose Ramirez",
+    "id": "RamiJo00",
+    "team": "TB",
     "age": "25",
     "position": "OLB",
     "weight": "252",
     "height": "",
     "college": "Arizona,Riverside CC,Eastern Michigan",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RamiJo00.htm"
   }
 ]

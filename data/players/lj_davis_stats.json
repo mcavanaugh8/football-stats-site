@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "LJ Davis (IR)",
+    "id": "DaviLJ00",
+    "team": "GB",
+    "age": "26",
+    "position": "CB",
+    "weight": "203",
+    "height": "6-1",
+    "college": "Northern Arizona",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/D/DaviLJ00.htm"
   }
 ]

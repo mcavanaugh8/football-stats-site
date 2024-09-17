@@ -148,5 +148,17 @@
         "st_pct": "71%"
       }
     ]
+  },
+  {
+    "name": "Delarrin Turner-Yell (PUP)",
+    "id": "TurnDe02",
+    "team": "DEN",
+    "age": "25",
+    "position": "S",
+    "weight": "200",
+    "height": "5-11",
+    "college": "Oklahoma",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/TurnDe02.htm"
   }
 ]

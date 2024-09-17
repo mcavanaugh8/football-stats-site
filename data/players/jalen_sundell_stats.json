@@ -65,11 +65,14 @@
   },
   {
     "name": "Jalen Sundell",
+    "id": "SundJa00",
+    "team": "SEA",
     "age": "",
     "position": "C",
     "weight": "301",
     "height": "",
     "college": "North Dakota St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SundJa00.htm"
   }
 ]

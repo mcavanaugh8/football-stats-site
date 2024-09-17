@@ -187,8 +187,8 @@
         "team": "KAN",
         "pos": "LB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -200,9 +200,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "3",
-        "tackles_assists": "1",
+        "tackles_combined": "11",
+        "tackles_solo": "6",
+        "tackles_assists": "5",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -306,12 +306,12 @@
         "team": "KAN",
         "pos": "LB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "67",
-        "def_pct": "84%",
+        "defense": "118",
+        "def_pct": "82%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -319,11 +319,14 @@
   },
   {
     "name": "Drue Tranquill",
+    "id": "TranDr00",
+    "team": "KC",
     "age": "29",
     "position": "LB",
     "weight": "234",
     "height": "6-2",
     "college": "Notre Dame",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/T/TranDr00.htm"
   }
 ]

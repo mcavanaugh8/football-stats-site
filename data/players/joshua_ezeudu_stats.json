@@ -106,7 +106,7 @@
         "team": "NYG",
         "pos": "OL",
         "uniform_number": "75",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,24 +180,27 @@
         "team": "NYG",
         "pos": "OL",
         "uniform_number": "75",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "8%"
+        "special_teams": "3",
+        "st_pct": "7%"
       }
     ]
   },
   {
     "name": "Joshua Ezeudu",
+    "id": "EzeuJo00",
+    "team": "NYG",
     "age": "25",
     "position": "OL",
     "weight": "310",
     "height": "6-4",
     "college": "North Carolina",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/E/EzeuJo00.htm"
   }
 ]

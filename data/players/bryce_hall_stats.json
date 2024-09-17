@@ -302,5 +302,17 @@
         "st_pct": "11%"
       }
     ]
+  },
+  {
+    "name": "Bryce Hall (IR)",
+    "id": "HallBr02",
+    "team": "TB",
+    "age": "27",
+    "position": "CB",
+    "weight": "202",
+    "height": "6-1",
+    "college": "Virginia",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/H/HallBr02.htm"
   }
 ]

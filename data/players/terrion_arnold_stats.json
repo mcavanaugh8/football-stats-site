@@ -52,8 +52,8 @@
         "team": "DET",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -65,8 +65,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "8",
-        "tackles_solo": "8",
+        "tackles_combined": "9",
+        "tackles_solo": "9",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -96,12 +96,12 @@
         "team": "DET",
         "pos": "CB",
         "uniform_number": "0",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "76",
-        "def_pct": "97%",
+        "defense": "120",
+        "def_pct": "95%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -109,11 +109,14 @@
   },
   {
     "name": "Terrion Arnold",
+    "id": "ArnoTe00",
+    "team": "DET",
     "age": "21",
     "position": "CB",
     "weight": "199",
     "height": "",
     "college": "Alabama",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/A/ArnoTe00.htm"
   }
 ]

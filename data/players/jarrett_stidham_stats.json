@@ -967,11 +967,14 @@
   },
   {
     "name": "Jarrett Stidham",
+    "id": "StidJa00",
+    "team": "DEN",
     "age": "28",
     "position": "QB",
     "weight": "215",
     "height": "6-3",
     "college": "Baylor,Auburn",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/StidJa00.htm"
   }
 ]

@@ -570,11 +570,14 @@
   },
   {
     "name": "Tee Higgins",
+    "id": "HiggTe00",
+    "team": "CIN",
     "age": "25",
     "position": "WR",
     "weight": "219",
     "height": "6-4",
     "college": "Clemson",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/H/HiggTe00.htm"
   }
 ]

@@ -5,11 +5,11 @@
       {
         "year_id": "2024",
         "age": "24",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "138",
+        "fantasy_rank_pos": "144",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -80,24 +80,27 @@
         "team": "NYG",
         "pos": "WR",
         "uniform_number": "88",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "1",
+        "off_pct": "1%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "71%"
+        "special_teams": "30",
+        "st_pct": "67%"
       }
     ]
   },
   {
     "name": "Bryce Ford-Wheaton",
+    "id": "FordBr00",
+    "team": "NYG",
     "age": "24",
     "position": "WR",
     "weight": "220",
     "height": "",
     "college": "West Virginia",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/F/FordBr00.htm"
   }
 ]

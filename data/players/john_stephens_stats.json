@@ -65,11 +65,14 @@
   },
   {
     "name": "John Stephens",
+    "id": "StepJo02",
+    "team": "DAL",
     "age": "25",
     "position": "TE",
     "weight": "221",
     "height": "6-5",
     "college": "Louisiana",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/StepJo02.htm"
   }
 ]

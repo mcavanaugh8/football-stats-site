@@ -368,7 +368,7 @@
         "team": "DEN",
         "pos": "K",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -383,11 +383,11 @@
         "def_two_pt": "0",
         "xpm": "1",
         "xpa": "1",
-        "fgm": "3",
-        "fga": "3",
+        "fgm": "5",
+        "fga": "5",
         "safety_md": "",
-        "scoring": "10",
-        "points_per_g": "10.0"
+        "scoring": "16",
+        "points_per_g": "8.0"
       }
     ]
   },
@@ -505,24 +505,27 @@
         "team": "DEN",
         "pos": "K",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "27%"
+        "special_teams": "14",
+        "st_pct": "24%"
       }
     ]
   },
   {
     "name": "Wil Lutz",
+    "id": "LutzWi00",
+    "team": "DEN",
     "age": "30",
     "position": "K",
     "weight": "184",
     "height": "5-11",
     "college": "Georgia St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/L/LutzWi00.htm"
   }
 ]

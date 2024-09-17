@@ -444,7 +444,7 @@
         "team": "TEN",
         "pos": "LS",
         "uniform_number": "46",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -669,24 +669,27 @@
         "team": "TEN",
         "pos": "LS",
         "uniform_number": "46",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
+        "special_teams": "17",
         "st_pct": "31%"
       }
     ]
   },
   {
     "name": "Morgan Cox",
+    "id": "CoxxMo00",
+    "team": "TEN",
     "age": "38",
     "position": "LS",
     "weight": "233",
     "height": "6-4",
     "college": "Tennessee",
-    "experience": "14"
+    "experience": "14",
+    "href": "https://www.pro-football-reference.com/players/C/CoxxMo00.htm"
   }
 ]

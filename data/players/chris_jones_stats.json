@@ -276,8 +276,8 @@
         "team": "KAN",
         "pos": "DT",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -288,12 +288,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "1.0",
-        "tackles_combined": "3",
+        "sacks": "1.5",
+        "tackles_combined": "4",
         "tackles_solo": "1",
-        "tackles_assists": "2",
+        "tackles_assists": "3",
         "tackles_loss": "1",
-        "qb_hits": "0",
+        "qb_hits": "3",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -496,12 +496,12 @@
         "team": "KAN",
         "pos": "DT",
         "uniform_number": "95",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "57",
-        "def_pct": "71%",
+        "defense": "108",
+        "def_pct": "75%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -509,11 +509,14 @@
   },
   {
     "name": "Chris Jones",
+    "id": "JoneCh09",
+    "team": "KC",
     "age": "30",
     "position": "DT",
     "weight": "310",
     "height": "6-6",
     "college": "Mississippi St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/J/JoneCh09.htm"
   }
 ]

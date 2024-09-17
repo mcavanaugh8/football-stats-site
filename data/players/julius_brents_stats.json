@@ -148,5 +148,17 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Julius Brents (IR)",
+    "id": "BrenJu00",
+    "team": "IND",
+    "age": "24",
+    "position": "CB",
+    "weight": "198",
+    "height": "6-3",
+    "college": "Iowa,Kansas St.",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BrenJu00.htm"
   }
 ]

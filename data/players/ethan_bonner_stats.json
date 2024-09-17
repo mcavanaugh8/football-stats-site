@@ -109,11 +109,14 @@
   },
   {
     "name": "Ethan Bonner",
+    "id": "BonnEt00",
+    "team": "MIA",
     "age": "25",
     "position": "CB",
     "weight": "186",
     "height": "6-1",
     "college": "Stanford",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BonnEt00.htm"
   }
 ]

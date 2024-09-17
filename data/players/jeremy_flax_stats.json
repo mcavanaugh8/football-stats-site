@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jeremy Flax (IR)",
+    "id": "FlaxJe00",
+    "team": "MIN",
+    "age": "",
+    "position": "OL",
+    "weight": "343",
+    "height": "6-5",
+    "college": "Kentucky",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/FlaxJe00.htm"
   }
 ]

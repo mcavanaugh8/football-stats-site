@@ -38,11 +38,11 @@
       {
         "year_id": "2024",
         "age": "25",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "WR",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "155",
+        "fantasy_rank_pos": "169",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -159,7 +159,7 @@
         "team": "BAL",
         "pos": "WR",
         "uniform_number": "16",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -330,7 +330,7 @@
         "team": "BAL",
         "pos": "WR",
         "uniform_number": "16",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -588,24 +588,27 @@
         "team": "BAL",
         "pos": "WR",
         "uniform_number": "16",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "9",
+        "offense": "16",
         "off_pct": "11%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "14",
-        "st_pct": "54%"
+        "special_teams": "29",
+        "st_pct": "49%"
       }
     ]
   },
   {
     "name": "Tylan Wallace",
+    "id": "WallTy00",
+    "team": "BAL",
     "age": "25",
     "position": "WR",
     "weight": "202",
     "height": "5-11",
     "college": "Oklahoma St.",
-    "experience": "3"
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/W/WallTy00.htm"
   }
 ]

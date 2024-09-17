@@ -575,11 +575,14 @@
   },
   {
     "name": "M.J. Stewart",
+    "id": "StewM.00",
+    "team": "HOU",
     "age": "29",
     "position": "S",
     "weight": "205",
     "height": "5-11",
     "college": "North Carolina",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/S/StewM.00.htm"
   }
 ]

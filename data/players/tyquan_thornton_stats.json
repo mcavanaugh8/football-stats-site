@@ -1,43 +1,5 @@
 [
   {
-    "category": "fantasy",
-    "rows": [
-      {
-        "year_id": "2022",
-        "age": "22",
-        "g": "13",
-        "fantasy_pos": "WR",
-        "fantasy_points": "44",
-        "vbd": "",
-        "fantasy_rank_pos": "99",
-        "fantasy_rank_overall": "",
-        "games": "All 2022 Games"
-      },
-      {
-        "year_id": "2023",
-        "age": "23",
-        "g": "9",
-        "fantasy_pos": "WR",
-        "fantasy_points": "14",
-        "vbd": "",
-        "fantasy_rank_pos": "148",
-        "fantasy_rank_overall": "",
-        "games": "All 2023 Games"
-      },
-      {
-        "year_id": "2024",
-        "age": "24",
-        "g": "1",
-        "fantasy_pos": "WR",
-        "fantasy_points": "3",
-        "vbd": "",
-        "fantasy_rank_pos": "66",
-        "fantasy_rank_overall": "",
-        "games": "All 2024 Games"
-      }
-    ]
-  },
-  {
     "category": "detailed_receiving_and_rushing",
     "rows": [
       {
@@ -114,7 +76,7 @@
         "team": "NWE",
         "pos": "WR",
         "uniform_number": "11",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "targets": "3",
         "rec": "2",
@@ -166,6 +128,10 @@
   },
   {
     "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
     "rows": []
   },
   {
@@ -249,7 +215,7 @@
         "team": "NWE",
         "pos": "WR",
         "uniform_number": "11",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "targets": "3",
         "rec": "2",
@@ -259,8 +225,8 @@
         "rec_first_down": "1",
         "rec_success": "66.7",
         "rec_long": "17",
-        "rec_per_g": "2.0",
-        "rec_yds_per_g": "27.0",
+        "rec_per_g": "1.0",
+        "rec_yds_per_g": "13.5",
         "catch_pct": "66.7%",
         "rec_yds_per_tgt": "9.0",
         "rush_att": "",
@@ -399,10 +365,10 @@
         "team": "NWE",
         "pos": "WR",
         "uniform_number": "11",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "offense": "38",
-        "off_pct": "59%",
+        "offense": "69",
+        "off_pct": "52%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -412,11 +378,14 @@
   },
   {
     "name": "Tyquan Thornton",
+    "id": "ThorTy00",
+    "team": "NE",
     "age": "24",
     "position": "WR",
     "weight": "185",
     "height": "6-2",
     "college": "Baylor",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/ThorTy00.htm"
   }
 ]

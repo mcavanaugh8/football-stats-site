@@ -78,5 +78,17 @@
         "st_pct": "53%"
       }
     ]
+  },
+  {
+    "name": "Brandon Hill (IR)",
+    "id": "HillBr03",
+    "team": "HOU",
+    "age": "24",
+    "position": "S",
+    "weight": "195",
+    "height": "",
+    "college": "Pittsburgh",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/H/HillBr03.htm"
   }
 ]

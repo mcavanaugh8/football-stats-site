@@ -332,8 +332,8 @@
         "team": "CAR",
         "pos": "OLB",
         "uniform_number": "7",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -345,9 +345,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "0",
-        "tackles_assists": "1",
+        "tackles_combined": "7",
+        "tackles_solo": "3",
+        "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -609,12 +609,12 @@
         "team": "CAR",
         "pos": "OLB",
         "uniform_number": "7",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "41",
-        "def_pct": "62%",
+        "defense": "81",
+        "def_pct": "60%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -622,11 +622,14 @@
   },
   {
     "name": "Jadeveon Clowney",
+    "id": "ClowJa00",
+    "team": "CAR",
     "age": "31",
     "position": "OLB",
     "weight": "266",
     "height": "6-5",
     "college": "South Carolina",
-    "experience": "10"
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/C/ClowJa00.htm"
   }
 ]

@@ -302,5 +302,17 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Cole Holcomb (PUP)",
+    "id": "HolcCo00",
+    "team": "PIT",
+    "age": "28",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-1",
+    "college": "North Carolina",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/H/HolcCo00.htm"
   }
 ]

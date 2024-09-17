@@ -2218,5 +2218,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Case Keenum (IR)",
+    "id": "KeenCa00",
+    "team": "HOU",
+    "age": "36",
+    "position": "QB",
+    "weight": "215",
+    "height": "6-1",
+    "college": "Houston",
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/K/KeenCa00.htm"
   }
 ]

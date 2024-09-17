@@ -187,16 +187,16 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "91",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "def_int": "",
-        "def_int_yds": "",
+        "def_int": "0",
+        "def_int_yds": "0",
         "def_int_td": "0",
-        "def_int_long": "",
-        "pass_defended": "",
+        "def_int_long": "0",
+        "pass_defended": "1",
         "fumbles_forced": "0",
         "fumbles": "0",
-        "fumbles_rec": "0",
+        "fumbles_rec": "1",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
@@ -204,7 +204,7 @@
         "tackles_solo": "",
         "tackles_assists": "",
         "tackles_loss": "",
-        "qb_hits": "",
+        "qb_hits": "2",
         "safety_md": "",
         "av": ""
       }
@@ -306,24 +306,15 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "91",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "22",
-        "def_pct": "36%",
+        "defense": "42",
+        "def_pct": "37%",
         "special_teams": "0",
         "st_pct": "0%"
       }
     ]
-  },
-  {
-    "name": "L.J. Collier",
-    "age": "29",
-    "position": "DL",
-    "weight": "291",
-    "height": "6-2",
-    "college": "TCU",
-    "experience": "5"
   }
 ]

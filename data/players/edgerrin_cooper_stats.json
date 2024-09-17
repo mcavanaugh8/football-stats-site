@@ -52,7 +52,7 @@
         "team": "GNB",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "0",
         "def_int_yds": "0",
@@ -65,8 +65,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "3",
+        "tackles_combined": "5",
+        "tackles_solo": "4",
         "tackles_assists": "1",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -96,24 +96,27 @@
         "team": "GNB",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "11",
-        "def_pct": "15%",
-        "special_teams": "7",
+        "defense": "18",
+        "def_pct": "14%",
+        "special_teams": "12",
         "st_pct": "23%"
       }
     ]
   },
   {
     "name": "Edgerrin Cooper",
+    "id": "CoopEd00",
+    "team": "GB",
     "age": "23",
     "position": "LB",
     "weight": "229",
     "height": "",
     "college": "Texas A&M",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CoopEd00.htm"
   }
 ]

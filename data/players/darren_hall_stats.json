@@ -148,14 +148,5 @@
         "st_pct": "13%"
       }
     ]
-  },
-  {
-    "name": "Darren Hall",
-    "age": "24",
-    "position": "S",
-    "weight": "190",
-    "height": "6-0",
-    "college": "San Diego St.",
-    "experience": "3"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Casey Washington",
+    "id": "WashCa01",
+    "team": "ATL",
     "age": "23",
     "position": "WR",
     "weight": "200",
     "height": "6-0",
     "college": "Illinois",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WashCa01.htm"
   }
 ]

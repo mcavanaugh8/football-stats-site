@@ -212,7 +212,7 @@
         "team": "MIA",
         "pos": "CB",
         "uniform_number": "33",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -489,7 +489,7 @@
         "team": "MIA",
         "pos": "CB",
         "uniform_number": "33",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -623,24 +623,27 @@
         "team": "MIA",
         "pos": "CB",
         "uniform_number": "33",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "20",
-        "st_pct": "80%"
+        "defense": "4",
+        "def_pct": "4%",
+        "special_teams": "39",
+        "st_pct": "85%"
       }
     ]
   },
   {
     "name": "Siran Neal",
+    "id": "NealSi00",
+    "team": "MIA",
     "age": "30",
     "position": "CB",
     "weight": "206",
     "height": "6-0",
     "college": "Jacksonville St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/N/NealSi00.htm"
   }
 ]

@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jeff Foreman (IR)",
+    "id": "ForeJe00",
+    "team": "LV",
+    "age": "25",
+    "position": "WR",
+    "weight": "186",
+    "height": "6-0",
+    "college": "Arkansas State",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/ForeJe00.htm"
   }
 ]

@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Daniel Scott (IR)",
+    "id": "ScotDa03",
+    "team": "IND",
+    "age": "26",
+    "position": "S",
+    "weight": "208",
+    "height": "6-1",
+    "college": "California",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/ScotDa03.htm"
   }
 ]

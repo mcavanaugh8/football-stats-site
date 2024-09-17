@@ -49,11 +49,11 @@
       {
         "year_id": "2024",
         "age": "27",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "FB",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "81",
+        "fantasy_rank_pos": "98",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -204,7 +204,7 @@
         "team": "BUF",
         "pos": "FB",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -411,7 +411,7 @@
         "team": "BUF",
         "pos": "FB",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -696,24 +696,27 @@
         "team": "BUF",
         "pos": "FB",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "4",
-        "off_pct": "7%",
+        "offense": "9",
+        "off_pct": "8%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "23",
-        "st_pct": "85%"
+        "special_teams": "42",
+        "st_pct": "88%"
       }
     ]
   },
   {
     "name": "Reggie Gilliam",
+    "id": "GillRe00",
+    "team": "BUF",
     "age": "27",
     "position": "FB",
     "weight": "244",
     "height": "6-0",
     "college": "Toledo",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/G/GillRe00.htm"
   }
 ]

@@ -79,7 +79,7 @@
         "team": "DEN",
         "pos": "S",
         "uniform_number": "34",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -92,8 +92,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -138,24 +138,27 @@
         "team": "DEN",
         "pos": "S",
         "uniform_number": "34",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "30",
-        "st_pct": "88%"
+        "special_teams": "48",
+        "st_pct": "81%"
       }
     ]
   },
   {
     "name": "JL Skinner",
+    "id": "SkinJL00",
+    "team": "DEN",
     "age": "23",
     "position": "S",
     "weight": "220",
     "height": "",
     "college": "Boise St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/SkinJL00.htm"
   }
 ]

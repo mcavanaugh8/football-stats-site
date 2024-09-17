@@ -79,7 +79,7 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -92,10 +92,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "1.0",
-        "tackles_combined": "3",
-        "tackles_solo": "2",
+        "tackles_combined": "4",
+        "tackles_solo": "3",
         "tackles_assists": "1",
-        "tackles_loss": "0",
+        "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
         "av": ""
@@ -138,24 +138,15 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "13",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "4",
-        "def_pct": "7%",
-        "special_teams": "8",
-        "st_pct": "30%"
+        "defense": "12",
+        "def_pct": "11%",
+        "special_teams": "19",
+        "st_pct": "37%"
       }
     ]
-  },
-  {
-    "name": "Kei'Trel Clark",
-    "age": "23",
-    "position": "CB",
-    "weight": "181",
-    "height": "",
-    "college": "Liberty,Louisville",
-    "experience": "1"
   }
 ]

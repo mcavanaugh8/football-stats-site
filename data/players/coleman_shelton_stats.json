@@ -187,8 +187,8 @@
         "team": "CHI",
         "pos": "OL",
         "uniform_number": "65",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -306,24 +306,27 @@
         "team": "CHI",
         "pos": "OL",
         "uniform_number": "65",
-        "g": "1",
-        "gs": "1",
-        "offense": "56",
+        "g": "2",
+        "gs": "2",
+        "offense": "126",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "14%"
+        "special_teams": "7",
+        "st_pct": "12%"
       }
     ]
   },
   {
     "name": "Coleman Shelton",
+    "id": "ShelCo00",
+    "team": "CHI",
     "age": "29",
     "position": "OL",
     "weight": "285",
     "height": "6-5",
     "college": "Washington",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/ShelCo00.htm"
   }
 ]

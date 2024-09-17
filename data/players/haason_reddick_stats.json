@@ -365,5 +365,17 @@
         "st_pct": "1%"
       }
     ]
+  },
+  {
+    "name": "Haason Reddick (NON)",
+    "id": "ReddHa00",
+    "team": "NYJ",
+    "age": "30",
+    "position": "LB",
+    "weight": "240",
+    "height": "6-1",
+    "college": "Temple",
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/R/ReddHa00.htm"
   }
 ]

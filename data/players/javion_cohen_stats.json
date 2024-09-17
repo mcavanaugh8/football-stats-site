@@ -65,11 +65,14 @@
   },
   {
     "name": "Javion Cohen",
+    "id": "CoheJa00",
+    "team": "CLE",
     "age": "22",
     "position": "G",
     "weight": "322",
     "height": "",
     "college": "Alabama,Miami (FL)",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CoheJa00.htm"
   }
 ]

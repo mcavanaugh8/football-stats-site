@@ -93,11 +93,11 @@
       {
         "year_id": "2024",
         "age": "32",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "96",
+        "fantasy_rank_pos": "90",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -316,8 +316,8 @@
         "team": "NYG",
         "pos": "TE",
         "uniform_number": "85",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "0",
         "rec": "0",
         "rec_yds": "0",
@@ -739,8 +739,8 @@
         "team": "NYG",
         "pos": "TE",
         "uniform_number": "85",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "",
         "rec": "",
         "rec_yds": "",
@@ -806,6 +806,32 @@
         "tackles_assists": "",
         "tackles_loss": "",
         "qb_hits": "",
+        "safety_md": ""
+      },
+      {
+        "year_id": "2024",
+        "age": "32",
+        "team": "NYG",
+        "pos": "TE",
+        "uniform_number": "85",
+        "g": "2",
+        "gs": "2",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": ""
       }
     ]
@@ -1057,24 +1083,27 @@
         "team": "NYG",
         "pos": "TE",
         "uniform_number": "85",
-        "g": "1",
-        "gs": "1",
-        "offense": "20",
-        "off_pct": "28%",
+        "g": "2",
+        "gs": "2",
+        "offense": "46",
+        "off_pct": "36%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "13",
-        "st_pct": "54%"
+        "special_teams": "16",
+        "st_pct": "36%"
       }
     ]
   },
   {
     "name": "Chris Manhertz",
+    "id": "ManhCh00",
+    "team": "NYG",
     "age": "32",
     "position": "TE",
     "weight": "235",
     "height": "6-6",
     "college": "Canisius",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/M/ManhCh00.htm"
   }
 ]

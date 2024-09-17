@@ -65,11 +65,14 @@
   },
   {
     "name": "Cody Schrader",
+    "id": "SchrCo00",
+    "team": "LAR",
     "age": "25",
     "position": "RB",
     "weight": "202",
     "height": "5-8",
     "college": "Truman St.,Missouri",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SchrCo00.htm"
   }
 ]

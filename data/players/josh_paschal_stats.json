@@ -106,7 +106,7 @@
         "team": "DET",
         "pos": "DL",
         "uniform_number": "93",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -119,11 +119,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -180,11 +180,11 @@
         "team": "DET",
         "pos": "DL",
         "uniform_number": "93",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "22",
+        "defense": "35",
         "def_pct": "28%",
         "special_teams": "0",
         "st_pct": "0%"
@@ -193,11 +193,14 @@
   },
   {
     "name": "Josh Paschal",
+    "id": "PascJo00",
+    "team": "DET",
     "age": "25",
     "position": "DL",
     "weight": "274",
     "height": "6-3",
     "college": "Kentucky",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/P/PascJo00.htm"
   }
 ]

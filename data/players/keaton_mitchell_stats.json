@@ -216,5 +216,17 @@
         "st_pct": "28%"
       }
     ]
+  },
+  {
+    "name": "Keaton Mitchell (PUP)",
+    "id": "MitcKe01",
+    "team": "BAL",
+    "age": "22",
+    "position": "RB",
+    "weight": "191",
+    "height": "5-8",
+    "college": "East Carolina",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MitcKe01.htm"
   }
 ]

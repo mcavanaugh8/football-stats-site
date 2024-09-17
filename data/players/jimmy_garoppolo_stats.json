@@ -2083,5 +2083,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Jimmy Garoppolo (SUS)",
+    "id": "GaroJi00",
+    "team": "LAR",
+    "age": "33",
+    "position": "QB",
+    "weight": "225",
+    "height": "6-2",
+    "college": "Eastern Illinois",
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/G/GaroJi00.htm"
   }
 ]

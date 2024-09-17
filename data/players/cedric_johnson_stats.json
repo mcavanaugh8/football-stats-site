@@ -65,11 +65,14 @@
   },
   {
     "name": "Cedric Johnson",
+    "id": "JohnCe01",
+    "team": "CIN",
     "age": "22",
     "position": "DE",
     "weight": "260",
     "height": "",
     "college": "Mississippi",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/J/JohnCe01.htm"
   }
 ]

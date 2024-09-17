@@ -83,24 +83,27 @@
         "team": "TAM",
         "pos": "G",
         "uniform_number": "69",
-        "g": "1",
-        "gs": "1",
-        "offense": "64",
+        "g": "2",
+        "gs": "2",
+        "offense": "112",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "26%"
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
   },
   {
     "name": "Cody Mauch",
+    "id": "MaucCo00",
+    "team": "TB",
     "age": "25",
     "position": "G",
     "weight": "303",
     "height": "6-6",
     "college": "North Dakota St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MaucCo00.htm"
   }
 ]

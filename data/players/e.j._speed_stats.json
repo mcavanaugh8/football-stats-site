@@ -187,8 +187,8 @@
         "team": "IND",
         "pos": "LB",
         "uniform_number": "45",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -200,9 +200,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "10",
-        "tackles_solo": "8",
-        "tackles_assists": "2",
+        "tackles_combined": "21",
+        "tackles_solo": "16",
+        "tackles_assists": "5",
         "tackles_loss": "0",
         "qb_hits": "1",
         "safety_md": "",
@@ -334,24 +334,27 @@
         "team": "IND",
         "pos": "LB",
         "uniform_number": "45",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "77",
+        "defense": "146",
         "def_pct": "98%",
-        "special_teams": "8",
+        "special_teams": "15",
         "st_pct": "32%"
       }
     ]
   },
   {
     "name": "E.J. Speed",
+    "id": "SpeeEJ00",
+    "team": "IND",
     "age": "29",
     "position": "LB",
     "weight": "227",
     "height": "6-4",
     "college": "Tarleton St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/SpeeEJ00.htm"
   }
 ]

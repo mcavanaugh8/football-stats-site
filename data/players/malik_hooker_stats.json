@@ -241,8 +241,8 @@
         "team": "DAL",
         "pos": "S",
         "uniform_number": "28",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -254,9 +254,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "2",
-        "tackles_assists": "2",
+        "tackles_combined": "6",
+        "tackles_solo": "3",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -418,12 +418,12 @@
         "team": "DAL",
         "pos": "S",
         "uniform_number": "28",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "72",
-        "def_pct": "95%",
+        "defense": "126",
+        "def_pct": "93%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -431,11 +431,14 @@
   },
   {
     "name": "Malik Hooker",
+    "id": "HookMa00",
+    "team": "DAL",
     "age": "28",
     "position": "S",
     "weight": "212",
     "height": "6-2",
     "college": "Ohio St.",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/H/HookMa00.htm"
   }
 ]

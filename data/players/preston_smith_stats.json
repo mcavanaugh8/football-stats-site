@@ -295,8 +295,8 @@
         "team": "GNB",
         "pos": "DL",
         "uniform_number": "91",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -308,8 +308,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "1",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
         "tackles_assists": "1",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -529,12 +529,12 @@
         "team": "GNB",
         "pos": "DL",
         "uniform_number": "91",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "54",
-        "def_pct": "71%",
+        "defense": "82",
+        "def_pct": "62%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -542,11 +542,14 @@
   },
   {
     "name": "Preston Smith",
+    "id": "SmitPr00",
+    "team": "GB",
     "age": "32",
     "position": "DL",
     "weight": "265",
     "height": "6-5",
     "college": "Mississippi St.",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/S/SmitPr00.htm"
   }
 ]

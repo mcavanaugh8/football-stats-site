@@ -436,5 +436,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "James Bradberry (IR)",
+    "id": "BradJa00",
+    "team": "PHI",
+    "age": "31",
+    "position": "CB",
+    "weight": "210",
+    "height": "6-1",
+    "college": "Arkansas St.,Samford",
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/B/BradJa00.htm"
   }
 ]

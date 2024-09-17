@@ -68,24 +68,27 @@
         "team": "KAN",
         "pos": "OL",
         "uniform_number": "60",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "19%"
+        "special_teams": "9",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Hunter Nourzad",
+    "id": "NourHu00",
+    "team": "KC",
     "age": "24",
     "position": "OL",
     "weight": "317",
     "height": "",
     "college": "Cornell,Penn St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/N/NourHu00.htm"
   }
 ]

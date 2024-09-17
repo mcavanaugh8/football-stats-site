@@ -220,7 +220,7 @@
         "team": "NOR",
         "pos": "DE",
         "uniform_number": "99",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -232,12 +232,12 @@
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "2",
+        "sacks": "0.5",
+        "tackles_combined": "4",
+        "tackles_solo": "2",
+        "tackles_assists": "2",
+        "tackles_loss": "0",
+        "qb_hits": "3",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -383,24 +383,27 @@
         "team": "NOR",
         "pos": "DE",
         "uniform_number": "99",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "37",
-        "def_pct": "63%",
-        "special_teams": "2",
-        "st_pct": "7%"
+        "defense": "87",
+        "def_pct": "67%",
+        "special_teams": "7",
+        "st_pct": "12%"
       }
     ]
   },
   {
     "name": "Chase Young",
+    "id": "YounCh04",
+    "team": "NO",
     "age": "25",
     "position": "DE",
     "weight": "265",
     "height": "6-5",
     "college": "Ohio St.",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/Y/YounCh04.htm"
   }
 ]

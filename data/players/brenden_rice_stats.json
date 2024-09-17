@@ -65,11 +65,14 @@
   },
   {
     "name": "Brenden Rice",
+    "id": "RiceBr00",
+    "team": "LAC",
     "age": "22",
     "position": "WR",
     "weight": "210",
     "height": "6-3",
     "college": "Colorado,USC",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RiceBr00.htm"
   }
 ]

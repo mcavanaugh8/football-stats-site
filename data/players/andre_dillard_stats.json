@@ -126,11 +126,14 @@
   },
   {
     "name": "Andre Dillard",
+    "id": "DillAn00",
+    "team": "GB",
     "age": "29",
     "position": "T",
     "weight": "315",
     "height": "6-5",
     "college": "Washington St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/D/DillAn00.htm"
   }
 ]

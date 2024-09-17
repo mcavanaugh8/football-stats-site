@@ -65,11 +65,14 @@
   },
   {
     "name": "Jake Kubas",
+    "id": "KubaJa00",
+    "team": "NYG",
     "age": "24",
     "position": "OG",
     "weight": "308",
     "height": "6-4",
     "college": "North Dakota State",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/K/KubaJa00.htm"
   }
 ]

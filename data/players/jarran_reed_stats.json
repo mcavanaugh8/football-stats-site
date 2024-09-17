@@ -268,8 +268,8 @@
         "team": "SEA",
         "pos": "NT",
         "uniform_number": "90",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -281,11 +281,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "6",
+        "tackles_solo": "3",
+        "tackles_assists": "3",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -432,24 +432,27 @@
         "team": "SEA",
         "pos": "NT",
         "uniform_number": "90",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "43",
-        "def_pct": "62%",
-        "special_teams": "4",
-        "st_pct": "12%"
+        "defense": "80",
+        "def_pct": "58%",
+        "special_teams": "9",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Jarran Reed",
+    "id": "ReedJa02",
+    "team": "SEA",
     "age": "32",
     "position": "NT",
     "weight": "306",
     "height": "6-3",
     "college": "East Mississippi CC,Alabama",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/R/ReedJa02.htm"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Jaylan Ford",
+    "id": "FordJa02",
+    "team": "NO",
     "age": "23",
     "position": "LB",
     "weight": "240",
     "height": "",
     "college": "Texas",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/FordJa02.htm"
   }
 ]

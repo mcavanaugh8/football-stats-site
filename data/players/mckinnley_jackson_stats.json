@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "McKinnley Jackson (IR)",
+    "id": "JackMc00",
+    "team": "CIN",
+    "age": "23",
+    "position": "DT",
+    "weight": "331",
+    "height": "",
+    "college": "Texas A&M",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/J/JackMc00.htm"
   }
 ]

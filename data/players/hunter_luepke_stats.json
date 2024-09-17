@@ -41,7 +41,7 @@
         "team": "DAL",
         "pos": "RB",
         "uniform_number": "40",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -151,7 +151,7 @@
         "team": "DAL",
         "pos": "RB",
         "uniform_number": "40",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "",
         "rush_yds": "",
@@ -170,8 +170,8 @@
         "rec_first_down": "1",
         "rec_success": "100.0",
         "rec_long": "12",
-        "rec_per_g": "2.0",
-        "rec_yds_per_g": "18.0",
+        "rec_per_g": "1.0",
+        "rec_yds_per_g": "9.0",
         "catch_pct": "100.0%",
         "rec_yds_per_tgt": "9.0",
         "touches": "2",
@@ -299,24 +299,27 @@
         "team": "DAL",
         "pos": "RB",
         "uniform_number": "40",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "20",
-        "off_pct": "32%",
+        "offense": "30",
+        "off_pct": "23%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "25",
-        "st_pct": "69%"
+        "special_teams": "40",
+        "st_pct": "64%"
       }
     ]
   },
   {
     "name": "Hunter Luepke",
+    "id": "LuepHu00",
+    "team": "DAL",
     "age": "24",
     "position": "RB",
     "weight": "238",
     "height": "",
     "college": "North Dakota St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/L/LuepHu00.htm"
   }
 ]

@@ -241,8 +241,8 @@
         "team": "JAX",
         "pos": "OL",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -390,24 +390,27 @@
         "team": "JAX",
         "pos": "OL",
         "uniform_number": "74",
-        "g": "1",
-        "gs": "1",
-        "offense": "53",
+        "g": "2",
+        "gs": "2",
+        "offense": "113",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "12%"
+        "special_teams": "7",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Cam Robinson",
+    "id": "RobiCa00",
+    "team": "JAX",
     "age": "29",
     "position": "OL",
     "weight": "335",
     "height": "6-6",
     "college": "Alabama",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/R/RobiCa00.htm"
   }
 ]

@@ -151,11 +151,14 @@
   },
   {
     "name": "Dominique Robinson",
+    "id": "RobiDo00",
+    "team": "CHI",
     "age": "26",
     "position": "DL",
     "weight": "253",
     "height": "6-5",
     "college": "Miami (OH)",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/R/RobiDo00.htm"
   }
 ]

@@ -268,8 +268,8 @@
         "team": "DET",
         "pos": "OL",
         "uniform_number": "60",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -432,24 +432,27 @@
         "team": "DET",
         "pos": "OL",
         "uniform_number": "60",
-        "g": "1",
-        "gs": "1",
-        "offense": "61",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "146",
+        "off_pct": "99%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
+        "special_teams": "8",
         "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Graham Glasgow",
+    "id": "GlasGr00",
+    "team": "DET",
     "age": "32",
     "position": "OL",
     "weight": "315",
     "height": "6-6",
     "college": "Michigan",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/G/GlasGr00.htm"
   }
 ]

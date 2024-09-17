@@ -106,7 +106,7 @@
         "team": "CHI",
         "pos": "DT",
         "uniform_number": "91",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,12 +180,12 @@
         "team": "CHI",
         "pos": "DT",
         "uniform_number": "91",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "15",
-        "def_pct": "23%",
+        "defense": "30",
+        "def_pct": "24%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -193,11 +193,14 @@
   },
   {
     "name": "Chris Williams",
+    "id": "WillCh08",
+    "team": "CHI",
     "age": "26",
     "position": "DT",
     "weight": "302",
     "height": "6-3",
     "college": "Wagner",
-    "experience": "3"
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/W/WillCh08.htm"
   }
 ]

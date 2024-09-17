@@ -232,5 +232,17 @@
         "st_pct": "23%"
       }
     ]
+  },
+  {
+    "name": "Leki Fotu (IR)",
+    "id": "FotuLe00",
+    "team": "NYJ",
+    "age": "26",
+    "position": "DT",
+    "weight": "335",
+    "height": "6-5",
+    "college": "Utah",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/F/FotuLe00.htm"
   }
 ]

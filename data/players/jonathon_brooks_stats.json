@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Jonathon Brooks (NON)",
+    "id": "BrooJo02",
+    "team": "CAR",
+    "age": "21",
+    "position": "RB",
+    "weight": "207",
+    "height": "",
+    "college": "Texas",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BrooJo02.htm"
   }
 ]

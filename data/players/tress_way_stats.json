@@ -206,7 +206,7 @@
         "team": "WAS",
         "pos": "P",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rush_att": "0",
         "rush_yds": "0",
@@ -465,7 +465,7 @@
         "team": "WAS",
         "pos": "P",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -615,7 +615,7 @@
         "team": "WAS",
         "pos": "P",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -767,7 +767,7 @@
         "team": "WAS",
         "pos": "P",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "pass_cmp": "0",
         "pass_att": "0",
@@ -1305,7 +1305,7 @@
         "team": "WAS",
         "pos": "P",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "punt": "3",
         "punt_yds": "139",
@@ -1491,24 +1491,27 @@
         "team": "WAS",
         "pos": "P",
         "uniform_number": "10",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "26%"
+        "special_teams": "14",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Tress Way",
+    "id": "WayxTr00",
+    "team": "WAS",
     "age": "34",
     "position": "P",
     "weight": "220",
     "height": "6-1",
     "college": "Oklahoma",
-    "experience": "10"
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/W/WayxTr00.htm"
   }
 ]

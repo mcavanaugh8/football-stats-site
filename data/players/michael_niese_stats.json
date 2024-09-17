@@ -68,24 +68,27 @@
         "team": "DET",
         "pos": "OL",
         "uniform_number": "62",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "1",
+        "off_pct": "1%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
+        "special_teams": "8",
         "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Michael Niese",
+    "id": "NiesMi00",
+    "team": "DET",
     "age": "26",
     "position": "OL",
     "weight": "295",
     "height": "6-5",
     "college": "Dayton,Temple",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/N/NiesMi00.htm"
   }
 ]

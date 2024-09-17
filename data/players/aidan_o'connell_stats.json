@@ -340,11 +340,14 @@
   },
   {
     "name": "Aidan O'Connell",
+    "id": "OConAi00",
+    "team": "LV",
     "age": "26",
     "position": "QB",
     "weight": "210",
     "height": "",
     "college": "Purdue",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/O/OConAi00.htm"
   }
 ]

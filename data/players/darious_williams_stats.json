@@ -455,5 +455,17 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Darious Williams (IR)",
+    "id": "WillDa09",
+    "team": "LAR",
+    "age": "31",
+    "position": "DB",
+    "weight": "192",
+    "height": "5-9",
+    "college": "Ala-Birmingham",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/W/WillDa09.htm"
   }
 ]

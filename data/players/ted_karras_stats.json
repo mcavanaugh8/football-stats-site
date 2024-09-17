@@ -268,8 +268,8 @@
         "team": "CIN",
         "pos": "C",
         "uniform_number": "64",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -432,24 +432,27 @@
         "team": "CIN",
         "pos": "C",
         "uniform_number": "64",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "115",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "10%"
+        "special_teams": "8",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Ted Karras",
+    "id": "KarrTe00",
+    "team": "CIN",
     "age": "31",
     "position": "C",
     "weight": "310",
     "height": "6-4",
     "college": "Illinois",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/K/KarrTe00.htm"
   }
 ]

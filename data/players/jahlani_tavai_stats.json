@@ -187,8 +187,8 @@
         "team": "NWE",
         "pos": "LB",
         "uniform_number": "48",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -200,9 +200,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "2",
-        "tackles_assists": "2",
+        "tackles_combined": "8",
+        "tackles_solo": "5",
+        "tackles_assists": "3",
         "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
@@ -306,24 +306,27 @@
         "team": "NWE",
         "pos": "LB",
         "uniform_number": "48",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "37",
-        "def_pct": "73%",
-        "special_teams": "7",
-        "st_pct": "33%"
+        "defense": "106",
+        "def_pct": "88%",
+        "special_teams": "18",
+        "st_pct": "35%"
       }
     ]
   },
   {
     "name": "Jahlani Tavai",
+    "id": "TavaJa00",
+    "team": "NE",
     "age": "28",
     "position": "LB",
     "weight": "255",
     "height": "6-2",
     "college": "Hawaii",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/T/TavaJa00.htm"
   }
 ]

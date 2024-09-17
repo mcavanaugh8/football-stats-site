@@ -148,5 +148,17 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Derion Kendrick (IR)",
+    "id": "KendDe00",
+    "team": "LAR",
+    "age": "24",
+    "position": "DB",
+    "weight": "199",
+    "height": "6-0",
+    "college": "Clemson,Georgia",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/K/KendDe00.htm"
   }
 ]

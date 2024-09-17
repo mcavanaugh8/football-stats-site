@@ -151,11 +151,14 @@
   },
   {
     "name": "Tyree Wilson",
+    "id": "WilsTy01",
+    "team": "LV",
     "age": "24",
     "position": "DE",
     "weight": "275",
     "height": "",
     "college": "Texas A&M,Texas Tech",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/W/WilsTy01.htm"
   }
 ]

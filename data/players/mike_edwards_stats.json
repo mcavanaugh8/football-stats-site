@@ -187,7 +187,7 @@
         "team": "BUF",
         "pos": "S",
         "uniform_number": "21",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -409,24 +409,27 @@
         "team": "BUF",
         "pos": "S",
         "uniform_number": "21",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "33%"
+        "defense": "6",
+        "def_pct": "4%",
+        "special_teams": "13",
+        "st_pct": "27%"
       }
     ]
   },
   {
     "name": "Mike Edwards",
+    "id": "EdwaMi01",
+    "team": "BUF",
     "age": "28",
     "position": "S",
     "weight": "205",
     "height": "5-10",
     "college": "Kentucky,Hawaii",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/E/EdwaMi01.htm"
   }
 ]

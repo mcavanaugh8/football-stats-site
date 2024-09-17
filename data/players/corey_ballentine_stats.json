@@ -241,7 +241,7 @@
         "team": "GNB",
         "pos": "CB",
         "uniform_number": "26",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -511,24 +511,27 @@
         "team": "GNB",
         "pos": "CB",
         "uniform_number": "26",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "18",
-        "st_pct": "58%"
+        "special_teams": "31",
+        "st_pct": "59%"
       }
     ]
   },
   {
     "name": "Corey Ballentine",
+    "id": "BallCo00",
+    "team": "GB",
     "age": "28",
     "position": "CB",
     "weight": "196",
     "height": "5-11",
     "college": "Washburn",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BallCo00.htm"
   }
 ]

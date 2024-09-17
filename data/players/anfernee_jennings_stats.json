@@ -133,8 +133,8 @@
         "team": "NWE",
         "pos": "LB",
         "uniform_number": "33",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -146,9 +146,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
-        "tackles_assists": "0",
+        "tackles_combined": "8",
+        "tackles_solo": "4",
+        "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -222,24 +222,27 @@
         "team": "NWE",
         "pos": "LB",
         "uniform_number": "33",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "28",
-        "def_pct": "55%",
-        "special_teams": "7",
-        "st_pct": "33%"
+        "defense": "72",
+        "def_pct": "60%",
+        "special_teams": "24",
+        "st_pct": "46%"
       }
     ]
   },
   {
     "name": "Anfernee Jennings",
+    "id": "JennAn00",
+    "team": "NE",
     "age": "27",
     "position": "LB",
     "weight": "255",
     "height": "6-2",
     "college": "Alabama",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/J/JennAn00.htm"
   }
 ]

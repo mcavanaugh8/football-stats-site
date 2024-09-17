@@ -1,5 +1,43 @@
 [
   {
+    "category": "fantasy",
+    "rows": [
+      {
+        "year_id": "2022",
+        "age": "24",
+        "g": "10",
+        "fantasy_pos": "TE",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "129",
+        "fantasy_rank_overall": "",
+        "games": "All 2022 Games"
+      },
+      {
+        "year_id": "2023",
+        "age": "25",
+        "g": "2",
+        "fantasy_pos": "TE",
+        "fantasy_points": "2",
+        "vbd": "",
+        "fantasy_rank_pos": "101",
+        "fantasy_rank_overall": "",
+        "games": "All 2023 Games"
+      },
+      {
+        "year_id": "2024",
+        "age": "26",
+        "g": "2",
+        "fantasy_pos": "TE",
+        "fantasy_points": "",
+        "vbd": "",
+        "fantasy_rank_pos": "93",
+        "fantasy_rank_overall": "",
+        "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
     "category": "detailed_receiving_and_rushing",
     "rows": [
       {
@@ -76,7 +114,7 @@
         "team": "MIN",
         "pos": "TE",
         "uniform_number": "34",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -128,10 +166,6 @@
   },
   {
     "category": "passing_advanced",
-    "rows": []
-  },
-  {
-    "category": "fantasy",
     "rows": []
   },
   {
@@ -215,7 +249,7 @@
         "team": "MIN",
         "pos": "TE",
         "uniform_number": "34",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -310,24 +344,27 @@
         "team": "MIN",
         "pos": "TE",
         "uniform_number": "34",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "3",
-        "off_pct": "6%",
+        "off_pct": "3%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "29%"
+        "special_teams": "19",
+        "st_pct": "40%"
       }
     ]
   },
   {
     "name": "Nick Muse",
+    "id": "MuseNi00",
+    "team": "MIN",
     "age": "26",
     "position": "TE",
     "weight": "252",
     "height": "6-5",
     "college": "William & Mary,South Carolina",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/MuseNi00.htm"
   }
 ]

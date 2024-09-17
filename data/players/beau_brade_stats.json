@@ -65,11 +65,14 @@
   },
   {
     "name": "Beau Brade",
+    "id": "BradBe01",
+    "team": "BAL",
     "age": "",
     "position": "S",
     "weight": "209",
     "height": "",
     "college": "Maryland",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BradBe01.htm"
   }
 ]

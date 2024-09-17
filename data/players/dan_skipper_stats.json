@@ -246,7 +246,7 @@
         "team": "DET",
         "pos": "T",
         "uniform_number": "70",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -601,7 +601,7 @@
         "team": "DET",
         "pos": "T",
         "uniform_number": "70",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -813,24 +813,27 @@
         "team": "DET",
         "pos": "T",
         "uniform_number": "70",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "2",
-        "off_pct": "3%",
+        "offense": "3",
+        "off_pct": "2%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
+        "special_teams": "8",
         "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Dan Skipper",
+    "id": "SkipDa00",
+    "team": "DET",
     "age": "30",
     "position": "T",
     "weight": "330",
     "height": "6-9",
     "college": "Arkansas",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/S/SkipDa00.htm"
   }
 ]

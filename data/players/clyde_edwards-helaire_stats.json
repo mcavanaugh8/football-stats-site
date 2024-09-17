@@ -563,5 +563,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Clyde Edwards-Helaire (NON)",
+    "id": "EdwaCl00",
+    "team": "KC",
+    "age": "25",
+    "position": "RB",
+    "weight": "207",
+    "height": "5-7",
+    "college": "LSU",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/E/EdwaCl00.htm"
   }
 ]

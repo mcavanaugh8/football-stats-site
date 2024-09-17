@@ -79,8 +79,8 @@
         "team": "MIN",
         "pos": "LB",
         "uniform_number": "0",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -92,10 +92,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "6",
-        "tackles_solo": "4",
-        "tackles_assists": "2",
-        "tackles_loss": "0",
+        "tackles_combined": "14",
+        "tackles_solo": "10",
+        "tackles_assists": "4",
+        "tackles_loss": "1",
         "qb_hits": "1",
         "safety_md": "",
         "av": ""
@@ -138,24 +138,27 @@
         "team": "MIN",
         "pos": "LB",
         "uniform_number": "0",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "39",
-        "def_pct": "55%",
-        "special_teams": "15",
-        "st_pct": "63%"
+        "defense": "87",
+        "def_pct": "62%",
+        "special_teams": "29",
+        "st_pct": "62%"
       }
     ]
   },
   {
     "name": "Ivan Pace",
+    "id": "PaceIv00",
+    "team": "MIN",
     "age": "24",
     "position": "LB",
     "weight": "231",
     "height": "",
     "college": "Miami (OH),Cincinnati",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/P/PaceIv00.htm"
   }
 ]

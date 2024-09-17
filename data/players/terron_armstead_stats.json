@@ -360,8 +360,8 @@
         "team": "MIA",
         "pos": "T",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -570,10 +570,10 @@
         "team": "MIA",
         "pos": "T",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
-        "offense": "71",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "117",
+        "off_pct": "80%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -583,11 +583,14 @@
   },
   {
     "name": "Terron Armstead",
+    "id": "ArmsTe00",
+    "team": "MIA",
     "age": "33",
     "position": "T",
     "weight": "305",
     "height": "6-5",
     "college": "Ark-Pine Bluff",
-    "experience": "11"
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/A/ArmsTe00.htm"
   }
 ]

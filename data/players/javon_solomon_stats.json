@@ -65,11 +65,14 @@
   },
   {
     "name": "Javon Solomon",
+    "id": "SoloJa00",
+    "team": "BUF",
     "age": "23",
     "position": "DE",
     "weight": "247",
     "height": "",
     "college": "Troy",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SoloJa00.htm"
   }
 ]

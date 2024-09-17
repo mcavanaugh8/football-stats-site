@@ -316,5 +316,17 @@
         "st_pct": "9%"
       }
     ]
+  },
+  {
+    "name": "Larrell Murchison (IRD)",
+    "id": "MurcLa00",
+    "team": "LAR",
+    "age": "27",
+    "position": "DT",
+    "weight": "285",
+    "height": "6-2",
+    "college": "North Carolina St.",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/M/MurcLa00.htm"
   }
 ]

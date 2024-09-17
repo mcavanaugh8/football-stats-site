@@ -65,11 +65,14 @@
   },
   {
     "name": "Kiran Amegadjie",
+    "id": "AmegKi00",
+    "team": "CHI",
     "age": "22",
     "position": "OL",
     "weight": "326",
     "height": "",
     "college": "Yale",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/A/AmegKi00.htm"
   }
 ]

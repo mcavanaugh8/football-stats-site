@@ -68,24 +68,27 @@
         "team": "GNB",
         "pos": "OL",
         "uniform_number": "62",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
+        "special_teams": "12",
         "st_pct": "23%"
       }
     ]
   },
   {
     "name": "Jacob Monk",
+    "id": "MonkJa00",
+    "team": "GB",
     "age": "23",
     "position": "OL",
     "weight": "308",
     "height": "",
     "college": "Duke",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/MonkJa00.htm"
   }
 ]

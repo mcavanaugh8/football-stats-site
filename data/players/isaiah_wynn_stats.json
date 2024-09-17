@@ -274,5 +274,17 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Isaiah Wynn (PUP)",
+    "id": "WynnIs00",
+    "team": "MIA",
+    "age": "29",
+    "position": "OL",
+    "weight": "305",
+    "height": "6-2",
+    "college": "Georgia",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WynnIs00.htm"
   }
 ]

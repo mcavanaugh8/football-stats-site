@@ -162,5 +162,17 @@
         "st_pct": "30%"
       }
     ]
+  },
+  {
+    "name": "Antoine Green (IR)",
+    "id": "GreeAn00",
+    "team": "DET",
+    "age": "25",
+    "position": "WR",
+    "weight": "199",
+    "height": "6-2",
+    "college": "North Carolina",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/G/GreeAn00.htm"
   }
 ]

@@ -416,8 +416,8 @@
         "team": "NYJ",
         "pos": "OL",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -641,9 +641,9 @@
         "team": "NYJ",
         "pos": "OL",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "108",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -654,11 +654,14 @@
   },
   {
     "name": "Tyron Smith",
+    "id": "SmitTy00",
+    "team": "NYJ",
     "age": "34",
     "position": "OL",
     "weight": "320",
     "height": "6-5",
     "college": "USC",
-    "experience": "13"
+    "experience": "13",
+    "href": "https://www.pro-football-reference.com/players/S/SmitTy00.htm"
   }
 ]

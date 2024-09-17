@@ -83,24 +83,27 @@
         "team": "NYJ",
         "pos": "C",
         "uniform_number": "66",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "108",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "1",
-        "st_pct": "4%"
+        "special_teams": "5",
+        "st_pct": "10%"
       }
     ]
   },
   {
     "name": "Joe Tippmann",
+    "id": "TippJo00",
+    "team": "NYJ",
     "age": "23",
     "position": "C",
     "weight": "313",
     "height": "",
     "college": "Wisconsin",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/TippJo00.htm"
   }
 ]

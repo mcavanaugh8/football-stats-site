@@ -212,8 +212,8 @@
         "team": "CLE",
         "pos": "G",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "0",
         "rec": "0",
         "rec_yds": "0",
@@ -501,8 +501,8 @@
         "team": "CLE",
         "pos": "G",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "targets": "",
         "rec": "",
         "rec_yds": "",
@@ -736,24 +736,27 @@
         "team": "CLE",
         "pos": "G",
         "uniform_number": "77",
-        "g": "1",
-        "gs": "1",
-        "offense": "76",
+        "g": "2",
+        "gs": "2",
+        "offense": "148",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "11%"
+        "special_teams": "8",
+        "st_pct": "13%"
       }
     ]
   },
   {
     "name": "Wyatt Teller",
+    "id": "TellWy00",
+    "team": "CLE",
     "age": "30",
     "position": "G",
     "weight": "315",
     "height": "6-4",
     "college": "Virginia Tech",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/T/TellWy00.htm"
   }
 ]

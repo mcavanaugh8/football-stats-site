@@ -347,11 +347,14 @@
   },
   {
     "name": "Darnell Savage Jr.",
+    "id": "SavaDa00",
+    "team": "JAX",
     "age": "27",
     "position": "S",
     "weight": "198",
     "height": "5-11",
     "college": "Maryland",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/SavaDa00.htm"
   }
 ]

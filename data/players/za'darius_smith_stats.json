@@ -304,8 +304,8 @@
         "team": "CLE",
         "pos": "DE",
         "uniform_number": "99",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -505,12 +505,12 @@
         "team": "CLE",
         "pos": "DE",
         "uniform_number": "99",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "44",
-        "def_pct": "70%",
+        "defense": "81",
+        "def_pct": "66%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -518,11 +518,14 @@
   },
   {
     "name": "Za'Darius Smith",
+    "id": "SmitZa00",
+    "team": "CLE",
     "age": "32",
     "position": "DE",
     "weight": "270",
     "height": "6-4",
     "college": "East Mississippi CC,Kentucky",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/S/SmitZa00.htm"
   }
 ]

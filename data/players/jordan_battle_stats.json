@@ -79,7 +79,7 @@
         "team": "CIN",
         "pos": "S",
         "uniform_number": "27",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "CIN",
         "pos": "S",
         "uniform_number": "27",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "15",
-        "st_pct": "71%"
+        "defense": "1",
+        "def_pct": "1%",
+        "special_teams": "30",
+        "st_pct": "64%"
       }
     ]
   },
   {
     "name": "Jordan Battle",
+    "id": "BattJo00",
+    "team": "CIN",
     "age": "24",
     "position": "S",
     "weight": "210",
     "height": "",
     "college": "Alabama",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BattJo00.htm"
   }
 ]

@@ -106,8 +106,8 @@
         "team": "LAC",
         "pos": "DT",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -119,9 +119,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
+        "tackles_combined": "4",
         "tackles_solo": "1",
-        "tackles_assists": "1",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -180,12 +180,12 @@
         "team": "LAC",
         "pos": "DT",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "27",
-        "def_pct": "45%",
+        "defense": "50",
+        "def_pct": "46%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -193,11 +193,14 @@
   },
   {
     "name": "Otito Ogbonnia",
+    "id": "OgboOt00",
+    "team": "LAC",
     "age": "23",
     "position": "DT",
     "weight": "320",
     "height": "6-4",
     "college": "UCLA",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/O/OgboOt00.htm"
   }
 ]

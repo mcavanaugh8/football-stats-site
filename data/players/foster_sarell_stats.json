@@ -96,11 +96,14 @@
   },
   {
     "name": "Foster Sarell",
+    "id": "SareFo00",
+    "team": "LAC",
     "age": "26",
     "position": "T",
     "weight": "322",
     "height": "6-6",
     "college": "Stanford",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/S/SareFo00.htm"
   }
 ]

@@ -178,5 +178,17 @@
         "st_pct": "68%"
       }
     ]
+  },
+  {
+    "name": "Sam Williams (IR)",
+    "id": "WillSa00",
+    "team": "DAL",
+    "age": "25",
+    "position": "DE",
+    "weight": "261",
+    "height": "6-4",
+    "college": "Northeast Mississippi CC,Mississippi",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WillSa00.htm"
   }
 ]

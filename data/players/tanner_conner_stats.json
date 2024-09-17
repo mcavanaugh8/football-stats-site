@@ -27,11 +27,11 @@
       {
         "year_id": "2024",
         "age": "26",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "92",
+        "fantasy_rank_pos": "75",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -114,7 +114,7 @@
         "team": "MIA",
         "pos": "TE",
         "uniform_number": "80",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "0",
         "rec": "0",
@@ -249,7 +249,7 @@
         "team": "MIA",
         "pos": "TE",
         "uniform_number": "80",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "targets": "",
         "rec": "",
@@ -298,7 +298,7 @@
         "team": "MIA",
         "pos": "TE",
         "uniform_number": "80",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -371,24 +371,27 @@
         "team": "MIA",
         "pos": "TE",
         "uniform_number": "80",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "3",
+        "offense": "6",
         "off_pct": "4%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "11",
-        "st_pct": "44%"
+        "special_teams": "21",
+        "st_pct": "46%"
       }
     ]
   },
   {
     "name": "Tanner Conner",
+    "id": "ConnTa00",
+    "team": "MIA",
     "age": "26",
     "position": "TE",
     "weight": "232",
     "height": "6-3",
     "college": "Idaho St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/C/ConnTa00.htm"
   }
 ]

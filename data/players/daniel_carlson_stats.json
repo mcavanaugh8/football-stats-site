@@ -385,7 +385,7 @@
         "team": "LVR",
         "pos": "K",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -398,13 +398,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "1",
-        "xpa": "1",
-        "fgm": "1",
-        "fga": "2",
+        "xpm": "3",
+        "xpa": "3",
+        "fgm": "5",
+        "fga": "6",
         "safety_md": "",
-        "scoring": "4",
-        "points_per_g": "4.0"
+        "scoring": "18",
+        "points_per_g": "9.0"
       }
     ]
   },
@@ -537,24 +537,27 @@
         "team": "LVR",
         "pos": "K",
         "uniform_number": "2",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "6",
-        "st_pct": "21%"
+        "special_teams": "19",
+        "st_pct": "31%"
       }
     ]
   },
   {
     "name": "Daniel Carlson",
+    "id": "CarlDa00",
+    "team": "LV",
     "age": "29",
     "position": "K",
     "weight": "215",
     "height": "6-5",
     "college": "Auburn",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/CarlDa00.htm"
   }
 ]

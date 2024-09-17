@@ -160,8 +160,8 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -264,24 +264,15 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
-        "offense": "61",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "121",
+        "off_pct": "95%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "15%"
+        "special_teams": "11",
+        "st_pct": "21%"
       }
     ]
-  },
-  {
-    "name": "Hjalte Froholdt",
-    "age": "28",
-    "position": "OL",
-    "weight": "310",
-    "height": "6-5",
-    "college": "Arkansas",
-    "experience": "4"
   }
 ]

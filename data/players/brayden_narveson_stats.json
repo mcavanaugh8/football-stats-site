@@ -64,7 +64,7 @@
         "team": "GNB",
         "pos": "K",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -77,13 +77,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "3",
-        "fga": "4",
+        "xpm": "3",
+        "xpa": "3",
+        "fgm": "6",
+        "fga": "8",
         "safety_md": "",
-        "scoring": "11",
-        "points_per_g": "11.0"
+        "scoring": "21",
+        "points_per_g": "10.5"
       }
     ]
   },
@@ -96,24 +96,27 @@
         "team": "GNB",
         "pos": "K",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "14",
+        "special_teams": "24",
         "st_pct": "45%"
       }
     ]
   },
   {
     "name": "Brayden Narveson",
+    "id": "NarvBr00",
+    "team": "GB",
     "age": "25",
     "position": "K",
     "weight": "215",
     "height": "6-0",
     "college": "Iowa St.,Western Kentucky,North Carolina St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/N/NarvBr00.htm"
   }
 ]

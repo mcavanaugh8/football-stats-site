@@ -271,20 +271,20 @@
         "team": "SFO",
         "pos": "P",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "punt": "1",
-        "punt_yds": "58",
-        "punt_yds_per_punt": "58.0",
-        "punt_ret_yds_opp": "4",
-        "punt_net_yds": "54",
-        "punt_net_yds_per_punt": "54.0",
+        "punt": "3",
+        "punt_yds": "157",
+        "punt_yds_per_punt": "52.3",
+        "punt_ret_yds_opp": "14",
+        "punt_net_yds": "143",
+        "punt_net_yds_per_punt": "35.8",
         "punt_long": "58",
         "punt_tb": "0",
         "punt_tb_pct": "0.0%",
-        "punt_in_20": "0",
-        "punt_in_20_pct": "0.0%",
-        "punt_blocked": "0",
+        "punt_in_20": "2",
+        "punt_in_20_pct": "66.7%",
+        "punt_blocked": "1",
         "av": ""
       }
     ]
@@ -436,24 +436,27 @@
         "team": "SFO",
         "pos": "P",
         "uniform_number": "3",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "35%"
+        "special_teams": "16",
+        "st_pct": "33%"
       }
     ]
   },
   {
     "name": "Mitch Wishnowsky",
+    "id": "WishMi00",
+    "team": "SF",
     "age": "32",
     "position": "P",
     "weight": "220",
     "height": "6-2",
     "college": "Utah",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WishMi00.htm"
   }
 ]

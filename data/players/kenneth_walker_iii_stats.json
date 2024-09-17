@@ -1,43 +1,5 @@
 [
   {
-    "category": "fantasy",
-    "rows": [
-      {
-        "year_id": "2022",
-        "age": "22",
-        "g": "15",
-        "fantasy_pos": "RB",
-        "fantasy_points": "176",
-        "vbd": "33",
-        "fantasy_rank_pos": "15",
-        "fantasy_rank_overall": "37",
-        "games": "All 2022 Games"
-      },
-      {
-        "year_id": "2023",
-        "age": "23",
-        "g": "15",
-        "fantasy_pos": "RB",
-        "fantasy_points": "170",
-        "vbd": "12",
-        "fantasy_rank_pos": "16",
-        "fantasy_rank_overall": "59",
-        "games": "All 2023 Games"
-      },
-      {
-        "year_id": "2024",
-        "age": "24",
-        "g": "1",
-        "fantasy_pos": "RB",
-        "fantasy_points": "17",
-        "vbd": "6",
-        "fantasy_rank_pos": "8",
-        "fantasy_rank_overall": "25",
-        "games": "All 2024 Games"
-      }
-    ]
-  },
-  {
     "category": "detailed_rushing_and_receiving",
     "rows": [
       {
@@ -163,6 +125,10 @@
   },
   {
     "category": "passing_advanced",
+    "rows": []
+  },
+  {
+    "category": "fantasy",
     "rows": []
   },
   {
@@ -492,11 +458,14 @@
   },
   {
     "name": "Kenneth Walker III",
+    "id": "WalkKe00",
+    "team": "SEA",
     "age": "24",
     "position": "RB",
     "weight": "211",
     "height": "5-9",
     "college": "Wake Forest,Michigan St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WalkKe00.htm"
   }
 ]

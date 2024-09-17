@@ -98,24 +98,27 @@
         "team": "DAL",
         "pos": "C",
         "uniform_number": "67",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "1",
-        "off_pct": "2%",
+        "off_pct": "1%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "11",
-        "st_pct": "31%"
+        "special_teams": "23",
+        "st_pct": "37%"
       }
     ]
   },
   {
     "name": "Brock Hoffman",
+    "id": "HoffBr00",
+    "team": "DAL",
     "age": "25",
     "position": "C",
     "weight": "302",
     "height": "6-4",
     "college": "Coastal Carolina,Virginia Tech",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/H/HoffBr00.htm"
   }
 ]

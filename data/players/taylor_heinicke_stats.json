@@ -1429,11 +1429,14 @@
   },
   {
     "name": "Taylor Heinicke",
+    "id": "HeinTa00",
+    "team": "LAC",
     "age": "31",
     "position": "QB",
     "weight": "210",
     "height": "6-1",
     "college": "Old Dominion",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/H/HeinTa00.htm"
   }
 ]

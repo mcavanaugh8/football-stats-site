@@ -203,11 +203,11 @@
       {
         "year_id": "2024",
         "age": "40",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "74",
+        "fantasy_rank_pos": "88",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -426,7 +426,7 @@
         "team": "CHI",
         "pos": "TE",
         "uniform_number": "84",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "targets": "0",
         "rec": "0",
@@ -1155,7 +1155,7 @@
         "team": "CHI",
         "pos": "TE",
         "uniform_number": "84",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "targets": "",
         "rec": "",
@@ -1937,24 +1937,27 @@
         "team": "CHI",
         "pos": "TE",
         "uniform_number": "84",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "offense": "9",
-        "off_pct": "16%",
+        "offense": "19",
+        "off_pct": "15%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "14%"
+        "special_teams": "7",
+        "st_pct": "12%"
       }
     ]
   },
   {
     "name": "Marcedes Lewis",
+    "id": "LewiMa00",
+    "team": "CHI",
     "age": "40",
     "position": "TE",
     "weight": "267",
     "height": "6-6",
     "college": "UCLA",
-    "experience": "18"
+    "experience": "18",
+    "href": "https://www.pro-football-reference.com/players/L/LewiMa00.htm"
   }
 ]

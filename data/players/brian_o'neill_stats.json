@@ -220,8 +220,8 @@
         "team": "MIN",
         "pos": "T",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -355,24 +355,27 @@
         "team": "MIN",
         "pos": "T",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "1",
-        "offense": "55",
+        "g": "2",
+        "gs": "2",
+        "offense": "109",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "17%"
+        "special_teams": "9",
+        "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Brian O'Neill",
+    "id": "ONeiBr00",
+    "team": "MIN",
     "age": "29",
     "position": "T",
     "weight": "310",
     "height": "6-7",
     "college": "Pittsburgh",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/O/ONeiBr00.htm"
   }
 ]

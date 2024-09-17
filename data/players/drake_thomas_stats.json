@@ -79,7 +79,7 @@
         "team": "SEA",
         "pos": "LB",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "SEA",
         "pos": "LB",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "10",
-        "st_pct": "29%"
+        "special_teams": "28",
+        "st_pct": "43%"
       }
     ]
   },
   {
     "name": "Drake Thomas",
+    "id": "ThomDr00",
+    "team": "SEA",
     "age": "24",
     "position": "LB",
     "weight": "228",
     "height": "",
     "college": "North Carolina St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/T/ThomDr00.htm"
   }
 ]

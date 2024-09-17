@@ -268,8 +268,8 @@
         "team": "NWE",
         "pos": "CB",
         "uniform_number": "31",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -281,9 +281,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "3",
-        "tackles_solo": "1",
-        "tackles_assists": "2",
+        "tackles_combined": "11",
+        "tackles_solo": "7",
+        "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -460,12 +460,12 @@
         "team": "NWE",
         "pos": "CB",
         "uniform_number": "31",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "36",
-        "def_pct": "71%",
+        "defense": "92",
+        "def_pct": "76%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -473,11 +473,14 @@
   },
   {
     "name": "Jonathan Jones",
+    "id": "JoneJo03",
+    "team": "NE",
     "age": "31",
     "position": "CB",
     "weight": "185",
     "height": "5-9",
     "college": "Auburn",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/J/JoneJo03.htm"
   }
 ]

@@ -79,7 +79,7 @@
         "team": "PIT",
         "pos": "OT",
         "uniform_number": "77",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "def_int": "",
         "def_int_yds": "",
@@ -138,24 +138,27 @@
         "team": "PIT",
         "pos": "OT",
         "uniform_number": "77",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "offense": "68",
-        "off_pct": "100%",
+        "offense": "79",
+        "off_pct": "59%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "6",
-        "st_pct": "24%"
+        "special_teams": "9",
+        "st_pct": "18%"
       }
     ]
   },
   {
     "name": "Broderick Jones",
+    "id": "JoneBr09",
+    "team": "PIT",
     "age": "23",
     "position": "OT",
     "weight": "311",
     "height": "6-5",
     "college": "Georgia",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/J/JoneBr09.htm"
   }
 ]

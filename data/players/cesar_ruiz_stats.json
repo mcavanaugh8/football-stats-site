@@ -160,8 +160,8 @@
         "team": "NOR",
         "pos": "OL",
         "uniform_number": "51",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -264,24 +264,27 @@
         "team": "NOR",
         "pos": "OL",
         "uniform_number": "51",
-        "g": "1",
-        "gs": "1",
-        "offense": "60",
-        "off_pct": "91%",
+        "g": "2",
+        "gs": "2",
+        "offense": "119",
+        "off_pct": "95%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "9",
-        "st_pct": "30%"
+        "special_teams": "16",
+        "st_pct": "28%"
       }
     ]
   },
   {
     "name": "Cesar Ruiz",
+    "id": "RuizCe00",
+    "team": "NO",
     "age": "25",
     "position": "OL",
     "weight": "316",
     "height": "6-4",
     "college": "Michigan",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/R/RuizCe00.htm"
   }
 ]

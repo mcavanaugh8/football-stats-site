@@ -65,11 +65,14 @@
   },
   {
     "name": "Jaxson Kirkland",
+    "id": "KirkJa03",
+    "team": "CIN",
     "age": "26",
     "position": "G",
     "weight": "328",
     "height": "",
     "college": "Washington",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/K/KirkJa03.htm"
   }
 ]

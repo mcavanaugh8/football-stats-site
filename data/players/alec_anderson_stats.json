@@ -68,24 +68,27 @@
         "team": "BUF",
         "pos": "T",
         "uniform_number": "70",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "10",
-        "off_pct": "16%",
+        "offense": "23",
+        "off_pct": "22%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "12",
+        "special_teams": "21",
         "st_pct": "44%"
       }
     ]
   },
   {
     "name": "Alec Anderson",
+    "id": "AndeAl01",
+    "team": "BUF",
     "age": "25",
     "position": "T",
     "weight": "305",
     "height": "",
     "college": "UCLA",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AndeAl01.htm"
   }
 ]

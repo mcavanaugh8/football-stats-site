@@ -319,11 +319,14 @@
   },
   {
     "name": "Kaden Elliss",
+    "id": "ElliKa00",
+    "team": "ATL",
     "age": "29",
     "position": "LB",
     "weight": "238",
     "height": "6-2",
     "college": "Idaho",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/E/ElliKa00.htm"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Malik Washington",
+    "id": "WashMa00",
+    "team": "MIA",
     "age": "23",
     "position": "WR",
     "weight": "191",
     "height": "5-8",
     "college": "Northwestern,Virginia",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WashMa00.htm"
   }
 ]

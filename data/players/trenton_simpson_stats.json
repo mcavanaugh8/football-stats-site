@@ -79,8 +79,8 @@
         "team": "BAL",
         "pos": "LB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -92,11 +92,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.5",
-        "tackles_combined": "5",
-        "tackles_solo": "2",
-        "tackles_assists": "3",
+        "tackles_combined": "10",
+        "tackles_solo": "5",
+        "tackles_assists": "5",
         "tackles_loss": "0",
-        "qb_hits": "1",
+        "qb_hits": "2",
         "safety_md": "",
         "av": ""
       }
@@ -138,24 +138,27 @@
         "team": "BAL",
         "pos": "LB",
         "uniform_number": "23",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "38",
-        "def_pct": "70%",
-        "special_teams": "13",
-        "st_pct": "50%"
+        "defense": "101",
+        "def_pct": "86%",
+        "special_teams": "30",
+        "st_pct": "51%"
       }
     ]
   },
   {
     "name": "Trenton Simpson",
+    "id": "SimpTr00",
+    "team": "BAL",
     "age": "23",
     "position": "LB",
     "weight": "235",
     "height": "6-2",
     "college": "Clemson",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/SimpTr00.htm"
   }
 ]

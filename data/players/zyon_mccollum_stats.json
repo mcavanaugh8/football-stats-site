@@ -193,11 +193,14 @@
   },
   {
     "name": "Zyon McCollum",
+    "id": "McCoZy02",
+    "team": "TB",
     "age": "25",
     "position": "CB",
     "weight": "199",
     "height": "6-2",
     "college": "Sam Houston St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/McCoZy02.htm"
   }
 ]

@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "Norell Pollard (IR)",
+    "id": "PollNo00",
+    "team": "WAS",
+    "age": "24",
+    "position": "DT",
+    "weight": "260",
+    "height": "6-1",
+    "college": "Virginia Tech",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/P/PollNo00.htm"
   }
 ]

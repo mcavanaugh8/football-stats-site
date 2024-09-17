@@ -66,26 +66,29 @@
         "year_id": "2024",
         "age": "23",
         "team": "TEN",
-        "pos": "DT",
+        "pos": "NT",
         "uniform_number": "93",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "38",
+        "defense": "77",
         "def_pct": "68%",
-        "special_teams": "4",
-        "st_pct": "14%"
+        "special_teams": "8",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "T'Vondre Sweat",
+    "id": "SweaTV01",
+    "team": "TEN",
     "age": "23",
-    "position": "DT",
+    "position": "NT",
     "weight": "366",
     "height": "6-4",
     "college": "Texas",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/SweaTV01.htm"
   }
 ]

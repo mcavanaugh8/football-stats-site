@@ -274,5 +274,17 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Nate Herbig (IR)",
+    "id": "HerbNa01",
+    "team": "PIT",
+    "age": "26",
+    "position": "G",
+    "weight": "334",
+    "height": "6-4",
+    "college": "Stanford",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/H/HerbNa01.htm"
   }
 ]

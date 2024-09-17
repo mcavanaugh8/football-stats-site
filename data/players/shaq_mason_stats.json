@@ -295,8 +295,8 @@
         "team": "HOU",
         "pos": "G",
         "uniform_number": "69",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -474,24 +474,27 @@
         "team": "HOU",
         "pos": "G",
         "uniform_number": "69",
-        "g": "1",
-        "gs": "1",
-        "offense": "79",
+        "g": "2",
+        "gs": "2",
+        "offense": "141",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "special_teams": "10",
+        "st_pct": "18%"
       }
     ]
   },
   {
     "name": "Shaq Mason",
+    "id": "MasoSh01",
+    "team": "HOU",
     "age": "31",
     "position": "G",
     "weight": "310",
     "height": "6-1",
     "college": "Georgia Tech",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/M/MasoSh01.htm"
   }
 ]

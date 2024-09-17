@@ -511,5 +511,17 @@
         "st_pct": "18%"
       }
     ]
+  },
+  {
+    "name": "Michael Badgley (IR)",
+    "id": "BadgMi00",
+    "team": "DET",
+    "age": "29",
+    "position": "K",
+    "weight": "188",
+    "height": "5-10",
+    "college": "Miami (FL)",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/B/BadgMi00.htm"
   }
 ]

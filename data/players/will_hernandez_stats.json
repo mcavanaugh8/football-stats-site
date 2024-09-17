@@ -214,8 +214,8 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -348,24 +348,15 @@
         "team": "ARI",
         "pos": "OL",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
-        "offense": "61",
-        "off_pct": "100%",
+        "g": "2",
+        "gs": "2",
+        "offense": "121",
+        "off_pct": "95%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "3",
-        "st_pct": "11%"
+        "st_pct": "6%"
       }
     ]
-  },
-  {
-    "name": "Will Hernandez",
-    "age": "29",
-    "position": "OL",
-    "weight": "332",
-    "height": "6-2",
-    "college": "Texas-El Paso",
-    "experience": "6"
   }
 ]

@@ -52,7 +52,7 @@
         "team": "NOR",
         "pos": "DT",
         "uniform_number": "97",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -96,12 +96,12 @@
         "team": "NOR",
         "pos": "DT",
         "uniform_number": "97",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "18",
-        "def_pct": "31%",
+        "defense": "31",
+        "def_pct": "24%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -109,11 +109,14 @@
   },
   {
     "name": "Khristian Boyd",
+    "id": "BoydKh00",
+    "team": "NO",
     "age": "24",
     "position": "DT",
     "weight": "320",
     "height": "6-2",
     "college": "Northern Iowa",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/B/BoydKh00.htm"
   }
 ]

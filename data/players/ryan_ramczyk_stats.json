@@ -168,5 +168,17 @@
         "st_pct": "16%"
       }
     ]
+  },
+  {
+    "name": "Ryan Ramczyk (PUP)",
+    "id": "RamcRy00",
+    "team": "NO",
+    "age": "30",
+    "position": "T",
+    "weight": "314",
+    "height": "6-6",
+    "college": "Wisconsin",
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/R/RamcRy00.htm"
   }
 ]

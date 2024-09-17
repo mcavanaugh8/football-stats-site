@@ -109,11 +109,14 @@
   },
   {
     "name": "Ennis Rakestraw",
+    "id": "RakeEn00",
+    "team": "DET",
     "age": "22",
     "position": "CB",
     "weight": "191",
     "height": "",
     "college": "Missouri",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RakeEn00.htm"
   }
 ]

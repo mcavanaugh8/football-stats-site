@@ -68,24 +68,27 @@
         "team": "DAL",
         "pos": "OT",
         "uniform_number": "60",
-        "g": "1",
-        "gs": "1",
-        "offense": "63",
+        "g": "2",
+        "gs": "2",
+        "offense": "133",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
+        "special_teams": "12",
         "st_pct": "19%"
       }
     ]
   },
   {
     "name": "Tyler Guyton",
+    "id": "GuytTy00",
+    "team": "DAL",
     "age": "23",
     "position": "OT",
     "weight": "322",
     "height": "6-7",
     "college": "TCU,Oklahoma",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/G/GuytTy00.htm"
   }
 ]

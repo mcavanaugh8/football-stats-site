@@ -81,11 +81,14 @@
   },
   {
     "name": "James Williams",
+    "id": "WillJa15",
+    "team": "TEN",
     "age": "21",
     "position": "LB",
     "weight": "231",
     "height": "",
     "college": "Miami (FL)",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WillJa15.htm"
   }
 ]

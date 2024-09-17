@@ -96,11 +96,14 @@
   },
   {
     "name": "Olusegun Oluwatimi",
+    "id": "OluwOl00",
+    "team": "SEA",
     "age": "25",
     "position": "C",
     "weight": "309",
     "height": "",
     "college": "Air Force,Virginia,Michigan",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/O/OluwOl00.htm"
   }
 ]

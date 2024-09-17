@@ -65,11 +65,14 @@
   },
   {
     "name": "Dwight McGlothern",
+    "id": "McGlDw00",
+    "team": "MIN",
     "age": "",
     "position": "CB",
     "weight": "185",
     "height": "",
     "college": "Arkansas",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/M/McGlDw00.htm"
   }
 ]

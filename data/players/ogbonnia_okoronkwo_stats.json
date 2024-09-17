@@ -187,7 +187,7 @@
         "team": "CLE",
         "pos": "DE",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -204,7 +204,7 @@
         "tackles_solo": "",
         "tackles_assists": "",
         "tackles_loss": "",
-        "qb_hits": "",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -306,24 +306,27 @@
         "team": "CLE",
         "pos": "DE",
         "uniform_number": "54",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "18",
-        "def_pct": "29%",
-        "special_teams": "11",
-        "st_pct": "31%"
+        "defense": "38",
+        "def_pct": "31%",
+        "special_teams": "22",
+        "st_pct": "35%"
       }
     ]
   },
   {
     "name": "Ogbonnia Okoronkwo",
+    "id": "OkorOg00",
+    "team": "CLE",
     "age": "29",
     "position": "DE",
     "weight": "250",
     "height": "6-2",
     "college": "Oklahoma",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/O/OkorOg00.htm"
   }
 ]

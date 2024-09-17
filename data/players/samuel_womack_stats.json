@@ -106,8 +106,8 @@
         "team": "IND",
         "pos": "CB",
         "uniform_number": "33",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -119,11 +119,11 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "",
-        "tackles_solo": "",
-        "tackles_assists": "",
-        "tackles_loss": "",
-        "qb_hits": "",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
         "safety_md": "",
         "av": ""
       }
@@ -180,24 +180,27 @@
         "team": "IND",
         "pos": "CB",
         "uniform_number": "33",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "8%"
+        "defense": "20",
+        "def_pct": "13%",
+        "special_teams": "3",
+        "st_pct": "6%"
       }
     ]
   },
   {
     "name": "Samuel Womack",
+    "id": "WomaSa00",
+    "team": "IND",
     "age": "25",
     "position": "CB",
     "weight": "189",
     "height": "5-10",
     "college": "Toledo",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WomaSa00.htm"
   }
 ]

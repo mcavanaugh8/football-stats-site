@@ -68,24 +68,27 @@
         "team": "DET",
         "pos": "LS",
         "uniform_number": "49",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "0",
-        "off_pct": "0%",
+        "offense": "1",
+        "off_pct": "1%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "8",
-        "st_pct": "31%"
+        "special_teams": "15",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Hogan Hatten",
+    "id": "HattHo00",
+    "team": "DET",
     "age": "24",
     "position": "LS",
     "weight": "239",
     "height": "6-2",
     "college": "Idaho",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HattHo00.htm"
   }
 ]

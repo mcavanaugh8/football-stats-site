@@ -78,5 +78,17 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Wesley French (IR)",
+    "id": "FrenWe00",
+    "team": "IND",
+    "age": "28",
+    "position": "C",
+    "weight": "307",
+    "height": "6-4",
+    "college": "Western Michigan",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/F/FrenWe00.htm"
   }
 ]

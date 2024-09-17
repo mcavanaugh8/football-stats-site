@@ -106,8 +106,8 @@
         "team": "CHI",
         "pos": "DB",
         "uniform_number": "9",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -119,10 +119,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "10",
-        "tackles_solo": "5",
-        "tackles_assists": "5",
-        "tackles_loss": "0",
+        "tackles_combined": "17",
+        "tackles_solo": "9",
+        "tackles_assists": "8",
+        "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -180,24 +180,27 @@
         "team": "CHI",
         "pos": "DB",
         "uniform_number": "9",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "64",
+        "defense": "126",
         "def_pct": "100%",
-        "special_teams": "4",
-        "st_pct": "14%"
+        "special_teams": "9",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Jaquan Brisker",
+    "id": "BrisJa01",
+    "team": "CHI",
     "age": "25",
     "position": "DB",
     "weight": "200",
     "height": "6-1",
     "college": "Lackawanna,Penn St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/B/BrisJa01.htm"
   }
 ]

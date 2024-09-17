@@ -138,5 +138,17 @@
         "st_pct": "15%"
       }
     ]
+  },
+  {
+    "name": "Dalton Risner (IRD)",
+    "id": "RisnDa00",
+    "team": "MIN",
+    "age": "29",
+    "position": "G",
+    "weight": "312",
+    "height": "6-5",
+    "college": "Kansas St.",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/R/RisnDa00.htm"
   }
 ]

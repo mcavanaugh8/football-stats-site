@@ -62,5 +62,17 @@
   {
     "category": "snap_counts",
     "rows": []
+  },
+  {
+    "name": "David White (IR)",
+    "id": "WhitDa06",
+    "team": "JAX",
+    "age": "",
+    "position": "WR",
+    "weight": "201",
+    "height": "6-2",
+    "college": "Valdosta St.,Western Carolina",
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WhitDa06.htm"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Kris Abrams-Draine",
+    "id": "AbraKr00",
+    "team": "DEN",
     "age": "23",
     "position": "CB",
     "weight": "178",
     "height": "",
     "college": "Missouri",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/A/AbraKr00.htm"
   }
 ]

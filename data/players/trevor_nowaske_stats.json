@@ -109,11 +109,14 @@
   },
   {
     "name": "Trevor Nowaske",
+    "id": "NowaTr00",
+    "team": "DET",
     "age": "26",
     "position": "LB",
     "weight": "235",
     "height": "6-3",
     "college": "Saginaw Valley St.",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/N/NowaTr00.htm"
   }
 ]

@@ -65,11 +65,14 @@
   },
   {
     "name": "Frank Crum",
+    "id": "CrumFr00",
+    "team": "DEN",
     "age": "",
     "position": "OT",
     "weight": "315",
     "height": "",
     "college": "Wyoming",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/C/CrumFr00.htm"
   }
 ]

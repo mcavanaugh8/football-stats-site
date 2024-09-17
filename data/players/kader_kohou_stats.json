@@ -106,7 +106,7 @@
         "team": "MIA",
         "pos": "CB",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "def_int": "",
         "def_int_yds": "",
@@ -119,8 +119,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "4",
-        "tackles_solo": "4",
+        "tackles_combined": "6",
+        "tackles_solo": "6",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -180,12 +180,12 @@
         "team": "MIA",
         "pos": "CB",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "47",
-        "def_pct": "89%",
+        "defense": "74",
+        "def_pct": "76%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -193,11 +193,14 @@
   },
   {
     "name": "Kader Kohou",
+    "id": "KohoKa00",
+    "team": "MIA",
     "age": "26",
     "position": "CB",
     "weight": "197",
     "height": "5-10",
     "college": "Texas A&M-Commerce",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/K/KohoKa00.htm"
   }
 ]

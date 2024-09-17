@@ -5,13 +5,52 @@
       {
         "year_id": "2024",
         "age": "24",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "TE",
-        "fantasy_points": "",
+        "fantasy_points": "1",
         "vbd": "",
-        "fantasy_rank_pos": "91",
+        "fantasy_rank_pos": "59",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
+      }
+    ]
+  },
+  {
+    "category": "detailed_receiving_and_rushing",
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "KAN",
+        "pos": "TE",
+        "uniform_number": "12",
+        "g": "2",
+        "gs": "1",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "7",
+        "rec_first_down": "",
+        "rec_air_yds": "4",
+        "rec_air_yds_per_rec": "4.0",
+        "rec_yac": "3",
+        "rec_yac_per_rec": "3.0",
+        "rec_adot": "4.0",
+        "rec_broken_tackles": "0",
+        "rec_broken_tackles_per_rec": "",
+        "rec_drops": "0",
+        "rec_drop_pct": "0.0",
+        "rec_target_int": "0",
+        "rec_pass_rating": "95.8",
+        "rush_att": "0",
+        "rush_yds": "0",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_yds_before_contact": "0",
+        "rush_yds_bc_per_rush": "",
+        "rush_yac": "0",
+        "rush_yac_per_rush": "",
+        "rush_broken_tackles": "0",
+        "rush_broken_tackles_per_rush": ""
       }
     ]
   },
@@ -40,12 +79,45 @@
     "rows": []
   },
   {
-    "category": "detailed_receiving_and_rushing",
-    "rows": []
-  },
-  {
     "category": "receiving_and_rushing",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "KAN",
+        "pos": "TE",
+        "uniform_number": "12",
+        "g": "2",
+        "gs": "1",
+        "targets": "1",
+        "rec": "1",
+        "rec_yds": "7",
+        "rec_yds_per_rec": "7.0",
+        "rec_td": "0",
+        "rec_first_down": "",
+        "rec_success": "0.0",
+        "rec_long": "7",
+        "rec_per_g": "0.5",
+        "rec_yds_per_g": "3.5",
+        "catch_pct": "100.0%",
+        "rec_yds_per_tgt": "7.0",
+        "rush_att": "",
+        "rush_yds": "",
+        "rush_td": "0",
+        "rush_first_down": "",
+        "rush_success": "",
+        "rush_long": "",
+        "rush_yds_per_att": "",
+        "rush_yds_per_g": "",
+        "rush_att_per_g": "",
+        "touches": "1",
+        "yds_per_touch": "7.0",
+        "yds_from_scrimmage": "7",
+        "rush_receive_td": "0",
+        "fumbles": "0",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "rushing_and_receiving",
@@ -80,10 +152,10 @@
         "team": "KAN",
         "pos": "TE",
         "uniform_number": "12",
-        "g": "1",
-        "gs": "0",
-        "offense": "11",
-        "off_pct": "20%",
+        "g": "2",
+        "gs": "1",
+        "offense": "23",
+        "off_pct": "19%",
         "defense": "0",
         "def_pct": "0%",
         "special_teams": "0",
@@ -93,11 +165,14 @@
   },
   {
     "name": "Jared Wiley",
+    "id": "WileJa00",
+    "team": "KC",
     "age": "24",
     "position": "TE",
     "weight": "249",
     "height": "",
     "college": "Texas,TCU",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WileJa00.htm"
   }
 ]

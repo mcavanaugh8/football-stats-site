@@ -81,11 +81,14 @@
   },
   {
     "name": "Bill Murray",
+    "id": "MurrBi00",
+    "team": "CHI",
     "age": "27",
     "position": "OL",
     "weight": "307",
     "height": "6-4",
     "college": "William & Mary",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/MurrBi00.htm"
   }
 ]

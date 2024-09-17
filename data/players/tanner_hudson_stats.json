@@ -64,7 +64,7 @@
         "fantasy_pos": "TE",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "100",
+        "fantasy_rank_pos": "106",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -296,7 +296,6 @@
         "pass_td": "0",
         "pass_int": "0",
         "pass_first_down": "0",
-        "pass_long": "0",
         "pass_yds_per_g": "0.0",
         "qbr": "0.0",
         "pass_sacked": "1",
@@ -701,11 +700,14 @@
   },
   {
     "name": "Tanner Hudson",
+    "id": "HudsTa00",
+    "team": "CIN",
     "age": "30",
     "position": "TE",
     "weight": "239",
     "height": "6-5",
     "college": "Southern Arkansas",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/H/HudsTa00.htm"
   }
 ]

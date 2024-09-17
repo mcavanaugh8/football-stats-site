@@ -98,24 +98,27 @@
         "team": "GNB",
         "pos": "T",
         "uniform_number": "63",
-        "g": "1",
-        "gs": "1",
-        "offense": "67",
+        "g": "2",
+        "gs": "2",
+        "offense": "137",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
+        "special_teams": "12",
         "st_pct": "23%"
       }
     ]
   },
   {
     "name": "Rasheed Walker",
+    "id": "WalkRa00",
+    "team": "GB",
     "age": "24",
     "position": "T",
     "weight": "324",
     "height": "6-6",
     "college": "Penn St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WalkRa00.htm"
   }
 ]

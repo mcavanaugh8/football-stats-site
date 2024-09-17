@@ -79,8 +79,8 @@
         "team": "JAX",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -92,8 +92,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "3",
-        "tackles_solo": "3",
+        "tackles_combined": "4",
+        "tackles_solo": "4",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -138,24 +138,27 @@
         "team": "JAX",
         "pos": "LB",
         "uniform_number": "56",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "16",
-        "def_pct": "23%",
-        "special_teams": "16",
-        "st_pct": "64%"
+        "defense": "29",
+        "def_pct": "20%",
+        "special_teams": "35",
+        "st_pct": "67%"
       }
     ]
   },
   {
     "name": "Yasir Abdullah",
+    "id": "AbduYa00",
+    "team": "JAX",
     "age": "24",
     "position": "LB",
     "weight": "240",
     "height": "",
     "college": "Louisville",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AbduYa00.htm"
   }
 ]

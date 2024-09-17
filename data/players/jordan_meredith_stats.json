@@ -106,7 +106,7 @@
         "team": "LVR",
         "pos": "G",
         "uniform_number": "61",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -180,24 +180,27 @@
         "team": "LVR",
         "pos": "G",
         "uniform_number": "61",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "11%"
+        "special_teams": "9",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Jordan Meredith",
+    "id": "MereJo00",
+    "team": "LV",
     "age": "26",
     "position": "G",
     "weight": "300",
     "height": "6-2",
     "college": "Western Kentucky",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/MereJo00.htm"
   }
 ]

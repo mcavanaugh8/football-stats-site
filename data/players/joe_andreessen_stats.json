@@ -65,11 +65,14 @@
   },
   {
     "name": "Joe Andreessen",
+    "id": "AndrJo02",
+    "team": "BUF",
     "age": "24",
     "position": "LB",
     "weight": "232",
     "height": "6-1",
     "college": "Buffalo",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/A/AndrJo02.htm"
   }
 ]

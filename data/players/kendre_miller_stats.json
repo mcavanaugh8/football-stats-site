@@ -189,5 +189,17 @@
         "st_pct": "2%"
       }
     ]
+  },
+  {
+    "name": "Kendre Miller (IR)",
+    "id": "MillKe01",
+    "team": "NO",
+    "age": "22",
+    "position": "RB",
+    "weight": "220",
+    "height": "",
+    "college": "TCU",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MillKe01.htm"
   }
 ]

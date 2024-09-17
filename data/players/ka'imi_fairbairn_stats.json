@@ -375,7 +375,7 @@
         "team": "HOU",
         "pos": "K",
         "uniform_number": "15",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -388,13 +388,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "3",
-        "fga": "3",
+        "xpm": "3",
+        "xpa": "3",
+        "fgm": "7",
+        "fga": "7",
         "safety_md": "",
-        "scoring": "11",
-        "points_per_g": "11.0"
+        "scoring": "24",
+        "points_per_g": "12.0"
       }
     ]
   },
@@ -512,24 +512,27 @@
         "team": "HOU",
         "pos": "K",
         "uniform_number": "15",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "12",
-        "st_pct": "48%"
+        "special_teams": "23",
+        "st_pct": "42%"
       }
     ]
   },
   {
     "name": "Ka'imi Fairbairn",
+    "id": "FairKa01",
+    "team": "HOU",
     "age": "30",
     "position": "K",
     "weight": "183",
     "height": "6-0",
     "college": "UCLA",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/F/FairKa01.htm"
   }
 ]

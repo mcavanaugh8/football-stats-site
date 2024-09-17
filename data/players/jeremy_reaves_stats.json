@@ -220,7 +220,7 @@
         "team": "WAS",
         "pos": "S",
         "uniform_number": "39",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -355,24 +355,27 @@
         "team": "WAS",
         "pos": "S",
         "uniform_number": "39",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "16",
-        "st_pct": "59%"
+        "special_teams": "28",
+        "st_pct": "58%"
       }
     ]
   },
   {
     "name": "Jeremy Reaves",
+    "id": "ReavJe00",
+    "team": "WAS",
     "age": "28",
     "position": "S",
     "weight": "200",
     "height": "5-11",
     "college": "South Alabama",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/R/ReavJe00.htm"
   }
 ]

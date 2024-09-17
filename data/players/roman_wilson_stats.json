@@ -65,11 +65,14 @@
   },
   {
     "name": "Roman Wilson",
+    "id": "WilsRo02",
+    "team": "PIT",
     "age": "23",
     "position": "WR",
     "weight": "186",
     "height": "5-10",
     "college": "Michigan",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WilsRo02.htm"
   }
 ]

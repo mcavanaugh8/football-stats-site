@@ -91,7 +91,7 @@
         "team": "SFO",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -104,13 +104,13 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "6",
-        "fga": "6",
+        "xpm": "4",
+        "xpa": "4",
+        "fgm": "7",
+        "fga": "7",
         "safety_md": "",
-        "scoring": "20",
-        "points_per_g": "20.0"
+        "scoring": "25",
+        "points_per_g": "12.5"
       }
     ]
   },
@@ -138,24 +138,27 @@
         "team": "SFO",
         "pos": "K",
         "uniform_number": "4",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "65%"
+        "special_teams": "23",
+        "st_pct": "47%"
       }
     ]
   },
   {
     "name": "Jake Moody",
+    "id": "MoodJa00",
+    "team": "SF",
     "age": "25",
     "position": "K",
     "weight": "210",
     "height": "",
     "college": "Michigan",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/M/MoodJa00.htm"
   }
 ]

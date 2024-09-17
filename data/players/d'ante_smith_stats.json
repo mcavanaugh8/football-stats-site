@@ -93,5 +93,17 @@
         "st_pct": "12%"
       }
     ]
+  },
+  {
+    "name": "D'Ante Smith (IR)",
+    "id": "SmitDA03",
+    "team": "CIN",
+    "age": "26",
+    "position": "OT",
+    "weight": "309",
+    "height": "6-5",
+    "college": "East Carolina",
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/S/SmitDA03.htm"
   }
 ]

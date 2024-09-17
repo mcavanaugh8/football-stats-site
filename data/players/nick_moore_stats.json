@@ -136,7 +136,7 @@
         "team": "BAL",
         "pos": "LS",
         "uniform_number": "46",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -226,24 +226,27 @@
         "team": "BAL",
         "pos": "LS",
         "uniform_number": "46",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "27%"
+        "special_teams": "17",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Nick Moore",
+    "id": "MoorNi00",
+    "team": "BAL",
     "age": "32",
     "position": "LS",
     "weight": "260",
     "height": "6-2",
     "college": "Georgia",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/M/MoorNi00.htm"
   }
 ]

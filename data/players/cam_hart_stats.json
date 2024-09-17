@@ -45,7 +45,35 @@
   },
   {
     "category": "defense",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "LAC",
+        "pos": "CB",
+        "uniform_number": "20",
+        "g": "2",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "1",
+        "tackles_solo": "1",
+        "tackles_assists": "0",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "punting",
@@ -68,24 +96,27 @@
         "team": "LAC",
         "pos": "CB",
         "uniform_number": "20",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "15",
-        "st_pct": "54%"
+        "defense": "4",
+        "def_pct": "4%",
+        "special_teams": "31",
+        "st_pct": "60%"
       }
     ]
   },
   {
     "name": "Cam Hart",
+    "id": "HartCa00",
+    "team": "LAC",
     "age": "24",
     "position": "CB",
     "weight": "207",
     "height": "6-2",
     "college": "Notre Dame",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/H/HartCa00.htm"
   }
 ]

@@ -68,24 +68,27 @@
         "team": "BAL",
         "pos": "S",
         "uniform_number": "28",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "20",
-        "st_pct": "77%"
+        "special_teams": "47",
+        "st_pct": "80%"
       }
     ]
   },
   {
     "name": "Sanoussi Kane",
+    "id": "KaneSa00",
+    "team": "BAL",
     "age": "23",
     "position": "S",
     "weight": "210",
     "height": "5-11",
     "college": "Purdue",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/K/KaneSa00.htm"
   }
 ]

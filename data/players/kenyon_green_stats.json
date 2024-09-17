@@ -79,8 +79,8 @@
         "team": "HOU",
         "pos": "G",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -138,24 +138,27 @@
         "team": "HOU",
         "pos": "G",
         "uniform_number": "76",
-        "g": "1",
-        "gs": "1",
-        "offense": "79",
+        "g": "2",
+        "gs": "2",
+        "offense": "141",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "20%"
+        "special_teams": "10",
+        "st_pct": "18%"
       }
     ]
   },
   {
     "name": "Kenyon Green",
+    "id": "GreeKe03",
+    "team": "HOU",
     "age": "23",
     "position": "G",
     "weight": "325",
     "height": "6-4",
     "college": "Texas A&M",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/G/GreeKe03.htm"
   }
 ]

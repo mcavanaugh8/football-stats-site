@@ -65,11 +65,14 @@
   },
   {
     "name": "Edefuan Ulofoshio",
+    "id": "UlofEd00",
+    "team": "BUF",
     "age": "24",
     "position": "LB",
     "weight": "239",
     "height": "",
     "college": "Washington",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/U/UlofEd00.htm"
   }
 ]

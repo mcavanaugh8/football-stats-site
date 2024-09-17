@@ -162,7 +162,7 @@
         "year_id": "2024",
         "age": "26",
         "team": "CAR",
-        "pos": "DT",
+        "pos": "DE",
         "uniform_number": "95",
         "g": "1",
         "gs": "1",
@@ -267,7 +267,7 @@
         "year_id": "2024",
         "age": "26",
         "team": "CAR",
-        "pos": "DT",
+        "pos": "DE",
         "uniform_number": "95",
         "g": "1",
         "gs": "1",
@@ -279,5 +279,17 @@
         "st_pct": "27%"
       }
     ]
+  },
+  {
+    "name": "Derrick Brown (IR)",
+    "id": "BrowDe05",
+    "team": "CAR",
+    "age": "26",
+    "position": "DE",
+    "weight": "320",
+    "height": "6-5",
+    "college": "Auburn",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/B/BrowDe05.htm"
   }
 ]

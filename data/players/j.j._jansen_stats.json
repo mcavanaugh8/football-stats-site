@@ -472,7 +472,7 @@
         "team": "CAR",
         "pos": "LS",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -697,24 +697,27 @@
         "team": "CAR",
         "pos": "LS",
         "uniform_number": "44",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
-        "st_pct": "23%"
+        "special_teams": "15",
+        "st_pct": "28%"
       }
     ]
   },
   {
     "name": "J.J. Jansen",
+    "id": "JansJ.00",
+    "team": "CAR",
     "age": "38",
     "position": "LS",
     "weight": "235",
     "height": "6-2",
     "college": "Notre Dame",
-    "experience": "15"
+    "experience": "15",
+    "href": "https://www.pro-football-reference.com/players/J/JansJ.00.htm"
   }
 ]

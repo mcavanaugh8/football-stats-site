@@ -160,8 +160,8 @@
         "team": "DEN",
         "pos": "LB",
         "uniform_number": "57",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -173,8 +173,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "3",
-        "tackles_solo": "1",
+        "tackles_combined": "5",
+        "tackles_solo": "3",
         "tackles_assists": "2",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -264,24 +264,27 @@
         "team": "DEN",
         "pos": "LB",
         "uniform_number": "57",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "19",
-        "def_pct": "28%",
-        "special_teams": "18",
-        "st_pct": "53%"
+        "defense": "30",
+        "def_pct": "23%",
+        "special_teams": "32",
+        "st_pct": "54%"
       }
     ]
   },
   {
     "name": "Kristian Welch",
+    "id": "WelcKr00",
+    "team": "DEN",
     "age": "26",
     "position": "LB",
     "weight": "240",
     "height": "6-3",
     "college": "Iowa",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/W/WelcKr00.htm"
   }
 ]

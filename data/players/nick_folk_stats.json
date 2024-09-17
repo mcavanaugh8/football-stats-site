@@ -623,7 +623,7 @@
         "team": "TEN",
         "pos": "K",
         "uniform_number": "6",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "rushtd": "",
         "rectd": "",
@@ -636,12 +636,12 @@
         "two_pt_md": "",
         "two_pt_att": "",
         "def_two_pt": "0",
-        "xpm": "2",
-        "xpa": "2",
-        "fgm": "1",
-        "fga": "1",
+        "xpm": "4",
+        "xpa": "4",
+        "fgm": "2",
+        "fga": "2",
         "safety_md": "",
-        "scoring": "5",
+        "scoring": "10",
         "points_per_g": "5.0"
       }
     ]
@@ -820,24 +820,27 @@
         "team": "TEN",
         "pos": "K",
         "uniform_number": "6",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "7",
+        "special_teams": "13",
         "st_pct": "24%"
       }
     ]
   },
   {
     "name": "Nick Folk",
+    "id": "FolkNi20",
+    "team": "TEN",
     "age": "40",
     "position": "K",
     "weight": "225",
     "height": "6-1",
     "college": "Arizona",
-    "experience": "17"
+    "experience": "17",
+    "href": "https://www.pro-football-reference.com/players/F/FolkNi20.htm"
   }
 ]

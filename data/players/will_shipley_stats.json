@@ -5,11 +5,11 @@
       {
         "year_id": "2024",
         "age": "22",
-        "g": "1",
+        "g": "2",
         "fantasy_pos": "RB",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "95",
+        "fantasy_rank_pos": "109",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -64,7 +64,7 @@
         "team": "PHI",
         "pos": "RB",
         "uniform_number": "28",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -77,13 +77,12 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
+        "tackles_combined": "2",
+        "tackles_solo": "2",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
-        "safety_md": "",
-        "av": ""
+        "safety_md": ""
       }
     ]
   },
@@ -93,7 +92,29 @@
   },
   {
     "category": "returns",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "22",
+        "team": "PHI",
+        "pos": "RB",
+        "uniform_number": "28",
+        "g": "2",
+        "gs": "0",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "1",
+        "kick_ret_yds": "27",
+        "kick_ret_td": "0",
+        "kick_ret_long": "27",
+        "kick_ret_yds_per_ret": "27.0",
+        "all_purpose_yds": "27",
+        "av": ""
+      }
+    ]
   },
   {
     "category": "scoring",
@@ -108,24 +129,27 @@
         "team": "PHI",
         "pos": "RB",
         "uniform_number": "28",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "4",
-        "off_pct": "5%",
+        "off_pct": "3%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "55%"
+        "special_teams": "32",
+        "st_pct": "60%"
       }
     ]
   },
   {
     "name": "Will Shipley",
+    "id": "ShipWi00",
+    "team": "PHI",
     "age": "22",
     "position": "RB",
     "weight": "209",
     "height": "",
     "college": "Clemson",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/S/ShipWi00.htm"
   }
 ]

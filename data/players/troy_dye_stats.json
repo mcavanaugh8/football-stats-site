@@ -160,7 +160,7 @@
         "team": "LAC",
         "pos": "LB",
         "uniform_number": "43",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -264,24 +264,27 @@
         "team": "LAC",
         "pos": "LB",
         "uniform_number": "43",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "0",
-        "def_pct": "0%",
-        "special_teams": "22",
-        "st_pct": "79%"
+        "defense": "5",
+        "def_pct": "5%",
+        "special_teams": "40",
+        "st_pct": "77%"
       }
     ]
   },
   {
     "name": "Troy Dye",
+    "id": "DyexTr00",
+    "team": "LAC",
     "age": "28",
     "position": "LB",
     "weight": "231",
     "height": "6-3",
     "college": "Oregon",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/D/DyexTr00.htm"
   }
 ]

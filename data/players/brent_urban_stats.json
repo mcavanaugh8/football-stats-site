@@ -342,6 +342,33 @@
         "qb_hits": "6",
         "safety_md": "",
         "av": "3"
+      },
+      {
+        "year_id": "2024",
+        "age": "33",
+        "team": "BAL",
+        "pos": "DE",
+        "uniform_number": "97",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "3",
+        "tackles_solo": "2",
+        "tackles_assists": "1",
+        "tackles_loss": "0",
+        "qb_hits": "0",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -524,16 +551,34 @@
         "def_pct": "24%",
         "special_teams": "79",
         "st_pct": "17%"
+      },
+      {
+        "year_id": "2024",
+        "age": "33",
+        "team": "BAL",
+        "pos": "DE",
+        "uniform_number": "97",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "9",
+        "def_pct": "14%",
+        "special_teams": "7",
+        "st_pct": "21%"
       }
     ]
   },
   {
     "name": "Brent Urban",
+    "id": "UrbaBr00",
+    "team": "BAL",
     "age": "33",
     "position": "DE",
     "weight": "309",
     "height": "6-7",
     "college": "Virginia",
-    "experience": "9"
+    "experience": "9",
+    "href": "https://www.pro-football-reference.com/players/U/UrbaBr00.htm"
   }
 ]

@@ -424,11 +424,14 @@
   },
   {
     "name": "Antonio Hamilton",
+    "id": "HamiAn01",
+    "team": "ATL",
     "age": "31",
     "position": "CB",
     "weight": "188",
     "height": "6-0",
     "college": "South Carolina St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/H/HamiAn01.htm"
   }
 ]

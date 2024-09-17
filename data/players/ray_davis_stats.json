@@ -1,21 +1,5 @@
 [
   {
-    "category": "fantasy",
-    "rows": [
-      {
-        "year_id": "2024",
-        "age": "25",
-        "g": "1",
-        "fantasy_pos": "RB",
-        "fantasy_points": "3",
-        "vbd": "",
-        "fantasy_rank_pos": "46",
-        "fantasy_rank_overall": "",
-        "games": "All 2024 Games"
-      }
-    ]
-  },
-  {
     "category": "detailed_rushing_and_receiving",
     "rows": [
       {
@@ -24,32 +8,32 @@
         "team": "BUF",
         "pos": "RB",
         "uniform_number": "22",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "rush_att": "3",
-        "rush_yds": "13",
-        "rush_first_down": "1",
-        "rush_yds_before_contact": "13",
-        "rush_yds_bc_per_rush": "4.3",
-        "rush_yac": "0",
-        "rush_yac_per_rush": "0.0",
+        "rush_att": "12",
+        "rush_yds": "42",
+        "rush_first_down": "3",
+        "rush_yds_before_contact": "34",
+        "rush_yds_bc_per_rush": "2.8",
+        "rush_yac": "8",
+        "rush_yac_per_rush": "0.7",
         "rush_broken_tackles": "0",
         "rush_broken_tackles_per_rush": "",
-        "targets": "1",
-        "rec": "1",
-        "rec_yds": "14",
+        "targets": "2",
+        "rec": "2",
+        "rec_yds": "13",
         "rec_first_down": "1",
-        "rec_air_yds": "2",
-        "rec_air_yds_per_rec": "2.0",
-        "rec_yac": "12",
-        "rec_yac_per_rec": "12.0",
-        "rec_adot": "2.0",
+        "rec_air_yds": "-7",
+        "rec_air_yds_per_rec": "-3.5",
+        "rec_yac": "20",
+        "rec_yac_per_rec": "10.0",
+        "rec_adot": "-3.5",
         "rec_broken_tackles": "0",
         "rec_broken_tackles_per_rec": "",
         "rec_drops": "0",
         "rec_drop_pct": "0.0",
         "rec_target_int": "0",
-        "rec_pass_rating": "118.7"
+        "rec_pass_rating": "93.7"
       }
     ]
   },
@@ -78,6 +62,10 @@
     "rows": []
   },
   {
+    "category": "fantasy",
+    "rows": []
+  },
+  {
     "category": "detailed_receiving_and_rushing",
     "rows": []
   },
@@ -94,32 +82,32 @@
         "team": "BUF",
         "pos": "RB",
         "uniform_number": "22",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "rush_att": "3",
-        "rush_yds": "13",
+        "rush_att": "12",
+        "rush_yds": "42",
         "rush_td": "0",
-        "rush_first_down": "1",
+        "rush_first_down": "3",
         "rush_success": "33.3",
         "rush_long": "13",
-        "rush_yds_per_att": "4.3",
-        "rush_yds_per_g": "13.0",
-        "rush_att_per_g": "3.0",
-        "targets": "1",
-        "rec": "1",
-        "rec_yds": "14",
-        "rec_yds_per_rec": "14.0",
+        "rush_yds_per_att": "3.5",
+        "rush_yds_per_g": "21.0",
+        "rush_att_per_g": "6.0",
+        "targets": "2",
+        "rec": "2",
+        "rec_yds": "13",
+        "rec_yds_per_rec": "6.5",
         "rec_td": "0",
         "rec_first_down": "1",
-        "rec_success": "100.0",
+        "rec_success": "50.0",
         "rec_long": "14",
         "rec_per_g": "1.0",
-        "rec_yds_per_g": "14.0",
+        "rec_yds_per_g": "6.5",
         "catch_pct": "100.0%",
-        "rec_yds_per_tgt": "14.0",
-        "touches": "4",
-        "yds_per_touch": "6.8",
-        "yds_from_scrimmage": "27",
+        "rec_yds_per_tgt": "6.5",
+        "touches": "14",
+        "yds_per_touch": "3.9",
+        "yds_from_scrimmage": "55",
         "rush_receive_td": "0",
         "fumbles": "0",
         "av": ""
@@ -136,7 +124,28 @@
   },
   {
     "category": "returns",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "25",
+        "team": "BUF",
+        "pos": "RB",
+        "uniform_number": "22",
+        "g": "2",
+        "gs": "0",
+        "punt_ret": "",
+        "punt_ret_yds": "",
+        "punt_ret_td": "0",
+        "punt_ret_long": "",
+        "punt_ret_yds_per_ret": "",
+        "kick_ret": "1",
+        "kick_ret_yds": "25",
+        "kick_ret_td": "0",
+        "kick_ret_long": "25",
+        "kick_ret_yds_per_ret": "25.0",
+        "all_purpose_yds": "80"
+      }
+    ]
   },
   {
     "category": "scoring",
@@ -151,24 +160,27 @@
         "team": "BUF",
         "pos": "RB",
         "uniform_number": "22",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "offense": "6",
-        "off_pct": "10%",
+        "offense": "20",
+        "off_pct": "19%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "5",
-        "st_pct": "19%"
+        "special_teams": "8",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Ray Davis",
+    "id": "DaviRa04",
+    "team": "BUF",
     "age": "25",
     "position": "RB",
     "weight": "220",
     "height": "",
     "college": "Temple,Vanderbilt,Kentucky",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/D/DaviRa04.htm"
   }
 ]

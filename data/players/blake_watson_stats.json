@@ -65,11 +65,14 @@
   },
   {
     "name": "Blake Watson",
+    "id": "WatsBl00",
+    "team": "DEN",
     "age": "25",
     "position": "RB",
     "weight": "195",
     "height": "",
     "college": "Old Dominion,Memphis",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/W/WatsBl00.htm"
   }
 ]

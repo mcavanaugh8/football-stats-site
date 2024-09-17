@@ -96,11 +96,14 @@
   },
   {
     "name": "Matthew Bergeron",
+    "id": "BergMa00",
+    "team": "ATL",
     "age": "24",
     "position": "OL",
     "weight": "323",
     "height": "",
     "college": "Syracuse",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/B/BergMa00.htm"
   }
 ]

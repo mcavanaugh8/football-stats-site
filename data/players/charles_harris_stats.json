@@ -234,6 +234,33 @@
         "qb_hits": "5",
         "safety_md": "",
         "av": "2"
+      },
+      {
+        "year_id": "2024",
+        "age": "29",
+        "team": "CAR",
+        "pos": "OLB",
+        "uniform_number": "",
+        "g": "1",
+        "gs": "0",
+        "def_int": "",
+        "def_int_yds": "",
+        "def_int_td": "0",
+        "def_int_long": "",
+        "pass_defended": "",
+        "fumbles_forced": "0",
+        "fumbles": "0",
+        "fumbles_rec": "0",
+        "fumbles_rec_yds": "0",
+        "fumbles_rec_td": "0",
+        "sacks": "0.0",
+        "tackles_combined": "",
+        "tackles_solo": "",
+        "tackles_assists": "",
+        "tackles_loss": "",
+        "qb_hits": "",
+        "safety_md": "",
+        "av": ""
       }
     ]
   },
@@ -356,16 +383,34 @@
         "def_pct": "35%",
         "special_teams": "55",
         "st_pct": "16%"
+      },
+      {
+        "year_id": "2024",
+        "age": "29",
+        "team": "CAR",
+        "pos": "OLB",
+        "uniform_number": "",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "34",
+        "def_pct": "49%",
+        "special_teams": "7",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Charles Harris",
+    "id": "HarrCh03",
+    "team": "CAR",
     "age": "29",
-    "position": "DE",
+    "position": "OLB",
     "weight": "250",
     "height": "6-3",
     "college": "Missouri",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/H/HarrCh03.htm"
   }
 ]

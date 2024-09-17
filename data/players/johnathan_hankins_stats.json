@@ -403,8 +403,8 @@
         "team": "SEA",
         "pos": "DT",
         "uniform_number": "97",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -416,10 +416,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "1",
+        "tackles_combined": "5",
+        "tackles_solo": "4",
         "tackles_assists": "1",
-        "tackles_loss": "1",
+        "tackles_loss": "2",
         "qb_hits": "0",
         "safety_md": "",
         "av": ""
@@ -642,24 +642,27 @@
         "team": "SEA",
         "pos": "DT",
         "uniform_number": "97",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "17",
-        "def_pct": "25%",
+        "defense": "44",
+        "def_pct": "32%",
         "special_teams": "4",
-        "st_pct": "12%"
+        "st_pct": "6%"
       }
     ]
   },
   {
     "name": "Johnathan Hankins",
+    "id": "HankJo00",
+    "team": "SEA",
     "age": "32",
     "position": "DT",
     "weight": "325",
     "height": "6-3",
     "college": "Ohio St.",
-    "experience": "11"
+    "experience": "11",
+    "href": "https://www.pro-football-reference.com/players/H/HankJo00.htm"
   }
 ]

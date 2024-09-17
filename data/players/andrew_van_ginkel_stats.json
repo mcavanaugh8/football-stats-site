@@ -187,24 +187,24 @@
         "team": "MIN",
         "pos": "OLB",
         "uniform_number": "43",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "1",
         "def_int_yds": "10",
         "def_int_td": "1",
         "def_int_long": "10",
-        "pass_defended": "1",
+        "pass_defended": "2",
         "fumbles_forced": "0",
         "fumbles": "0",
         "fumbles_rec": "0",
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
-        "sacks": "1.0",
-        "tackles_combined": "4",
-        "tackles_solo": "2",
+        "sacks": "2.0",
+        "tackles_combined": "8",
+        "tackles_solo": "6",
         "tackles_assists": "2",
-        "tackles_loss": "0",
-        "qb_hits": "2",
+        "tackles_loss": "2",
+        "qb_hits": "3",
         "safety_md": "",
         "av": ""
       }
@@ -308,8 +308,8 @@
         "team": "MIN",
         "pos": "OLB",
         "uniform_number": "43",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "rushtd": "",
         "rectd": "",
         "prtd": "",
@@ -327,7 +327,7 @@
         "fga": "",
         "safety_md": "",
         "scoring": "6",
-        "points_per_g": "6.0"
+        "points_per_g": "3.0"
       }
     ]
   },
@@ -415,12 +415,12 @@
         "team": "MIN",
         "pos": "OLB",
         "uniform_number": "43",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "41",
-        "def_pct": "58%",
+        "defense": "98",
+        "def_pct": "70%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -428,11 +428,14 @@
   },
   {
     "name": "Andrew Van Ginkel",
+    "id": "VanGAn00",
+    "team": "MIN",
     "age": "29",
     "position": "OLB",
     "weight": "242",
     "height": "6-4",
     "college": "Wisconsin",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/V/VanGAn00.htm"
   }
 ]

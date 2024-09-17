@@ -652,11 +652,14 @@
   },
   {
     "name": "Jack Conklin",
+    "id": "ConkJa00",
+    "team": "CLE",
     "age": "30",
     "position": "T",
     "weight": "308",
     "height": "6-6",
     "college": "Michigan St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/C/ConkJa00.htm"
   }
 ]

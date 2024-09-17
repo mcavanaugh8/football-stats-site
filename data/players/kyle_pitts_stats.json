@@ -548,11 +548,14 @@
   },
   {
     "name": "Kyle Pitts",
+    "id": "PittKy00",
+    "team": "ATL",
     "age": "24",
     "position": "TE",
     "weight": "246",
     "height": "6-6",
     "college": "Florida",
-    "experience": "3"
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/P/PittKy00.htm"
   }
 ]

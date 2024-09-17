@@ -445,11 +445,14 @@
   },
   {
     "name": "Terrell Edmunds",
+    "id": "EdmuTe00",
+    "team": "PIT",
     "age": "27",
     "position": "S",
     "weight": "217",
     "height": "6-1",
     "college": "Virginia Tech",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/E/EdmuTe00.htm"
   }
 ]

@@ -546,5 +546,17 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Juwann Winfree (IR)",
+    "id": "WinfJu00",
+    "team": "IND",
+    "age": "28",
+    "position": "WR",
+    "weight": "210",
+    "height": "6-1",
+    "college": "Colorado",
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/W/WinfJu00.htm"
   }
 ]

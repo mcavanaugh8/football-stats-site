@@ -187,8 +187,8 @@
         "team": "ARI",
         "pos": "LB",
         "uniform_number": "2",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -200,9 +200,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "9",
+        "tackles_combined": "13",
         "tackles_solo": "8",
-        "tackles_assists": "1",
+        "tackles_assists": "5",
         "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
@@ -306,24 +306,15 @@
         "team": "ARI",
         "pos": "LB",
         "uniform_number": "2",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "39",
-        "def_pct": "63%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "62",
+        "def_pct": "54%",
+        "special_teams": "1",
+        "st_pct": "2%"
       }
     ]
-  },
-  {
-    "name": "Mack Wilson",
-    "age": "26",
-    "position": "LB",
-    "weight": "246",
-    "height": "6-1",
-    "college": "Alabama",
-    "experience": "5"
   }
 ]

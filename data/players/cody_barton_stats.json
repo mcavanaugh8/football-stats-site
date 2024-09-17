@@ -187,7 +187,7 @@
         "team": "DEN",
         "pos": "LB",
         "uniform_number": "55",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -200,9 +200,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
-        "tackles_solo": "2",
-        "tackles_assists": "0",
+        "tackles_combined": "9",
+        "tackles_solo": "5",
+        "tackles_assists": "4",
         "tackles_loss": "1",
         "qb_hits": "0",
         "safety_md": "",
@@ -306,24 +306,27 @@
         "team": "DEN",
         "pos": "LB",
         "uniform_number": "55",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "24",
-        "def_pct": "36%",
-        "special_teams": "7",
-        "st_pct": "21%"
+        "defense": "71",
+        "def_pct": "53%",
+        "special_teams": "17",
+        "st_pct": "29%"
       }
     ]
   },
   {
     "name": "Cody Barton",
+    "id": "BartCo00",
+    "team": "DEN",
     "age": "28",
     "position": "LB",
     "weight": "237",
     "height": "6-2",
     "college": "Utah",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BartCo00.htm"
   }
 ]

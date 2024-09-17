@@ -65,11 +65,14 @@
   },
   {
     "name": "Ethan Driskell",
+    "id": "DrisEt00",
+    "team": "KC",
     "age": "",
     "position": "OT",
     "weight": "313",
     "height": "6-8",
     "college": "Marshall",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/D/DrisEt00.htm"
   }
 ]

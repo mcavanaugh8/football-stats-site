@@ -65,11 +65,14 @@
   },
   {
     "name": "Spencer Rattler",
+    "id": "RattSp00",
+    "team": "NO",
     "age": "24",
     "position": "QB",
     "weight": "211",
     "height": "6-0",
     "college": "Oklahoma,South Carolina",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RattSp00.htm"
   }
 ]

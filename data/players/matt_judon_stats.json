@@ -289,8 +289,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.5",
-        "tackles_combined": "5",
-        "tackles_solo": "1",
+        "tackles_combined": "6",
+        "tackles_solo": "2",
         "tackles_assists": "4",
         "tackles_loss": "0",
         "qb_hits": "1",
@@ -509,11 +509,14 @@
   },
   {
     "name": "Matt Judon",
+    "id": "JudoMa00",
+    "team": "ATL",
     "age": "32",
     "position": "OLB",
     "weight": "275",
     "height": "6-3",
     "college": "Grand Valley St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/J/JudoMa00.htm"
   }
 ]

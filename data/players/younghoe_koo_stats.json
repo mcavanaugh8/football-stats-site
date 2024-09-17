@@ -436,11 +436,14 @@
   },
   {
     "name": "Younghoe Koo",
+    "id": "KooxYo00",
+    "team": "ATL",
     "age": "30",
     "position": "K",
     "weight": "193",
     "height": "5-10",
     "college": "Georgia Southern",
-    "experience": "7"
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/K/KooxYo00.htm"
   }
 ]

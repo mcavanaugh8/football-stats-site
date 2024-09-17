@@ -148,5 +148,17 @@
         "st_pct": "42%"
       }
     ]
+  },
+  {
+    "name": "Cameron McGrone (IRD)",
+    "id": "McGrCa00",
+    "team": "IND",
+    "age": "24",
+    "position": "LB",
+    "weight": "236",
+    "height": "6-1",
+    "college": "Michigan",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/M/McGrCa00.htm"
   }
 ]

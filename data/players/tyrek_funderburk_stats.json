@@ -61,15 +61,34 @@
   },
   {
     "category": "snap_counts",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "TAM",
+        "pos": "CB",
+        "uniform_number": "24",
+        "g": "1",
+        "gs": "0",
+        "offense": "0",
+        "off_pct": "0%",
+        "defense": "0",
+        "def_pct": "0%",
+        "special_teams": "1",
+        "st_pct": "4%"
+      }
+    ]
   },
   {
     "name": "Tyrek Funderburk",
+    "id": "FundTy00",
+    "team": "TB",
     "age": "24",
     "position": "CB",
     "weight": "185",
     "height": "6-0",
     "college": "Appalachian State",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/F/FundTy00.htm"
   }
 ]

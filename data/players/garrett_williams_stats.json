@@ -79,8 +79,8 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "21",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -92,8 +92,8 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "3",
-        "tackles_solo": "3",
+        "tackles_combined": "4",
+        "tackles_solo": "4",
         "tackles_assists": "0",
         "tackles_loss": "0",
         "qb_hits": "0",
@@ -138,24 +138,15 @@
         "team": "ARI",
         "pos": "CB",
         "uniform_number": "21",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "38",
-        "def_pct": "61%",
-        "special_teams": "5",
-        "st_pct": "19%"
+        "defense": "82",
+        "def_pct": "72%",
+        "special_teams": "7",
+        "st_pct": "14%"
       }
     ]
-  },
-  {
-    "name": "Garrett Williams",
-    "age": "23",
-    "position": "CB",
-    "weight": "192",
-    "height": "",
-    "college": "Syracuse",
-    "experience": "1"
   }
 ]

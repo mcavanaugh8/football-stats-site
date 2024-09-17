@@ -133,7 +133,7 @@
         "team": "IND",
         "pos": "LB",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -250,24 +250,27 @@
         "team": "IND",
         "pos": "LB",
         "uniform_number": "41",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "68%"
+        "special_teams": "31",
+        "st_pct": "66%"
       }
     ]
   },
   {
     "name": "Grant Stuard",
+    "id": "StuaGr00",
+    "team": "IND",
     "age": "26",
     "position": "LB",
     "weight": "230",
     "height": "5-11",
     "college": "Houston",
-    "experience": "3"
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/S/StuaGr00.htm"
   }
 ]

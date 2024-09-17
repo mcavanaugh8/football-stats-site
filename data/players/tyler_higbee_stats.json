@@ -1020,5 +1020,17 @@
         "st_pct": "2%"
       }
     ]
+  },
+  {
+    "name": "Tyler Higbee (PUP)",
+    "id": "HigbTy00",
+    "team": "LAR",
+    "age": "31",
+    "position": "TE",
+    "weight": "255",
+    "height": "6-6",
+    "college": "Western Kentucky",
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/H/HigbTy00.htm"
   }
 ]

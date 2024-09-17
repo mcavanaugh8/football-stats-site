@@ -109,20 +109,14 @@
   },
   {
     "name": "Byron Young",
-    "age": "24",
-    "position": "DT",
-    "weight": "292",
-    "height": "",
-    "college": "Alabama",
-    "experience": "1"
-  },
-  {
-    "name": "Byron Young",
+    "id": "YounBy01",
+    "team": "LAR",
     "age": "26",
     "position": "OLB",
     "weight": "258",
     "height": "6-2",
     "college": "Georgia Military,Tennessee",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/Y/YounBy01.htm"
   }
 ]

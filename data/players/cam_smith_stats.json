@@ -106,5 +106,17 @@
         "st_pct": "53%"
       }
     ]
+  },
+  {
+    "name": "Cam Smith (IRD)",
+    "id": "SmitCa02",
+    "team": "MIA",
+    "age": "24",
+    "position": "CB",
+    "weight": "186",
+    "height": "6-1",
+    "college": "South Carolina",
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/S/SmitCa02.htm"
   }
 ]

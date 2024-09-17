@@ -217,5 +217,17 @@
         "st_pct": "6%"
       }
     ]
+  },
+  {
+    "name": "Jelani Woods (IR)",
+    "id": "WoodJe01",
+    "team": "IND",
+    "age": "26",
+    "position": "TE",
+    "weight": "253",
+    "height": "6-7",
+    "college": "Oklahoma St.,Virginia",
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/W/WoodJe01.htm"
   }
 ]

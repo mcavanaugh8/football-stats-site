@@ -108,7 +108,7 @@
         "team": "BAL",
         "pos": "OLB",
         "uniform_number": "90",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -125,7 +125,7 @@
         "tackles_solo": "1",
         "tackles_assists": "0",
         "tackles_loss": "1",
-        "qb_hits": "1",
+        "qb_hits": "2",
         "safety_md": "",
         "av": "",
         "awards": ""
@@ -183,24 +183,27 @@
         "team": "BAL",
         "pos": "OLB",
         "uniform_number": "90",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "25",
-        "def_pct": "46%",
+        "defense": "55",
+        "def_pct": "47%",
         "special_teams": "5",
-        "st_pct": "19%"
+        "st_pct": "9%"
       }
     ]
   },
   {
     "name": "David Ojabo",
+    "id": "OjabDa00",
+    "team": "BAL",
     "age": "24",
     "position": "OLB",
     "weight": "252",
     "height": "6-4",
     "college": "Michigan",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/O/OjabDa00.htm"
   }
 ]

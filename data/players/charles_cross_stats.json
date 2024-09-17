@@ -106,8 +106,8 @@
         "team": "SEA",
         "pos": "T",
         "uniform_number": "67",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -180,24 +180,27 @@
         "team": "SEA",
         "pos": "T",
         "uniform_number": "67",
-        "g": "1",
-        "gs": "1",
-        "offense": "67",
+        "g": "2",
+        "gs": "2",
+        "offense": "137",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "4",
-        "st_pct": "12%"
+        "special_teams": "9",
+        "st_pct": "14%"
       }
     ]
   },
   {
     "name": "Charles Cross",
+    "id": "CrosCh00",
+    "team": "SEA",
     "age": "24",
     "position": "T",
     "weight": "311",
     "height": "6-5",
     "college": "Mississippi St.",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/C/CrosCh00.htm"
   }
 ]

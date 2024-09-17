@@ -95,12 +95,15 @@
     ]
   },
   {
-    "name": "Steve Avila",
+    "name": "Steve Avila (IR)",
+    "id": "AvilSt00",
+    "team": "LAR",
     "age": "25",
     "position": "OL",
     "weight": "338",
     "height": "6-3",
     "college": "TCU",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/A/AvilSt00.htm"
   }
 ]

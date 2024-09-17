@@ -151,11 +151,14 @@
   },
   {
     "name": "Colby Wooden",
+    "id": "WoodCo01",
+    "team": "GB",
     "age": "24",
     "position": "DL",
     "weight": "273",
     "height": "6-4",
     "college": "Auburn",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/W/WoodCo01.htm"
   }
 ]

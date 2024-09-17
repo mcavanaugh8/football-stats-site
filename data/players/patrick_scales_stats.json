@@ -442,5 +442,17 @@
         "st_pct": "31%"
       }
     ]
+  },
+  {
+    "name": "Patrick Scales (IR)",
+    "id": "ScalPa00",
+    "team": "CHI",
+    "age": "36",
+    "position": "LS",
+    "weight": "226",
+    "height": "6-3",
+    "college": "Utah St.",
+    "experience": "10",
+    "href": "https://www.pro-football-reference.com/players/S/ScalPa00.htm"
   }
 ]

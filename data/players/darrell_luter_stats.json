@@ -109,11 +109,14 @@
   },
   {
     "name": "Darrell Luter",
+    "id": "LuteDa00",
+    "team": "SF",
     "age": "24",
     "position": "CB",
     "weight": "190",
     "height": "",
     "college": "Pearl River CC,South Alabama",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/L/LuteDa00.htm"
   }
 ]

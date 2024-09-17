@@ -56,19 +56,19 @@
         "team": "CHI",
         "pos": "P",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "punt": "6",
-        "punt_yds": "270",
-        "punt_yds_per_punt": "45.0",
-        "punt_ret_yds_opp": "32",
-        "punt_net_yds": "218",
-        "punt_net_yds_per_punt": "36.3",
+        "punt": "12",
+        "punt_yds": "554",
+        "punt_yds_per_punt": "46.2",
+        "punt_ret_yds_opp": "69",
+        "punt_net_yds": "465",
+        "punt_net_yds_per_punt": "38.8",
         "punt_long": "60",
         "punt_tb": "1",
-        "punt_tb_pct": "16.7%",
-        "punt_in_20": "3",
-        "punt_in_20_pct": "50.0%",
+        "punt_tb_pct": "8.3%",
+        "punt_in_20": "5",
+        "punt_in_20_pct": "41.7%",
         "punt_blocked": "0",
         "av": ""
       }
@@ -91,24 +91,27 @@
         "team": "CHI",
         "pos": "P",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "10",
-        "st_pct": "35%"
+        "special_teams": "19",
+        "st_pct": "32%"
       }
     ]
   },
   {
     "name": "Tory Taylor",
+    "id": "TaylTo01",
+    "team": "CHI",
     "age": "27",
     "position": "P",
     "weight": "223",
     "height": "",
     "college": "Iowa",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/T/TaylTo01.htm"
   }
 ]

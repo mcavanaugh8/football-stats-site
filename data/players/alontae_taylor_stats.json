@@ -106,8 +106,8 @@
         "team": "NOR",
         "pos": "CB",
         "uniform_number": "1",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -119,10 +119,10 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "3.0",
-        "tackles_combined": "6",
-        "tackles_solo": "5",
-        "tackles_assists": "1",
-        "tackles_loss": "3",
+        "tackles_combined": "15",
+        "tackles_solo": "13",
+        "tackles_assists": "2",
+        "tackles_loss": "5",
         "qb_hits": "3",
         "safety_md": "",
         "av": ""
@@ -180,24 +180,27 @@
         "team": "NOR",
         "pos": "CB",
         "uniform_number": "1",
-        "g": "1",
-        "gs": "0",
+        "g": "2",
+        "gs": "1",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "46",
-        "def_pct": "78%",
-        "special_teams": "7",
-        "st_pct": "23%"
+        "defense": "112",
+        "def_pct": "87%",
+        "special_teams": "12",
+        "st_pct": "21%"
       }
     ]
   },
   {
     "name": "Alontae Taylor",
+    "id": "TaylAl01",
+    "team": "NO",
     "age": "26",
     "position": "CB",
     "weight": "199",
     "height": "6-1",
     "college": "Tennessee",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/T/TaylAl01.htm"
   }
 ]

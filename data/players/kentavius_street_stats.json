@@ -403,11 +403,14 @@
   },
   {
     "name": "Kentavius Street",
+    "id": "StreKe00",
+    "team": "ATL",
     "age": "28",
     "position": "DL",
     "weight": "287",
     "height": "6-2",
     "college": "North Carolina St.",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/S/StreKe00.htm"
   }
 ]

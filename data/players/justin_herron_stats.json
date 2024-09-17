@@ -123,5 +123,17 @@
         "st_pct": "4%"
       }
     ]
+  },
+  {
+    "name": "Justin Herron (IR)",
+    "id": "HerrJu00",
+    "team": "NO",
+    "age": "29",
+    "position": "T",
+    "weight": "290",
+    "height": "6-5",
+    "college": "Wake Forest",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/H/HerrJu00.htm"
   }
 ]

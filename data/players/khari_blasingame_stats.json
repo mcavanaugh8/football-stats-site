@@ -64,7 +64,7 @@
         "fantasy_pos": "FB",
         "fantasy_points": "",
         "vbd": "",
-        "fantasy_rank_pos": "83",
+        "fantasy_rank_pos": "94",
         "fantasy_rank_overall": "",
         "games": "All 2024 Games"
       }
@@ -817,11 +817,14 @@
   },
   {
     "name": "Khari Blasingame",
+    "id": "BlasKh00",
+    "team": "CHI",
     "age": "28",
     "position": "FB",
     "weight": "233",
     "height": "6-0",
     "college": "Vanderbilt",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/B/BlasKh00.htm"
   }
 ]

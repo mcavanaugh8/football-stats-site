@@ -197,8 +197,8 @@
         "team": "LAC",
         "pos": "S",
         "uniform_number": "3",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -210,9 +210,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "7",
-        "tackles_solo": "6",
-        "tackles_assists": "1",
+        "tackles_combined": "13",
+        "tackles_solo": "10",
+        "tackles_assists": "3",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -338,24 +338,27 @@
         "team": "LAC",
         "pos": "S",
         "uniform_number": "3",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "60",
-        "def_pct": "100%",
-        "special_teams": "2",
-        "st_pct": "7%"
+        "defense": "104",
+        "def_pct": "96%",
+        "special_teams": "4",
+        "st_pct": "8%"
       }
     ]
   },
   {
     "name": "Derwin James",
+    "id": "JameDe00",
+    "team": "LAC",
     "age": "28",
     "position": "S",
     "weight": "215",
     "height": "6-2",
     "college": "Florida St.",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/J/JameDe00.htm"
   }
 ]

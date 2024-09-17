@@ -220,8 +220,8 @@
         "team": "CIN",
         "pos": "OT",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -355,24 +355,27 @@
         "team": "CIN",
         "pos": "OT",
         "uniform_number": "75",
-        "g": "1",
-        "gs": "1",
-        "offense": "51",
+        "g": "2",
+        "gs": "2",
+        "offense": "115",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "2",
-        "st_pct": "10%"
+        "special_teams": "8",
+        "st_pct": "17%"
       }
     ]
   },
   {
     "name": "Orlando Brown Jr.",
+    "id": "BrowOr00",
+    "team": "CIN",
     "age": "28",
     "position": "OT",
     "weight": "345",
     "height": "6-8",
     "college": "Oklahoma",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/B/BrowOr00.htm"
   }
 ]

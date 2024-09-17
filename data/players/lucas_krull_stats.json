@@ -289,11 +289,14 @@
   },
   {
     "name": "Lucas Krull",
+    "id": "KrulLu00",
+    "team": "DEN",
     "age": "26",
     "position": "TE",
     "weight": "260",
     "height": "",
     "college": "Jefferson,Florida,Pittsburgh",
-    "experience": "2"
+    "experience": "2",
+    "href": "https://www.pro-football-reference.com/players/K/KrulLu00.htm"
   }
 ]

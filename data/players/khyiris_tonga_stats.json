@@ -133,7 +133,7 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "95",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -222,24 +222,15 @@
         "team": "ARI",
         "pos": "DL",
         "uniform_number": "95",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "16",
-        "def_pct": "26%",
-        "special_teams": "0",
-        "st_pct": "0%"
+        "defense": "31",
+        "def_pct": "27%",
+        "special_teams": "2",
+        "st_pct": "4%"
       }
     ]
-  },
-  {
-    "name": "Khyiris Tonga",
-    "age": "28",
-    "position": "DL",
-    "weight": "338",
-    "height": "6-4",
-    "college": "BYU",
-    "experience": "3"
   }
 ]

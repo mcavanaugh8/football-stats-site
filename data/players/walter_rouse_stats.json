@@ -65,11 +65,14 @@
   },
   {
     "name": "Walter Rouse",
+    "id": "RousWa00",
+    "team": "MIN",
     "age": "23",
     "position": "T",
     "weight": "313",
     "height": "",
     "college": "Stanford,Oklahoma",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/R/RousWa00.htm"
   }
 ]

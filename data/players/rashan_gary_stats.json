@@ -187,8 +187,8 @@
         "team": "GNB",
         "pos": "DL",
         "uniform_number": "52",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "0",
         "def_int_yds": "0",
         "def_int_td": "0",
@@ -306,11 +306,11 @@
         "team": "GNB",
         "pos": "DL",
         "uniform_number": "52",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "49",
+        "defense": "86",
         "def_pct": "65%",
         "special_teams": "0",
         "st_pct": "0%"
@@ -319,11 +319,14 @@
   },
   {
     "name": "Rashan Gary",
+    "id": "GaryRa00",
+    "team": "GB",
     "age": "27",
     "position": "DL",
     "weight": "277",
     "height": "6-5",
     "college": "Michigan",
-    "experience": "5"
+    "experience": "5",
+    "href": "https://www.pro-football-reference.com/players/G/GaryRa00.htm"
   }
 ]

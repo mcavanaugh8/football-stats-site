@@ -68,24 +68,27 @@
         "team": "NOR",
         "pos": "CB",
         "uniform_number": "36",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "7",
-        "def_pct": "12%",
-        "special_teams": "17",
-        "st_pct": "57%"
+        "defense": "10",
+        "def_pct": "8%",
+        "special_teams": "26",
+        "st_pct": "46%"
       }
     ]
   },
   {
     "name": "Rico Payton",
+    "id": "PaytRi00",
+    "team": "NO",
     "age": "25",
     "position": "CB",
     "weight": "182",
     "height": "6-0",
     "college": "Southern Illinois,Pittsburg St.",
-    "experience": "Rook"
+    "experience": "Rook",
+    "href": "https://www.pro-football-reference.com/players/P/PaytRi00.htm"
   }
 ]

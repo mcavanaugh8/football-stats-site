@@ -276,8 +276,8 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "98",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -289,9 +289,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "2",
+        "tackles_combined": "4",
         "tackles_solo": "2",
-        "tackles_assists": "0",
+        "tackles_assists": "2",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -469,12 +469,12 @@
         "team": "SFO",
         "pos": "DL",
         "uniform_number": "98",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "32",
-        "def_pct": "63%",
+        "defense": "65",
+        "def_pct": "62%",
         "special_teams": "0",
         "st_pct": "0%"
       }
@@ -482,11 +482,14 @@
   },
   {
     "name": "Javon Hargrave",
+    "id": "HargJa00",
+    "team": "SF",
     "age": "31",
     "position": "DL",
     "weight": "305",
     "height": "6-2",
     "college": "South Carolina St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/H/HargJa00.htm"
   }
 ]

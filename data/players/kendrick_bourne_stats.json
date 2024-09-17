@@ -1403,5 +1403,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Kendrick Bourne (PUP)",
+    "id": "BourKe00",
+    "team": "NE",
+    "age": "29",
+    "position": "WR",
+    "weight": "205",
+    "height": "6-1",
+    "college": "Eastern Washington",
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/B/BourKe00.htm"
   }
 ]

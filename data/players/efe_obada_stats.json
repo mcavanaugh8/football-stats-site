@@ -316,5 +316,17 @@
         "st_pct": "14%"
       }
     ]
+  },
+  {
+    "name": "Efe Obada (PUP)",
+    "id": "ObadEf00",
+    "team": "WAS",
+    "age": "32",
+    "position": "DE",
+    "weight": "265",
+    "height": "6-6",
+    "college": "None",
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/O/ObadEf00.htm"
   }
 ]

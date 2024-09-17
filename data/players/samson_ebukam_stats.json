@@ -386,5 +386,17 @@
         "st_pct": "0%"
       }
     ]
+  },
+  {
+    "name": "Samson Ebukam (IRD)",
+    "id": "EbukSa00",
+    "team": "IND",
+    "age": "29",
+    "position": "DE",
+    "weight": "245",
+    "height": "6-3",
+    "college": "Eastern Washington",
+    "experience": "7",
+    "href": "https://www.pro-football-reference.com/players/E/EbukSa00.htm"
   }
 ]

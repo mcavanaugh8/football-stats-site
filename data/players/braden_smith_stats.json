@@ -214,8 +214,8 @@
         "team": "IND",
         "pos": "T",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -348,9 +348,9 @@
         "team": "IND",
         "pos": "T",
         "uniform_number": "72",
-        "g": "1",
-        "gs": "1",
-        "offense": "45",
+        "g": "2",
+        "gs": "2",
+        "offense": "101",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -361,11 +361,14 @@
   },
   {
     "name": "Braden Smith",
+    "id": "SmitBr06",
+    "team": "IND",
     "age": "28",
     "position": "T",
     "weight": "312",
     "height": "6-6",
     "college": "Auburn",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/S/SmitBr06.htm"
   }
 ]

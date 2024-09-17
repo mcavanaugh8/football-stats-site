@@ -214,7 +214,7 @@
         "team": "SEA",
         "pos": "S",
         "uniform_number": "24",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -227,9 +227,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "1",
-        "tackles_solo": "1",
-        "tackles_assists": "0",
+        "tackles_combined": "5",
+        "tackles_solo": "4",
+        "tackles_assists": "1",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -348,24 +348,27 @@
         "team": "SEA",
         "pos": "S",
         "uniform_number": "24",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "12",
-        "def_pct": "17%",
-        "special_teams": "17",
-        "st_pct": "50%"
+        "defense": "25",
+        "def_pct": "18%",
+        "special_teams": "38",
+        "st_pct": "59%"
       }
     ]
   },
   {
     "name": "K'Von Wallace",
+    "id": "WallKV00",
+    "team": "SEA",
     "age": "27",
     "position": "S",
     "weight": "205",
     "height": "5-11",
     "college": "Clemson",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/W/WallKV00.htm"
   }
 ]

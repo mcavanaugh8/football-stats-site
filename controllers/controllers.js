@@ -13,11 +13,13 @@ const Player = require('../models/Player.js');
  */
 async function getHomePage(req, res) {
     console.log('Loading home page...')
-    const allPlayers = await Player.find({}).lean().exec();
-
+    let allPlayers = await Player.find({}).lean().exec();
+    allPlayers = allPlayers.filter(player => player.position === 'QB' || player.position === 'WR' || player.position === 'RB' || player.position === 'TE')
+    
     res.status(200).render('home', {
         layout: 'main',
-        table: createTableFromArray(allPlayers, 'players')
+        // table: createTableFromArray(allPlayers, 'players'),
+        players: allPlayers,
     })
 
 

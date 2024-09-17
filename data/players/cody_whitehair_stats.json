@@ -276,7 +276,7 @@
         "team": "LVR",
         "pos": "OG",
         "uniform_number": "65",
-        "g": "1",
+        "g": "2",
         "gs": "1",
         "def_int": "",
         "def_int_yds": "",
@@ -441,24 +441,27 @@
         "team": "LVR",
         "pos": "OG",
         "uniform_number": "65",
-        "g": "1",
+        "g": "2",
         "gs": "1",
-        "offense": "60",
-        "off_pct": "100%",
+        "offense": "96",
+        "off_pct": "78%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "3",
-        "st_pct": "11%"
+        "special_teams": "9",
+        "st_pct": "15%"
       }
     ]
   },
   {
     "name": "Cody Whitehair",
+    "id": "WhitCo03",
+    "team": "LV",
     "age": "32",
     "position": "OG",
     "weight": "316",
     "height": "6-3",
     "college": "Kansas St.",
-    "experience": "8"
+    "experience": "8",
+    "href": "https://www.pro-football-reference.com/players/W/WhitCo03.htm"
   }
 ]

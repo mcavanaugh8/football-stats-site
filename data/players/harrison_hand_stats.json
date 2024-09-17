@@ -190,5 +190,17 @@
         "st_pct": "13%"
       }
     ]
+  },
+  {
+    "name": "Harrison Hand (IR)",
+    "id": "HandHa00",
+    "team": "ATL",
+    "age": "26",
+    "position": "DB",
+    "weight": "185",
+    "height": "5-11",
+    "college": "Baylor,Temple",
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/H/HandHa00.htm"
   }
 ]

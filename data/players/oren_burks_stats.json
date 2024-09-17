@@ -214,7 +214,7 @@
         "team": "PHI",
         "pos": "LB",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -348,24 +348,27 @@
         "team": "PHI",
         "pos": "LB",
         "uniform_number": "42",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "17",
-        "st_pct": "55%"
+        "special_teams": "36",
+        "st_pct": "68%"
       }
     ]
   },
   {
     "name": "Oren Burks",
+    "id": "BurkOr00",
+    "team": "PHI",
     "age": "29",
     "position": "LB",
     "weight": "233",
     "height": "6-3",
     "college": "Vanderbilt",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/B/BurkOr00.htm"
   }
 ]

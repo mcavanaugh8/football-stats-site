@@ -193,11 +193,14 @@
   },
   {
     "name": "Darrick Forrest",
+    "id": "ForrDa00",
+    "team": "WAS",
     "age": "25",
     "position": "S",
     "weight": "200",
     "height": "5-11",
     "college": "Cincinnati",
-    "experience": "3"
+    "experience": "3",
+    "href": "https://www.pro-football-reference.com/players/F/ForrDa00.htm"
   }
 ]

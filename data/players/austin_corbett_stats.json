@@ -268,8 +268,8 @@
         "team": "CAR",
         "pos": "C",
         "uniform_number": "63",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -432,9 +432,9 @@
         "team": "CAR",
         "pos": "C",
         "uniform_number": "63",
-        "g": "1",
-        "gs": "1",
-        "offense": "59",
+        "g": "2",
+        "gs": "2",
+        "offense": "107",
         "off_pct": "100%",
         "defense": "0",
         "def_pct": "0%",
@@ -445,11 +445,14 @@
   },
   {
     "name": "Austin Corbett",
+    "id": "CorbAu00",
+    "team": "CAR",
     "age": "29",
     "position": "C",
     "weight": "305",
     "height": "6-4",
     "college": "Nevada",
-    "experience": "6"
+    "experience": "6",
+    "href": "https://www.pro-football-reference.com/players/C/CorbAu00.htm"
   }
 ]

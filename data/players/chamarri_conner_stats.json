@@ -79,7 +79,7 @@
         "team": "KAN",
         "pos": "DB",
         "uniform_number": "27",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "def_int": "",
         "def_int_yds": "",
@@ -88,15 +88,15 @@
         "pass_defended": "",
         "fumbles_forced": "0",
         "fumbles": "0",
-        "fumbles_rec": "0",
-        "fumbles_rec_yds": "0",
-        "fumbles_rec_td": "0",
-        "sacks": "0.0",
-        "tackles_combined": "6",
-        "tackles_solo": "6",
-        "tackles_assists": "0",
-        "tackles_loss": "0",
-        "qb_hits": "0",
+        "fumbles_rec": "1",
+        "fumbles_rec_yds": "38",
+        "fumbles_rec_td": "1",
+        "sacks": "1.0",
+        "tackles_combined": "12",
+        "tackles_solo": "10",
+        "tackles_assists": "2",
+        "tackles_loss": "1",
+        "qb_hits": "1",
         "safety_md": "",
         "av": ""
       }
@@ -112,7 +112,35 @@
   },
   {
     "category": "scoring",
-    "rows": []
+    "rows": [
+      {
+        "year_id": "2024",
+        "age": "24",
+        "team": "KAN",
+        "pos": "DB",
+        "uniform_number": "27",
+        "g": "2",
+        "gs": "0",
+        "rushtd": "",
+        "rectd": "",
+        "prtd": "",
+        "krtd": "",
+        "frtd": "1",
+        "ditd": "",
+        "otd": "",
+        "alltd": "1",
+        "two_pt_md": "",
+        "two_pt_att": "",
+        "def_two_pt": "0",
+        "xpm": "",
+        "xpa": "",
+        "fgm": "",
+        "fga": "",
+        "safety_md": "",
+        "scoring": "6",
+        "points_per_g": "3.0"
+      }
+    ]
   },
   {
     "category": "snap_counts",
@@ -138,24 +166,27 @@
         "team": "KAN",
         "pos": "DB",
         "uniform_number": "27",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "46",
-        "def_pct": "58%",
-        "special_teams": "21",
-        "st_pct": "81%"
+        "defense": "75",
+        "def_pct": "52%",
+        "special_teams": "43",
+        "st_pct": "83%"
       }
     ]
   },
   {
     "name": "Chamarri Conner",
+    "id": "ConnCh01",
+    "team": "KC",
     "age": "24",
     "position": "DB",
     "weight": "202",
     "height": "",
     "college": "Virginia Tech",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/C/ConnCh01.htm"
   }
 ]

@@ -78,19 +78,19 @@
         "team": "GNB",
         "pos": "P",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
-        "punt": "2",
-        "punt_yds": "74",
-        "punt_yds_per_punt": "37.0",
+        "punt": "5",
+        "punt_yds": "213",
+        "punt_yds_per_punt": "42.6",
         "punt_ret_yds_opp": "0",
-        "punt_net_yds": "74",
-        "punt_net_yds_per_punt": "37.0",
-        "punt_long": "41",
+        "punt_net_yds": "213",
+        "punt_net_yds_per_punt": "42.6",
+        "punt_long": "59",
         "punt_tb": "0",
         "punt_tb_pct": "0.0%",
-        "punt_in_20": "1",
-        "punt_in_20_pct": "50.0%",
+        "punt_in_20": "4",
+        "punt_in_20_pct": "80.0%",
         "punt_blocked": "0",
         "av": ""
       }
@@ -128,24 +128,27 @@
         "team": "GNB",
         "pos": "P",
         "uniform_number": "19",
-        "g": "1",
+        "g": "2",
         "gs": "0",
         "offense": "0",
         "off_pct": "0%",
         "defense": "0",
         "def_pct": "0%",
-        "special_teams": "10",
-        "st_pct": "32%"
+        "special_teams": "18",
+        "st_pct": "34%"
       }
     ]
   },
   {
     "name": "Daniel Whelan",
+    "id": "WhelDa00",
+    "team": "GB",
     "age": "25",
     "position": "P",
     "weight": "216",
     "height": "6-5",
     "college": "UC Davis",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/W/WhelDa00.htm"
   }
 ]

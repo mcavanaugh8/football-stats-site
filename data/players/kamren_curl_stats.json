@@ -160,8 +160,8 @@
         "team": "LAR",
         "pos": "DB",
         "uniform_number": "3",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "def_int": "",
         "def_int_yds": "",
         "def_int_td": "0",
@@ -173,9 +173,9 @@
         "fumbles_rec_yds": "0",
         "fumbles_rec_td": "0",
         "sacks": "0.0",
-        "tackles_combined": "5",
-        "tackles_solo": "4",
-        "tackles_assists": "1",
+        "tackles_combined": "13",
+        "tackles_solo": "8",
+        "tackles_assists": "5",
         "tackles_loss": "0",
         "qb_hits": "0",
         "safety_md": "",
@@ -292,24 +292,27 @@
         "team": "LAR",
         "pos": "DB",
         "uniform_number": "3",
-        "g": "1",
-        "gs": "1",
+        "g": "2",
+        "gs": "2",
         "offense": "0",
         "off_pct": "0%",
-        "defense": "61",
+        "defense": "127",
         "def_pct": "100%",
-        "special_teams": "3",
-        "st_pct": "12%"
+        "special_teams": "10",
+        "st_pct": "20%"
       }
     ]
   },
   {
     "name": "Kamren Curl",
+    "id": "CurlKa00",
+    "team": "LAR",
     "age": "25",
     "position": "DB",
     "weight": "205",
     "height": "6-2",
     "college": "Arkansas",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/C/CurlKa00.htm"
   }
 ]

@@ -235,11 +235,14 @@
   },
   {
     "name": "Jedrick Wills Jr.",
+    "id": "WillJe04",
+    "team": "CLE",
     "age": "25",
     "position": "T",
     "weight": "307",
     "height": "6-4",
     "college": "Alabama",
-    "experience": "4"
+    "experience": "4",
+    "href": "https://www.pro-football-reference.com/players/W/WillJe04.htm"
   }
 ]

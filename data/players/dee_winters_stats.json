@@ -109,11 +109,14 @@
   },
   {
     "name": "Dee Winters",
+    "id": "WintDe00",
+    "team": "SF",
     "age": "24",
     "position": "LB",
     "weight": "227",
     "height": "",
     "college": "TCU",
-    "experience": "1"
+    "experience": "1",
+    "href": "https://www.pro-football-reference.com/players/W/WintDe00.htm"
   }
 ]
