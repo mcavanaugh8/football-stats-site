@@ -19,6 +19,6 @@ class UI {
                 suggestions.innerHTML = '';
             }
         });
-    }
+    }    
 
 }
