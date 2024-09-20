@@ -11,10 +11,15 @@
 </div>
 <div class="player-grid">
     {{#each players}}
-    <div class="player-card" style="background-color: {{this.backgroundColor}}; color: {{this.color}}; font-weight: {{this.fontWeight}}" data-player-id="{{this._id}}">
+    <div class="player-card"
+        style="background-color: {{this.backgroundColor}}; color: {{this.color}}; font-weight: {{this.fontWeight}}"
+        data-player-id="{{this._id}}">
         <div class="player-image">
-            <img style="background-size: contain" src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg" alt="{{this.name}}">
-            {{!-- <img src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg" alt="{{this.name}}" onerror="this.src='/img/default-player.jpg'"> --}}
+            <img style="background-size: contain"
+                src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg"
+                alt="{{this.name}}">
+            {{!-- <img src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg"
+                alt="{{this.name}}" onerror="this.src='/img/default-player.jpg'"> --}}
         </div>
         <div class="player-info">
             <h3>{{this.name}}</h3>
@@ -25,5 +30,7 @@
 </div>
 <script src="/public/js/ui.js"></script>
 <script>
-    const ui = new UI();
+    const allPlayers = {{{ json players }}}; // Use triple braces to avoid HTML escaping
+    const ui = new UI(allPlayers);
+    ui.addAllEventListeners();
 </script>

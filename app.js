@@ -28,7 +28,12 @@ mongoose.connect(uri, {
       app.engine('.hbs', handlebars.engine({
         defaultLayout: 'main',
         extname: '.hbs',
-        helpers: helpers
+        helpers: {
+          ...helpers, // Spread existing helpers
+          json: function(context) {
+            return JSON.stringify(context);
+          }
+        }
       }));
       app.set('view engine', '.hbs');
       app.use('/public', express.static(path.join(__dirname, 'public')));
