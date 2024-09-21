@@ -9,4 +9,8 @@ router.get('/', async (req, res) => {
     getHomePage(req, res);
 });
 
+router.get('/players', async (req, res) => {
+    getPlayers(req, res);
+});
+
 module.exports = router;

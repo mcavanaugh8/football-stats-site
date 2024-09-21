@@ -1,11 +1,4 @@
-{{!-- <div class="ticker">
-    <h2>Player Game Logs</h2>
-    <div id="gameLogTicker">
-        <!-- JS will populate this -->
-    </div>
-</div> --}}
-
-{{!-- <div class="search-container">
+{{!-- <div class="search-container"></div>
     <input type="text" id="playerSearch" autocomplete="off">
     <ul id="suggestions"></ul>
 </div> --}}
@@ -30,8 +23,3 @@
     {{/each}}
 </div>
 <script src="/public/js/ui.js"></script>
-<script>
-    const allPlayers = {{{ json players }}}; // Use triple braces to avoid HTML escaping
-    const ui = new UI(allPlayers);
-    ui.addAllEventListeners();
-</script>

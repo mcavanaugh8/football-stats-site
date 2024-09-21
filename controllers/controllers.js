@@ -6,40 +6,22 @@ const axios = require('axios');
 const mongoose = require('mongoose');
 const moment = require('moment-timezone')
 
-const Player = require('../models/Player.js');
+const dbServices = require('../controllers/dbServices');
 
 /**
  * router.get('/')
  */
 async function getHomePage(req, res) {
-  console.log('Loading home page...')
-  let allPlayers = await Player.find({}).lean().exec();
-  allPlayers = allPlayers.filter(player =>
-    // player.position === 'QB' || 
-    // player.position === 'WR' || 
-    // player.position === 'RB' || 
-    player.position === 'TE'
-    // player.name === 'Adam Trautman'
-  )
-
-  allPlayers.forEach((player, index, arr) => {
-    formatPlayerCards(player)
-    // let year = Number(player.href.match(/\d{4}/))
-    // while (isValidUrl(player.href) == false) {
-    //   console.log(year)
-    //   player.href = player.href.replace(year, String(year - 1))
-    //   console.log(player.href)
-    //   year--;
-    // }
-  })
-
+  console.log('Loading home page...');
+  
+  let allPlayers = await dbServices.getPlayers()
+  console.log(allPlayers)
+  
   res.status(200).render('home', {
     layout: 'main',
     // table: createTableFromArray(allPlayers, 'players'),
-    players: allPlayers,
+    players: allPlayers
   })
-
-
 }
 
 function createTableFromArray(arr, type) {
