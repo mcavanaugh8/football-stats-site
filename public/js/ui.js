@@ -13,16 +13,27 @@ class UI {
 
             playerGrid.addEventListener('click', (e) => {
                 const card = e.target.closest('.player-card');
-                if (card) {
-                    this.displayPlayerStats(card);
-                    console.log(e.target);
-                    console.log('Player card clicked:', card);
 
+                if (card) {
                     const playerId = card.getAttribute('data-player-id');
                     const playerName = card.getAttribute('data-player-name');
 
-                    console.log(`Player ID: ${playerName}`);
+                    console.log(e.target);
+                    console.log('Player card clicked:', card);
+                    console.log(`Player: ${playerName}`);
+                    
+                    
+                    const modal = document.getElementById('playerStatsModal-' + playerId);
+                    modal.style.display = 'block';
 
+                    // Corrected selector for close button
+                    const closeButton = modal.querySelector('.modal-content .close');
+                    
+                    // Remove any existing event listeners to avoid duplicates
+                    closeButton.removeEventListener('click', closeModal); // Ensure no duplicates
+                    closeButton.addEventListener('click', closeModal);
+                    
+                    this.displayPlayerStats(modal);
                 }
             });
 
@@ -41,6 +52,12 @@ class UI {
                     this.filterPlayerCardsByPosition();
                 });
             });
+
+            // Function to close the modal
+            function closeModal() {
+                const modal = this.closest('.modal'); // Get the modal from the close button context
+                modal.style.display = 'none';
+            }
         });
 
         playerSearch.addEventListener('input', e => {
@@ -49,12 +66,14 @@ class UI {
 
     }
 
-    displayPlayerStats() {
+    displayPlayerStats(modal) {
         /**
          * stats by year
          * stats by game
          * stats vs specific teams
          */
+
+        modal.style.display = 'block';
     }
 
     filterPlayerCardsByPosition(position) {

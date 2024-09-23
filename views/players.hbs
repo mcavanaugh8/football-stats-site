@@ -25,7 +25,16 @@
             <h3>{{this.name}}</h3>
             <p>{{this.position}} - {{#if this.team}}{{this.team}}{{else}}FA{{/if}}</p>
         </div>
-
+    </div>
+    <div id="playerStatsModal-{{this._id}}" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>{{this.name}}</h3>
+            <p>Position: {{this.position}}</p>
+            <p>Games Played: {{this.gamesPlayed}}</p>
+            <p>Yards: {{this.yards}}</p>
+            <!-- Add more stats as needed -->
+        </div>
     </div>
     {{/each}}
 </div>
