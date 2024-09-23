@@ -141,3 +141,7 @@ header a {
 .position-button:hover {
   background-color: #0056b3; /* Darker shade on hover */
 }
+
+.position-button.clicked {
+  background-color: #0056b3; /* Darker shade on hover */
+}

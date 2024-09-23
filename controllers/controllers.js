@@ -29,7 +29,7 @@ async function getHomePage(req, res) {
 async function getPlayersPage(req, res) {
   console.log('Loading players page...');
   
-  let allPlayers = await dbServices.getPlayers()
+  let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
 //   console.log(allPlayers)
 
   res.status(200).render('players', {
