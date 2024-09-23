@@ -80,6 +80,7 @@ header a {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
+    margin-top: 20px;
 }
 
 .player-card {
@@ -115,3 +116,25 @@ header a {
     object-fit: cover; 
     border-radius: 8px;
 }
+
+.button-row {
+    display: flex;
+    justify-content: center; /* Center the buttons */
+    margin: 20px 0; /* Add some margin */
+  }
+
+  .position-button {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 0 10px; /* Space between buttons */
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+
+  .position-button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+  }

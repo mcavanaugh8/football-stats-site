@@ -19,7 +19,20 @@ async function getHomePage(req, res) {
   
   res.status(200).render('home', {
     layout: 'main',
-    // table: createTableFromArray(allPlayers, 'players'),
+    players: allPlayers
+  })
+}
+
+/**
+ * router.get('/players')
+ */
+async function getPlayersPage(req, res) {
+  console.log('Loading players page...');
+  
+  let allPlayers = await dbServices.getPlayers()
+  
+  res.status(200).render('players', {
+    layout: 'main',
     players: allPlayers
   })
 }
@@ -314,3 +327,4 @@ async function countPlayers() {
 // countPlayers();
 
 module.exports.getHomePage = getHomePage;
+module.exports.getPlayersPage = getPlayersPage;

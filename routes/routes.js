@@ -2,7 +2,8 @@ const express = require('express');
 const router = express.Router();
 
 const {
-    getHomePage
+    getHomePage,
+    getPlayersPage
 } = require('../controllers/controllers.js')
 
 router.get('/', async (req, res) => {
@@ -10,7 +11,7 @@ router.get('/', async (req, res) => {
 });
 
 router.get('/players', async (req, res) => {
-    getPlayers(req, res);
+    getPlayersPage(req, res);
 });
 
 module.exports = router;

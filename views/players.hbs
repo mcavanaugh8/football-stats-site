@@ -1,7 +1,14 @@
-{{!-- <div class="search-container"></div>
+<div class="search-container"></div>
     <input type="text" id="playerSearch" autocomplete="off">
     <ul id="suggestions"></ul>
-</div> --}}
+</div>
+
+<div class="button-row"></div>
+  <button class="position-button" data-position="QB">QB</button>
+  <button class="position-button" data-position="WR">WR</button>
+  <button class="position-button" data-position="RB">RB</button>
+  <button class="position-button" data-position="TE">TE</button>
+</div>
 
 <div class="player-grid">
     {{#each players}}
@@ -23,3 +30,8 @@
     {{/each}}
 </div>
 <script src="/public/js/ui.js"></script>
+<script>
+    const allPlayers = {{{ json players }}}; // Use triple braces to avoid HTML escaping
+    const ui = new UI(allPlayers);
+    ui.addAllEventListeners();
+</script>
