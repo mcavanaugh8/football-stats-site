@@ -30,7 +30,7 @@ async function getPlayersPage(req, res) {
   console.log('Loading players page...');
   
   let allPlayers = await dbServices.getPlayers()
-  // console.log(allPlayers)
+//   console.log(allPlayers)
 
   res.status(200).render('players', {
     layout: 'main',

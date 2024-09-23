@@ -1,20 +1,19 @@
-<div class="search-container"></div>
-<input type="text" id="playerSearch" autocomplete="off" placeholder="Player name...">
-<ul id="suggestions"></ul>
+<div class="search-container">
+    <input type="text" id="playerSearch" autocomplete="off" placeholder="Player name...">
+    <ul id="suggestions"></ul>
 </div>
 
-<div class="button-row"></div>
-<button class="position-button" data-position="QB">QB</button>
-<button class="position-button" data-position="WR">WR</button>
-<button class="position-button" data-position="RB">RB</button>
-<button class="position-button" data-position="TE">TE</button>
+<div class="button-row">
+    <button class="position-button" data-position="QB">QB</button>
+    <button class="position-button" data-position="WR">WR</button>
+    <button class="position-button" data-position="RB">RB</button>
+    <button class="position-button" data-position="TE">TE</button>
 </div>
-
 <div class="player-grid">
     {{#each players}}
     <div class="player-card"
         style="background-color: {{this.backgroundColor}}; color: {{this.color}}; font-weight: {{this.fontWeight}}"
-        data-player-id="{{this._id}}">
+        data-player-id="{{this._id}}" data-player-name="{{this.name}}" data-player-position="{{this.position}}">
         <div class="player-image">
             <img style="background-size: contain"
                 src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg"
