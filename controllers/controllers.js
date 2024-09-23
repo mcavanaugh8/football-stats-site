@@ -14,12 +14,12 @@ const dbServices = require('../controllers/dbServices');
 async function getHomePage(req, res) {
   console.log('Loading home page...');
   
-  let allPlayers = await dbServices.getPlayers()
-  console.log(allPlayers)
+  // let allPlayers = await dbServices.getPlayers();
+  // console.log(allPlayers)
   
   res.status(200).render('home', {
     layout: 'main',
-    players: allPlayers
+    // players: allPlayers
   })
 }
 
@@ -30,7 +30,8 @@ async function getPlayersPage(req, res) {
   console.log('Loading players page...');
   
   let allPlayers = await dbServices.getPlayers()
-  
+  // console.log(allPlayers)
+
   res.status(200).render('players', {
     layout: 'main',
     players: allPlayers

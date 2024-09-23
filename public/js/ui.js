@@ -2,8 +2,6 @@ class UI {
     constructor(allPlayers, allRosters) {
         this.allPlayers = [allPlayers];
         this.allRosters = allRosters;
-
-        console.log(allPlayers)
     }
 
     addAllEventListeners() {
@@ -31,5 +29,7 @@ class UI {
             });
         });
     }
+
+
 
 }

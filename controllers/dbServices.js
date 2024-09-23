@@ -18,6 +18,8 @@ async function getPlayers(positions) {
         }
 
         allPlayers.forEach(player => formatPlayerCards(player));
+    } else {
+      return cachedPlayers;
     }
 
     return allPlayers;
