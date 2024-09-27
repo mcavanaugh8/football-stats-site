@@ -30,12 +30,51 @@ async function getPlayersPage(req, res) {
     console.log('Loading players page...');
 
     let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
-    // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Breece Hall')));
+    // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Justin Fields')));
+    // console.log(allPlayers.find(player => player.name === 'Justin Fields'))
 
     res.status(200).render('players', {
         layout: 'main',
         players: allPlayers
     })
+}
+
+function getStats(player) {
+    for (let item in player) {
+        const relevantStats = [];
+        switch (item) {
+            case 'gameLogs':
+                switch (player.position) {
+                    case 'QB':
+                        console.log(player.name)
+                        relevantStats.push(
+                            'advanced_passing',
+                            'advanced_rushing_and_receiving',
+                            'advanced_receiving_and_rushing',
+                        )
+                        break;
+                    case 'TE':
+                    case 'WR':
+                    case 'RB':
+                        relevantStats.push(
+                            'advanced_rushing_and_receiving',
+                            'advanced_receiving_and_rushing',
+                        )
+                        break;
+                }
+
+                for (var i = 0; i < player[item].length; i++) {
+                    let category = player[item][i].category;
+                    let games = player[item][i];
+
+                    if (relevantStats.includes(category)) {
+                        // console.log(games);
+                        return games;
+                    }
+                }
+                break;
+        }
+    }
 }
 
 function createTableFromArray(arr, type) {

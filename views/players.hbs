@@ -28,12 +28,83 @@
     </div>
     <div id="playerStatsModal-{{this._id}}" class="modal">
         <div class="modal-content">
+            <!-- Close Button -->
             <span class="close">&times;</span>
-            <h3>{{this.name}}</h3>
-            <p>Position: {{this.position}}</p>
-            <p>Games Played: {{this.gamesPlayed}}</p>
-            <p>Yards: {{this.yards}}</p>
-            <!-- Add more stats as needed -->
+            {{#each this.gameLogs}}
+                {{#eq this.category compare="advanced_passing"}}
+                    {{#each this.rows}}
+            <!-- Game Information -->
+            <div class="game-info">
+                <h2>Game Stats - Week {{this.week_num}}</h2>
+                <p><strong>Date:</strong> {{this.game_date}}</p>
+                <p><strong>Team:</strong> {{this.team}}</p>
+                <p><strong>Opponent:</strong> {{this.game_location}} {{this.opp}} ({{this.game_result}})</p>
+            </div>
+
+            <!-- Passing Statistics -->
+            <div class="section">
+                <h3>Passing Stats</h3>
+                <div class="grid-container">
+                    <div class="stat-box">
+                        <span class="label">Pass Comp:</span>
+                        <span class="value">{{this.pass_cmp}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">Pass Att:</span>
+                        <span class="value">{{this.pass_att}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">Pass Yds:</span>
+                        <span class="value">{{this.pass_yds}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">First Downs:</span>
+                        <span class="value">{{this.pass_first_down}}</span>
+                    </div>
+                    <!-- Add more stats here -->
+                </div>
+            </div>
+
+            <!-- Pressure and Sack Data -->
+            <div class="section">
+                <h3>Pressure and Sack Data</h3>
+                <div class="grid-container">
+                    <div class="stat-box">
+                        <span class="label">Sacked:</span>
+                        <span class="value">{{this.pass_sacked}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">Blitzed:</span>
+                        <span class="value">{{this.pass_blitzed}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">Hurried:</span>
+                        <span class="value">{{this.pass_hurried}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">Hits:</span>
+                        <span class="value">{{this.pass_hits}}</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Scramble/Rushing Data -->
+            {{!-- <div class="section">
+                <h3>Scramble & Rushing</h3>
+                <div class="grid-container">
+                    <div class="stat-box">
+                        <span class="label">Scrambles:</span>
+                        <span class="value">{{this.rush_scrambles}}</span>
+                    </div>
+                    <div class="stat-box">
+                        <span class="label">Yards/Attempt:</span>
+                        <span class="value">{{this.rush_scrambles_yds_per_att}}</span>
+                    </div>
+                </div>
+            </div> --}}
+                    {{/each}}
+                {{/eq}}
+            {{/each}}
         </div>
     </div>
     {{/each}}

@@ -21,18 +21,18 @@ class UI {
                     console.log(e.target);
                     console.log('Player card clicked:', card);
                     console.log(`Player: ${playerName}`);
-                    
-                    
+
+
                     const modal = document.getElementById('playerStatsModal-' + playerId);
                     modal.style.display = 'block';
 
                     // Corrected selector for close button
                     const closeButton = modal.querySelector('.modal-content .close');
-                    
+
                     // Remove any existing event listeners to avoid duplicates
                     closeButton.removeEventListener('click', closeModal); // Ensure no duplicates
                     closeButton.addEventListener('click', closeModal);
-                    
+
                     this.displayPlayerStats(modal);
                 }
             });
@@ -74,6 +74,18 @@ class UI {
          */
 
         modal.style.display = 'block';
+        // this.allPlayers.forEach(player => {
+        //     player.stats.forEach(item => {
+        //         switch (item.category) {
+        //             case 'stats':
+        //                 for (var i = 0; i < item.rows.length; i++) {
+        //                     let game = item.rows[i];
+        //                     console.log(current)
+        //                 }
+        //                 break;
+        //         }
+        //     })
+        // })
     }
 
     filterPlayerCardsByPosition(position) {
