@@ -30,9 +30,8 @@
         <div class="modal-content">
             <!-- Close Button -->
             <span class="close">&times;</span>
-            {{#each this.gameLogs}}
-                {{#eq this.category compare="advanced_passing"}}
-                    {{#each this.rows}}
+            {{#each this.gameLogsByYear}}
+                {{#each this}}
             <!-- Game Information -->
             <div class="game-info">
                 <h2>Game Stats - Week {{this.week_num}}</h2>
@@ -102,8 +101,7 @@
                     </div>
                 </div>
             </div> --}}
-                    {{/each}}
-                {{/eq}}
+                {{/each}}
             {{/each}}
         </div>
     </div>
