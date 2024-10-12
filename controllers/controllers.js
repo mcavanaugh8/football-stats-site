@@ -39,6 +39,133 @@ async function getPlayersPage(req, res) {
     })
 }
 
+/**
+ * router.get('/betting-lines')
+ */
+
+async function getBettingLines(req, res) {
+    console.log('Loading betting lines page...');
+
+    let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE']);
+    let table = createBettingLinesTable(allPlayers);
+
+    res.status(200).render('betting-lines', {
+        layout: 'main',
+        players: allPlayers,
+        table: table
+    })
+}
+
+
+function createBettingLinesTable(arr, pos) {
+    let html = '<table id="bettingLinesTable" class="table table-striped display">';
+    html += '<thead><tr>';
+
+    let headers = ['Player', '100+', '125+', '150+', '175+', '200+', '225+', '250+', '275+', '300+'];
+    headers.forEach(key => html += `<th scope="col">${key}</th>`);
+    html += '<tbody>';
+
+    const currentYear = new Date().getFullYear();
+    const septemberFirst = new Date(`${currentYear}-09-01`);
+    const currentDate = new Date();
+
+    arr.forEach(player => {
+        if (player.position === 'QB') {
+            if (player.gameLogsByYear[String(currentYear)] !== undefined) {
+                const yearGames = player.gameLogsByYear[String(currentYear)];
+
+                const filteredGames = yearGames.filter(game => {
+                    const gameDate = new Date(game.game_date);
+                    return gameDate >= septemberFirst && gameDate <= currentDate;
+                });
+
+                let gamesPlayed = filteredGames.length;
+
+                if (gamesPlayed > 0) {
+                    html += '<tr>';
+                    headers.forEach((category, index) => {
+                        if (index === 0) {
+                            html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
+                        } else {
+                            let results = countHits(filteredGames, category, 'pass_yds', player.name);
+                            html += returnHitsCellContent(results, category)
+                        }
+                    });
+                    html += '</tr>';
+                }
+            }
+        }
+    });
+
+    html += '</tbody></table>';
+    return html;
+}
+
+function returnHitsCellContent(results, category) {
+    let str = '';
+
+    if (results.percentage === 100) {
+        str += `<td class="perfect-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
+    } else if (results.percentage >= 75 && results.percentage < 100) { 
+        str += `<td class="strong-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
+    } else if (results.percentage >= 60 && results.percentage < 75) { 
+        str += `<td class="moderate-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
+    } else if (results.percentage >= 50 && results.percentage < 60) { 
+        str += `<td class="weak-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
+    } else if (results.percentage === 0 ) { 
+        str += `<td class="no-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
+    } else {
+        str += `<td class="very-bad-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
+    }
+
+    return str;
+}
+
+function countHits(yearGames, category, stat, playerName) {
+    let hits = 0;
+
+    for (let i = 0; i < yearGames.length; i++) {
+        let currentGame = yearGames[i];
+
+        if (playerName === '') {
+            if (category.match(/\+/)) {
+                let threshold = parseInt(category.match(/\d{1,3}/)[0], 10);
+                console.log(currentGame[stat], threshold);
+                if (currentGame[stat] >= threshold) {
+                    console.log('hit');
+                }
+
+                currentGame[stat] >= threshold ? hits++ : false;
+            } else {
+                let lower = parseInt(category.split('-')[0], 10);
+                let upper = parseInt(category.split('-')[1], 10);
+                console.log(currentGame[stat], lower, upper);
+                if (currentGame[stat] >= lower && currentGame[stat] <= upper) {
+                    console.log('hit');
+                }
+
+                (currentGame[stat] >= lower && currentGame[stat] <= upper) ? hits++ : false;
+            }
+        } else {
+            if (category.match(/\+/)) {
+                let threshold = parseInt(category.match(/\d{1,3}/)[0], 10);
+                currentGame[stat] >= threshold ? hits++ : false;
+            } else {
+                let lower = parseInt(category.split('-')[0], 10);
+                let upper = parseInt(category.split('-')[1], 10);
+                (currentGame[stat] >= lower && currentGame[stat] <= upper) ? hits++ : false;
+            }
+        }
+    }
+
+    return {
+        message: `${hits}/${yearGames.length} (${Math.round((hits / yearGames.length) * 100)}%)`,
+        percentage: Math.round((hits / yearGames.length) * 100),
+        hits: hits
+    };
+}
+
+
 function getStats(player) {
     for (let item in player) {
         const relevantStats = [];
@@ -368,3 +495,4 @@ async function countPlayers() {
 
 module.exports.getHomePage = getHomePage;
 module.exports.getPlayersPage = getPlayersPage;
+module.exports.getBettingLines = getBettingLines;

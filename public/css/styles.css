@@ -182,3 +182,33 @@ header a {
     text-decoration: none;
     cursor: pointer;
   }
+
+  .perfect-hit-rate {
+    color: #fff !important;
+    background-color: forestgreen !important;
+  }
+
+  .strong-hit-rate {
+    color: #fff !important;
+    background-color: lightgreen !important;
+  }
+
+  .moderate-hit-rate {
+    color: #000 !important;
+    background-color: cyan !important;
+  }
+
+  .weak-hit-rate {
+    color: #fff !important;
+    background-color: lightcoral !important;
+  }
+
+  .very-bad-hit-rate {
+    color: #fff !important;
+    background-color: red !important;
+  }
+
+  .no-hit-rate {
+    color: #000 !important;
+    background-color: #fff !important;
+  }

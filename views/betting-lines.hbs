@@ -1,0 +1,12 @@
+{{{table}}}
+<script src="/public/js/ui.js"></script>
+<script>
+    const allPlayers = {{{ json players }}}; // Use triple braces to avoid HTML escaping
+    const ui = new UI(allPlayers);
+    ui.addAllEventListeners();
+</script>
+<script>
+$(document).ready(function() {
+    $('#bettingLinesTable').DataTable();
+});
+</script>
