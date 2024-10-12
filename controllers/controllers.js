@@ -47,55 +47,156 @@ async function getBettingLines(req, res) {
     console.log('Loading betting lines page...');
 
     let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE']);
-    let table = createBettingLinesTable(allPlayers);
+    let passingTable = createBettingLinesTable(allPlayers.filter(player => player.position === 'QB'), 'passing');
+    let rushingTable = createBettingLinesTable(allPlayers.filter(player => player.position === 'RB' || player.position === 'QB'), 'rushing');
+    let receivingTable = createBettingLinesTable(allPlayers.filter(player => player.position === 'RB' || player.position === 'WR'), 'receiving');
 
     res.status(200).render('betting-lines', {
         layout: 'main',
         players: allPlayers,
-        table: table
+        passingTable,
+        rushingTable,
+        receivingTable
     })
 }
 
 
-function createBettingLinesTable(arr, pos) {
-    let html = '<table id="bettingLinesTable" class="table table-striped display">';
-    html += '<thead><tr>';
-
-    let headers = ['Player', '100+', '125+', '150+', '175+', '200+', '225+', '250+', '275+', '300+'];
-    headers.forEach(key => html += `<th scope="col">${key}</th>`);
-    html += '<tbody>';
-
+function createBettingLinesTable(arr, stat) {
     const currentYear = new Date().getFullYear();
     const septemberFirst = new Date(`${currentYear}-09-01`);
     const currentDate = new Date();
 
-    arr.forEach(player => {
-        if (player.position === 'QB') {
-            if (player.gameLogsByYear[String(currentYear)] !== undefined) {
-                const yearGames = player.gameLogsByYear[String(currentYear)];
+    let html = `<table id="${stat}-yards-table" class="table table-striped display">`;
+    html += '<thead><tr>';
+    let headers;
 
-                const filteredGames = yearGames.filter(game => {
-                    const gameDate = new Date(game.game_date);
-                    return gameDate >= septemberFirst && gameDate <= currentDate;
-                });
 
-                let gamesPlayed = filteredGames.length;
 
-                if (gamesPlayed > 0) {
-                    html += '<tr>';
-                    headers.forEach((category, index) => {
-                        if (index === 0) {
-                            html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
-                        } else {
-                            let results = countHits(filteredGames, category, 'pass_yds', player.name);
-                            html += returnHitsCellContent(results, category)
+    switch (stat) {
+        case 'passing':
+            headers = ['Player', '100+', '125+', '150+', '175+', '200+', '225+', '250+', '275+', '300+'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
+
+            arr.forEach(player => {
+                try {
+                    if (player.gameLogsByYear && player.gameLogsByYear[String(currentYear)] !== undefined) {
+                        const yearGames = player.gameLogsByYear[String(currentYear)];
+
+                        const filteredGames = yearGames.filter(game => {
+                            const gameDate = new Date(game.game_date);
+                            return gameDate >= septemberFirst && gameDate <= currentDate;
+                        });
+
+                        let gamesPlayed = filteredGames.length;
+
+                        if (gamesPlayed > 0) {
+                            html += '<tr>';
+                            switch (player.position) {
+                                case 'QB':
+                                    headers.forEach((category, index) => {
+                                        if (index === 0) {
+                                            html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
+                                        } else {
+                                            let results = countHits(filteredGames, category, 'pass_yds', player.name);
+                                            html += returnHitsCellContent(results, category)
+                                        }
+                                    });
+                                    break;
+                            }
+
+                            html += '</tr>';
                         }
-                    });
-                    html += '</tr>';
+                    }
+                } catch (e) {
+                    console.error('Error with ' + player.name + '\n' + e)
                 }
-            }
-        }
-    });
+            });
+            break;
+        case 'rushing':
+            headers = ['Player', '25+', '30+', '35+', '40+', '45+', '50+', '55+', '60+', '65+', '70+', '75+', '80+', '85+', '90+', '95+', '100+', '125+', '150+'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+
+            html += '<tbody>';
+            arr.forEach(player => {
+                try {
+                    if (player.gameLogsByYear && player.gameLogsByYear[String(currentYear)] !== undefined) {
+                        const yearGames = player.gameLogsByYear[String(currentYear)];
+
+                        const filteredGames = yearGames.filter(game => {
+                            const gameDate = new Date(game.game_date);
+                            return gameDate >= septemberFirst && gameDate <= currentDate;
+                        });
+
+                        let gamesPlayed = filteredGames.length;
+
+                        if (gamesPlayed > 0) {
+                            html += '<tr>';
+                            switch (player.position) {
+                                case 'RB':
+                                case 'QB':
+                                    headers.forEach((category, index) => {
+                                        if (index === 0) {
+                                            html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
+                                        } else {
+                                            let results = countHits(filteredGames, category, 'rush_yds', player.name);
+                                            html += returnHitsCellContent(results, category)
+                                        }
+                                    });
+                                    break;
+                            }
+
+                            html += '</tr>';
+                        }
+                    }
+                } catch (e) {
+                    console.error('Error with ' + player.name + '\n' + e)
+                }
+            });
+            break;
+        case 'receiving':
+            headers = ['Player', '25+', '30+', '35+', '40+', '45+', '50+', '55+', '60+', '65+', '70+', '75+', '80+', '85+', '90+', '95+', '100+', '125+', '150+'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
+
+            arr.forEach(player => {
+                try {
+                    if (player.gameLogsByYear && player.gameLogsByYear[String(currentYear)] !== undefined) {
+                        const yearGames = player.gameLogsByYear[String(currentYear)];
+
+                        const filteredGames = yearGames.filter(game => {
+                            const gameDate = new Date(game.game_date);
+                            return gameDate >= septemberFirst && gameDate <= currentDate;
+                        });
+
+                        let gamesPlayed = filteredGames.length;
+
+                        if (gamesPlayed > 0) {
+                            html += '<tr>';
+                            switch (player.position) {
+                                case 'WR':
+                                case 'RB':
+                                case 'TE':
+                                    headers.forEach((category, index) => {
+                                        if (index === 0) {
+                                            html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
+                                        } else {
+                                            let results = countHits(filteredGames, category, 'rec_yds', player.name);
+                                            html += returnHitsCellContent(results, category)
+                                        }
+                                    });
+                                    break;
+                            }
+
+                            html += '</tr>';
+                        }
+                    }
+                } catch (e) {
+                    console.error('Error with ' + player.name + '\n' + e)
+                }
+            });
+            break;
+    }
 
     html += '</tbody></table>';
     return html;
@@ -106,13 +207,13 @@ function returnHitsCellContent(results, category) {
 
     if (results.percentage === 100) {
         str += `<td class="perfect-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
-    } else if (results.percentage >= 75 && results.percentage < 100) { 
+    } else if (results.percentage >= 75 && results.percentage < 100) {
         str += `<td class="strong-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
-    } else if (results.percentage >= 60 && results.percentage < 75) { 
+    } else if (results.percentage >= 60 && results.percentage < 75) {
         str += `<td class="moderate-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
-    } else if (results.percentage >= 50 && results.percentage < 60) { 
+    } else if (results.percentage >= 50 && results.percentage < 60) {
         str += `<td class="weak-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
-    } else if (results.percentage === 0 ) { 
+    } else if (results.percentage === 0) {
         str += `<td class="no-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
     } else {
         str += `<td class="very-bad-hit-rate" data-threshold="${category.replace(/\+/, '_or_more')}">${results.message}</td>`;
@@ -127,7 +228,8 @@ function countHits(yearGames, category, stat, playerName) {
     for (let i = 0; i < yearGames.length; i++) {
         let currentGame = yearGames[i];
 
-        if (playerName === '') {
+        if (playerName === 'Caleb Williams') {
+            console.log(stat)
             if (category.match(/\+/)) {
                 let threshold = parseInt(category.match(/\d{1,3}/)[0], 10);
                 console.log(currentGame[stat], threshold);
@@ -164,7 +266,6 @@ function countHits(yearGames, category, stat, playerName) {
         hits: hits
     };
 }
-
 
 function getStats(player) {
     for (let item in player) {
