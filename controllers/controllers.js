@@ -47,16 +47,18 @@ async function getBettingLines(req, res) {
     console.log('Loading betting lines page...');
 
     let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE']);
-    let passingTable = createBettingLinesTable(allPlayers.filter(player => player.position === 'QB'), 'passing');
-    let rushingTable = createBettingLinesTable(allPlayers.filter(player => player.position === 'RB' || player.position === 'QB'), 'rushing');
-    let receivingTable = createBettingLinesTable(allPlayers.filter(player => player.position === 'RB' || player.position === 'WR'), 'receiving');
+    let passingTable = createBettingLinesTable(allPlayers, 'passing');
+    let rushingTable = createBettingLinesTable(allPlayers, 'rushing');
+    let receivingTable = createBettingLinesTable(allPlayers, 'receiving');
+    let receptionsTable = createBettingLinesTable(allPlayers, 'receptions');
 
     res.status(200).render('betting-lines', {
         layout: 'main',
         players: allPlayers,
         passingTable,
         rushingTable,
-        receivingTable
+        receivingTable,
+        receptionsTable,
     })
 }
 
@@ -66,11 +68,9 @@ function createBettingLinesTable(arr, stat) {
     const septemberFirst = new Date(`${currentYear}-09-01`);
     const currentDate = new Date();
 
-    let html = `<table id="${stat}-yards-table" class="table table-striped display">`;
+    let html = `<table id="${stat !== 'receptions' ? stat + '-yards' : stat}-table" class="table table-striped display">`;
     html += '<thead><tr>';
     let headers;
-
-
 
     switch (stat) {
         case 'passing':
@@ -91,9 +91,9 @@ function createBettingLinesTable(arr, stat) {
                         let gamesPlayed = filteredGames.length;
 
                         if (gamesPlayed > 0) {
-                            html += '<tr>';
                             switch (player.position) {
                                 case 'QB':
+                                    html += '<tr>';
                                     headers.forEach((category, index) => {
                                         if (index === 0) {
                                             html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
@@ -102,10 +102,10 @@ function createBettingLinesTable(arr, stat) {
                                             html += returnHitsCellContent(results, category)
                                         }
                                     });
+                                    html += '</tr>';
                                     break;
                             }
 
-                            html += '</tr>';
                         }
                     }
                 } catch (e) {
@@ -131,10 +131,11 @@ function createBettingLinesTable(arr, stat) {
                         let gamesPlayed = filteredGames.length;
 
                         if (gamesPlayed > 0) {
-                            html += '<tr>';
+
                             switch (player.position) {
                                 case 'RB':
                                 case 'QB':
+                                    html += '<tr>';
                                     headers.forEach((category, index) => {
                                         if (index === 0) {
                                             html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
@@ -143,10 +144,10 @@ function createBettingLinesTable(arr, stat) {
                                             html += returnHitsCellContent(results, category)
                                         }
                                     });
+                                    html += '</tr>';
                                     break;
                             }
 
-                            html += '</tr>';
                         }
                     }
                 } catch (e) {
@@ -172,11 +173,12 @@ function createBettingLinesTable(arr, stat) {
                         let gamesPlayed = filteredGames.length;
 
                         if (gamesPlayed > 0) {
-                            html += '<tr>';
+
                             switch (player.position) {
                                 case 'WR':
                                 case 'RB':
                                 case 'TE':
+                                    html += '<tr>';
                                     headers.forEach((category, index) => {
                                         if (index === 0) {
                                             html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
@@ -185,10 +187,53 @@ function createBettingLinesTable(arr, stat) {
                                             html += returnHitsCellContent(results, category)
                                         }
                                     });
+                                    html += '</tr>';
                                     break;
                             }
 
-                            html += '</tr>';
+
+                        }
+                    }
+                } catch (e) {
+                    console.error('Error with ' + player.name + '\n' + e)
+                }
+            });
+            break;
+        case 'receptions':
+            headers = ['Player', '1+', '2+', '3+', '4+', '5+', '6+', '7+', '8+', '9+', '10+'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
+
+            arr.forEach(player => {
+                try {
+                    if (player.gameLogsByYear && player.gameLogsByYear[String(currentYear)] !== undefined) {
+                        const yearGames = player.gameLogsByYear[String(currentYear)];
+
+                        const filteredGames = yearGames.filter(game => {
+                            const gameDate = new Date(game.game_date);
+                            return gameDate >= septemberFirst && gameDate <= currentDate;
+                        });
+
+                        let gamesPlayed = filteredGames.length;
+
+                        if (gamesPlayed > 0) {
+                            switch (player.position) {
+                                case 'WR':
+                                case 'RB':
+                                case 'TE':
+                                    html += '<tr>';
+                                    headers.forEach((category, index) => {
+                                        if (index === 0) {
+                                            html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
+                                        } else {
+                                            let results = countHits(filteredGames, category, 'rec', player.name);
+                                            html += returnHitsCellContent(results, category)
+                                        }
+                                    });
+                                    html += '</tr>';
+                                    break;
+                            }
+
                         }
                     }
                 } catch (e) {
