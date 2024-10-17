@@ -273,7 +273,7 @@ function countHits(yearGames, category, stat, playerName) {
     for (let i = 0; i < yearGames.length; i++) {
         let currentGame = yearGames[i];
 
-        if (playerName === 'Caleb Williams') {
+        if (playerName === '') {
             console.log(stat)
             if (category.match(/\+/)) {
                 let threshold = parseInt(category.match(/\d{1,3}/)[0], 10);
