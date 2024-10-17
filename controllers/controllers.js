@@ -274,7 +274,7 @@ function countHits(yearGames, category, stat, playerName) {
         let currentGame = yearGames[i];
 
         if (playerName === '') {
-            console.log(stat)
+            // console.log(stat)
             if (category.match(/\+/)) {
                 let threshold = parseInt(category.match(/\d{1,3}/)[0], 10);
                 console.log(currentGame[stat], threshold);
