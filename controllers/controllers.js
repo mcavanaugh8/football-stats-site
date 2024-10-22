@@ -7,6 +7,7 @@ const mongoose = require('mongoose');
 const moment = require('moment-timezone')
 
 const dbServices = require('../controllers/dbServices');
+const { defenseStats } = require('../testData/teamStats')
 
 /**
  * router.get('/')
@@ -40,6 +41,27 @@ async function getPlayersPage(req, res) {
 }
 
 /**
+ * router.get('/matchup-data')
+ */
+async function getMatchupData(req, res) {
+    console.log('Loading players page...');
+
+    // let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
+    let allPlayers = await dbServices.getPlayers(['QB'])
+    allPlayers = allPlayers.find(player => player.name === 'Justin Fields')
+    // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Justin Fields')));
+    // console.log(allPlayers.find(player => player.name === 'Justin Fields'))
+
+    const matchupDataTable = createMatchupData([allPlayers])
+
+    res.status(200).render('matchup-data', {
+        layout: 'main',
+        players: allPlayers,
+        matchupDataTable: matchupDataTable
+    })
+}
+
+/**
  * router.get('/betting-lines')
  */
 
@@ -62,6 +84,69 @@ async function getBettingLines(req, res) {
     })
 }
 
+
+function createMatchupData(arr) {
+    const currentYear = new Date().getFullYear();
+    const septemberFirst = new Date(`${currentYear}-09-01`);
+    const currentDate = new Date();
+
+    let html = `<table id="matchup-data-table" class="table table-striped display">`;
+    html += '<thead><tr>';
+    let headers;
+
+    headers = ['Team', 'Receptions', 'Rec Yards', 'Rec TD', 'Rushes', 'Rush Yards', 'Rush TD', 'Pass Completions', 'Pass Yards', 'Pass TD'];
+    headers.forEach(key => html += `<th scope="col">${key}</th>`);
+    html += '<tbody>';
+
+    arr.forEach(player => {
+        try {
+            if (player.gameLogsByYear && player.gameLogsByYear[String(currentYear)] !== undefined) {
+                const yearGames = player.gameLogsByYear[String(currentYear)];
+
+                const filteredGames = yearGames.filter(game => {
+                    const gameDate = new Date(game.game_date);
+                    return gameDate >= septemberFirst && gameDate <= currentDate;
+                });
+
+                let gamesPlayed = filteredGames.length;
+
+                if (gamesPlayed > 0) {
+                    switch (player.position) {
+                        case 'QB':
+                            console.log(getDataPointAverages(filteredGames, gamesPlayed, player, 'advanced_rushing_and_receiving'))
+                            // html += '<tr>';
+                            // headers.forEach((category, index) => {
+                            //     if (index === 0) {
+                            //         html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
+                            //     } else {
+                            //         let results = countHits(filteredGames, category, 'pass_yds', player.name);
+                            //         html += returnHitsCellContent(results, category)
+                            //     }
+                            // });
+                            // html += '</tr>';
+                            break;
+                    }
+
+                }
+            }
+        } catch (e) {
+            console.error('Error with ' + player.name + '\n' + e)
+        }
+    });
+
+    html += '</tbody></table>';
+    return html;
+}
+
+function getDataPointAverages(games, gamesPlayed, player, dataPoint) {
+    let obj = {};
+
+    games.forEach(game => {
+        console.log(game)
+    });
+
+    return obj;
+}
 
 function createBettingLinesTable(arr, stat) {
     const currentYear = new Date().getFullYear();
@@ -642,3 +727,4 @@ async function countPlayers() {
 module.exports.getHomePage = getHomePage;
 module.exports.getPlayersPage = getPlayersPage;
 module.exports.getBettingLines = getBettingLines;
+module.exports.getMatchupData = getMatchupData;
