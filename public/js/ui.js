@@ -308,7 +308,7 @@ class UI {
                 playerCard.style.fontWeight = 'bolder';
                 break;
             case 'TB':
-            case 'Tamba Bay Buccaneers':
+            case 'Tampa Bay Buccaneers':
                 playerCard.style.backgroundColor = 'rgba(204,65,37,1)';
                 playerCard.style.color = '#FFF';
                 playerCard.style.fontWeight = 'bolder';
