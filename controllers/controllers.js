@@ -64,7 +64,7 @@ async function getMatchupData(req, res) {
     // const overallMatchupDataTable = createMatchupData([allPlayers], 'overall')
 
     const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
-    const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.pos === 'WR'), 'WR')
+    const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'WR'), 'WR')
 
     res.status(200).render('matchup-data', {
         layout: 'main',
@@ -152,6 +152,7 @@ function createMatchupData(arr, type) {
                     if (index === 0) {
                         html += `<td class="team-name" data-threshold="${team.team}">${team.team}</td>`;
                     } else {
+
                         switch (category) {
                             case 'Receptions':
                             case 'Pass Completions':
@@ -218,23 +219,39 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
     let playerCount = 0;
 
     arr.forEach(player => {
-        const yearGames = player.gameLogsByYear[String(currentYear)];
-        const filteredGames = yearGames.filter(game => {
-            const gameDate = new Date(game.game_date);
-            return gameDate >= septemberFirst && gameDate <= currentDate;
-        });
+        if (player.name === 'Aaron Rodgers') {
+            console.log(player)
+        }
 
-        player.gameLogsByYear[new Date().getFullYear()].forEach(game => {
-            if (game.opp.toLowerCase() === team) {
-                const playerAvgStat = player.averages[`avg_${stat}`];
-                const gameStat = game[stat];
+        if (player.gameLogsByYear) {
+            const yearGames = player.gameLogsByYear[String(currentYear)];
 
-                if (playerAvgStat && gameStat !== undefined) {
-                    totalDeviation += (gameStat - playerAvgStat);
-                    playerCount++;
+            if (yearGames && yearGames.length > 0) {
+                try {
+                    const filteredGames = yearGames.filter(game => {
+                        const gameDate = new Date(game.game_date);
+                        return gameDate >= septemberFirst && gameDate <= currentDate;
+                    });
+            
+                    filteredGames.forEach(game => {
+                        if (game.opp.toLowerCase() === team) {
+                            const playerAvgStat = player.averages[`avg_${stat}`];
+                            const gameStat = game[stat];
+            
+                            if (playerAvgStat && gameStat !== undefined) {
+                                totalDeviation += (gameStat - playerAvgStat);
+                                playerCount++;
+                            }
+                        }
+                    });
+                } catch (e) {
+                    console.log(`error with: ${player.name}... skipping`)
+                    // console.log(player)
+                    // console.log(e)
                 }
             }
-        });
+        }
+
     });
 
     return playerCount > 0 ? (totalDeviation / playerCount).toFixed(2) : 0;
