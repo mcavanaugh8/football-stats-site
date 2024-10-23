@@ -13,10 +13,10 @@ const PORT = process.env.PORT || 3000;
 
 const uri = `mongodb+srv://${process.env.MONGODB_USERNAME}:${process.env.MONGODB_PASSWORD}@football-stats-data.vdolk.mongodb.net/football_data?retryWrites=true&w=majority&appName=football-stats-data`;
 
-mongoose.connect(uri, {
-    dbName: 'football_data',
-  })
-  .then((result) => {
+// mongoose.connect(uri, {
+//     dbName: 'football_data',
+//   })
+//   .then((result) => {
     console.log('Connected to DB!');
   
     app.use(express.json()); 
@@ -48,7 +48,7 @@ mongoose.connect(uri, {
       });
       app.listen(PORT, () => console.log(`Server running in ${process.env.NODE_ENV} mode on port ${PORT}`));
     
-      })
-  .catch((err) => {
-    console.error('ERR: Failed to connect to DB:', err);
-  });
+      // })
+  // .catch((err) => {
+  //   console.error('ERR: Failed to connect to DB:', err);
+  // });

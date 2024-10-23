@@ -44,11 +44,21 @@ async function getPlayersPage(req, res) {
  * router.get('/matchup-data')
  */
 async function getMatchupData(req, res) {
-    console.log('Loading players page...');
+    console.log('Loading matchup data page...');
 
     // let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
-    let allPlayers = await dbServices.getPlayers(['QB'])
-    allPlayers = allPlayers.find(player => player.name === 'Justin Fields')
+    const allPlayerFiles = fs.readdirSync(path.resolve('.', 'testData', 'players'));
+    const folderPath = path.resolve('.', 'testData', 'players');
+    let allPlayers = [];
+
+    for (const file of allPlayerFiles) {
+        if (file !== '.DS_Store') {
+            let data = fs.readFileSync(path.join(folderPath, file), 'utf8');
+            allPlayers.push(JSON.parse(data))
+        }
+    }
+
+    allPlayers = allPlayers.find(player => player.player === 'Justin Fields')
     // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Justin Fields')));
     // console.log(allPlayers.find(player => player.name === 'Justin Fields'))
 
@@ -98,41 +108,40 @@ function createMatchupData(arr) {
     headers.forEach(key => html += `<th scope="col">${key}</th>`);
     html += '<tbody>';
 
-    arr.forEach(player => {
-        try {
-            if (player.gameLogsByYear && player.gameLogsByYear[String(currentYear)] !== undefined) {
-                const yearGames = player.gameLogsByYear[String(currentYear)];
+    defenseStats.forEach(team => {
+        html += '<tr>';
 
-                const filteredGames = yearGames.filter(game => {
-                    const gameDate = new Date(game.game_date);
-                    return gameDate >= septemberFirst && gameDate <= currentDate;
-                });
-
-                let gamesPlayed = filteredGames.length;
-
-                if (gamesPlayed > 0) {
-                    switch (player.position) {
-                        case 'QB':
-                            console.log(getDataPointAverages(filteredGames, gamesPlayed, player, 'advanced_rushing_and_receiving'))
-                            // html += '<tr>';
-                            // headers.forEach((category, index) => {
-                            //     if (index === 0) {
-                            //         html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
-                            //     } else {
-                            //         let results = countHits(filteredGames, category, 'pass_yds', player.name);
-                            //         html += returnHitsCellContent(results, category)
-                            //     }
-                            // });
-                            // html += '</tr>';
-                            break;
-                    }
-
+        headers.forEach((category, index) => {
+            if (index === 0) {
+                html += `<td class="team-name" data-team="${team.team}">${team.team}</td>`;
+            } else {
+                switch (category) {
+                    case 'Receptions':
+                    case 'Pass Completions':
+                        html += `<td data-team="${team.pass_cmp}">${team.pass_cmp}</td>`;
+                        break;
+                    case 'Rec Yards':
+                    case 'Pass Yards':
+                        html += `<td data-team="${team.pass_yds}">${team.pass_yds}</td>`;
+                        break;
+                    case 'Pass TD':
+                    case 'Rec TD':
+                        html += `<td data-team="${team.pass_td}">${team.pass_td}</td>`;
+                        break;
+                    case 'Rush Yards':
+                        html += `<td data-team="${team.rush_yds}">${team.rush_yds}</td>`;
+                        break;
+                    case 'Rushes':
+                        html += `<td data-team="${team.rush_att}">${team.rush_att}</td>`;
+                        break;
+                    case 'Rush TD':
+                        html += `<td data-team="${team.rush_td}">${team.rush_td}</td>`;
+                        break;
                 }
             }
-        } catch (e) {
-            console.error('Error with ' + player.name + '\n' + e)
-        }
-    });
+        });
+        html += '</tr>';
+    })
 
     html += '</tbody></table>';
     return html;
@@ -528,7 +537,7 @@ function createTableFromArray(arr, type) {
     return html;
 }
 
-function formatPlayerCards(playerCard) {
+function formatTeamCells(playerCard) {
     switch (playerCard.team) {
         case 'JAX':
             playerCard.backgroundColor = '#45818e';
