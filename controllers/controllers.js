@@ -7,7 +7,7 @@ const mongoose = require('mongoose');
 const moment = require('moment-timezone')
 
 const dbServices = require('../controllers/dbServices');
-const { defenseStats } = require('../testData/teamStats')
+const { defenseStats } = require('../teamStats')
 
 const currentYear = new Date().getFullYear();
 const septemberFirst = new Date(`${currentYear}-09-01`);
@@ -50,21 +50,20 @@ async function getPlayersPage(req, res) {
 async function getMatchupData(req, res) {
     console.log('Loading matchup data page...');
 
-    // let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
-    const allPlayerFiles = fs.readdirSync(path.resolve('.', 'testData', 'players'));
-    const folderPath = path.resolve('.', 'testData', 'players');
-    let allPlayers = [];
+    let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
+    
+    // const allPlayerFiles = fs.readdirSync(path.resolve('.', 'testData', 'players'));
+    // const folderPath = path.resolve('.', 'testData', 'players');
+    // let allPlayers = [];
+    // for (const file of allPlayerFiles) {
+    //     if (file !== '.DS_Store') {
+    //         let data = fs.readFileSync(path.join(folderPath, file), 'utf8');
+    //         allPlayers.push(JSON.parse(data))
+    //     }
+    // }
+    // const overallMatchupDataTable = createMatchupData([allPlayers], 'overall')
 
-    for (const file of allPlayerFiles) {
-        if (file !== '.DS_Store') {
-            let data = fs.readFileSync(path.join(folderPath, file), 'utf8');
-            allPlayers.push(JSON.parse(data))
-        }
-    }
-    // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Justin Fields')));
-    // console.log(allPlayers.find(player => player.name === 'Justin Fields'))
-
-    const overallMatchupDataTable = createMatchupData([allPlayers], 'overall')
+    const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
     const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.pos === 'WR'), 'WR')
 
     res.status(200).render('matchup-data', {
