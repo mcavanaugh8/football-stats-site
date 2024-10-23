@@ -9,6 +9,10 @@ const moment = require('moment-timezone')
 const dbServices = require('../controllers/dbServices');
 const { defenseStats } = require('../testData/teamStats')
 
+const currentYear = new Date().getFullYear();
+const septemberFirst = new Date(`${currentYear}-09-01`);
+const currentDate = new Date();
+
 /**
  * router.get('/')
  */
@@ -96,10 +100,6 @@ async function getBettingLines(req, res) {
 
 
 function createMatchupData(arr, type) {
-    const currentYear = new Date().getFullYear();
-    const septemberFirst = new Date(`${currentYear}-09-01`);
-    const currentDate = new Date();
-
     const teams = [
         'atl',
         'buf',
@@ -130,7 +130,7 @@ function createMatchupData(arr, type) {
         'bal',
         'lac',
         'sea',
-        'sfo',
+        'sf',
         'tam',
         'was'];
 
@@ -151,29 +151,29 @@ function createMatchupData(arr, type) {
 
                 headers.forEach((category, index) => {
                     if (index === 0) {
-                        html += `<td class="team-name" data-team="${team.team}">${team.team}</td>`;
+                        html += `<td class="team-name" data-threshold="${team.team}">${team.team}</td>`;
                     } else {
                         switch (category) {
                             case 'Receptions':
                             case 'Pass Completions':
-                                html += `<td data-team="${team.pass_cmp}">${team.pass_cmp}</td>`;
+                                html += `<td data-threshold="pass_cmp">${team.pass_cmp}</td>`;
                                 break;
                             case 'Rec Yards':
                             case 'Pass Yards':
-                                html += `<td data-team="${team.pass_yds}">${team.pass_yds}</td>`;
+                                html += `<td data-threshold="pass_yds">${team.pass_yds}</td>`;
                                 break;
                             case 'Pass TD':
                             case 'Rec TD':
-                                html += `<td data-team="${team.pass_td}">${team.pass_td}</td>`;
+                                html += `<td data-threshold="pass_td">${team.pass_td}</td>`;
                                 break;
                             case 'Rush Yards':
-                                html += `<td data-team="${team.rush_yds}">${team.rush_yds}</td>`;
+                                html += `<td data-threshold="rush_yds">${team.rush_yds}</td>`;
                                 break;
                             case 'Rushes':
-                                html += `<td data-team="${team.rush_att}">${team.rush_att}</td>`;
+                                html += `<td data-threshold="rush_arr">${team.rush_att}</td>`;
                                 break;
                             case 'Rush TD':
-                                html += `<td data-team="${team.rush_td}">${team.rush_td}</td>`;
+                                html += `<td data-threshold="rush_td">${team.rush_td}</td>`;
                                 break;
                         }
                     }
@@ -184,39 +184,25 @@ function createMatchupData(arr, type) {
             html += '</tbody></table>';
             break;
         case 'WR':
-            html = `<table id="overall-matchup-data-table" class="table table-striped display">`;
+            html = `<table id="wr-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
-            headers = ['Team', 'Receptions', 'Deviation', 'Rec TD', 'Deviation'];
+            headers = ['Team', 'Receptions', 'Deviation', 'Rec Yards', 'Deviation', 'Rec TD', 'Deviation'];
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
             teams.forEach(team => {
+                // console.log(team)
+                const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
+                // console.log(teamDefenseObj)
                 html += '<tr>';
-
-                const recDeviation = [];
-                const recYardsDeviation = [];
-                // const recTDDeviation = [];
-
-                arr.forEach(player => {
-                    player.gameLogsByYear[currentYear].forEach(game => {
-                        if (game.opp.toLowerCase() === team) {
-                            !!(Number(player.averages.avg_rec) - Number(game.rec)) ? recDeviation.push(Number(player.averages.avg_rec) - Number(game.rec)) : false;
-                           !!(Number(player.averages.avg_rec_yds) - Number(game.rec_yds)) ? recYardsDeviation.push(Number(player.averages.avg_rec_yds) - Number(game.rec_yds)) : false;
-                            // !!(Number(player.averages.avg_rec_td) - Number(game.rec_td)) ? recTDDeviation.push(Number(player.averages.avg_rec_td) - Number(game.rec_td)) : false;
-                        }
-                    })
-                });
-
-                console.log(team)
-                console.log(recDeviation)
-                console.log(recYardsDeviation)
-                // console.log(recTDDeviation)
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
-                html += `<td data-type="rec-deviation">${findAverage(recDeviation)}</td>`;
-                html += `<td data-type="rec-deviation">${findAverage(recDeviation)}</td>`;
-                html += `<td data-type="rec-yd-deviation"> ${findAverage(recYardsDeviation)}</td>`;
-                // html += `<td data-type="rec-tds-deviation">${findAverage(recTDDeviation)}</td>`;
+                html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj['pass_cmp']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
+                html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj['pass_yds']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
+                html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj['pass_td']) / Number(teamDefenseObj['g']) * 100) / 100}</td>`;
+                html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
                 html += '</tr>';
             })
 
@@ -227,20 +213,35 @@ function createMatchupData(arr, type) {
     return html;
 }
 
-function getDeviations() {
-    let obj = {};
+function calculateTeamDeviation(arr, currentYear, team, stat) {
 
-    games.forEach(game => {
-        console.log(game)
+    let totalDeviation = 0;
+    let playerCount = 0;
+
+    arr.forEach(player => {
+        const yearGames = player.gameLogsByYear[String(currentYear)];
+        const filteredGames = yearGames.filter(game => {
+            const gameDate = new Date(game.game_date);
+            return gameDate >= septemberFirst && gameDate <= currentDate;
+        });
+
+        player.gameLogsByYear[new Date().getFullYear()].forEach(game => {
+            if (game.opp.toLowerCase() === team) {
+                const playerAvgStat = player.averages[`avg_${stat}`];
+                const gameStat = game[stat];
+
+                if (playerAvgStat && gameStat !== undefined) {
+                    totalDeviation += (gameStat - playerAvgStat);
+                    playerCount++;
+                }
+            }
+        });
     });
 
-    return obj;
+    return playerCount > 0 ? (totalDeviation / playerCount).toFixed(2) : 0;
 }
 
 function createBettingLinesTable(arr, stat) {
-    const currentYear = new Date().getFullYear();
-    const septemberFirst = new Date(`${currentYear}-09-01`);
-    const currentDate = new Date();
 
     let html = `<table id="${stat !== 'receptions' ? stat + '-yards' : stat}-table" class="table table-striped display">`;
     html += '<thead><tr>';
@@ -810,8 +811,16 @@ async function countPlayers() {
     }
 }
 
-function findAverage(array) {
-    return array.reduce((a, b) => a + b) / array.length;
+function calculateDeviation(playerAvg, gameStat) {
+    return (playerAvg - gameStat).toFixed(2);
+}
+
+function calculateTeamEffect(teamAvg, playerAvg) {
+    return (teamAvg - playerAvg).toFixed(2);
+}
+
+function findAverage(arr) {
+    return (arr.reduce((a, b) => a + b, 0) / arr.length).toFixed(2);
 }
 
 function getTeamByAbbreviation(str) {
@@ -915,7 +924,7 @@ function getTeamByAbbreviation(str) {
             break;
         case 'TB':
         case 'TAM':
-            team = 'Tamba Bay Buccaneers';
+            team = 'Tampa Bay Buccaneers';
             break;
         case 'SEA':
             team = 'Seattle Seahawks';
