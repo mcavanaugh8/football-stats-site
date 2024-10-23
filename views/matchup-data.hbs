@@ -1,21 +1,32 @@
 <div class="container"></div>
-    <!-- Tab Navigation -->
-    <ul class="nav nav-tabs" id="bettingTabs" role="tablist">
-        <li class="nav-item">
-            <a class="nav-link active" id="overall-matchup-tab" data-bs-toggle="tab" href="#overall-matchup" role="tab"
-                aria-controls="overall-matchup" aria-selected="true">Overall Defensive Data</a>
-        </li>
-    </ul>
+<!-- Tab Navigation -->
+<ul class="nav nav-tabs" id="bettingTabs" role="tablist">
+    <li class="nav-item">
+        <a class="nav-link active" id="wr-matchup-tab" data-bs-toggle="tab" href="#overall-matchup" role="tab"
+            aria-controls="overall-matchup" aria-selected="true">Overall Defensive Data</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" id="wr-matchup-tab" data-bs-toggle="tab" href="#wr-matchup" role="tab"
+            aria-controls="wr-matchup" aria-selected="true">WR Matchup Data</a>
+    </li>
+</ul>
 
-        <!-- Tab Content -->
-    <div class="tab-content" id="bettingTabsContent">
-        <!-- Overall Matchup Data Tab Content -->
-        <div class="tab-pane fade show active" id="overall-matchup" role="tabpanel" aria-labelledby="overall-matchup-tab">
-            <div class="overall-matchup-data" id="overallMatchupData">
-        {{{ matchupDataTable }}}
-    </div>
+<!-- Tab Content -->
+<div class="tab-content" id="matchupTabsContent">
+    <!-- Overall Matchup Data Tab Content -->
+    <div class="tab-pane fade show active" id="overall-matchup" role="tabpanel" aria-labelledby="overall-matchup-tab">
+        <div class="overall-matchup-data" id="overallMatchupData">
+            {{{ overallMatchupDataTable }}}
         </div>
     </div>
+
+    <!-- WR Matchup Data Tab Content -->
+    <div class="tab-pane fade show active" id="wr-matchup" role="tabpanel" aria-labelledby="wr-matchup-tab">
+        <div class="wr-matchup-data" id="wrMatchupData">
+            {{{ wrMatchupDataTable }}}
+        </div>
+    </div>
+</div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
@@ -34,12 +45,15 @@
     ui.addAllEventListeners();
 </script>
 <script>
-$(document).ready(function () {
-    $('#matchup-data-table').DataTable();
-});
+    $(document).ready(function () {
+        $(
+            '#overall-matchup-data-table',
+            '#wr-matchup-data-table',
+        ).DataTable();
+    });
 
-$('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-    $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
-});
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+    });
 
 </script>

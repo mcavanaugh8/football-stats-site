@@ -57,17 +57,17 @@ async function getMatchupData(req, res) {
             allPlayers.push(JSON.parse(data))
         }
     }
-
-    allPlayers = allPlayers.find(player => player.player === 'Justin Fields')
     // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Justin Fields')));
     // console.log(allPlayers.find(player => player.name === 'Justin Fields'))
 
-    const matchupDataTable = createMatchupData([allPlayers])
+    const overallMatchupDataTable = createMatchupData([allPlayers], 'overall')
+    const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.pos === 'WR'), 'WR')
 
     res.status(200).render('matchup-data', {
         layout: 'main',
         players: allPlayers,
-        matchupDataTable: matchupDataTable
+        overallMatchupDataTable: overallMatchupDataTable,
+        wrMatchupDataTable: wrMatchupDataTable,
     })
 }
 
@@ -95,59 +95,139 @@ async function getBettingLines(req, res) {
 }
 
 
-function createMatchupData(arr) {
+function createMatchupData(arr, type) {
     const currentYear = new Date().getFullYear();
     const septemberFirst = new Date(`${currentYear}-09-01`);
     const currentDate = new Date();
 
-    let html = `<table id="matchup-data-table" class="table table-striped display">`;
-    html += '<thead><tr>';
+    const teams = [
+        'atl',
+        'buf',
+        'car',
+        'chi',
+        'cin',
+        'cle',
+        'ind',
+        'ari',
+        'dal',
+        'den',
+        'det',
+        'gnb',
+        'hou',
+        'jax',
+        'kan',
+        'mia',
+        'min',
+        'nor',
+        'nwe',
+        'nyg',
+        'nyj',
+        'ten',
+        'phi',
+        'pit',
+        'lvr',
+        'lar',
+        'bal',
+        'lac',
+        'sea',
+        'sfo',
+        'tam',
+        'was'];
+
+    let html = '';
     let headers;
 
-    headers = ['Team', 'Receptions', 'Rec Yards', 'Rec TD', 'Rushes', 'Rush Yards', 'Rush TD', 'Pass Completions', 'Pass Yards', 'Pass TD'];
-    headers.forEach(key => html += `<th scope="col">${key}</th>`);
-    html += '<tbody>';
+    switch (type) {
+        case 'overall':
+            html = `<table id="overall-matchup-data-table" class="table table-striped display">`;
+            html += '<thead><tr>';
 
-    defenseStats.forEach(team => {
-        html += '<tr>';
+            headers = ['Team', 'Receptions', 'Rec Yards', 'Rec TD', 'Rushes', 'Rush Yards', 'Rush TD', 'Pass Completions', 'Pass Yards', 'Pass TD'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
 
-        headers.forEach((category, index) => {
-            if (index === 0) {
-                html += `<td class="team-name" data-team="${team.team}">${team.team}</td>`;
-            } else {
-                switch (category) {
-                    case 'Receptions':
-                    case 'Pass Completions':
-                        html += `<td data-team="${team.pass_cmp}">${team.pass_cmp}</td>`;
-                        break;
-                    case 'Rec Yards':
-                    case 'Pass Yards':
-                        html += `<td data-team="${team.pass_yds}">${team.pass_yds}</td>`;
-                        break;
-                    case 'Pass TD':
-                    case 'Rec TD':
-                        html += `<td data-team="${team.pass_td}">${team.pass_td}</td>`;
-                        break;
-                    case 'Rush Yards':
-                        html += `<td data-team="${team.rush_yds}">${team.rush_yds}</td>`;
-                        break;
-                    case 'Rushes':
-                        html += `<td data-team="${team.rush_att}">${team.rush_att}</td>`;
-                        break;
-                    case 'Rush TD':
-                        html += `<td data-team="${team.rush_td}">${team.rush_td}</td>`;
-                        break;
-                }
-            }
-        });
-        html += '</tr>';
-    })
+            defenseStats.forEach(team => {
+                html += '<tr>';
 
-    html += '</tbody></table>';
+                headers.forEach((category, index) => {
+                    if (index === 0) {
+                        html += `<td class="team-name" data-team="${team.team}">${team.team}</td>`;
+                    } else {
+                        switch (category) {
+                            case 'Receptions':
+                            case 'Pass Completions':
+                                html += `<td data-team="${team.pass_cmp}">${team.pass_cmp}</td>`;
+                                break;
+                            case 'Rec Yards':
+                            case 'Pass Yards':
+                                html += `<td data-team="${team.pass_yds}">${team.pass_yds}</td>`;
+                                break;
+                            case 'Pass TD':
+                            case 'Rec TD':
+                                html += `<td data-team="${team.pass_td}">${team.pass_td}</td>`;
+                                break;
+                            case 'Rush Yards':
+                                html += `<td data-team="${team.rush_yds}">${team.rush_yds}</td>`;
+                                break;
+                            case 'Rushes':
+                                html += `<td data-team="${team.rush_att}">${team.rush_att}</td>`;
+                                break;
+                            case 'Rush TD':
+                                html += `<td data-team="${team.rush_td}">${team.rush_td}</td>`;
+                                break;
+                        }
+                    }
+                });
+                html += '</tr>';
+            })
+
+            html += '</tbody></table>';
+            break;
+        case 'WR':
+            html = `<table id="overall-matchup-data-table" class="table table-striped display">`;
+            html += '<thead><tr>';
+
+            headers = ['Team', 'Receptions', 'Deviation', 'Rec TD', 'Deviation'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
+
+            teams.forEach(team => {
+                html += '<tr>';
+
+                const recDeviation = [];
+                const recYardsDeviation = [];
+                // const recTDDeviation = [];
+
+                arr.forEach(player => {
+                    player.gameLogsByYear[currentYear].forEach(game => {
+                        if (game.opp.toLowerCase() === team) {
+                            !!(Number(player.averages.avg_rec) - Number(game.rec)) ? recDeviation.push(Number(player.averages.avg_rec) - Number(game.rec)) : false;
+                           !!(Number(player.averages.avg_rec_yds) - Number(game.rec_yds)) ? recYardsDeviation.push(Number(player.averages.avg_rec_yds) - Number(game.rec_yds)) : false;
+                            // !!(Number(player.averages.avg_rec_td) - Number(game.rec_td)) ? recTDDeviation.push(Number(player.averages.avg_rec_td) - Number(game.rec_td)) : false;
+                        }
+                    })
+                });
+
+                console.log(team)
+                console.log(recDeviation)
+                console.log(recYardsDeviation)
+                // console.log(recTDDeviation)
+                html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
+                html += `<td data-type="rec-deviation">${findAverage(recDeviation)}</td>`;
+                html += `<td data-type="rec-deviation">${findAverage(recDeviation)}</td>`;
+                html += `<td data-type="rec-yd-deviation"> ${findAverage(recYardsDeviation)}</td>`;
+                // html += `<td data-type="rec-tds-deviation">${findAverage(recTDDeviation)}</td>`;
+                html += '</tr>';
+            })
+
+            html += '</tbody></table>';
+            break;
+    }
+
     return html;
 }
 
-function getDataPointAverages(games, gamesPlayed, player, dataPoint) {
+function getDeviations() {
     let obj = {};
 
     games.forEach(game => {
@@ -728,6 +808,121 @@ async function countPlayers() {
     } catch (error) {
         console.error('Error counting players:', error);
     }
+}
+
+function findAverage(array) {
+    return array.reduce((a, b) => a + b) / array.length;
+}
+
+function getTeamByAbbreviation(str) {
+    let team = '';
+    switch (str.toUpperCase()) {
+        case 'JAX':
+            team = 'Jacksonville Jaguars'
+            break;
+        case 'NYJ':
+            team = 'New York Jets';
+            break;
+        case 'SF':
+            team = 'San Francisco 49ers';
+            break;
+        case 'ATL':
+            team = 'Atlanta Falcons';
+            break;
+        case 'CIN':
+            team = 'Cincinnati Bengals';
+            break;
+        case 'MIA':
+            team = 'Miami Dolphins';
+            break;
+        case 'DET':
+            team = 'Detroit Lions';
+            break;
+        case 'CAR':
+            team = 'Carolina Panthers';
+            break;
+        case 'DEN':
+            team = 'Denver Broncos';
+            break;
+        case 'DAL':
+            team = 'Dallas Cowboys';
+            break;
+        case 'NYG':
+            team = 'New York Giants';
+            break;
+        case 'PHI':
+            team = 'Philadelphia Eagles';
+            break;
+        case 'LAC':
+            team = 'Los Angeles Chargers';
+            break;
+        case 'MIN':
+            team = 'Minnesota Vikings';
+            break;
+        case 'NE':
+        case 'NWE':
+            team = 'New England Patriots';
+            break;
+        case 'ARI':
+            team = 'Arizona Cardinals';
+            break;
+        case 'LV':
+        case 'LVR':
+            team = 'Las Vegas Raiders';
+            break;
+        case 'WAS':
+            team = 'Washington Commanders';
+            break;
+        case 'CHI':
+            team = 'Chicago Bears';
+            break;
+        case 'IND':
+            team = 'Indianapolis Colts';
+            break;
+        case 'TEN':
+            team = 'Tennessee Titans';
+            break;
+        case 'PIT':
+            team = 'Pittsburgh Steelers';
+            break;
+        case 'CLE':
+            team = 'Cleveland Browns';
+            break;
+        case 'BAL':
+            team = 'Baltimore Ravens';
+            break;
+        case 'NO':
+        case 'NOR':
+            team = 'New Orleans Saints';
+            break;
+        case 'GB':
+        case 'GNB':
+            team = 'Green Bay Packers';
+            break;
+        case 'BUF':
+            team = 'Buffalo Bills';
+            break;
+        case 'HOU':
+        case 'HTX':
+            team = 'Houston Texans';
+            break;
+        case 'KC':
+        case 'KAN':
+            team = 'Kansas City Chiefs';
+            break;
+        case 'LAR':
+            team = 'Los Angeles Rams';
+            break;
+        case 'TB':
+        case 'TAM':
+            team = 'Tamba Bay Buccaneers';
+            break;
+        case 'SEA':
+            team = 'Seattle Seahawks';
+            break;
+    }
+
+    return team;
 }
 
 // Call this function to check how many players are found in database
