@@ -51,7 +51,7 @@ async function getMatchupData(req, res) {
     console.log('Loading matchup data page...');
 
     let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
-    
+
     // const allPlayerFiles = fs.readdirSync(path.resolve('.', 'testData', 'players'));
     // const folderPath = path.resolve('.', 'testData', 'players');
     // let allPlayers = [];
@@ -65,12 +65,14 @@ async function getMatchupData(req, res) {
 
     const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
     const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'WR'), 'WR')
+    const rbMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'RB'), 'RB')
 
     res.status(200).render('matchup-data', {
         layout: 'main',
         players: allPlayers,
         overallMatchupDataTable: overallMatchupDataTable,
         wrMatchupDataTable: wrMatchupDataTable,
+        rbMatchupDataTable: rbMatchupDataTable,
     })
 }
 
@@ -99,6 +101,10 @@ async function getBettingLines(req, res) {
 
 
 function createMatchupData(arr, type) {
+    /**
+     * changes to make:
+     * the team defensive data should be based on each player by position in order to get most accurate matchup data
+     */
     const teams = [
         'atl',
         'buf',
@@ -208,6 +214,30 @@ function createMatchupData(arr, type) {
 
             html += '</tbody></table>';
             break;
+        case 'RB':
+            html = `<table id="wr-matchup-data-table" class="table table-striped display">`;
+            html += '<thead><tr>';
+
+            headers = ['Team', 'Rushes', 'Deviation', 'Rush Yards', 'Deviation', 'Rush TD', 'Deviation'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
+
+            teams.forEach(team => {
+                const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
+                team === 'den' ? console.log(teamDefenseObj) : false
+                html += '<tr>';
+                html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
+                html += `<td data-threshold="rush-allowed">${Math.floor(Number(teamDefenseObj['rush_att']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rush-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att')}</td>`;
+                html += `<td data-threshold="rush-yd-allowed">${Math.floor(Number(teamDefenseObj['rush_yds']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rush-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_yds')}</td>`;
+                html += `<td data-threshold="rush-td-allowed">${Math.round(Number(teamDefenseObj['rush_td']) / Number(teamDefenseObj['g']) * 100) / 100}</td>`;
+                html += `<td data-threshold="rush-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rush_td')}</td>`;
+                html += '</tr>';
+            })
+
+            html += '</tbody></table>';
+            break;
     }
 
     return html;
@@ -219,10 +249,6 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
     let playerCount = 0;
 
     arr.forEach(player => {
-        if (player.name === 'Aaron Rodgers') {
-            console.log(player)
-        }
-
         if (player.gameLogsByYear) {
             const yearGames = player.gameLogsByYear[String(currentYear)];
 
@@ -232,20 +258,33 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
                         const gameDate = new Date(game.game_date);
                         return gameDate >= septemberFirst && gameDate <= currentDate;
                     });
-            
+
                     filteredGames.forEach(game => {
                         if (game.opp.toLowerCase() === team) {
                             const playerAvgStat = player.averages[`avg_${stat}`];
-                            const gameStat = game[stat];
-            
-                            if (playerAvgStat && gameStat !== undefined) {
-                                totalDeviation += (gameStat - playerAvgStat);
+                            let gameStat = game[stat];
+
+                            let avgStatNum = parseFloat(playerAvgStat);
+                            let gameStatNum = parseFloat(gameStat);
+
+                            if (gameStat === '') {
+                                gameStatNum = 0;
+                            }
+
+                            if (game.opp.toLowerCase() === 'den' && player.position === 'RB') {
+                                console.log(player.name, stat);
+                                console.log(gameStatNum, playerAvgStat, avgStatNum)
+                            }
+
+
+                            if (avgStatNum && gameStatNum !== undefined && gameStatNum !== '' && !isNaN(avgStatNum) && !isNaN(gameStatNum) && (gameStatNum - avgStatNum) != 'Infinity' && (gameStatNum - avgStatNum) != '-Infinity') {
+                                totalDeviation += (gameStatNum - avgStatNum);
                                 playerCount++;
                             }
                         }
                     });
                 } catch (e) {
-                    console.log(`error with: ${player.name}... skipping`)
+                    console.log(`error with: ${player.name} (${e})...skipping`)
                     // console.log(player)
                     // console.log(e)
                 }
@@ -254,6 +293,7 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
 
     });
 
+    console.log(team, stat, playerCount, totalDeviation, (totalDeviation / playerCount).toFixed(2))
     return playerCount > 0 ? (totalDeviation / playerCount).toFixed(2) : 0;
 }
 

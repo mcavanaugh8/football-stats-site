@@ -221,3 +221,6 @@ header a {
     display: block; /* Show only the active tab pane */
   }
   
+  table {
+    width: 100%;
+  }

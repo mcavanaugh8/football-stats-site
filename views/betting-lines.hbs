@@ -67,12 +67,12 @@
     ui.addAllEventListeners();
 </script>
 <script>
-$(document).ready(function () {
-    $('#passing-yards-table, #rushing-yards-table, #receiving-yards-table, #receptions-table').DataTable();
-});
+    $(document).ready(function () {
+        $('#passing-yards-table, #rushing-yards-table, #receiving-yards-table, #receptions-table').DataTable();
+    });
 
-$('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
-    $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
-});
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+    });
 
 </script>

@@ -9,6 +9,10 @@
             <a class="nav-link" id="wr-matchup-tab" data-bs-toggle="tab" href="#wr-matchup" role="tab"
                 aria-controls="wr-matchup" aria-selected="false">WR Matchup Data</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" id="rb-matchup-tab" data-bs-toggle="tab" href="#rb-matchup" role="tab"
+                aria-controls="rb-matchup" aria-selected="false">RB Matchup Data</a>
+        </li>
     </ul>
 
     <!-- Tab Content -->
@@ -25,6 +29,13 @@
         <div class="tab-pane fade" id="wr-matchup" role="tabpanel" aria-labelledby="wr-matchup-tab">
             <div id="wr-matchup-data-table-div">
                 {{{ wrMatchupDataTable }}}
+            </div>
+        </div>
+
+        <!-- RB Matchup Data Tab Content -->
+        <div class="tab-pane fade" id="rb-matchup" role="tabpanel" aria-labelledby="rb-matchup-tab">
+            <div id="rb-matchup-data-table-div">
+                {{{ rbMatchupDataTable }}}
             </div>
         </div>
     </div>
@@ -47,13 +58,12 @@
     ui.addAllEventListeners();
 </script>
 <script>
-$(document).ready(function () {
-    // Ensure the correct IDs are used for DataTable initialization
-    $('#overall-matchup-data-table, #wr-matchup-data-table').DataTable(); // Ensure these IDs match your table IDs
+    $(document).ready(function () {
+        $('#overall-matchup-data-table, #wr-matchup-data-table').DataTable();
 
-    // Adjust DataTables on tab change
-    $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function (e) {
-        $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+        // Adjust DataTables on tab change
+        $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function (e) {
+            $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+        });
     });
-});
 </script>
