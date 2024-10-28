@@ -8,10 +8,46 @@ const moment = require('moment-timezone')
 
 const dbServices = require('../controllers/dbServices');
 const { defenseStats } = require('../teamStats')
+const { teamStatsByPosition } = require('../teamStatsByPosition')
 
 const currentYear = new Date().getFullYear();
 const septemberFirst = new Date(`${currentYear}-09-01`);
 const currentDate = new Date();
+
+const teams = [
+    'atl',
+    'buf',
+    'car',
+    'chi',
+    'cin',
+    'cle',
+    'ind',
+    'ari',
+    'dal',
+    'den',
+    'det',
+    'gnb',
+    'hou',
+    'jax',
+    'kan',
+    'mia',
+    'min',
+    'nor',
+    'nwe',
+    'nyg',
+    'nyj',
+    'ten',
+    'phi',
+    'pit',
+    'lvr',
+    'lar',
+    'bal',
+    'lac',
+    'sea',
+    'sf',
+    'tam',
+    'was'];
+
 
 /**
  * router.get('/')
@@ -52,16 +88,10 @@ async function getMatchupData(req, res) {
 
     let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
 
-    // const allPlayerFiles = fs.readdirSync(path.resolve('.', 'testData', 'players'));
-    // const folderPath = path.resolve('.', 'testData', 'players');
-    // let allPlayers = [];
-    // for (const file of allPlayerFiles) {
-    //     if (file !== '.DS_Store') {
-    //         let data = fs.readFileSync(path.join(folderPath, file), 'utf8');
-    //         allPlayers.push(JSON.parse(data))
-    //     }
-    // }
-    // const overallMatchupDataTable = createMatchupData([allPlayers], 'overall')
+    fs.writeFileSync(path.resolve('.', 'teamStatsByPosition.js'), `const teamStatsByPosition = ${JSON.stringify(updateDefensiveData(allPlayers))}\nmodule.exports.teamStatsByPosition = teamStatsByPosition;`);
+
+    // console.log('teamStatsByPosition')
+    // console.log(teamStatsByPosition)
 
     const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
     const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'WR'), 'WR')
@@ -101,45 +131,81 @@ async function getBettingLines(req, res) {
     })
 }
 
+function updateDefensiveData(arr) {
+    const teamsArr = [];
+    const currentYear = new Date().getFullYear();
+    const septemberFirst = new Date(`${currentYear}-09-01`);
+    const currentDate = new Date();
+
+    teams.forEach(team => {
+        const teamObj = {
+            team: getTeamByAbbreviation(team),
+            playerCounts: {},
+            statsByPosition: {}
+        };
+
+        arr.forEach(player => {
+            if (!player.gameLogsByYear) return;
+
+            const yearGames = player.gameLogsByYear[String(currentYear)];
+            if (!yearGames || yearGames.length === 0) return;
+
+            try {
+                const filteredGames = yearGames.filter(game => {
+                    const gameDate = new Date(game.game_date);
+                    return gameDate >= septemberFirst && gameDate <= currentDate;
+                });
+
+                filteredGames.forEach(game => {
+                    if (game.opp.toLowerCase() === team) {
+                        teamObj.playerCounts[player.position] = (teamObj.playerCounts[player.position] || 0) + 1;
+
+                        const stats = [];
+                        switch (player.position) {
+                            case 'QB':
+                                stats.push('pass_cmp', 'pass_att', 'pass_yds', 'pass_td', 'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att');
+                                break;
+                            case 'WR':
+                            case 'TE':
+                                stats.push('rec', 'rec_yds', 'rec_td', 'rec_yac', 'rec_yac_per_rec', 'rec_air_yds', 'rec_air_yds_per_rec', 'rec_adot');
+                                break;
+                            case 'RB':
+                                stats.push('rec', 'rec_yds', 'rec_td', 'rec_yac', 'rec_yac_per_rec', 'rec_air_yds', 'rec_air_yds_per_rec', 'rec_adot',
+                                    'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att', 'rush_yds_before_contact');
+                                break;
+                        }
+
+                        stats.forEach(stat => {
+                            if (!teamObj.statsByPosition[player.position]) {
+                                teamObj.statsByPosition[player.position] = {};
+                            }
+                            if (!teamObj.statsByPosition[player.position][stat]) {
+                                teamObj.statsByPosition[player.position][stat] = 0;
+                            }
+
+                            const statValue = (game[stat] && !isNaN(Number(game[stat]))) ? Number(game[stat]) : 0;
+                            teamObj.statsByPosition[player.position][stat] += statValue;
+                        });
+                    }
+                });
+            } catch (error) {
+                console.error(`Error processing player ${player.name}: ${error}`);
+            }
+        });
+
+        teamsArr.push(teamObj);
+        // console.log(teamObj);
+    });
+    // console.log(teamsArr)
+    return teamsArr;
+}
+
 
 function createMatchupData(arr, type) {
     /**
      * changes to make:
      * the team defensive data should be based on each player by position in order to get most accurate matchup data
      */
-    const teams = [
-        'atl',
-        'buf',
-        'car',
-        'chi',
-        'cin',
-        'cle',
-        'ind',
-        'ari',
-        'dal',
-        'den',
-        'det',
-        'gnb',
-        'hou',
-        'jax',
-        'kan',
-        'mia',
-        'min',
-        'nor',
-        'nwe',
-        'nyg',
-        'nyj',
-        'ten',
-        'phi',
-        'pit',
-        'lvr',
-        'lar',
-        'bal',
-        'lac',
-        'sea',
-        'sf',
-        'tam',
-        'was'];
 
     let html = '';
     let headers;
@@ -251,7 +317,7 @@ function createMatchupData(arr, type) {
 
             teams.forEach(team => {
                 const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
-                team === 'den' ? console.log(teamDefenseObj) : false
+                // team === 'den' ? console.log(teamDefenseObj) : false
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
                 html += `<td data-threshold="rush-allowed">${Math.floor(Number(teamDefenseObj['rush_att']) / Number(teamDefenseObj['g']))}</td>`;
@@ -274,6 +340,8 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
 
     let totalDeviation = 0;
     let playerCount = 0;
+
+    let stats = {};
 
     arr.forEach(player => {
         if (player.gameLogsByYear) {
@@ -298,10 +366,10 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
                                 gameStatNum = 0;
                             }
 
-                            if (game.opp.toLowerCase() === 'den' && player.position === 'RB') {
-                                console.log(player.name, stat);
-                                console.log(gameStatNum, playerAvgStat, avgStatNum)
-                            }
+                            // if (game.opp.toLowerCase() === 'den' && player.position === 'RB') {
+                            //     console.log(player.name, stat);
+                            //     console.log(gameStatNum, playerAvgStat, avgStatNum)
+                            // }
 
 
                             if (avgStatNum && gameStatNum !== undefined && gameStatNum !== '' && !isNaN(avgStatNum) && !isNaN(gameStatNum) && (gameStatNum - avgStatNum) != 'Infinity' && (gameStatNum - avgStatNum) != '-Infinity') {
@@ -320,7 +388,7 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
 
     });
 
-    console.log(team, stat, playerCount, totalDeviation, (totalDeviation / playerCount).toFixed(2))
+    // console.log(team, stat, playerCount, totalDeviation, (totalDeviation / playerCount).toFixed(2))
     return playerCount > 0 ? (totalDeviation / playerCount).toFixed(2) : 0;
 }
 
@@ -544,7 +612,7 @@ function countHits(yearGames, category, stat, playerName) {
             } else {
                 let lower = parseInt(category.split('-')[0], 10);
                 let upper = parseInt(category.split('-')[1], 10);
-                console.log(currentGame[stat], lower, upper);
+                // console.log(currentGame[stat], lower, upper);
                 if (currentGame[stat] >= lower && currentGame[stat] <= upper) {
                     console.log('hit');
                 }
