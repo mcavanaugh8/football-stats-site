@@ -65,6 +65,7 @@ async function getMatchupData(req, res) {
 
     const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
     const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'WR'), 'WR')
+    const teMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'TE'), 'TE')
     const rbMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'RB'), 'RB')
 
     res.status(200).render('matchup-data', {
@@ -72,6 +73,7 @@ async function getMatchupData(req, res) {
         players: allPlayers,
         overallMatchupDataTable: overallMatchupDataTable,
         wrMatchupDataTable: wrMatchupDataTable,
+        teMatchupDataTable: teMatchupDataTable,
         rbMatchupDataTable: rbMatchupDataTable,
     })
 }
@@ -191,6 +193,31 @@ function createMatchupData(arr, type) {
             break;
         case 'WR':
             html = `<table id="wr-matchup-data-table" class="table table-striped display">`;
+            html += '<thead><tr>';
+
+            headers = ['Team', 'Receptions', 'Deviation', 'Rec Yards', 'Deviation', 'Rec TD', 'Deviation'];
+            headers.forEach(key => html += `<th scope="col">${key}</th>`);
+            html += '<tbody>';
+
+            teams.forEach(team => {
+                // console.log(team)
+                const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
+                // console.log(teamDefenseObj)
+                html += '<tr>';
+                html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
+                html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj['pass_cmp']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
+                html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj['pass_yds']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
+                html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj['pass_td']) / Number(teamDefenseObj['g']) * 100) / 100}</td>`;
+                html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
+                html += '</tr>';
+            })
+
+            html += '</tbody></table>';
+            break;
+        case 'TE':
+            html = `<table id="te-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
             headers = ['Team', 'Receptions', 'Deviation', 'Rec Yards', 'Deviation', 'Rec TD', 'Deviation'];

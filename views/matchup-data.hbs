@@ -10,6 +10,10 @@
                 aria-controls="wr-matchup" aria-selected="false">WR Matchup Data</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" id="te-matchup-tab" data-bs-toggle="tab" href="#te-matchup" role="tab"
+                aria-controls="te-matchup" aria-selected="false">TE Matchup Data</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link" id="rb-matchup-tab" data-bs-toggle="tab" href="#rb-matchup" role="tab"
                 aria-controls="rb-matchup" aria-selected="false">RB Matchup Data</a>
         </li>
@@ -29,6 +33,13 @@
         <div class="tab-pane fade" id="wr-matchup" role="tabpanel" aria-labelledby="wr-matchup-tab">
             <div id="wr-matchup-data-table-div">
                 {{{ wrMatchupDataTable }}}
+            </div>
+        </div>
+
+        <!-- TE Matchup Data Tab Content -->
+        <div class="tab-pane fade" id="te-matchup" role="tabpanel" aria-labelledby="te-matchup-tab">
+            <div id="te-matchup-data-table-div">
+                {{{ teMatchupDataTable }}}
             </div>
         </div>
 
@@ -59,7 +70,7 @@
 </script>
 <script>
     $(document).ready(function () {
-        $('#overall-matchup-data-table, #wr-matchup-data-table').DataTable();
+        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table, #rb-matchup-data-table').DataTable();
 
         // Adjust DataTables on tab change
         $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function (e) {
