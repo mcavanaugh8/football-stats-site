@@ -6,6 +6,9 @@
                 aria-controls="overall-matchup" aria-selected="true">Overall Matchup Data</a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" id="qb-matchup-tab" data-bs-toggle="tab" href="#qb-matchup" role="tab"
+                aria-controls="qb-matchup" aria-selected="false">QB Matchup Data</a>
+        </li>
             <a class="nav-link" id="wr-matchup-tab" data-bs-toggle="tab" href="#wr-matchup" role="tab"
                 aria-controls="wr-matchup" aria-selected="false">WR Matchup Data</a>
         </li>
@@ -26,6 +29,13 @@
             aria-labelledby="overall-matchup-tab">
             <div id="overall-matchup-data-table-div">
                 {{{ overallMatchupDataTable }}}
+            </div>
+        </div>
+
+        <!-- QB Matchup Data Tab Content -->
+        <div class="tab-pane fade" id="qb-matchup" role="tabpanel" aria-labelledby="qb-matchup-tab">
+            <div id="qb-matchup-data-table-div">
+                {{{ qbMatchupDataTable }}}
             </div>
         </div>
 
@@ -70,7 +80,7 @@
 </script>
 <script>
     $(document).ready(function () {
-        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table').DataTable();
+        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table, #qb-matchup-data-table').DataTable();
 
         $('#rb-matchup-data-table').DataTable({
             scrollX: true,
