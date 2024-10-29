@@ -275,7 +275,7 @@ function createMatchupData(arr, type) {
                 const teamDefenseObj = teamStatsByPosition.find(item => item.team == getTeamByAbbreviation(team));
                 const advancedTeamDefense = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
                 // console.log(teamDefenseObj)
-                console.log(teamDefenseObj.statsByPosition[type])
+                // console.log(teamDefenseObj.statsByPosition[type])
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
                 html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec) / Number(advancedTeamDefense.g))}</td>`;
@@ -301,9 +301,9 @@ function createMatchupData(arr, type) {
                 const teamDefenseObj = teamStatsByPosition.find(item => item.team == getTeamByAbbreviation(team));
                 const advancedTeamDefense = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
 
-                // console.log(team)
-                // console.log(teamDefenseObj)
-                // console.log(teamDefenseObj.statsByPosition[type])
+                console.log(team)
+                console.log(type)
+                console.log(teamDefenseObj.statsByPosition[type])
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
                 html += `<td data-threshold="rush-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_att) / Number(advancedTeamDefense.g))}</td>`;
