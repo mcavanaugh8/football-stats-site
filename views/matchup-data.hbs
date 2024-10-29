@@ -70,7 +70,12 @@
 </script>
 <script>
     $(document).ready(function () {
-        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table, #rb-matchup-data-table').DataTable();
+        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table').DataTable();
+
+        $('#rb-matchup-data-table').DataTable({
+            scrollX: true,
+            fixedHeader: true,
+        });
 
         // Adjust DataTables on tab change
         $('a[data-bs-toggle="tab"]').on('shown.bs.tab', function (e) {

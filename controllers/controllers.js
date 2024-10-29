@@ -265,7 +265,7 @@ function createMatchupData(arr, type) {
             html = `<table id="${type.toLowerCase()}-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
-            headers = ['Team', 'RecPG', 'Deviation', 'RecYPG', 'Deviation', 'RecTDPG', 'Deviation'];
+            headers = ['Team', 'RecPG', 'Mean Deviation', 'Median Deviation', 'RecYPG', 'Mean Deviation', 'Median Deviation', 'RecTDPG', 'Mean Deviation', 'Median Deviation',];
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
@@ -279,21 +279,24 @@ function createMatchupData(arr, type) {
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
                 html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
+                html += `<td data-threshold="rec-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec').meanDeviation}</td>`;
+                html += `<td data-threshold="rec-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec').medianDeviation}</td>`;
                 html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec_yds) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
+                html += `<td data-threshold="rec-yd-mean-deviation-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds').meanDeviation}</td>`;
+                html += `<td data-threshold="rec-yd-median-deviation-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds').medianDeviation}</td>`;
                 html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rec_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
-                html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
+                html += `<td data-threshold="rec-td-mean-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td').meanDeviation}</td>`;
+                html += `<td data-threshold="rec-td-median-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td').medianDeviation}</td>`;
                 html += '</tr>';
             })
 
             html += '</tbody></table>';
             break;
         case 'RB':
-            html = `<table id="wr-matchup-data-table" class="table table-striped display">`;
+            html = `<table id="rb-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
-            headers = ['Team', 'RuPG', 'Deviation', 'RuYPG', 'Deviation', 'RuTDPG', 'Deviation', 'RecPG', 'Deviation', 'RecYPG', 'Deviation', 'RecTDPG', 'Deviation'];
+            headers = ['Team', 'RuPG', 'Mean Deviation', 'Median Deviation', 'RuYPG', 'Mean Deviation', 'Median Deviation', 'RuTDPG', 'Mean Deviation', 'Median Deviation', 'RecPG', 'Mean Deviation', 'Median Deviation', 'RecYPG', 'Mean Deviation', 'Median Deviation', 'RecTDPG', 'Mean Deviation', 'Median Deviation',];
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
@@ -301,24 +304,30 @@ function createMatchupData(arr, type) {
                 const teamDefenseObj = teamStatsByPosition.find(item => item.team == getTeamByAbbreviation(team));
                 const advancedTeamDefense = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
 
-                console.log(team)
-                console.log(type)
-                console.log(teamDefenseObj.statsByPosition[type])
+                // console.log(team)
+                // console.log(type)
+                // console.log(teamDefenseObj.statsByPosition[type])
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
-                html += `<td data-threshold="rush-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_att) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="_att-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att')}</td>`;
+                html += `<td data-threshold="rush-att-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_att) / Number(advancedTeamDefense.g))}</td>`;
+                html += `<td data-threshold="rush-att-allowed-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att').meanDeviation}</td>`;
+                html += `<td data-threshold="rush-att-allowed-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att').medianDeviation}</td>`;
                 html += `<td data-threshold="rush-yd-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_yds) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="rush-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_yds')}</td>`;
+                html += `<td data-threshold="rush-yd-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_yds').meanDeviation}</td>`;
+                html += `<td data-threshold="rush-yd-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_yds').medianDeviation}</td>`;
                 html += `<td data-threshold="rush-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rush_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
-                html += `<td data-threshold="rush-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
+                html += `<td data-threshold="rush-td-mean-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td').meanDeviation}</td>`;
+                html += `<td data-threshold="rush-td-median-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td').medianDeviation}</td>`;
                 
                 html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
+                html += `<td data-threshold="rec-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec').meanDeviation}</td>`;
+                html += `<td data-threshold="rec-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec').medianDeviation}</td>`;
                 html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec_yds) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
+                html += `<td data-threshold="rec-yd-mean-deviation-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds').meanDeviation}</td>`;
+                html += `<td data-threshold="rec-yd-median-deviation-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds').medianDeviation}</td>`;
                 html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rec_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
-                html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
+                html += `<td data-threshold="rec-td-mean-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td').meanDeviation}</td>`;
+                html += `<td data-threshold="rec-td-median-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td').medianDeviation}</td>`;
                 html += '</tr>';
             })
 
@@ -330,11 +339,9 @@ function createMatchupData(arr, type) {
 }
 
 function calculateTeamDeviation(arr, currentYear, team, stat) {
-
     let totalDeviation = 0;
     let playerCount = 0;
-
-    let stats = {};
+    let deviations = [];
 
     arr.forEach(player => {
         if (player.gameLogsByYear) {
@@ -359,30 +366,35 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
                                 gameStatNum = 0;
                             }
 
-                            // if (game.opp.toLowerCase() === 'den' && player.position === 'RB') {
-                            //     console.log(player.name, stat);
-                            //     console.log(gameStatNum, playerAvgStat, avgStatNum)
-                            // }
-
-
                             if (avgStatNum && gameStatNum !== undefined && gameStatNum !== '' && !isNaN(avgStatNum) && !isNaN(gameStatNum) && (gameStatNum - avgStatNum) != 'Infinity' && (gameStatNum - avgStatNum) != '-Infinity') {
-                                totalDeviation += (gameStatNum - avgStatNum);
+                                let deviation = gameStatNum - avgStatNum;
+                                totalDeviation += deviation;
+                                deviations.push(deviation);
                                 playerCount++;
                             }
                         }
                     });
                 } catch (e) {
-                    console.log(`error with: ${player.name} (${e})...skipping`)
-                    // console.log(player)
-                    // console.log(e)
+                    console.log(`error with: ${player.name} (${e})...skipping`);
                 }
             }
         }
-
     });
 
-    // console.log(team, stat, playerCount, totalDeviation, (totalDeviation / playerCount).toFixed(2))
-    return playerCount > 0 ? (totalDeviation / playerCount).toFixed(2) : 0;
+    // Calculate mean deviation
+    let meanDeviation = playerCount > 0 ? (totalDeviation / playerCount).toFixed(2) : 0;
+
+    // Calculate median deviation
+    deviations.sort((a, b) => a - b);
+    let medianDeviation = 0;
+    if (deviations.length > 0) {
+        const midIndex = Math.floor(deviations.length / 2);
+        medianDeviation = deviations.length % 2 !== 0
+            ? deviations[midIndex].toFixed(2)
+            : ((deviations[midIndex - 1] + deviations[midIndex]) / 2).toFixed(2);
+    }
+
+    return { meanDeviation, medianDeviation };
 }
 
 function createBettingLinesTable(arr, stat) {
