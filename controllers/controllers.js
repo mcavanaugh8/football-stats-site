@@ -44,7 +44,7 @@ const teams = [
     'bal',
     'lac',
     'sea',
-    'sf',
+    'sfo',
     'tam',
     'was'];
 
@@ -91,7 +91,7 @@ async function getMatchupData(req, res) {
     fs.writeFileSync(path.resolve('.', 'teamStatsByPosition.js'), `const teamStatsByPosition = ${JSON.stringify(updateDefensiveData(allPlayers))}\nmodule.exports.teamStatsByPosition = teamStatsByPosition;`);
 
     // console.log('teamStatsByPosition')
-    // console.log(teamStatsByPosition)
+    console.log(teamStatsByPosition)
 
     const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
     const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'WR'), 'WR')
@@ -138,9 +138,12 @@ function updateDefensiveData(arr) {
     const currentDate = new Date();
 
     teams.forEach(team => {
+        team === 'sf' ? team = 'sfo' : false;
+
         const teamObj = {
             team: getTeamByAbbreviation(team),
             playerCounts: {},
+            g: 0,
             statsByPosition: {}
         };
 
@@ -158,6 +161,7 @@ function updateDefensiveData(arr) {
 
                 filteredGames.forEach(game => {
                     if (game.opp.toLowerCase() === team) {
+                        teamObj.g++;
                         teamObj.playerCounts[player.position] = (teamObj.playerCounts[player.position] || 0) + 1;
 
                         const stats = [];
@@ -199,7 +203,6 @@ function updateDefensiveData(arr) {
     // console.log(teamsArr)
     return teamsArr;
 }
-
 
 function createMatchupData(arr, type) {
     /**
@@ -258,49 +261,28 @@ function createMatchupData(arr, type) {
             html += '</tbody></table>';
             break;
         case 'WR':
-            html = `<table id="wr-matchup-data-table" class="table table-striped display">`;
-            html += '<thead><tr>';
-
-            headers = ['Team', 'Receptions', 'Deviation', 'Rec Yards', 'Deviation', 'Rec TD', 'Deviation'];
-            headers.forEach(key => html += `<th scope="col">${key}</th>`);
-            html += '<tbody>';
-
-            teams.forEach(team => {
-                // console.log(team)
-                const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
-                // console.log(teamDefenseObj)
-                html += '<tr>';
-                html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
-                html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj['pass_cmp']) / Number(teamDefenseObj['g']))}</td>`;
-                html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
-                html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj['pass_yds']) / Number(teamDefenseObj['g']))}</td>`;
-                html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
-                html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj['pass_td']) / Number(teamDefenseObj['g']) * 100) / 100}</td>`;
-                html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
-                html += '</tr>';
-            })
-
-            html += '</tbody></table>';
-            break;
         case 'TE':
-            html = `<table id="te-matchup-data-table" class="table table-striped display">`;
+            html = `<table id="${type.toLowerCase()}-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
-            headers = ['Team', 'Receptions', 'Deviation', 'Rec Yards', 'Deviation', 'Rec TD', 'Deviation'];
+            headers = ['Team', 'RecPG', 'Deviation', 'RecYPG', 'Deviation', 'RecTDPG', 'Deviation'];
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
             teams.forEach(team => {
-                // console.log(team)
-                const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
+                console.log(team)
+                console.log(type)
+                const teamDefenseObj = teamStatsByPosition.find(item => item.team == getTeamByAbbreviation(team));
+                const advancedTeamDefense = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
                 // console.log(teamDefenseObj)
+                console.log(teamDefenseObj.statsByPosition[type])
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
-                html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj['pass_cmp']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
-                html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj['pass_yds']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec_yds) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
-                html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj['pass_td']) / Number(teamDefenseObj['g']) * 100) / 100}</td>`;
+                html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rec_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
                 html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
                 html += '</tr>';
             })
@@ -311,21 +293,32 @@ function createMatchupData(arr, type) {
             html = `<table id="wr-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
-            headers = ['Team', 'Rushes', 'Deviation', 'Rush Yards', 'Deviation', 'Rush TD', 'Deviation'];
+            headers = ['Team', 'RuPG', 'Deviation', 'RuYPG', 'Deviation', 'RuTDPG', 'Deviation', 'RecPG', 'Deviation', 'RecYPG', 'Deviation', 'RecTDPG', 'Deviation'];
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
             teams.forEach(team => {
-                const teamDefenseObj = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
-                // team === 'den' ? console.log(teamDefenseObj) : false
+                const teamDefenseObj = teamStatsByPosition.find(item => item.team == getTeamByAbbreviation(team));
+                const advancedTeamDefense = defenseStats.find(item => item.team == getTeamByAbbreviation(team));
+
+                // console.log(team)
+                // console.log(teamDefenseObj)
+                // console.log(teamDefenseObj.statsByPosition[type])
                 html += '<tr>';
                 html += `<td class="team-name" data-team="${getTeamByAbbreviation(team)}">${getTeamByAbbreviation(team)}</td>`;
-                html += `<td data-threshold="rush-allowed">${Math.floor(Number(teamDefenseObj['rush_att']) / Number(teamDefenseObj['g']))}</td>`;
-                html += `<td data-threshold="rush-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att')}</td>`;
-                html += `<td data-threshold="rush-yd-allowed">${Math.floor(Number(teamDefenseObj['rush_yds']) / Number(teamDefenseObj['g']))}</td>`;
+                html += `<td data-threshold="rush-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_att) / Number(advancedTeamDefense.g))}</td>`;
+                html += `<td data-threshold="_att-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att')}</td>`;
+                html += `<td data-threshold="rush-yd-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_yds) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="rush-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_yds')}</td>`;
-                html += `<td data-threshold="rush-td-allowed">${Math.round(Number(teamDefenseObj['rush_td']) / Number(teamDefenseObj['g']) * 100) / 100}</td>`;
-                html += `<td data-threshold="rush-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rush_td')}</td>`;
+                html += `<td data-threshold="rush-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rush_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
+                html += `<td data-threshold="rush-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
+                
+                html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec) / Number(advancedTeamDefense.g))}</td>`;
+                html += `<td data-threshold="rec-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec')}</td>`;
+                html += `<td data-threshold="rec-yd-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec_yds) / Number(advancedTeamDefense.g))}</td>`;
+                html += `<td data-threshold="rec-yd-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec_yds')}</td>`;
+                html += `<td data-threshold="rec-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rec_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
+                html += `<td data-threshold="rec-td-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rec_td')}</td>`;
                 html += '</tr>';
             })
 
@@ -984,6 +977,7 @@ function getTeamByAbbreviation(str) {
             team = 'New York Jets';
             break;
         case 'SF':
+        case 'SFO':
             team = 'San Francisco 49ers';
             break;
         case 'ATL':
