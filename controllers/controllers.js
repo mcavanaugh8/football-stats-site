@@ -91,7 +91,7 @@ async function getMatchupData(req, res) {
     fs.writeFileSync(path.resolve('.', 'teamStatsByPosition.js'), `const teamStatsByPosition = ${JSON.stringify(updateDefensiveData(allPlayers))}\nmodule.exports.teamStatsByPosition = teamStatsByPosition;`);
 
     // console.log('teamStatsByPosition')
-    console.log(teamStatsByPosition)
+    // console.log(teamStatsByPosition)
 
     const overallMatchupDataTable = createMatchupData(allPlayers, 'overall')
     const wrMatchupDataTable = createMatchupData(allPlayers.filter(player => player.position === 'WR'), 'WR')
@@ -146,7 +146,8 @@ function updateDefensiveData(arr) {
             team: getTeamByAbbreviation(team),
             playerCounts: {},
             g: 0,
-            statsByPosition: {}
+            statsByPosition: {},
+            totalStats: {}
         };
 
         arr.forEach(player => {
@@ -188,12 +189,18 @@ function updateDefensiveData(arr) {
                             if (!teamObj.statsByPosition[player.position]) {
                                 teamObj.statsByPosition[player.position] = {};
                             }
+
                             if (!teamObj.statsByPosition[player.position][stat]) {
                                 teamObj.statsByPosition[player.position][stat] = 0;
                             }
 
+                            if (!teamObj.totalStats[stat]) {
+                                teamObj.totalStats[stat] = 0;
+                            }
+
                             const statValue = (game[stat] && !isNaN(Number(game[stat]))) ? Number(game[stat]) : 0;
                             teamObj.statsByPosition[player.position][stat] += statValue;
+                            teamObj.totalStats[stat] += statValue;
                         });
                     }
                 });
@@ -227,7 +234,7 @@ function createMatchupData(arr, type) {
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
-            defenseStats.forEach(team => {
+            teamStatsByPosition.forEach(team => {
                 html += '<tr>';
 
                 headers.forEach((category, index) => {
@@ -238,24 +245,24 @@ function createMatchupData(arr, type) {
                         switch (category) {
                             case 'Receptions':
                             case 'Pass Completions':
-                                html += `<td data-threshold="pass_cmp">${team.pass_cmp}</td>`;
+                                html += `<td data-threshold="pass_cmp">${team.totalStats.pass_cmp}</td>`;
                                 break;
                             case 'Rec Yards':
                             case 'Pass Yards':
-                                html += `<td data-threshold="pass_yds">${team.pass_yds}</td>`;
+                                html += `<td data-threshold="pass_yds">${team.totalStats.pass_yds}</td>`;
                                 break;
                             case 'Pass TD':
                             case 'Rec TD':
-                                html += `<td data-threshold="pass_td">${team.pass_td}</td>`;
+                                html += `<td data-threshold="pass_td">${team.totalStats.pass_td}</td>`;
                                 break;
                             case 'Rush Yards':
-                                html += `<td data-threshold="rush_yds">${team.rush_yds}</td>`;
+                                html += `<td data-threshold="rush_yds">${team.totalStats.rush_yds}</td>`;
                                 break;
                             case 'Rushes':
-                                html += `<td data-threshold="rush_arr">${team.rush_att}</td>`;
+                                html += `<td data-threshold="rush_arr">${team.totalStats.rush_att}</td>`;
                                 break;
                             case 'Rush TD':
-                                html += `<td data-threshold="rush_td">${team.rush_td}</td>`;
+                                html += `<td data-threshold="rush_td">${team.totalStats.rush_td}</td>`;
                                 break;
                         }
                     }
@@ -657,7 +664,7 @@ function countHits(yearGames, category, stat, playerName) {
             // console.log(stat)
             if (category.match(/\+/)) {
                 let threshold = parseInt(category.match(/\d{1,3}/)[0], 10);
-                console.log(currentGame[stat], threshold);
+                // console.log(currentGame[stat], threshold);
                 if (currentGame[stat] >= threshold) {
                     console.log('hit');
                 }
@@ -668,7 +675,7 @@ function countHits(yearGames, category, stat, playerName) {
                 let upper = parseInt(category.split('-')[1], 10);
                 // console.log(currentGame[stat], lower, upper);
                 if (currentGame[stat] >= lower && currentGame[stat] <= upper) {
-                    console.log('hit');
+                    // console.log('hit');
                 }
 
                 (currentGame[stat] >= lower && currentGame[stat] <= upper) ? hits++ : false;
@@ -699,7 +706,7 @@ function getStats(player) {
             case 'gameLogs':
                 switch (player.position) {
                     case 'QB':
-                        console.log(player.name)
+                        // console.log(player.name)
                         relevantStats.push(
                             'advanced_passing',
                             'advanced_rushing_and_receiving',

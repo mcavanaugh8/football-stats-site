@@ -9,8 +9,8 @@
             <a class="nav-link" id="qb-matchup-tab" data-bs-toggle="tab" href="#qb-matchup" role="tab"
                 aria-controls="qb-matchup" aria-selected="false">QB Matchup Data</a>
         </li>
-            <a class="nav-link" id="wr-matchup-tab" data-bs-toggle="tab" href="#wr-matchup" role="tab"
-                aria-controls="wr-matchup" aria-selected="false">WR Matchup Data</a>
+        <a class="nav-link" id="wr-matchup-tab" data-bs-toggle="tab" href="#wr-matchup" role="tab"
+            aria-controls="wr-matchup" aria-selected="false">WR Matchup Data</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" id="te-matchup-tab" data-bs-toggle="tab" href="#te-matchup" role="tab"
@@ -80,11 +80,13 @@
 </script>
 <script>
     $(document).ready(function () {
-        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table, #qb-matchup-data-table').DataTable();
+        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table').DataTable();
 
-        $('#rb-matchup-data-table').DataTable({
+        $('#rb-matchup-data-table, #qb-matchup-data-table').DataTable({
             scrollX: true,
             fixedHeader: true,
+            buttons: ['csv', 'excel', 'pdf', 'print']
+
         });
 
         // Adjust DataTables on tab change
