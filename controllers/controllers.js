@@ -71,12 +71,15 @@ async function getPlayersPage(req, res) {
     console.log('Loading players page...');
 
     let allPlayers = await dbServices.getPlayers(['QB', 'RB', 'WR', 'TE'])
-    // fs.writeFileSync(path.resolve('.', 'test', 'example.json'), JSON.stringify(allPlayers.find(player => player.name === 'Justin Fields')));
-    // console.log(allPlayers.find(player => player.name === 'Justin Fields'))
+
+    const overallStatsTable = createStatsTable(allPlayers);
+
+    // console.log(overallStatsTable)
 
     res.status(200).render('players', {
         layout: 'main',
-        players: allPlayers
+        players: allPlayers,
+        overallStatsTable: overallStatsTable
     })
 }
 
@@ -166,7 +169,7 @@ function updateDefensiveData(arr) {
                     if (game.opp.toLowerCase() === team) {
                         teamObj.g++;
                         teamObj.playerCounts[player.position] = (teamObj.playerCounts[player.position] || 0) + 1;
-                        
+
                         const stats = [];
                         switch (player.position) {
                             case 'QB':
@@ -331,7 +334,7 @@ function createMatchupData(arr, type) {
                 html += `<td data-threshold="rush-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].rush_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
                 html += `<td data-threshold="rush-td-mean-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rush_td').meanDeviation}</td>`;
                 html += `<td data-threshold="rush-td-median-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'rush_td').medianDeviation}</td>`;
-                
+
                 html += `<td data-threshold="rec-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rec) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="rec-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec').meanDeviation}</td>`;
                 html += `<td data-threshold="rec-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rec').medianDeviation}</td>`;
@@ -350,7 +353,7 @@ function createMatchupData(arr, type) {
             html = `<table id="qb-matchup-data-table" class="table table-striped display">`;
             html += '<thead><tr>';
 
-            headers = ['Team', 'PaPG', 'Mean Deviation', 'Median Deviation','PaCPG', 'Mean Deviation', 'Median Deviation', 'PYPG', 'Mean Deviation', 'Median Deviation', 'PaTDPG', 'Mean Deviation', 'Median Deviation', 'RuPG', 'Mean Deviation', 'Median Deviation', 'RuYPG', 'Mean Deviation', 'Median Deviation', 'RuTDPG', 'Mean Deviation', 'Median Deviation'];
+            headers = ['Team', 'PaPG', 'Mean Deviation', 'Median Deviation', 'PaCPG', 'Mean Deviation', 'Median Deviation', 'PYPG', 'Mean Deviation', 'Median Deviation', 'PaTDPG', 'Mean Deviation', 'Median Deviation', 'RuPG', 'Mean Deviation', 'Median Deviation', 'RuYPG', 'Mean Deviation', 'Median Deviation', 'RuTDPG', 'Mean Deviation', 'Median Deviation'];
             headers.forEach(key => html += `<th scope="col">${key}</th>`);
             html += '<tbody>';
 
@@ -375,7 +378,7 @@ function createMatchupData(arr, type) {
                 html += `<td data-threshold="pass-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].pass_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
                 html += `<td data-threshold="pass-td-mean-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'pass_td').meanDeviation}</td>`;
                 html += `<td data-threshold="pass-td-median-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'pass_td').medianDeviation}</td>`;
-                
+
                 html += `<td data-threshold="rush-att-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].rush_att) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="rush-att-allowed-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att').meanDeviation}</td>`;
                 html += `<td data-threshold="rush-att-allowed-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'rush_att').medianDeviation}</td>`;
@@ -699,42 +702,96 @@ function countHits(yearGames, category, stat, playerName) {
     };
 }
 
-function getStats(player) {
-    for (let item in player) {
-        const relevantStats = [];
-        switch (item) {
-            case 'gameLogs':
-                switch (player.position) {
-                    case 'QB':
-                        // console.log(player.name)
-                        relevantStats.push(
-                            'advanced_passing',
-                            'advanced_rushing_and_receiving',
-                            'advanced_receiving_and_rushing',
-                        )
-                        break;
-                    case 'TE':
-                    case 'WR':
-                    case 'RB':
-                        relevantStats.push(
-                            'advanced_rushing_and_receiving',
-                            'advanced_receiving_and_rushing',
-                        )
-                        break;
-                }
+function createStatsTable(playersArr) {
 
-                for (var i = 0; i < player[item].length; i++) {
-                    let category = player[item][i].category;
-                    let games = player[item][i];
+    let relevantStats = [
+        'pass_att',
+        'pass_comp',
+        'pass_yds',
+        'pass_td',
+        'rush_att',
+        'rush_yds',
+        'rush_td',
+        'targets',
+        'rec',
+        'rec_yds',
+        'rec_td',
+        'rec_drops',
+    ];
 
-                    if (relevantStats.includes(category)) {
-                        // console.log(games);
-                        return games;
-                    }
-                }
-                break;
+    let html = `<table id="overall-stats-data-table" class="table table-striped display">`;
+    html += '<thead><tr>';
+
+    headers = ['Team', 'Player', 'Position', 'Pass Completions', 'Pass Attempts', 'Pass Yards', 'Pass TD', 'Targets', 'Receptions', 'Rec Yards', 'Rec TD', 'Rushes', 'Rush Yards', 'Rush TD'];
+    headers.forEach(key => html += `<th scope="col">${key}</th>`);
+    html += '</tr></thead><tbody>';
+
+    playersArr.forEach((player, index) => {
+        if (player.gameLogsByYear && Object.keys(player.gameLogsByYear).length > 0 && player.gameLogsByYear[String(currentYear)] && player.gameLogsByYear[String(currentYear)].length > 0) {
+            html += '<tr>';
+            html += `<td class="team-name" data-threshold="${player.team}">${player.team}</td>`;
+            html += `<td class="player-name" data-threshold="${player.name}">${player.name}</td>`;
+            html += `<td class="player-position" data-threshold="${player.position}">${player.position}</td>`;
+
+            // console.log(player.gameLogsByYear)
+            // console.log(player.name)
+
+            const yearGames = player.gameLogsByYear[String(currentYear)];
+
+            const filteredGames = yearGames.filter(game => {
+                const gameDate = new Date(game.game_date);
+                return gameDate >= septemberFirst && gameDate <= currentDate;
+            });
+
+
+            const totals = {
+                pass_cmp: 0,
+                pass_att: 0,
+                pass_yds: 0,
+                pass_td: 0,
+                targets: 0,
+                rec: 0,
+                rec_yds: 0,
+                rec_td: 0,
+                rush_att: 0,
+                rush_yds: 0,
+                rush_td: 0
+            };
+
+            filteredGames.forEach(game => {                
+                !!game.pass_cmp ? totals.pass_cmp += Number(game.pass_cmp) : false
+                !!game.pass_att ? totals.pass_att += Number(game.pass_att) : false
+                !!game.pass_yds ? totals.pass_yds += Number(game.pass_yds) : false
+                !!game.pass_td ? totals.pass_td += Number(game.pass_td) : false
+                !!game.targets ? totals.targets += Number(game.targets) : false
+                !!game.rec ? totals.rec += Number(game.rec) : false
+                !!game.rec_yds ? totals.rec_yds += Number(game.rec_yds) : false
+                !!game.rec_td ? totals.rec_td += Number(game.rec_td) : false
+                !!game.rush_att ? totals.rush_att += Number(game.rush_att) : false
+                !!game.rush_yds ? totals.rush_yds += Number(game.rush_yds) : false
+                !!game.rush_td ? totals.rush_td += Number(game.rush_td) : false
+            })
+
+            html += `<td data-threshold="pass_cmp">${!!totals.pass_cmp ? totals.pass_cmp : 0}</td>`;
+            html += `<td data-threshold="pass_att">${!!totals.pass_att ? totals.pass_att : 0}</td>`;
+            html += `<td data-threshold="pass_yds">${!!totals.pass_yds ? totals.pass_yds : 0}</td>`;
+            html += `<td data-threshold="pass_td">${!!totals.pass_td ? totals.pass_td : 0}</td>`;
+            html += `<td data-threshold="targets">${!!totals.targets ? totals.targets : 0}</td>`;
+            html += `<td data-threshold="rec">${!!totals.rec ? totals.rec : 0}</td>`;
+            html += `<td data-threshold="rec_yds">${!!totals.rec_yds ? totals.rec_yds : 0}</td>`;
+            html += `<td data-threshold="rec_td">${!!totals.rec_td ? totals.rec_td : 0}</td>`;
+            html += `<td data-threshold="rush_att">${!!totals.rush_att ? totals.rush_att : 0}</td>`;
+            html += `<td data-threshold="rush_yds">${!!totals.rush_yds ? totals.rush_yds : 0}</td>`;
+            html += `<td data-threshold="rush_td">${!!totals.rush_td ? totals.rush_td : 0}</td>`;
+            html += '</tr>';
         }
-    }
+    })
+
+    html += '</tbody>';
+    html += '</table>';
+
+    return html;
+
 }
 
 function createTableFromArray(arr, type) {

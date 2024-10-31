@@ -1,115 +1,35 @@
-<div class="search-container">
-    <input type="text" id="playerSearch" autocomplete="off" placeholder="Player name...">
-    <ul id="suggestions"></ul>
-</div>
+<div class="container">
+    <!-- Tab Navigation -->
+    <ul class="nav nav-tabs" id="matchupTabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="overall-stats-tab" data-bs-toggle="tab" href="#overall-stats" role="tab"
+                aria-controls="overall-stats" aria-selected="true">Overall Stats</a>
+        </li>
+    </ul>
 
-<div class="button-row">
-    <button class="position-button" data-position="QB">QB</button>
-    <button class="position-button" data-position="WR">WR</button>
-    <button class="position-button" data-position="RB">RB</button>
-    <button class="position-button" data-position="TE">TE</button>
-</div>
-<div class="player-grid">
-    {{#each players}}
-    <div class="player-card"
-        style="background-color: {{this.backgroundColor}}; color: {{this.color}}; font-weight: {{this.fontWeight}}"
-        data-player-id="{{this._id}}" data-player-name="{{this.name}}" data-player-position="{{this.position}}">
-        <div class="player-image">
-            <img style="background-size: contain"
-                src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg"
-                alt="{{this.name}}">
-            {{!-- <img src="https://www.pro-football-reference.com/req/20230307/images/headshots/{{this.id}}_2024.jpg"
-                alt="{{this.name}}" onerror="this.src='/img/default-player.jpg'"> --}}
-        </div>
-        <div class="player-info">
-            <h3>{{this.name}}</h3>
-            <p>{{this.position}} - {{#if this.team}}{{this.team}}{{else}}FA{{/if}}</p>
+    <!-- Tab Content -->
+    <div class="tab-content" id="matchupTabsContent">
+        <!-- QB Matchup Data Tab Content -->
+        <div class="tab-pane fade show active" id="overall-stats" role="tabpanel" aria-labelledby="overall-stats-tab">
+            <div id="overall-stats-data-table-div">
+                {{{ overallStatsTable }}}
+            </div>
         </div>
     </div>
-    <div id="playerStatsModal-{{this._id}}" class="modal">
-        <div class="modal-content">
-            <!-- Close Button -->
-            <span class="close">&times;</span>
-            {{#each this.gameLogsByYear}}
-                {{#each this}}
-            <!-- Game Information -->
-            <div class="game-info">
-                <h2>Game Stats - Week {{this.week_num}}</h2>
-                <p><strong>Date:</strong> {{this.game_date}}</p>
-                <p><strong>Team:</strong> {{this.team}}</p>
-                <p><strong>Opponent:</strong> {{this.game_location}} {{this.opp}} ({{this.game_result}})</p>
-            </div>
-
-            <!-- Passing Statistics -->
-            <div class="section">
-                <h3>Passing Stats</h3>
-                <div class="grid-container">
-                    <div class="stat-box">
-                        <span class="label">Pass Comp:</span>
-                        <span class="value">{{this.pass_cmp}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">Pass Att:</span>
-                        <span class="value">{{this.pass_att}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">Pass Yds:</span>
-                        <span class="value">{{this.pass_yds}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">First Downs:</span>
-                        <span class="value">{{this.pass_first_down}}</span>
-                    </div>
-                    <!-- Add more stats here -->
-                </div>
-            </div>
-
-            <!-- Pressure and Sack Data -->
-            <div class="section">
-                <h3>Pressure and Sack Data</h3>
-                <div class="grid-container">
-                    <div class="stat-box">
-                        <span class="label">Sacked:</span>
-                        <span class="value">{{this.pass_sacked}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">Blitzed:</span>
-                        <span class="value">{{this.pass_blitzed}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">Hurried:</span>
-                        <span class="value">{{this.pass_hurried}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">Hits:</span>
-                        <span class="value">{{this.pass_hits}}</span>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Scramble/Rushing Data -->
-            {{!-- <div class="section">
-                <h3>Scramble & Rushing</h3>
-                <div class="grid-container">
-                    <div class="stat-box">
-                        <span class="label">Scrambles:</span>
-                        <span class="value">{{this.rush_scrambles}}</span>
-                    </div>
-                    <div class="stat-box">
-                        <span class="label">Yards/Attempt:</span>
-                        <span class="value">{{this.rush_scrambles_yds_per_att}}</span>
-                    </div>
-                </div>
-            </div> --}}
-                {{/each}}
-            {{/each}}
-        </div>
-    </div>
-    {{/each}}
 </div>
 <script src="/public/js/ui.js"></script>
 <script>
     const allPlayers = {{{ json players }}};
     const ui = new UI(allPlayers);
     ui.addAllEventListeners();
+</script>
+<script>
+    $(document).ready(function () {
+        $('#overall-stats-data-table').DataTable();
+    });
+
+    $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        $.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
+    });
+
 </script>
