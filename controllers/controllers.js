@@ -171,7 +171,7 @@ function updateDefensiveData(arr) {
                         switch (player.position) {
                             case 'QB':
                                 // if (team === 'min') {
-                                //     console.log(game.game_date, player.name, game.pass_att)
+                                //     console.log(game.game_date, player.name, game.pass_yds, game.pass_td)
                                 // }
                                 stats.push('pass_cmp', 'pass_att', 'pass_yds', 'pass_td', 'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att');
                                 break;
@@ -241,7 +241,7 @@ function createMatchupData(arr, type) {
                     if (index === 0) {
                         html += `<td class="team-name" data-threshold="${team.team}">${team.team}</td>`;
                     } else {
-
+                        console.log(team, team.totalStats)
                         switch (category) {
                             case 'Receptions':
                             case 'Pass Completions':
