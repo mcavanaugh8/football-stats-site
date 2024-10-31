@@ -241,7 +241,7 @@ function createMatchupData(arr, type) {
                     if (index === 0) {
                         html += `<td class="team-name" data-threshold="${team.team}">${team.team}</td>`;
                     } else {
-                        console.log(team, team.totalStats)
+                        // console.log(team, team.totalStats)
                         switch (category) {
                             case 'Receptions':
                             case 'Pass Completions':
@@ -366,7 +366,7 @@ function createMatchupData(arr, type) {
                 html += `<td data-threshold="pass-att-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_att) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="pass-att-allowed-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_att').meanDeviation}</td>`;
                 html += `<td data-threshold="pass-att-allowed-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_att').medianDeviation}</td>`;
-                html += `<td data-threshold="pass-cmp-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_att) / Number(advancedTeamDefense.g))}</td>`;
+                html += `<td data-threshold="pass-cmp-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_cmp) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="pass-cmp-allowed-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_cmp').meanDeviation}</td>`;
                 html += `<td data-threshold="pass-cmp-allowed-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_cmp').medianDeviation}</td>`;
                 html += `<td data-threshold="pass-yds-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_yds) / Number(advancedTeamDefense.g))}</td>`;
