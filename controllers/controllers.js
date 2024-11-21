@@ -173,7 +173,7 @@ function updateDefensiveData(arr) {
                         const stats = [];
                         switch (player.position) {
                             case 'QB':
-                                // if (team === 'min') {
+                                // if (team === 'hou') {
                                 //     console.log(game.game_date, player.name, game.pass_yds, game.pass_td)
                                 // }
                                 stats.push('pass_cmp', 'pass_att', 'pass_yds', 'pass_td', 'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att');
