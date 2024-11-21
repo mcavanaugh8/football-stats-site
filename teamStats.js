@@ -931,7 +931,6 @@ const defenseStats = [
 
 const advancedDefenseStats = [
     {
-<<<<<<< HEAD
         "g": "11",
         "pass_att_opp": "377",
         "pass_cmp_opp": "270",
@@ -1569,8 +1568,7 @@ const advancedDefenseStats = [
         "sacks": "29",
         "pressures": "85",
         "pressures_pct": "24.2%",
-        "tackles_missed": "57"
-=======
+        "tackles_missed": "57",
         "g": "10",
         "pass_att_opp": "344",
         "pass_cmp_opp": "242",
@@ -2209,7 +2207,6 @@ const advancedDefenseStats = [
         "pressures": "81",
         "pressures_pct": "25.6%",
         "tackles_missed": "54"
->>>>>>> 342cb6bff14059b6d904b448d4677d5395d8d90e
     }
 ]
 
