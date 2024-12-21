@@ -7,72 +7,82 @@ class UI {
     addAllEventListeners() {
         const playerSearch = document.getElementById('playerSearch');
 
-        
+
         document.addEventListener('DOMContentLoaded', () => {
             if (document.querySelector('.player-grid')) {
                 const playerGrid = document.querySelector('.player-grid');
-    
+
                 playerGrid.addEventListener('click', (e) => {
                     const card = e.target.closest('.player-card');
-    
+
                     if (card) {
                         const playerId = card.getAttribute('data-player-id');
                         const playerName = card.getAttribute('data-player-name');
-    
+
                         console.log(e.target);
                         console.log('Player card clicked:', card);
                         console.log(`Player: ${playerName}`);
-    
-    
+
+
                         const modal = document.getElementById('playerStatsModal-' + playerId);
                         modal.style.display = 'block';
-    
+
                         // Corrected selector for close button
                         const closeButton = modal.querySelector('.modal-content .close');
-    
+
                         // Remove any existing event listeners to avoid duplicates
                         closeButton.removeEventListener('click', closeModal); // Ensure no duplicates
                         closeButton.addEventListener('click', closeModal);
-    
+
                         this.displayPlayerStats(modal);
                     }
                 });
-    
+
                 const positionButtons = document.querySelectorAll('.position-button');
-    
+
                 positionButtons.forEach(button => {
                     button.addEventListener('click', (e) => {
                         const position = e.target.getAttribute('data-position');
-    
+
                         if (!e.target.classList.contains('clicked')) {
                             e.target.classList.add('clicked');
                         } else {
                             e.target.classList.remove('clicked')
                         }
-    
+
                         this.filterPlayerCardsByPosition();
                     });
                 });
-    
+
                 // Function to close the modal
                 function closeModal() {
                     const modal = this.closest('.modal'); // Get the modal from the close button context
                     modal.style.display = 'none';
                 }
-                
+
                 playerSearch.addEventListener('input', e => {
                     console.log(playerSearch.value);
                 })
-                
+
             }
 
             if (document.querySelector('.team-name')) {
-                
+
                 let cells = document.querySelectorAll('.team-name');
                 cells.forEach(cell => {
                     this.formatTeamCells(cell)
                 })
             }
+
+            if (document.querySelector('.hamburger')) {
+                const hamburger = document.querySelector('.hamburger');
+                const navMenu = document.querySelector('header ul');
+    
+                hamburger.addEventListener('click', () => {
+                    navMenu.classList.toggle('show'); 
+                });
+            }
+
         });
 
 

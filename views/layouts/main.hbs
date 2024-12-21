@@ -23,16 +23,18 @@
 <body>
     <header>
         <nav>
-            <ul>
-                {{!-- <li><a href="/">Home</a></li> --}}
-                <li><a href="/players">Player Stats</a></li>
-                {{!-- <li><a href="/teams">Teams</a></li> --}}
-                <li><a href="/betting-lines">NFL Player Prop Hit Rates</a></li>
-                <li><a href="/matchup-data">NFL Matchup Data</a></li>
+            <button class="hamburger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a href="/players" class="{{#if PlayerStats}}active{{/if}}">Player Stats</a></li>
+                <li><a href="/betting-lines" class="{{#if HitRates}}active{{/if}}">Prop Hit Rates</a></li>
+                <li><a href="/matchup-data" class="{{#if MatchupData}}active{{/if}}">Positional Matchup Data</a></li>
             </ul>
         </nav>
     </header>
-
     {{{body}}}
 </body>
 

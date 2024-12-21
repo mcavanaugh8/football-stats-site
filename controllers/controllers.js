@@ -78,6 +78,7 @@ async function getPlayersPage(req, res) {
 
     res.status(200).render('players', {
         layout: 'main',
+        PlayerStats: true,
         players: allPlayers,
         overallStatsTable: overallStatsTable
     })
@@ -104,6 +105,7 @@ async function getMatchupData(req, res) {
 
     res.status(200).render('matchup-data', {
         layout: 'main',
+        MatchupData: true,
         players: allPlayers,
         overallMatchupDataTable: overallMatchupDataTable,
         wrMatchupDataTable: wrMatchupDataTable,
@@ -128,6 +130,7 @@ async function getBettingLines(req, res) {
 
     res.status(200).render('betting-lines', {
         layout: 'main',
+        HitRates: true,
         players: allPlayers,
         passingTable,
         rushingTable,
@@ -135,6 +138,10 @@ async function getBettingLines(req, res) {
         receptionsTable,
     })
 }
+
+/**
+ * helper functions
+ */
 
 function updateDefensiveData(arr) {
     const teamsArr = [];
