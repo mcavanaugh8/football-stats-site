@@ -67,8 +67,31 @@
     ui.addAllEventListeners();
 </script>
 <script>
+    // Custom sorting function for percentage values
+    $.fn.dataTable.ext.type.order['percentage-pre'] = function (data) {
+        // Extract the percentage value from the string (e.g., "13/13 100%" -> 100)
+        const percentageMatch = data.match(/(\d+)%/);
+        return percentageMatch ? parseFloat(percentageMatch[1]) : 0; // Return 0 if no match
+    };
+
     $(document).ready(function () {
-        $('#passing-yards-table, #rushing-yards-table, #receiving-yards-table, #receptions-table').DataTable();
+        const passingTable = $('#passing-yards-table').DataTable({
+            columnDefs: [
+                { targets: Array.from({ length: 9 }, (_, i) => i + 1), type: 'percentage' } // Apply to all columns after the first one
+            ]
+        });
+
+        const receptionsTable = $('#receptions-table').DataTable({
+            columnDefs: [
+                { targets: Array.from({ length: 10 }, (_, i) => i + 1), type: 'percentage' } // Apply to all columns after the first one
+            ]
+        });
+
+        const yardsTable = $('#rushing-yards-table, #receiving-yards-table').DataTable({
+            columnDefs: [
+                { targets: Array.from({ length: 18 }, (_, i) => i + 1), type: 'percentage' } // Apply to all columns after the first one
+            ]
+        });
     });
 
     $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {

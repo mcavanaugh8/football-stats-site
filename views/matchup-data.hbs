@@ -80,12 +80,27 @@
 </script>
 <script>
     $(document).ready(function () {
+
+        jQuery.fn.dataTable.ext.type.order['ratio-percent-pre'] = function (data) {
+            // Extract the percentage value or ratio from the cell content
+            const match = data.match(/(\d+)\/(\d+)/);
+            if (match) {
+                const numerator = parseInt(match[1], 10);
+                const denominator = parseInt(match[2], 10);
+                return numerator / denominator; // Return the ratio for sorting
+            }
+            return 0; // Default to 0 if no match
+        };
+
         $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table').DataTable();
 
-        $('#rb-matchup-data-table, #qb-matchup-data-table').DataTable({
+        $('#rb-matchup-data-table, #qb-matchup-data-table, #wr-matchup-data-table').DataTable({
             scrollX: true,
             fixedHeader: true,
-            buttons: ['csv', 'excel', 'pdf', 'print']
+            buttons: ['csv', 'excel', 'pdf', 'print'],
+            columnDefs: [ {
+                type: 'ratio-percent'
+            }]
 
         });
 
