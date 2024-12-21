@@ -92,9 +92,9 @@
             return 0; // Default to 0 if no match
         };
 
-        $('#overall-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table').DataTable();
+        $('#overall-matchup-data-table').DataTable();
 
-        $('#rb-matchup-data-table, #qb-matchup-data-table, #wr-matchup-data-table').DataTable({
+        $('#rb-matchup-data-table, #qb-matchup-data-table, #wr-matchup-data-table, #te-matchup-data-table').DataTable({
             scrollX: true,
             fixedHeader: true,
             buttons: ['csv', 'excel', 'pdf', 'print'],

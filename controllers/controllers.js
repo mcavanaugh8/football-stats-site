@@ -180,6 +180,9 @@ function updateDefensiveData(arr) {
                                 break;
                             case 'WR':
                             case 'TE':
+                                // if (team === 'kan' && player.position === 'TE') {
+                                //     console.log(game.game_date, player.name, game.rec_yds, game.rec_td)
+                                // }
                                 stats.push('rec', 'rec_yds', 'rec_td', 'rec_yac', 'rec_yac_per_rec', 'rec_air_yds', 'rec_air_yds_per_rec', 'rec_adot');
                                 break;
                             case 'RB':

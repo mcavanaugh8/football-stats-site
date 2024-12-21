@@ -224,3 +224,42 @@ header a {
   table {
     width: 100%;
   }
+
+  /* Add media query for mobile devices */
+  @media (max-width: 768px) {
+    body {
+      padding: 10px; /* Reduce padding for smaller screens */
+    }
+
+    header ul {
+      flex-direction: column; /* Stack navigation items vertically */
+      align-items: center; /* Center align items */
+    }
+
+    .ticker {
+      font-size: 1.2em; /* Reduce font size for mobile */
+    }
+
+    #playerTable {
+      width: 100%; /* Make table full width */
+    }
+
+    .player-card {
+      display: block; /* Show player cards on mobile */
+      width: 100%; /* Full width for cards */
+    }
+
+    .button-row {
+      flex-direction: column; /* Stack buttons vertically */
+      align-items: center; /* Center align buttons */
+    }
+
+    .position-button {
+      width: 100%; /* Full width for buttons */
+      margin: 10px 0; /* Space between buttons */
+    }
+
+    .modal-content {
+      width: 90%; /* Make modal content responsive */
+    }
+  }
