@@ -67,29 +67,34 @@
     ui.addAllEventListeners();
 </script>
 <script>
-    // Custom sorting function for percentage values
-    $.fn.dataTable.ext.type.order['percentage-pre'] = function (data) {
-        // Extract the percentage value from the string (e.g., "13/13 100%" -> 100)
-        const percentageMatch = data.match(/(\d+)%/);
-        return percentageMatch ? parseFloat(percentageMatch[1]) : 0; // Return 0 if no match
+    // Custom sorting so values like 10/17 will sort properly
+    jQuery.fn.dataTable.ext.type.order['custom-number-pre'] = function (data) {
+        // Check if the data contains a "/" (e.g., "10/17")
+        if (typeof data === 'string' && data.includes('/')) {
+            // Extract the part before the "/" and convert it to a number
+            return parseInt(data.split('/')[0], 10);
+        }
+
+        // If it's a plain number, convert it to an integer for sorting
+        return parseInt(data, 10) || 0; // Default to 0 if data is not numeric
     };
 
     $(document).ready(function () {
         const passingTable = $('#passing-yards-table').DataTable({
             columnDefs: [
-                { targets: Array.from({ length: 9 }, (_, i) => i + 1), type: 'percentage' } // Apply to all columns after the first one
+                { targets: Array.from({ length: 9 }, (_, i) => i + 1), type: 'custom-number' } // Apply to all columns after the first one
             ]
         });
 
         const receptionsTable = $('#receptions-table').DataTable({
             columnDefs: [
-                { targets: Array.from({ length: 10 }, (_, i) => i + 1), type: 'percentage' } // Apply to all columns after the first one
+                { targets: Array.from({ length: 10 }, (_, i) => i + 1), type: 'custom-number' } // Apply to all columns after the first one
             ]
         });
 
         const yardsTable = $('#rushing-yards-table, #receiving-yards-table').DataTable({
             columnDefs: [
-                { targets: Array.from({ length: 18 }, (_, i) => i + 1), type: 'percentage' } // Apply to all columns after the first one
+                { targets: Array.from({ length: 18 }, (_, i) => i + 1), type: 'custom-number' } // Apply to all columns after the first one
             ]
         });
     });

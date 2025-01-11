@@ -10,7 +10,7 @@ const dbServices = require('../controllers/dbServices');
 const { defenseStats } = require('../teamStats')
 const { teamStatsByPosition } = require('../teamStatsByPosition')
 
-const currentYear = new Date().getFullYear();
+const currentYear = 2024 // actually current *season*
 const septemberFirst = new Date(`${currentYear}-09-01`);
 const currentDate = new Date();
 
@@ -74,6 +74,7 @@ async function getPlayersPage(req, res) {
 
     const overallStatsTable = createStatsTable(allPlayers);
 
+    // console.log(allPlayers)
     // console.log(overallStatsTable)
 
     res.status(200).render('players', {
