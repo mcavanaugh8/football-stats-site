@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="/public/css/styles.css">
     <link href="/public/DataTables/datatables.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css">
-    <script src="/public/DataTables/datatables.min.js"></script>
+    {{!-- <script src="/public/DataTables/datatables.min.js"></script> --}}
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
     {{!--
@@ -23,16 +23,18 @@
 <body>
     <header>
         <nav>
-            <ul>
-                {{!-- <li><a href="/">Home</a></li> --}}
-                <li><a href="/players">Player Stats</a></li>
-                {{!-- <li><a href="/teams">Teams</a></li> --}}
-                <li><a href="/betting-lines">NFL Player Prop Hit Rates</a></li>
-                <li><a href="/matchup-data">NFL Matchup Data</a></li>
+            <button class="hamburger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a href="/players" class="{{#if PlayerStats}}active{{/if}}">Player Stats</a></li>
+                <li><a href="/betting-lines" class="{{#if HitRates}}active{{/if}}">Prop Hit Rates</a></li>
+                <li><a href="/matchup-data" class="{{#if MatchupData}}active{{/if}}">Positional Matchup Data</a></li>
             </ul>
         </nav>
     </header>
-
     {{{body}}}
 </body>
 

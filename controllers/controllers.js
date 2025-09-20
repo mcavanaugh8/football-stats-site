@@ -10,7 +10,7 @@ const dbServices = require('../controllers/dbServices');
 const { defenseStats } = require('../teamStats')
 const { teamStatsByPosition } = require('../teamStatsByPosition')
 
-const currentYear = new Date().getFullYear();
+const currentYear = 2024 // actually current *season*
 const septemberFirst = new Date(`${currentYear}-09-01`);
 const currentDate = new Date();
 
@@ -74,10 +74,12 @@ async function getPlayersPage(req, res) {
 
     const overallStatsTable = createStatsTable(allPlayers);
 
+    // console.log(allPlayers)
     // console.log(overallStatsTable)
 
     res.status(200).render('players', {
         layout: 'main',
+        PlayerStats: true,
         players: allPlayers,
         overallStatsTable: overallStatsTable
     })
@@ -104,6 +106,7 @@ async function getMatchupData(req, res) {
 
     res.status(200).render('matchup-data', {
         layout: 'main',
+        MatchupData: true,
         players: allPlayers,
         overallMatchupDataTable: overallMatchupDataTable,
         wrMatchupDataTable: wrMatchupDataTable,
@@ -128,6 +131,7 @@ async function getBettingLines(req, res) {
 
     res.status(200).render('betting-lines', {
         layout: 'main',
+        HitRates: true,
         players: allPlayers,
         passingTable,
         rushingTable,
@@ -135,6 +139,10 @@ async function getBettingLines(req, res) {
         receptionsTable,
     })
 }
+
+/**
+ * helper functions
+ */
 
 function updateDefensiveData(arr) {
     const teamsArr = [];
@@ -173,13 +181,16 @@ function updateDefensiveData(arr) {
                         const stats = [];
                         switch (player.position) {
                             case 'QB':
-                                // if (team === 'min') {
+                                // if (team === 'hou') {
                                 //     console.log(game.game_date, player.name, game.pass_yds, game.pass_td)
                                 // }
                                 stats.push('pass_cmp', 'pass_att', 'pass_yds', 'pass_td', 'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att');
                                 break;
                             case 'WR':
                             case 'TE':
+                                // if (team === 'kan' && player.position === 'TE') {
+                                //     console.log(game.game_date, player.name, game.rec_yds, game.rec_td)
+                                // }
                                 stats.push('rec', 'rec_yds', 'rec_td', 'rec_yac', 'rec_yac_per_rec', 'rec_air_yds', 'rec_air_yds_per_rec', 'rec_adot');
                                 break;
                             case 'RB':
