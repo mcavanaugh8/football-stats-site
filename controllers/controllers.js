@@ -10,7 +10,7 @@ const dbServices = require('../controllers/dbServices');
 const { defenseStats } = require('../teamStats')
 const { teamStatsByPosition } = require('../teamStatsByPosition')
 
-const currentYear = 2024 // actually current *season*
+const currentYear = 2025 // actually current *season*
 const septemberFirst = new Date(`${currentYear}-09-01`);
 const currentDate = new Date();
 
