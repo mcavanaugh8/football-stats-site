@@ -10,7 +10,7 @@ const dbServices = require('../controllers/dbServices');
 const { defenseStats } = require('../teamStats')
 const { teamStatsByPosition } = require('../teamStatsByPosition')
 
-const currentYear = 2025 // actually current *season*
+const currentYear = "2025" // actually current *season*
 const septemberFirst = new Date(`${currentYear}-09-01`);
 const currentDate = new Date();
 
@@ -169,7 +169,7 @@ function updateDefensiveData(arr) {
 
             try {
                 const filteredGames = yearGames.filter(game => {
-                    const gameDate = new Date(game.game_date);
+                    const gameDate = new Date(game.date);
                     return gameDate >= septemberFirst && gameDate <= currentDate;
                 });
 
@@ -182,14 +182,14 @@ function updateDefensiveData(arr) {
                         switch (player.position) {
                             case 'QB':
                                 // if (team === 'hou') {
-                                //     console.log(game.game_date, player.name, game.pass_yds, game.pass_td)
+                                //     console.log(game.date, player.name, game.pass_target_yds, game.pass_td)
                                 // }
-                                stats.push('pass_cmp', 'pass_att', 'pass_yds', 'pass_td', 'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att');
+                                stats.push('pass_cmp', 'pass_att', 'pass_target_yds', 'pass_td', 'rush_att', 'rush_yds', 'rush_td', 'rush_fd', 'rush_yds_per_att');
                                 break;
                             case 'WR':
                             case 'TE':
                                 // if (team === 'kan' && player.position === 'TE') {
-                                //     console.log(game.game_date, player.name, game.rec_yds, game.rec_td)
+                                //     console.log(game.date, player.name, game.rec_yds, game.rec_td)
                                 // }
                                 stats.push('rec', 'rec_yds', 'rec_td', 'rec_yac', 'rec_yac_per_rec', 'rec_air_yds', 'rec_air_yds_per_rec', 'rec_adot');
                                 break;
@@ -263,7 +263,7 @@ function createMatchupData(arr, type) {
                                 break;
                             case 'Rec Yards':
                             case 'Pass Yards':
-                                html += `<td data-threshold="pass_yds">${team.totalStats.pass_yds}</td>`;
+                                html += `<td data-threshold="pass_target_yds">${team.totalStats.pass_target_yds}</td>`;
                                 break;
                             case 'Pass TD':
                             case 'Rec TD':
@@ -383,9 +383,9 @@ function createMatchupData(arr, type) {
                 html += `<td data-threshold="pass-cmp-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_cmp) / Number(advancedTeamDefense.g))}</td>`;
                 html += `<td data-threshold="pass-cmp-allowed-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_cmp').meanDeviation}</td>`;
                 html += `<td data-threshold="pass-cmp-allowed-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_cmp').medianDeviation}</td>`;
-                html += `<td data-threshold="pass-yds-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_yds) / Number(advancedTeamDefense.g))}</td>`;
-                html += `<td data-threshold="pass-yds-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_yds').meanDeviation}</td>`;
-                html += `<td data-threshold="pass-yds-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_yds').medianDeviation}</td>`;
+                html += `<td data-threshold="pass-yds-allowed">${Math.floor(Number(teamDefenseObj.statsByPosition[type].pass_target_yds) / Number(advancedTeamDefense.g))}</td>`;
+                html += `<td data-threshold="pass-yds-mean-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_target_yds').meanDeviation}</td>`;
+                html += `<td data-threshold="pass-yds-median-deviation">${calculateTeamDeviation(arr, currentYear, team, 'pass_target_yds').medianDeviation}</td>`;
                 html += `<td data-threshold="pass-td-allowed">${Math.round(Number(teamDefenseObj.statsByPosition[type].pass_td) / Number(advancedTeamDefense.g) * 100) / 100}</td>`;
                 html += `<td data-threshold="pass-td-mean-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'pass_td').meanDeviation}</td>`;
                 html += `<td data-threshold="pass-td-median-deviation"> ${calculateTeamDeviation(arr, currentYear, team, 'pass_td').medianDeviation}</td>`;
@@ -420,7 +420,7 @@ function calculateTeamDeviation(arr, currentYear, team, stat) {
             if (yearGames && yearGames.length > 0) {
                 try {
                     const filteredGames = yearGames.filter(game => {
-                        const gameDate = new Date(game.game_date);
+                        const gameDate = new Date(game.date);
                         return gameDate >= septemberFirst && gameDate <= currentDate;
                     });
 
@@ -485,7 +485,7 @@ function createBettingLinesTable(arr, stat) {
                         const yearGames = player.gameLogsByYear[String(currentYear)];
 
                         const filteredGames = yearGames.filter(game => {
-                            const gameDate = new Date(game.game_date);
+                            const gameDate = new Date(game.date);
                             return gameDate >= septemberFirst && gameDate <= currentDate;
                         });
 
@@ -499,7 +499,7 @@ function createBettingLinesTable(arr, stat) {
                                         if (index === 0) {
                                             html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
                                         } else {
-                                            let results = countHits(filteredGames, category, 'pass_yds', player.name);
+                                            let results = countHits(filteredGames, category, 'pass_target_yds', player.name);
                                             html += returnHitsCellContent(results, category)
                                         }
                                     });
@@ -525,7 +525,7 @@ function createBettingLinesTable(arr, stat) {
                         const yearGames = player.gameLogsByYear[String(currentYear)];
 
                         const filteredGames = yearGames.filter(game => {
-                            const gameDate = new Date(game.game_date);
+                            const gameDate = new Date(game.date);
                             return gameDate >= septemberFirst && gameDate <= currentDate;
                         });
 
@@ -567,7 +567,7 @@ function createBettingLinesTable(arr, stat) {
                         const yearGames = player.gameLogsByYear[String(currentYear)];
 
                         const filteredGames = yearGames.filter(game => {
-                            const gameDate = new Date(game.game_date);
+                            const gameDate = new Date(game.date);
                             return gameDate >= septemberFirst && gameDate <= currentDate;
                         });
 
@@ -611,7 +611,7 @@ function createBettingLinesTable(arr, stat) {
                         const yearGames = player.gameLogsByYear[String(currentYear)];
 
                         const filteredGames = yearGames.filter(game => {
-                            const gameDate = new Date(game.game_date);
+                            const gameDate = new Date(game.date);
                             return gameDate >= septemberFirst && gameDate <= currentDate;
                         });
 
@@ -718,7 +718,7 @@ function createStatsTable(playersArr) {
     let relevantStats = [
         'pass_att',
         'pass_comp',
-        'pass_yds',
+        'pass_target_yds',
         'pass_td',
         'rush_att',
         'rush_yds',
@@ -750,15 +750,18 @@ function createStatsTable(playersArr) {
             const yearGames = player.gameLogsByYear[String(currentYear)];
 
             const filteredGames = yearGames.filter(game => {
-                const gameDate = new Date(game.game_date);
+                const gameDate = new Date(game.date);
                 return gameDate >= septemberFirst && gameDate <= currentDate;
             });
 
+            if (player.name === 'Tyler Allgeier') {
+                console.log(filteredGames.length)
+            }
 
             const totals = {
                 pass_cmp: 0,
                 pass_att: 0,
-                pass_yds: 0,
+                pass_target_yds: 0,
                 pass_td: 0,
                 targets: 0,
                 rec: 0,
@@ -772,7 +775,7 @@ function createStatsTable(playersArr) {
             filteredGames.forEach(game => {                
                 !!game.pass_cmp ? totals.pass_cmp += Number(game.pass_cmp) : false
                 !!game.pass_att ? totals.pass_att += Number(game.pass_att) : false
-                !!game.pass_yds ? totals.pass_yds += Number(game.pass_yds) : false
+                !!game.pass_target_yds ? totals.pass_target_yds += Number(game.pass_target_yds) : false
                 !!game.pass_td ? totals.pass_td += Number(game.pass_td) : false
                 !!game.targets ? totals.targets += Number(game.targets) : false
                 !!game.rec ? totals.rec += Number(game.rec) : false
@@ -785,7 +788,7 @@ function createStatsTable(playersArr) {
 
             html += `<td data-threshold="pass_cmp">${!!totals.pass_cmp ? totals.pass_cmp : 0}</td>`;
             html += `<td data-threshold="pass_att">${!!totals.pass_att ? totals.pass_att : 0}</td>`;
-            html += `<td data-threshold="pass_yds">${!!totals.pass_yds ? totals.pass_yds : 0}</td>`;
+            html += `<td data-threshold="pass_target_yds">${!!totals.pass_target_yds ? totals.pass_target_yds : 0}</td>`;
             html += `<td data-threshold="pass_td">${!!totals.pass_td ? totals.pass_td : 0}</td>`;
             html += `<td data-threshold="targets">${!!totals.targets ? totals.targets : 0}</td>`;
             html += `<td data-threshold="rec">${!!totals.rec ? totals.rec : 0}</td>`;
@@ -872,7 +875,7 @@ function createTableFromArray(arr, type) {
                                             for (let r = 0; r < currentStatGroup.rows.length; r++) {
                                                 let season = currentStatGroup.rows[r];
                                                 if (season.pass_att > 0) {
-                                                    passingSeasons.push(`<p data-player="${player.name}" data-year="${season.year_id} data-team="${season.team_name_abbr}" data-stat-type="receiving">${season.pass_att}-${season.pass_yds}-${season.pass_td}</p>`);
+                                                    passingSeasons.push(`<p data-player="${player.name}" data-year="${season.year_id} data-team="${season.team_name_abbr}" data-stat-type="receiving">${season.pass_att}-${season.pass_target_yds}-${season.pass_td}</p>`);
                                                 }
 
                                             }
