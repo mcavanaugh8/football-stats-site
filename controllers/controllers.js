@@ -754,9 +754,9 @@ function createStatsTable(playersArr) {
                 return gameDate >= septemberFirst && gameDate <= currentDate;
             });
 
-            if (player.name === 'Tyler Allgeier') {
-                console.log(filteredGames.length)
-            }
+            // if (player.name === 'Tyler Allgeier') {
+            //     console.log(filteredGames.length)
+            // }
 
             const totals = {
                 pass_cmp: 0,
