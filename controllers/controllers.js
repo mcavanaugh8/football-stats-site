@@ -224,7 +224,7 @@ function updateDefensiveData(arr) {
         });
 
         teamsArr.push(teamObj);
-        // console.log(teamObj);
+        console.log(teamObj);
     });
     // console.log(teamsArr)
     return teamsArr;
