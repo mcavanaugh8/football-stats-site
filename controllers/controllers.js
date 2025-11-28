@@ -499,7 +499,7 @@ function createBettingLinesTable(arr, stat) {
                                         if (index === 0) {
                                             html += `<td data-threshold="${category.replace(/\+/, '_or_more')}">${player.name}</td>`;
                                         } else {
-                                            let results = countHits(filteredGames, category, 'pass_target_yds', player.name);
+                                            let results = countHits(filteredGames, category, 'pass_yds', player.name);
                                             html += returnHitsCellContent(results, category)
                                         }
                                     });
