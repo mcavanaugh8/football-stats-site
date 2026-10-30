@@ -17,3 +17,18 @@ test('unpublished/invalid seasons and missing collections fail explicitly',async
  const db={collection:()=>({findOne:async()=>({importId:'x',playerCount:1}),find:()=>({toArray:async()=>[]})})};
  await assert.rejects(loadDataset(db),/incomplete/);
 });
+
+test('builder collections pin the published import, filter phases and reject incomplete snapshots',async()=>{
+ const queries=[];let missing=false;
+ const metadata={importId:'active',schemaVersion:2,playerCount:1,scheduledGames:2,opponentRows:2};
+ const db={collection:name=>({findOne:async()=>metadata,find:filter=>{queries.push({name,...filter});return {toArray:async()=>{
+  if(name==='playerSeasonStats')return [{id:'p',name:'Player (IR)',position:'QB',gameLogsByYear:{2026:[]}}];
+  if(name==='gameSchedules')return missing?[]:[{seasonType:'REG',week:1,date:'2026-09-01'},{seasonType:'POST',week:19,date:'2027-01-01'}];
+  if(name==='opponentGameLogs')return [{seasonType:'REG'},{seasonType:'POST'}];
+  return Array.from({length:32},()=>({}));
+ }};}})};
+ const result=await loadDataset(db,2026,'REG');
+ assert.equal(result.players[0].name,'Player');assert.equal(result.schedule.length,1);assert.equal(result.opponentGameLogs.length,1);
+ assert.ok(queries.every(q=>q.importId==='active'&&q.season===2026));
+ missing=true;await assert.rejects(loadDataset(db,2026),/bet-builder data is incomplete/);
+});

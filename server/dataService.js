@@ -3,7 +3,7 @@ function summarize(player, season, seasonType) {
     const games=(player.gameLogsByYear?.[season]||[]).filter(g=>g.season_type===seasonType);
     const totals=Object.fromEntries(SUPPORTED.map(k=>[k,games.reduce((sum,g)=>sum+Number(g[k]||0),0)]));
     const averages=Object.fromEntries(SUPPORTED.map(k=>[k,games.length?totals[k]/games.length:null]));
-    return {id:player.id,name:player.name,position:player.position,team:player.team,g:games.length,games,totals,averages};
+    return {id:player.id,name:String(player.name||'').replace(/\s*\((?:IR|IRD|PUP|NFI|SUS|NON|PRA[_ ]*)\)\s*$/i,'').trim(),position:player.position,team:player.team,g:games.length,games,totals,averages};
 }
 function deviation(players, opponent, position, stat) {
     const values=[];
@@ -32,6 +32,18 @@ async function loadDataset(db,season=2026,seasonType='REG') {
         const error=new Error('Published dataset is incomplete');error.status=503;throw error;
     }
     const players=documents.filter(p=>['QB','RB','FB','WR','TE'].includes(p.position)).map(p=>summarize(p,String(season),seasonType));
-    return {metadata,seasonType,players,teamStats,teamStatsByPosition,supportedStats:SUPPORTED};
+    let schedule=[],opponentGameLogs=[];
+    if(metadata.schemaVersion>=2) {
+        const [allGames,allRows]=await Promise.all([
+            db.collection('gameSchedules').find(filter,{projection:{_id:0}}).toArray(),
+            db.collection('opponentGameLogs').find(filter,{projection:{_id:0}}).toArray(),
+        ]);
+        if(allGames.length!==metadata.scheduledGames||allRows.length!==metadata.opponentRows) {
+            const error=new Error('Published bet-builder data is incomplete');error.status=503;throw error;
+        }
+        schedule=allGames.filter(g=>g.seasonType===seasonType).sort((a,b)=>a.week-b.week||a.date.localeCompare(b.date));
+        opponentGameLogs=allRows.filter(g=>g.seasonType===seasonType);
+    }
+    return {metadata,seasonType,players,teamStats,teamStatsByPosition,schedule,opponentGameLogs,supportedStats:SUPPORTED};
 }
 module.exports={loadDataset,summarize,deviation,SUPPORTED};

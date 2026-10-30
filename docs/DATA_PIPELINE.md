@@ -81,3 +81,26 @@ but are not imported by `app.js`, the API, or the React client.
 
 Scraper: `node --test tests/nflverse.test.js tests/publishDataset.test.js`.
 Site: `npm test` and `npm run build`.
+
+## BETA bet builder
+
+`/bet-builder` uses the same MongoDB import as the other views. The publisher also
+writes `gameSchedules` (including upcoming games) and `opponentGameLogs` (individual
+QB/RB/WR/TE performances, including players without PFR IDs). These collections
+are staged before activating the import; the API validates their published counts.
+
+Choose a week, game, player, category, direction and line. Player and opponent
+rates update together. The opponent denominator is recorded same-position
+**player-games**, not team totals or the percentage of games in which any player
+cleared the line. Both sample counts and distinct opponent games are displayed.
+Only games before the selected game's date and in the selected season phase count.
+Missing values are excluded; empty samples display unavailable. Over/under equality
+is a push excluded from settled samples; at-least includes equality.
+
+Draft selections can be added, edited and removed. Drafts survive tab changes and
+data refreshes within the app, but are not saved across browser reloads. No sportsbook
+odds, bet placement or combined parlay probability is provided.
+
+Player names now prefer the current nflverse roster name. Old embedded status
+suffixes such as `(IR)` are removed during import/publish and defensively in the API.
+Names are not a live injury-status or game-day availability feed.
