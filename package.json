@@ -5,7 +5,10 @@
   "main": "app.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node app",
-    "dev": "cross-env NODE_ENV=development nodemon app"
+    "dev": "cross-env NODE_ENV=development nodemon app",
+    "build": "vite build",
+    "dev:client": "vite",
+    "test": "node --test tests/*.test.js"
   },
   "dependencies": {
     "axios": "^1.7.7",
@@ -22,9 +25,14 @@
     "morgan": "^1.10.0",
     "nodemon": "^3.1.7",
     "passport": "^0.7.0",
-    "puppeteer": "^23.3.0"
+    "puppeteer": "^23.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vite": "^8.3.5"
   },
   "nodemonConfig": {
-    "ignore":["teamStatsByPosition.js"]
+    "ignore": [
+      "teamStatsByPosition.js"
+    ]
   }
 }
