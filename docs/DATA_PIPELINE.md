@@ -104,3 +104,42 @@ odds, bet placement or combined parlay probability is provided.
 Player names now prefer the current nflverse roster name. Old embedded status
 suffixes such as `(IR)` are removed during import/publish and defensively in the API.
 Names are not a live injury-status or game-day availability feed.
+
+## Informational odds reference
+
+The `/odds` page loads NFL events and FanDuel player-prop prices through The Odds
+API. Set `ODDS_API_KEY` in the site's local `.env` and Fly secrets. The browser
+never receives the key, provider links or sportsbook selection identifiers.
+The feed is US FanDuel; NY-specific prices and availability are not verified.
+
+The shared MongoDB collection `oddsCache` stores an entire NFL odds snapshot
+and an atomic global refresh gate. At most one batch starts application-wide per
+30 minutes, on demand when a visitor loads odds. Each batch requests every event
+in the shared NFL catalog, with all eight categories in one request per event.
+All visitors and Fly machines using the same database reuse the snapshot. Browsing
+other games/categories, reloading pages, and restarting servers cannot bypass
+the gate. The free event catalog has a separate shared 30-minute cache.
+
+This is one batch, not one API credit: provider charges depend on markets returned
+for each game. For example, 28 games with all eight markets returned can cost 224
+credits per batch. There is no background polling or monthly spending cap.
+
+A new snapshot is published atomically only after the batch completes. A 404 event
+is marked unavailable; other provider failures abort the batch and retain the old
+snapshot, visibly marked stale. Failed calls retain the full lock. First-load
+visitors may need to retry while another machine builds the initial snapshot.
+If MongoDB fails, the service fails closed instead of making unmetered calls.
+
+The MongoDB user must be able to read/write oddsCache. All deployed instances must
+run this version; old instances and other apps sharing the key are outside this
+policy. Provider errors never expose raw response bodies or credential-bearing URLs.
+
+Routes: `/api/odds/events` and `/api/odds/event?eventId=...&market=...`.
+Supported categories: passing yards, passing TDs, completions, pass attempts,
+rushing yards, rush attempts, receiving yards and receptions. Only available
+provider prices are displayed; the page does not synthesize alternate lines.
+
+After deployment, open `/odds`, select a game/category and click Load odds.
+Verify provider-update and retrieval timestamps. A configured key does not require
+rebuilding the frontend, but the server must restart to read changed environment
+variables. The existing MongoDB startup configuration is still required.
