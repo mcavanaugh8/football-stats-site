@@ -8,7 +8,7 @@ function createApp(getDb=()=>mongoose.connection.db) {
     app.use('/api',createApi(getDb));
     app.use('/api',(req,res)=>res.status(404).json({error:'Unknown endpoint'}));
     app.use(express.static(path.join(__dirname,'dist')));
-    app.get(['/', '/players','/matchup-data','/betting-lines','/bet-builder'],(req,res)=>res.sendFile(path.join(__dirname,'dist','index.html')));
+    app.get(['/', '/players','/matchup-data','/betting-lines','/bet-builder','/odds'],(req,res)=>res.sendFile(path.join(__dirname,'dist','index.html')));
     app.use((req,res)=>res.status(404).send('Not found'));
     app.use((error,req,res,next)=>{res.status(error.status||500).json({error:error.status?error.message:'Unable to load football data'});});
     return app;
