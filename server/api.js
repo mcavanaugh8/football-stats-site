@@ -6,7 +6,7 @@ function createApi(getDb) {
     const oddsService=createOddsService({store:createMongoOddsStore(getDb)});
     const router=express.Router();
     router.get('/data',async(req,res,next)=>{
-        try { res.set('Cache-Control','no-store'); res.json(await loadDataset(getDb(),Number(req.query.season||2026),req.query.seasonType||'REG')); }
+        try { res.set('Cache-Control','no-store'); res.json(await loadDataset(getDb(),Number(req.query.season||2026),req.query.seasonType||'REG',req.query.view||'all')); }
         catch(error){next(error);}
     });
     router.get('/odds/events',async(req,res,next)=>{try{res.set('Cache-Control','no-store');res.json(await oddsService.events());}catch(e){next(e);}});
