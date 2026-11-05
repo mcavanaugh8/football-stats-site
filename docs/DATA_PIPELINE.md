@@ -56,8 +56,9 @@ terminals. Vite proxies `/api` to Express on port 3000.
 
 `GET /api/data?season=2026&seasonType=REG` returns metadata, supported metrics,
 players, `teamStats`, and `teamStatsByPosition` from the same published import.
-There is no process player cache. Each request reads the active pointer once and
-pins all data queries to that import. Responses use `Cache-Control: no-store`.
+Each request reads the active pointer once and pins all data queries to that import.
+Versioned components are cached in bounded process memory; publishing a new import
+automatically selects fresh cache entries. Responses use `Cache-Control: no-store`.
 The client refreshes every 30 seconds, on focus, or with the Refresh button.
 Failed refreshes are displayed rather than silently presented as current data.
 
@@ -143,3 +144,29 @@ After deployment, open `/odds`, select a game/category and click Load odds.
 Verify provider-update and retrieval timestamps. A configured key does not require
 rebuilding the frontend, but the server must restart to read changed environment
 variables. The existing MongoDB startup configuration is still required.
+
+## Page loading and dataset cache
+
+The React client requests `/api/data?season=2026&seasonType=REG&view=players`
+on the Players page. MongoDB aggregates totals and recorded game counts before
+returning them, so this response omits game histories. `view=hits` loads relevant
+player histories; `view=matchups` adds team totals; `view=builder` adds schedules
+and opponent samples. The legacy `view=all` default remains for compatibility.
+The Odds page makes no player dataset requests.
+
+The server checks datasetImports on every request, then reuses component promises
+keyed by database, import ID, season and phase. Concurrent requests share work.
+Failures are evicted; a bounded cache keeps at most 24 entries per database. Each
+Fly machine warms its own cache after a restart. Published snapshots are immutable;
+publish a new import to change data rather than editing an active import in place.
+Player histories use field projections and offensive-position filtering; full-import
+player counts remain validated separately.
+
+The browser retains loaded page snapshots during navigation, invalidating old-import
+entries when it receives a newer published import. Requests time out after 45 seconds
+with a Retry action; aborted or superseded responses cannot overwrite the current
+view. Automatic refreshes still check for uploads every 30 seconds.
+
+Validation on November 4: the Players summary response was 226 KB; direct MongoDB
+loader timing was 2.7 seconds cold and 32 ms warm. These are local measurements
+against the live database, not production response-time guarantees.

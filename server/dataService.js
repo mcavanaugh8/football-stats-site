@@ -15,35 +15,68 @@ function deviation(players, opponent, position, stat) {
     values.sort((a,b)=>a-b);const mid=Math.floor(values.length/2);
     return {mean:values.reduce((a,b)=>a+b,0)/values.length,median:values.length%2?values[mid]:(values[mid-1]+values[mid])/2};
 }
-async function loadDataset(db,season=2026,seasonType='REG') {
-    if(!Number.isInteger(season)||season<1999||season>2100||!['REG','POST'].includes(seasonType)) {
-        const error=new Error('Invalid season or season type');error.status=400;throw error;
-    }
-    // No process player cache. Resolve the active version on each request, then pin all queries to it.
-    const metadata=await db.collection('datasetImports').findOne({season},{projection:{_id:0}});
-    if(!metadata){const error=new Error(`No published data for ${season}. Run pushToDB.js --year=${season}.`);error.status=503;throw error;}
-    const filter={season,importId:metadata.importId};
-    const [documents,teamStats,teamStatsByPosition]=await Promise.all([
-        db.collection('playerSeasonStats').find(filter,{projection:{_id:0}}).toArray(),
-        db.collection('teamStats').find({...filter,seasonType},{projection:{_id:0}}).toArray(),
-        db.collection('teamStatsByPosition').find({...filter,seasonType},{projection:{_id:0}}).toArray(),
-    ]);
-    if(documents.length!==metadata.playerCount||teamStats.length!==32||teamStatsByPosition.length!==32) {
-        const error=new Error('Published dataset is incomplete');error.status=503;throw error;
-    }
-    const players=documents.filter(p=>['QB','RB','FB','WR','TE'].includes(p.position)).map(p=>summarize(p,String(season),seasonType));
-    let schedule=[],opponentGameLogs=[];
-    if(metadata.schemaVersion>=2) {
-        const [allGames,allRows]=await Promise.all([
-            db.collection('gameSchedules').find(filter,{projection:{_id:0}}).toArray(),
-            db.collection('opponentGameLogs').find(filter,{projection:{_id:0}}).toArray(),
-        ]);
-        if(allGames.length!==metadata.scheduledGames||allRows.length!==metadata.opponentRows) {
-            const error=new Error('Published bet-builder data is incomplete');error.status=503;throw error;
-        }
-        schedule=allGames.filter(g=>g.seasonType===seasonType).sort((a,b)=>a.week-b.week||a.date.localeCompare(b.date));
-        opponentGameLogs=allRows.filter(g=>g.seasonType===seasonType);
-    }
-    return {metadata,seasonType,players,teamStats,teamStatsByPosition,schedule,opponentGameLogs,supportedStats:SUPPORTED};
+const POSITIONS=['QB','RB','FB','WR','TE'];
+const caches=new WeakMap();
+const invalid=message=>Object.assign(new Error(message),{status:503});
+function remember(db,key,loader){
+ let cache=caches.get(db);if(!cache){cache=new Map();caches.set(db,cache);}
+ if(cache.has(key))return cache.get(key);
+ // Bound memory while keeping concurrent requests for the same import together.
+ const promise=Promise.resolve().then(loader);cache.set(key,promise);
+ promise.catch(()=>{if(cache.get(key)===promise)cache.delete(key);});
+ if(cache.size>24)cache.delete(cache.keys().next().value);
+ return promise;
+}
+async function loadDataset(db,season=2026,seasonType='REG',view='all') {
+ if(!Number.isInteger(season)||season<1999||season>2100||!['REG','POST'].includes(seasonType)||!['all','players','hits','matchups','builder'].includes(view))throw Object.assign(new Error('Invalid season, season type or view'),{status:400});
+ // Always resolve the active pointer, even for a warm cache. Uploads become visible
+ // immediately; every component in this response stays pinned to this import.
+ const metadata=await db.collection('datasetImports').findOne({season},{projection:{_id:0},maxTimeMS:10000});
+ if(!metadata)throw invalid('No published data for '+season+'. Run pushToDB.js --year='+season+'.');
+ const filter={season,importId:metadata.importId};
+ const key=JSON.stringify([season,seasonType,metadata.importId]);
+ const options={maxTimeMS:20000};
+ const countPlayers=()=>remember(db,JSON.stringify([season,metadata.importId,'count']),async()=>{
+  const count=await db.collection('playerSeasonStats').countDocuments(filter,options);
+  if(count!==metadata.playerCount)throw invalid('Published dataset is incomplete');return count;
+ });
+ const players=()=>remember(db,key+':players',async()=>{
+  const [documents]=await Promise.all([
+   db.collection('playerSeasonStats').find({...filter,position:{$in:POSITIONS}},{...options,projection:{_id:0,id:1,name:1,position:1,team:1,['gameLogsByYear.'+season]:1}}).toArray(),countPlayers()
+  ]);
+  return documents.map(p=>summarize(p,String(season),seasonType));
+ });
+ const summaries=()=>remember(db,key+':summaries',async()=>{
+  // Compute the initial table in MongoDB; don't transfer thousands of game logs
+  // just to sum them and discard them in the browser.
+  const [documents]=await Promise.all([
+   db.collection('playerSeasonStats').aggregate([
+    {$match:{...filter,position:{$in:POSITIONS}}},
+    {$project:{_id:0,id:1,name:1,position:1,team:1,games:{$filter:{input:{$ifNull:['$gameLogsByYear.'+season,[]]},as:'game',cond:{$eq:['$$game.season_type',seasonType]}}}}},
+    {$project:{id:1,name:1,position:1,team:1,g:{$size:'$games'},totals:Object.fromEntries(SUPPORTED.map(k=>[k,{$sum:'$games.'+k}]))}}
+   ],options).toArray(),countPlayers()
+  ]);
+  return documents.map(p=>({...p,name:String(p.name||'').replace(/\s*\((?:IR|IRD|PUP|NFI|SUS|NON|PRA[_ ]*)\)\s*$/i,'').trim()}));
+ });
+ const teams=()=>remember(db,key+':teams',async()=>{
+  const [teamStats,teamStatsByPosition]=await Promise.all(['teamStats','teamStatsByPosition'].map(name=>db.collection(name).find({...filter,seasonType},{...options,projection:{_id:0}}).toArray()));
+  if(teamStats.length!==32||teamStatsByPosition.length!==32)throw invalid('Published dataset is incomplete');
+  return {teamStats,teamStatsByPosition};
+ });
+ const extra=()=>remember(db,key+':details',async()=>{
+  if(!(metadata.schemaVersion>=2))return {schedule:[],opponentGameLogs:[]};
+  const [allGames,allRows]=await Promise.all([
+   db.collection('gameSchedules').find(filter,{...options,projection:{_id:0,season:0,importId:0,updatedAt:0}}).toArray(),
+   db.collection('opponentGameLogs').find(filter,{...options,projection:{_id:0,importId:0,updatedAt:0}}).toArray()
+  ]);
+  if(allGames.length!==metadata.scheduledGames||allRows.length!==metadata.opponentRows)throw invalid('Published bet-builder data is incomplete');
+  return {schedule:allGames.filter(g=>g.seasonType===seasonType).sort((a,b)=>a.week-b.week||a.date.localeCompare(b.date)),opponentGameLogs:allRows.filter(g=>g.seasonType===seasonType)};
+ });
+ const [playerData,teamData,details]=await Promise.all([
+  view==='players'?summaries():players(),
+  ['all','matchups'].includes(view)?teams():{},
+  ['all','builder'].includes(view)?extra():{}
+ ]);
+ return {metadata,seasonType,view,players:playerData,...teamData,...details,supportedStats:SUPPORTED};
 }
 module.exports={loadDataset,summarize,deviation,SUPPORTED};
